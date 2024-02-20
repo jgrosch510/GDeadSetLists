@@ -75,7 +75,9 @@
 **                                Package
 **
 **************************************************************************/
-package com.mooseriver.gdead;
+package com.mooseriver.gdead.Common;
+
+import com.mooseriver.gdead.Exception.ValueOutOfRange;
 
 
 /**************************************************************************

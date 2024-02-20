@@ -73,7 +73,7 @@
 **                                Package
 **
 **************************************************************************/
-package com.mooseriver.gdead;
+package com.mooseriver.gdead.Base;
 
 
 /**************************************************************************
@@ -82,6 +82,8 @@ package com.mooseriver.gdead;
 **
 **************************************************************************/
 //import com.mooseriver.gdead.IdCommon;
+import com.mooseriver.gdead.Common.IdCommon;
+import com.mooseriver.gdead.Database.DataBase;
 import java.io.FileNotFoundException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

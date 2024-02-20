@@ -1,6 +1,7 @@
 
-package com.mooseriver.gdead;
+package com.mooseriver.gdead.Tables;
 
+import com.mooseriver.gdead.Base.LocalDB;
 import java.sql.ResultSet;
 import java.util.Iterator;
 import org.json.simple.JSONArray;

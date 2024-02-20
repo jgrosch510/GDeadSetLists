@@ -4,7 +4,7 @@
 
 package com.mooseriver.parsegdjson;
 
-import com.mooseriver.gdead.SetList;
+import com.mooseriver.gdead.Tables.SetList;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
