@@ -9,12 +9,17 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
+import org.json.simple.parser.ParseException;  
 
 /**
  *
@@ -37,12 +42,34 @@ public class ParseGDjson {
             year = "1968";
         }
         
+        Connection conn = null;  
+        ResultSet resultSet = null;  
+        Statement statement = null;
+        
         String baseDir = "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked";
         String inFile = String.format("%s/%s.FIX.json", baseDir, year);
+        String dbFile = "/usr3/home/jgrosch/Git/gdead/Data/GD-Shows.sqlite";
+        String connectString = String.format("jdbc:sqlite:%s", dbFile);
         
         // "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked/1968.FIX.json";
        
         try {
+            //Class.forName("org.sqlite.JDBC");
+            conn = DriverManager.getConnection(connectString);
+            Statement stmt  = conn.createStatement();
+
+            StringBuilder sb = new StringBuilder();
+            sb.append("select * from setlists where ");
+            sb.append(" show_year = '1965' and ");
+            sb.append(" show_month = '03' and ");
+            sb.append(" show_day = '11'; ");
+            String testQuery = sb.toString();
+            ResultSet rs    = stmt.executeQuery(testQuery);
+            while (rs.next()) {
+                int j = 0;
+                SetList SL = new SetList(rs);
+            }
+            
             File inputFile = new File(inFile);  
             if (! inputFile.exists()) {
                 System.out.println("File : " + inFile + " Not found");
@@ -71,16 +98,49 @@ public class ParseGDjson {
                 SetList sl = new SetList(s);
                 sl.setKeyName(key);
                 al.add(sl);
-            }
+                String sql = sl.toInsertString();
+                
+                //Statement stmt  = conn.createStatement();
+                rs    = stmt.executeQuery(sql);
+                        //{
+               //resultSet = statement.execute("select * from tsest");
+                
+            }   // End of try
             
             int i = 0;
             
         } catch (FileNotFoundException ex) {
             Logger.getLogger(ParseGDjson.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (IOException | ParseException ex) {
+        } catch (IOException | ParseException | SQLException ex) {
             Logger.getLogger(ParseGDjson.class.getName()).log(Level.SEVERE, null, ex);
         }
         
+        finally {  
+            try {  
+                resultSet.close();  
+                statement.close();  
+                conn.close();  
+            } catch (SQLException e) {  
+                e.printStackTrace();  
+            }  
+        }   // End of finally  
+        
         System.exit(0);
+    }   // End of main
+    /*
+    private static Connection connect() {
+        // SQLite connection string
+        String dbFile = "/usr3/home/jgrosch/Git/gdead/Data/GD-Shows.sqlite";
+        String url = String.format("jdbc:sqlite:%s", dbFile);
+        
+        //String url = "jdbc:sqlite:C://sqlite/db/test.db";
+        Connection conn = null;
+        try {
+            conn = DriverManager.getConnection(url);
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+        return conn;
     }
-}
+*/
+} // End of class
