@@ -24,7 +24,23 @@ public class ParseGDjson {
 
     @SuppressWarnings("unchecked")
     public static void main(String[] args) {
-        String inFile = "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked/1968.FIX.json";
+        String year   = "";
+        String option = "";
+                
+        if (args.length == 2) {
+            option = args[0];
+            //year = args[1];
+        } 
+        if (option.equalsIgnoreCase("--year")) {
+            year = args[1];            
+        } else {
+            year = "1968";
+        }
+        
+        String baseDir = "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked";
+        String inFile = String.format("%s/%s.FIX.json", baseDir, year);
+        
+        // "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked/1968.FIX.json";
        
         try {
             File inputFile = new File(inFile);  
@@ -34,6 +50,7 @@ public class ParseGDjson {
             }
          
             ArrayList al = new ArrayList();
+            boolean debug = true;
             
             JSONParser parser = new JSONParser();
             Object obj = parser.parse(new FileReader(inputFile));
@@ -46,6 +63,10 @@ public class ParseGDjson {
             int showCount = Shows.size();
             for (int index = 0; index < showCount; index++) {
                 String key = String.format("key_%d", index);
+                if (debug) {
+                    String debugMsg = String.format("Working on: %s", key);
+                    System.out.println(debugMsg);
+                }
                 JSONObject s = (JSONObject) Shows.get(key);
                 SetList sl = new SetList(s);
                 sl.setKeyName(key);
