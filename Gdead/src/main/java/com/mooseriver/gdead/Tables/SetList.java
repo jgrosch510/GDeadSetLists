@@ -13,29 +13,47 @@ import org.json.simple.JSONObject;
  */
 public class SetList extends LocalDB {
 
+    
+    private String keyName; 
+    private String artistName; 
+    private String artistKey; 
+    private String showsKey; 
+    private String showDate; 
+    private String venue; 
+    private String city; 
+    private String state; 
+    private String set1; 
+    private String set2; 
+    private String set3; 
+    private String encore; 
+    private String comment; 
+    private String lastUpdate; 
+    private String showYear; 
+    private String showsUserId; 
+
     /**
      * 
      */
     public SetList() {
         super();
+        
+        this.keyName = "";
+        this.artistName  = "";
+        this.artistKey   = "";
+        this.showsKey    = "";
+        this.showDate    = "";
+        this.venue       = "";
+        this.city        = "";
+        this.state       = "";
+        this.set1        = "";
+        this.set2        = "";
+        this.set3        = "";
+        this.encore      = "";
+        this.comment     = "";
+        this.lastUpdate  = "";
+        this.showYear    = "";
+        this.showsUserId = "";
     }
-    
-    private String keyName     = "";
-    private String artistName  = "";
-    private String artistKey   = "";
-    private String showsKey    = "";
-    private String showDate    = "";
-    private String venue       = "";
-    private String city        = "";
-    private String state       = "";
-    private String set1        = "";
-    private String set2        = "";
-    private String set3        = "";
-    private String encore      = "";
-    private String comment     = "";
-    private String lastUpdate  = "";
-    private String showYear    = "";
-    private String showsUserId = "";
 
     /**
      * 
@@ -50,6 +68,8 @@ public class SetList extends LocalDB {
      * @param jObj 
      */
     public SetList(JSONObject jObj) {
+        this();
+        
         this.artistName   = (String)jObj.get("name");
         this.artistKey    = (String)jObj.get("artist_key");
         this.showsKey     = (String)jObj.get("shows_key");
@@ -57,11 +77,15 @@ public class SetList extends LocalDB {
         this.venue        = (String)jObj.get("venue");
         this.city         = (String)jObj.get("city");
         this.state        = (String)jObj.get("state");
-        //this.comment      = (String)jObj.get("comment");
+        this.comment      = (String)jObj.get("comment");
         this.lastUpdate   = (String)jObj.get("lastupdate");
         this.showYear     = (String)jObj.get("showyear");
         this.showsUserId  = (String)jObj.get("showsusedid");
-
+        
+        if (this.showsUserId == null) {
+            this.showsUserId = "";
+        }
+        
         JSONArray s1 = null;
         String tmpStr  = "";
         String tmpStr2 = "";
