@@ -31,11 +31,13 @@ public class ParseGDjson {
     public static void main(String[] args) {
         String year   = "";
         String option = "";
-                
+        boolean debug = false;
+        
         if (args.length == 2) {
             option = args[0];
             //year = args[1];
         } 
+        
         if (option.equalsIgnoreCase("--year")) {
             year = args[1];            
         } else {
@@ -43,7 +45,7 @@ public class ParseGDjson {
         }
         
         Connection conn = null;  
-        ResultSet resultSet = null;  
+        ResultSet RS = null;  
         Statement statement = null;
         
         String baseDir = "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked";
@@ -54,21 +56,24 @@ public class ParseGDjson {
         // "/usr3/home/jgrosch/Git/MusicBank/Data/Grateful-Dead/json/Cooked/1968.FIX.json";
        
         try {
-            //Class.forName("org.sqlite.JDBC");
             conn = DriverManager.getConnection(connectString);
             Statement stmt  = conn.createStatement();
-
-            StringBuilder sb = new StringBuilder();
-            sb.append("select * from setlists where ");
-            sb.append(" show_year = '1965' and ");
-            sb.append(" show_month = '03' and ");
-            sb.append(" show_day = '11'; ");
-            String testQuery = sb.toString();
-            ResultSet rs    = stmt.executeQuery(testQuery);
-            while (rs.next()) {
-                int j = 0;
-                SetList SL = new SetList(rs);
-            }
+            
+            if (debug) {
+                ArrayList alTmp = new ArrayList();
+                StringBuilder sb = new StringBuilder();
+                sb.append("select * from setlists where ");
+                sb.append(" show_year = '1965' and ");
+                sb.append(" show_month = '03' and ");
+                sb.append(" show_day = '11'; ");
+                String testQuery = sb.toString();
+                ResultSet rs = stmt.executeQuery(testQuery);
+                while (rs.next()) {
+                    int j = 0;
+                    SetList SL = new SetList(rs);
+                    alTmp.add(SL);
+                }
+            }   // End of debug
             
             File inputFile = new File(inFile);  
             if (! inputFile.exists()) {
@@ -77,7 +82,6 @@ public class ParseGDjson {
             }
          
             ArrayList al = new ArrayList();
-            boolean debug = true;
             
             JSONParser parser = new JSONParser();
             Object obj = parser.parse(new FileReader(inputFile));
@@ -100,11 +104,8 @@ public class ParseGDjson {
                 al.add(sl);
                 String sql = sl.toInsertString();
                 
-                //Statement stmt  = conn.createStatement();
-                rs    = stmt.executeQuery(sql);
-                        //{
-               //resultSet = statement.execute("select * from tsest");
-                
+                RS = stmt.executeQuery(sql);
+ 
             }   // End of try
             
             int i = 0;
@@ -117,7 +118,7 @@ public class ParseGDjson {
         
         finally {  
             try {  
-                resultSet.close();  
+                RS.close();  
                 statement.close();  
                 conn.close();  
             } catch (SQLException e) {  
