@@ -1,0 +1,84 @@
+--==> json structure
+
+  Example:
+
+  "fetchArtistYear": {
+      "shows": {
+          "key_0": {
+              "name": "Grateful Dead",
+              "artist_key": "2",
+              "shows_key": "188774",
+              "showdate": "01/02/68",
+              "venue": "Studio",
+              "city": "San Mateo",
+              "state": "CA",
+              "set1": [
+                  "St. Stephen",
+                  "The Eleven",
+                  "Barbed Wire Whipping Party",
+                  "Doin That Rag",
+                  "Dupree's Diamond Blues",
+                  "Jam",
+                  "China Cat",
+                  "Rosemary",
+                  "Cosmic Charlie",
+                  "Doin That Rag",
+                  "Mountains of The Moon",
+                  "Dupree's Diamond Blues"
+              ],
+              "set2": "",
+              "set3": "",
+              "comment": "AOXOMOXOA OUTTAKES",
+              "lastupdate": "2003-12-23 14:28:46",
+              "showyear": "1968",
+              "verified_by":"",
+              "verify_source":"",
+              "showsuserid": "antidote"
+          }
+      }
+  }
+
+  Fields:
+
+      fetchArtistYear: Outer json paragraph 
+      shows: Inner json paragraph
+
+      key_XX: Show number for the year.
+
+      name:       The artist name
+
+      artist_key: The artist key / index in etree.org
+
+      shows_key:  The show index in etree.org
+
+      showdate:   The date of the event. The format of the date is DD/MM/YY
+
+      venue:      The name of the venue of the event 
+
+      city:       The city the event took place in
+
+      state:      The state the event took place in. an upper case two
+                  character abbrevation is used 
+
+      set1:       A list of the songs, each in it's own field.
+
+      set2:       A list of the songs, each in it's own field.
+
+      set3:       A list of the songs, each in it's own field.
+
+      comment:    General information about the entry
+
+      lastupdate: The last time the entry was updated.
+
+      showyear:   The year the event happened. In the format of YYYY
+
+      verified_by: The person who verified the current info
+
+      verify_source: The source of the verified data, Deadbase, etc.
+
+      showsuserid: The person who last updated the entry.
+
+
+--==> json formating
+  cat <filename>.json | python -m json.tool > AAAA
+  mv AAAA <filename>.json
