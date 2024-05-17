@@ -20,6 +20,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_1": {
@@ -56,6 +57,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_2": {
@@ -74,6 +76,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_3": {
@@ -92,6 +95,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_4": {
@@ -103,8 +107,7 @@
                     "city": "San Mateo",
                     "state": "Ca",
                     "set1": [
-                        "Mountains Of The Moon",
-                        ""
+                        "Mountains Of The Moon"
                     ],
                     "set2": "",
                     "set3": "",
@@ -113,6 +116,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_5": {
@@ -134,6 +138,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_6": {
@@ -146,8 +151,15 @@
                     "state": "Ca",
                     "set1": [
                         "Lovelight",
-                        "Dark Star > St. Stephen > The Eleven > Death Don't Have No\r\nMercy",
-                        "Cryptical Envelopment > Drums > The Other One > Cryptical\r\nEnvelopment > Cosmic Charlie"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Cosmic Charlie"
                     ],
                     "set2": "",
                     "set3": "",
@@ -156,6 +168,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_7": {
@@ -178,6 +191,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Wharfrat73"
                 },
                 "key_8": {
@@ -199,6 +213,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_9": {
@@ -210,7 +225,8 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "The Eleven\r\nDupree's Diamond Blues"
+                        "The Eleven",
+                        "Dupree's Diamond Blues"
                     ],
                     "set2": "",
                     "set3": "",
@@ -219,6 +235,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Budchief"
                 },
                 "key_10": {
@@ -230,12 +247,22 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Cryptical Envelopment > Drums  > The Other One > Cryptical Envelopment > Space > New Potato Caboose",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Space ->",
+                        "New Potato Caboose",
                         "Dupree's Diamond Blues",
                         "Doin' That Rag"
                     ],
                     "set2": [
-                        "Cryptical Envelopment > Drums  > The Other One > Cryptical Envelopment > Space > New Potato Caboose",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Space ->",
+                        "New Potato Caboose",
                         "Dupree's Diamond Blues",
                         "Doin' That Rag"
                     ],
@@ -245,6 +272,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_11": {
@@ -256,10 +284,16 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Dark Star > St. Stephen > The Eleven > Lovelight"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Lovelight"
                     ],
                     "set2": [
-                        "Dark Star > St. Stephen > The Eleven > Lovelight"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Lovelight"
                     ],
                     "set3": "",
                     "comment": "setlist Courtesy Deadlists.Com; Other Artists On Bill: Sons Of Champlin, Initial Shock",
@@ -267,6 +301,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_12": {
@@ -278,10 +313,20 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment > Clementine > Death Don't Have No Mercy"
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Clementine ->",
+                        "Death Don't Have No Mercy"
                     ],
                     "set2": [
-                        "Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment > Clementine > Death Don't Have No Mercy"
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Clementine ->",
+                        "Death Don't Have No Mercy"
                     ],
                     "set3": "",
                     "comment": "Other Artists On Bill: Sons Of Champlin, Initial Shock; Eleven > Lovelight From This Show Appear On Live Dead",
@@ -289,6 +334,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_13": {
@@ -307,6 +353,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_14": {
@@ -318,7 +365,19 @@
                     "city": "San Mateo",
                     "state": "Ca",
                     "set1": [
-                        "Saint Stephen &Gt;    \r\nThe Eleven              \r\nThe Barbed Wire Whipping Party \r\nDoin' That Rag #1       \r\nDuprees Diamond Blues   \r\nUntitled Instrumental\r\nChina Cat Sunflower     \r\nCosmic Charlie\r\nDoin' That Rag #2      \r\nMountains Of The Moon   \r\nWhats Become Of The Baby? \r\nRosemary\r\nMountains Of The Moon"
+                        "Saint Stephen ->",
+                        "The Eleven",
+                        "The Barbed Wire Whipping Party",
+                        "Doin' That Rag #1",
+                        "Duprees Diamond Blues",
+                        "Untitled Instrumental",
+                        "China Cat Sunflower",
+                        "Cosmic Charlie",
+                        "Doin' That Rag #2",
+                        "Mountains Of The Moon",
+                        "Whats Become Of The Baby?",
+                        "Rosemary",
+                        "Mountains Of The Moon"
                     ],
                     "set2": "",
                     "set3": "",
@@ -327,6 +386,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Rcdupre"
                 },
                 "key_15": {
@@ -345,6 +405,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_16": {
@@ -356,7 +417,16 @@
                     "city": "Minneapolis",
                     "state": "Mn",
                     "set1": [
-                        "Good Morning Little Schoolgirl\r\nDark Star >\r\nSt. Stephen >\r\nThe Eleven\r\nDeath Don't Have No Mercy\r\nCryptical Envelopment >\r\nDrums >\r\nThe Other One >\r\nCryptical Envelopment >\r\nTurn On Your Love Light"
+                        "Good Morning Little Schoolgirl",
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven",
+                        "Death Don't Have No Mercy",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -365,6 +435,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Ckiefe"
                 },
                 "key_17": {
@@ -383,6 +454,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_18": {
@@ -396,8 +468,18 @@
                     "set1": [
                         "Good Morning Little Schoolgirl",
                         "Morning Dew",
-                        "Dark Star  > St. Stephen  > The Eleven > Death Don't Have No Mercy",
-                        "Cryptical Envelopment \r\n> Drums  > The Other One  > Alligator > Drums > Caution (Do Not Stop On Tracks) > Feedback > And We Bid You Good Night"
+                        "Dark Star  -> ",
+                        "St. Stephen -> ",
+                        "The Eleven -> ",
+                        "Death Don't Have No Mercy",
+                        "Cryptical Envelopment",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Caution (Do Not Stop On Tracks) ->",
+                        "Feedback ->",
+                        "And We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -406,6 +488,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Andrewsinger"
                 },
                 "key_19": {
@@ -418,8 +501,15 @@
                     "state": "Ks",
                     "set1": [
                         "Lovelight",
-                        "Cryptical Envelopment  > The Other One > Cryptical Envelopment",
-                        "Dark Star  > St. Stephen > The Eleven > Caution (Do Not Stop On\r\nTracks > Feedback > And We Bid You Good Night"
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment",
+                        "Dark Star  ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Caution (Do Not Stop On Tracks ->",
+                        "Feedback ->",
+                        "And We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -428,6 +518,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_20": {
@@ -440,8 +531,18 @@
                     "state": "Mo",
                     "set1": [
                         "Morning Dew",
-                        "Dark Star > St. Stephen > The Eleven > Turn On Your Love Light > Drums > Turn On Your Love Light",
-                        "Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment > Feedback > And We Bid You Good Night"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light ->",
+                        "Drums ->",
+                        "Turn On Your Love Light",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Feedback ->",
+                        "And We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -450,6 +551,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_21": {
@@ -461,17 +563,24 @@
                     "city": "Pittsburgh",
                     "state": "Pa",
                     "set1": [
-                        "Early Show: Dark Star> St. Stephen> The Eleven> Turn On Your Love Light"
+                        "Early Show: Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": [
-                        "Early Show: Dark Star> St. Stephen> The Eleven> Turn On Your Love Light"
+                        "Early Show: Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set3": "",
-                    "comment": "Admin Note: I Accidentally Merged 2 Existing, Identical-Looking, Undistinguished Records, Although Both An Early And Late Show Were Played. So, This Is Now A Joint Entry For Both Gigs. Two Options: A) Use This Record, And Just Mark In Your Notes Which  One You Have. B) I Will Also Accept 2 More Separately-Created Late, Early Records If Someone Cares To Make Them. Sorry! Diana\r\n\r\n<P>Other Artist(S): The Velvet Underground; The Fugs",
+                    "comment": "Admin Note: I Accidentally Merged 2 Existing, Identical-Looking, Undistinguished Records, Although Both An Early And Late Show Were Played. So, This Is Now A Joint Entry For Both Gigs. Two Options: A) Use This Record, And Just Mark In Your Notes Which  One You Have. B) I Will Also Accept 2 More Separately-Created Late, Early Records If Someone Cares To Make Them. Sorry! Diana  <P>Other Artist(S): The Velvet Underground; The Fugs",
                     "lastupdate": "2003-04-04 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_22": {
@@ -484,7 +593,10 @@
                     "state": "Ny",
                     "set1": [
                         "Good Morning Little School Girl",
-                        "Cryptical Envelopment > The Other One > Cryptical Envelopment > Doin' That Rag",
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Doin' That Rag",
                         "I'm A King Bee",
                         "Turn On Your Lovelight",
                         "Hey Jude"
@@ -496,6 +608,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_23": {
@@ -509,7 +622,13 @@
                     "set1": [
                         "Dupree's Diamond Blues",
                         "Mountains Of The Moon",
-                        "Dark Star > St. Stephen > The Eleven > Drums > Caution (Do Not Stop On Tracks) > Feedback > And We Bid You Good Night"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Drums ->",
+                        "Caution (Do Not Stop On Tracks) ->",
+                        "Feedback ->",
+                        "And We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -518,6 +637,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_24": {
@@ -531,8 +651,14 @@
                     "set1": [
                         "Dupree's Diamond Blues",
                         "Mountains Of The Moon",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Death Don't Have No Mercy",
-                        "Alligator-> Drums-> Alligator-> Caution (Do Not Stop On Tracks)"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
+                        "Caution (Do Not Stop On Tracks)"
                     ],
                     "set2": "",
                     "set3": "",
@@ -541,6 +667,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_25": {
@@ -554,12 +681,16 @@
                     "set1": [
                         "Good Morning Little School Girl",
                         "Dark Star",
-                        "Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": [
                         "Good Morning Little School Girl",
                         "Dark Star",
-                        "Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set3": "",
                     "comment": "",
@@ -567,6 +698,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_26": {
@@ -579,13 +711,21 @@
                     "state": "Pa",
                     "set1": [
                         "Doin' That Rag",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement",
-                        "Morning Dew-> Turn On Your Love Light"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement",
+                        "Morning Dew ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": [
                         "Doin' That Rag",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement",
-                        "Morning Dew-> Turn On Your Love Light"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement",
+                        "Morning Dew ->",
+                        "Turn On Your Love Light"
                     ],
                     "set3": "",
                     "comment": "",
@@ -593,6 +733,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_27": {
@@ -604,10 +745,14 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Turn On Your Lovelight &Gt; Not Fade Away &Gt; Turn On Your Lovelight"
+                        "Turn On Your Lovelight ->",
+                        "Not Fade Away ->",
+                        "Turn On Your Lovelight"
                     ],
                     "set2": [
-                        "Turn On Your Lovelight &Gt; Not Fade Away &Gt; Turn On Your Lovelight"
+                        "Turn On Your Lovelight ->",
+                        "Not Fade Away ->",
+                        "Turn On Your Lovelight"
                     ],
                     "set3": "",
                     "comment": "\"Frontiers Of Science Celestial Synapse\"",
@@ -615,6 +760,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "John_Doe"
                 },
                 "key_28": {
@@ -628,7 +774,10 @@
                     "set1": [
                         "Good Morning Little School Girl",
                         "Doin' That Rag",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light",
                         "E: Morning Dew"
                     ],
                     "set2": "",
@@ -638,6 +787,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Stark1"
                 },
                 "key_29": {
@@ -649,10 +799,24 @@
                     "city": "Vallejo",
                     "state": "Ca",
                     "set1": [
-                        "Dupree's Diamond Blues-> Mountains Of The Moon-> Dark Star-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Death Don't Have No Mercy"
+                        "Dupree's Diamond Blues ->",
+                        "Mountains Of The Moon ->",
+                        "Dark Star ->",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Death Don't Have No Mercy"
                     ],
                     "set2": [
-                        "Dupree's Diamond Blues-> Mountains Of The Moon-> Dark Star-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Death Don't Have No Mercy"
+                        "Dupree's Diamond Blues ->",
+                        "Mountains Of The Moon ->",
+                        "Dark Star ->",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Death Don't Have No Mercy"
                     ],
                     "set3": "",
                     "comment": "",
@@ -660,6 +824,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_30": {
@@ -671,10 +836,26 @@
                     "city": "Vallejo",
                     "state": "Ca",
                     "set1": [
-                        "Dupree's Diamond Blues\r\nMountains Of The Moon\r\nJam\r\nDark Star\r\nCryptical Envelopment &Gt; \r\nDrumz &Gt; \r\nThe Other One &Gt; \r\nCryptical Envelopment\r\nDeath Don't Have No Mercy"
+                        "Dupree's Diamond Blues",
+                        "Mountains Of The Moon",
+                        "Jam",
+                        "Dark Star",
+                        "Cryptical Envelopment ->",
+                        "Drumz ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment",
+                        "Death Don't Have No Mercy"
                     ],
                     "set2": [
-                        "Dupree's Diamond Blues\r\nMountains Of The Moon\r\nJam\r\nDark Star\r\nCryptical Envelopment &Gt; \r\nDrumz &Gt; \r\nThe Other One &Gt; \r\nCryptical Envelopment\r\nDeath Don't Have No Mercy"
+                        "Dupree's Diamond Blues",
+                        "Mountains Of The Moon",
+                        "Jam",
+                        "Dark Star",
+                        "Cryptical Envelopment ->",
+                        "Drumz ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment",
+                        "Death Don't Have No Mercy"
                     ],
                     "set3": "",
                     "comment": "",
@@ -682,6 +863,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Bubbadaya"
                 },
                 "key_31": {
@@ -700,6 +882,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_32": {
@@ -713,12 +896,18 @@
                     "set1": [
                         "Good Morning Little School Girl",
                         "Doin' That Rag",
-                        "Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment"
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment"
                     ],
                     "set2": [
                         "Good Morning Little School Girl",
                         "Doin' That Rag",
-                        "Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment"
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment"
                     ],
                     "set3": "",
                     "comment": "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet",
@@ -726,6 +915,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_33": {
@@ -756,6 +946,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_34": {
@@ -767,10 +958,20 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Cryptical Envelopment-> The Other One-> Cryptical Envelopment-> New Potato Caboose-> Doin' That Rag-> Cosmic Charlie"
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "New Potato Caboose ->",
+                        "Doin' That Rag ->",
+                        "Cosmic Charlie"
                     ],
                     "set2": [
-                        "Cryptical Envelopment-> The Other One-> Cryptical Envelopment-> New Potato Caboose-> Doin' That Rag-> Cosmic Charlie"
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "New Potato Caboose ->",
+                        "Doin' That Rag ->",
+                        "Cosmic Charlie"
                     ],
                     "set3": "",
                     "comment": "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet",
@@ -778,6 +979,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_35": {
@@ -789,10 +991,16 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": [
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set3": "",
                     "comment": "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet Other Artist(S): Flying Burrito Bros; Aum",
@@ -800,6 +1008,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_36": {
@@ -821,6 +1030,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_37": {
@@ -839,6 +1049,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_38": {
@@ -851,11 +1062,15 @@
                     "state": "Ca",
                     "set1": [
                         "Morning Dew",
-                        "Alligator-> Drums-> Alligator",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator",
                         "Hard To Handle",
                         "Good Morning Little School Girl",
                         "Dark Star",
-                        "Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -864,6 +1079,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_39": {
@@ -882,6 +1098,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_40": {
@@ -894,15 +1111,19 @@
                     "state": "Ca",
                     "set1": [
                         "Good Morning Little Schoolgirl",
-                        "Dark Star  > St. Stephen  > The Eleven > Lovelight"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "Jethro Tull Opened, The Dead Played Second, And The Paul Butterfield Blues\r\nBand Closed This Show.  There Could Be One Or More Tunes Missing After\r\nSchoolgirl.",
+                    "comment": "Jethro Tull Opened, The Dead Played Second, And The Paul Butterfield Blues Band Closed This Show.  There Could Be One Or More Tunes Missing After Schoolgirl.",
                     "lastupdate": "2002-04-26 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_41": {
@@ -915,8 +1136,15 @@
                     "state": "Ca",
                     "set1": [
                         "Good Morning Little School Girl",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Death Don't Have No Mercy-> Turn On Your Love Light",
-                        "Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy ->",
+                        "Turn On Your Love Light",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment"
                     ],
                     "set2": "",
                     "set3": "",
@@ -925,6 +1153,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_42": {
@@ -937,8 +1166,15 @@
                     "state": "Ca",
                     "set1": [
                         "Good Morning Little Schoolgirl",
-                        "Dark Star > St. Stephen > The Eleven > Death Don't Have No Mercy > Lovelight",
-                        "Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy ->",
+                        "Lovelight",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment"
                     ],
                     "set2": "",
                     "set3": "",
@@ -947,6 +1183,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_43": {
@@ -961,7 +1198,10 @@
                         "Morning Dew",
                         "Good Morning Little School Girl",
                         "Doin' That Rag",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -970,6 +1210,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_44": {
@@ -983,19 +1224,20 @@
                     "set1": [
                         "Good Morning Little School Girl",
                         "Doin' That Rag",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Death Don't Have No Mercy"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Death Don't Have No Mercy"
                     ],
-                    "set2": [
-                        "Good Morning Little School Girl",
-                        "Doin' That Rag",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Death Don't Have No Mercy"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_45": {
@@ -1007,10 +1249,22 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Dupree's Diamond Blues-> Mountains Of The Moon-> Jam-> Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Dupree's Diamond Blues ->",
+                        "Mountains Of The Moon ->",
+                        "Jam ->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": [
-                        "Dupree's Diamond Blues-> Mountains Of The Moon-> Jam-> Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Dupree's Diamond Blues ->",
+                        "Mountains Of The Moon ->",
+                        "Jam ->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set3": "",
                     "comment": "\"William Tell\" Bridge After St. Stephen Other Artist(S): Flying Burrito Bros; Aum",
@@ -1018,6 +1272,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_46": {
@@ -1046,6 +1301,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_47": {
@@ -1066,6 +1322,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Koko"
                 },
                 "key_48": {
@@ -1079,13 +1336,17 @@
                     "set1": [
                         "Morning Dew",
                         "Sittin' On Top Of The World",
-                        "The Other One > Cryptical Envelopment > It's A Sin",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "It's A Sin",
                         "Hard To Handle"
                     ],
                     "set2": [
                         "Morning Dew",
                         "Sittin' On Top Of The World",
-                        "The Other One > Cryptical Envelopment > It's A Sin",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "It's A Sin",
                         "Hard To Handle"
                     ],
                     "set3": "",
@@ -1094,6 +1355,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_49": {
@@ -1130,6 +1392,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_50": {
@@ -1145,21 +1408,19 @@
                         "Doin' That Rag",
                         "Good Morning Little School Girl",
                         "Morning Dew",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Death Don't Have No Mercy"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy"
                     ],
-                    "set2": [
-                        "Turn On Your Love Light",
-                        "Doin' That Rag",
-                        "Good Morning Little School Girl",
-                        "Morning Dew",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Death Don't Have No Mercy"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_51": {
@@ -1173,7 +1434,9 @@
                     "set1": [
                         "Morning Dew",
                         "It Hurts Me Too",
-                        "China Cat Sunflower  > Jam > Doin'\r\nThat Rag"
+                        "China Cat Sunflower ->",
+                        "Jam ->",
+                        "Doin' That Rag"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1182,6 +1445,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_52": {
@@ -1200,6 +1464,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Bdhughes"
                 },
                 "key_53": {
@@ -1214,8 +1479,17 @@
                         "Hard To Handle",
                         "Morning Dew",
                         "Good Morning Little School Girl",
-                        "Dark Star-> Saint Stephen-> It's A Sin-> Saint Stephen-> The Eleven-> Turn On Your Love Light",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Caution (Do Not Stop On Tracks)"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "It's A Sin ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Caution (Do Not Stop On Tracks)"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1224,6 +1498,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Greenone"
                 },
                 "key_54": {
@@ -1237,7 +1512,12 @@
                     "set1": [
                         "Hard To Handle",
                         "Morning Dew",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Sitting On Top Of The World-> I'm A King Bee",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Sitting On Top Of The World ->",
+                        "I'm A King Bee",
                         "Doin' That Rag",
                         "Turn On Your Love Light",
                         "Cosmic Charlie",
@@ -1250,6 +1530,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_55": {
@@ -1264,8 +1545,13 @@
                         "Morning Dew",
                         "Good Morning Little Schoolgirl",
                         "Doin' That Rag",
-                        "Dark Star &Gt; Saint Stephen &Gt; The Eleven &Gt; Death Don't Have Mercy",
-                        "Turn On Your Lovelight\n\nE: Dupree's Diamond Blues &Gt; Mountains Of The Moon"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have Mercy",
+                        "Turn On Your Lovelight",
+                        "Dupree's Diamond Blues ->",
+                        "Mountains Of The Moon"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1274,6 +1560,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Abb6999"
                 },
                 "key_56": {
@@ -1287,21 +1574,25 @@
                     "set1": [
                         "Hard To Handle",
                         "Morning Dew",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Sitting On Top Of The World",
-                        "Alligator-> Drums-> Jam*-> Alligator-> Doin' That Rag"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Sitting On Top Of The World",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Jam* ->",
+                        "Alligator ->",
+                        "Doin' That Rag"
                     ],
-                    "set2": [
-                        "Hard To Handle",
-                        "Morning Dew",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Sitting On Top Of The World",
-                        "Alligator-> Drums-> Jam*-> Alligator-> Doin' That Rag"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "*Contains \"We Bid You Goodnight\" Theme",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_57": {
@@ -1318,22 +1609,20 @@
                         "Beat It On Down The Line",
                         "Good Morning Little School Girl",
                         "Doin' That Rag",
-                        "Cryptical Envelopment-&Gt; Drums-&Gt; The Other One-&Gt; Cryptical Envelopment-&Gt; Death Don't Have No Mercy"
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Death Don't Have No Mercy"
                     ],
-                    "set2": [
-                        "Sitting On Top Of The World",
-                        "Morning Dew",
-                        "Beat It On Down The Line",
-                        "Good Morning Little School Girl",
-                        "Doin' That Rag",
-                        "Cryptical Envelopment-&Gt; Drums-&Gt; The Other One-&Gt; Cryptical Envelopment-&Gt; Death Don't Have No Mercy"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Carnival Music Tuning Before \"Doin That Rag\"",
                     "lastupdate": "2006-08-09 20:14:39",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Mattyb"
                 },
                 "key_58": {
@@ -1352,6 +1641,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Juniper"
                 },
                 "key_59": {
@@ -1364,18 +1654,25 @@
                     "state": "Ma",
                     "set1": [
                         "He Was A Friend Of Mine",
-                        "Dark Star-> Saint Stephen-> It's A Sin-> Saint Stephen-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Sitting On Top Of The World-> Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "It's A Sin ->",
+                        "Saint Stephen ->",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Sitting On Top Of The World ->",
+                        "Turn On Your Love Light"
                     ],
-                    "set2": [
-                        "He Was A Friend Of Mine",
-                        "Dark Star-> Saint Stephen-> It's A Sin-> Saint Stephen-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Sitting On Top Of The World-> Turn On Your Love Light"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_60": {
@@ -1396,11 +1693,12 @@
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "Jerry Plays Glide Guitar On Hard To Handle.  \r\n\r\nAccording To Ron Ramsey, Who Attended The Show, The Other Bands On The Bill Were Src (A Local Group), And The Velvet Underground.  The Velvet Underground Played A Very Long Set And As A Result The Dead Only Got To Play One Set On This Date.\r\n\r\nAccording To Ramsey The Dead Did The Same Thing To The Velvet Underground The Next Night.",
+                    "comment": "Jerry Plays Glide Guitar On Hard To Handle.    According To Ron Ramsey, Who Attended The Show, The Other Bands On The Bill Were Src (A Local Group), And The Velvet Underground.  The Velvet Underground Played A Very Long Set And As A Result The Dead Only Got To Play One Set On This Date.  According To Ramsey The Dead Did The Same Thing To The Velvet Underground The Next Night.",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_61": {
@@ -1412,31 +1710,35 @@
                     "city": "Chicago",
                     "state": "Il",
                     "set1": [
-                        "Dupree's Diamond Blues > Mountains Of The Moon > China Cat Sunflower >  Doin' That Rag",
-                        "It Hurts Me Too > Hard To Handle",
-                        "Cryptical Envelopement > Drums > The Other One > The Eleven > The Other One > Cryptical Envelopement > It's A Sin > Morning Dew",
+                        "Dupree's Diamond Blues ->",
+                        "Mountains Of The Moon ->",
+                        "China Cat Sunflower ->",
+                        "Doin' That Rag",
+                        "It Hurts Me Too ->",
+                        "Hard To Handle",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "The Eleven ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "It's A Sin ->",
+                        "Morning Dew",
                         "Sitting On Top Of The World",
                         "Minglewood Blues",
                         "Silver Threads",
                         "Baby Blue",
-                        "Saint Stephen > Turn On Your Love Light"
+                        "Saint Stephen ->",
+                        "Turn On Your Love Light"
                     ],
-                    "set2": [
-                        "Dupree's Diamond Blues > Mountains Of The Moon > China Cat Sunflower >  Doin' That Rag",
-                        "It Hurts Me Too > Hard To Handle",
-                        "Cryptical Envelopement > Drums > The Other One > The Eleven > The Other One > Cryptical Envelopement > It's A Sin > Morning Dew",
-                        "Sitting On Top Of The World",
-                        "Minglewood Blues",
-                        "Silver Threads",
-                        "Baby Blue",
-                        "Saint Stephen > Turn On Your Love Light"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "What's Become Of The Baby Was Played Back From Studio Tape While The Band Played Space Live On Stage. See Additional Commentary At Deadlists.Com.",
                     "lastupdate": "2000-12-28 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_62": {
@@ -1448,8 +1750,13 @@
                     "city": "Minneapolis",
                     "state": "Mn",
                     "set1": [
-                        "Turn On Your Love Light-> Me & My Uncle-> Sitting On Top Of The World",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light",
+                        "Turn On Your Love Light ->",
+                        "Me & My Uncle ->",
+                        "Sitting On Top Of The World",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light",
                         "E: Morning Dew"
                     ],
                     "set2": "",
@@ -1459,6 +1766,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_63": {
@@ -1482,6 +1790,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_64": {
@@ -1494,20 +1803,21 @@
                     "state": "Ca",
                     "set1": [
                         "He Was A Friend Of Mine",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Doin' That Rag",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Doin' That Rag",
                         "Me & My Uncle"
                     ],
-                    "set2": [
-                        "He Was A Friend Of Mine",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Doin' That Rag",
-                        "Me & My Uncle"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Other Artist(S): Jefferson Airplane; Gd; Mongo Santamaria",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_65": {
@@ -1530,6 +1840,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_66": {
@@ -1543,9 +1854,14 @@
                     "set1": [
                         "Me & My Uncle",
                         "Instrumental Jam",
-                        "Cryptical Envelopment > Drums > The Other One > Smokestack Lightning",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Smokestack Lightning",
                         "Good Lovin'",
-                        "Dark Star > Drums > Lovelight"
+                        "Dark Star ->",
+                        "Drums ->",
+                        "Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1554,6 +1870,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_67": {
@@ -1572,6 +1889,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_68": {
@@ -1596,6 +1914,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_69": {
@@ -1611,7 +1930,10 @@
                         "Me & My Uncle",
                         "Morning Dew",
                         "Doin' That Rag",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Lig"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Lig"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1620,6 +1942,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_70": {
@@ -1631,8 +1954,18 @@
                     "city": "San Diego",
                     "state": "Ca",
                     "set1": [
-                        "Morning Dew\nCryptical Envelopment--&Gt;\nDrums--&Gt;\nThe Other One--&Gt;\nCryptical Envelopment--&Gt;\nGood Morning",
-                        "Little Schoolgirl\n//Me & My Uncle\n//Alligator--&Gt;\nDrums*--&Gt;\nJam*--&Gt;\nDrums*--&Gt;\nLovelight*\n\n*With Members Of Santana"
+                        "Morning Dew",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Good Morning, Little Schoolgirl",
+                        "Me & My Uncle",
+                        "Alligator ->",
+                        "Drums* ->",
+                        "Jam* ->",
+                        "Drums* ->",
+                        "Lovelight* With Members Of Santana"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1641,6 +1974,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Musicnevstopped"
                 },
                 "key_71": {
@@ -1665,6 +1999,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_72": {
@@ -1679,7 +2014,10 @@
                         "Hard To Handle",
                         "Morning Dew",
                         "Me & My Uncle",
-                        "Dark Star-&Gt; Saint Stephen-&Gt; The Eleven-&Gt; Turn On Your Lovelight"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1688,6 +2026,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Charliemiller"
                 },
                 "key_73": {
@@ -1700,8 +2039,16 @@
                     "state": "Fl",
                     "set1": [
                         "Turn On Your Love Light",
-                        "Doin' That Rag-> He Was A Friend Of Mine-> China Cat Sunflower-> The Eleven-> Death Don't Have No Mercy",
-                        "Alligator-> Drums-> Saint Stephen-> Feedback-> We Bid You Good Night"
+                        "Doin' That Rag ->",
+                        "He Was A Friend Of Mine ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Saint Stephen ->",
+                        "Feedback ->",
+                        "We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1710,6 +2057,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_74": {
@@ -1722,7 +2070,11 @@
                     "state": "Ca",
                     "set1": [
                         "Smokestack Lightning",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Turn On Your Love Light"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1731,6 +2083,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_75": {
@@ -1743,9 +2096,15 @@
                     "state": "Ca",
                     "set1": [
                         "Morning Dew",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Good Morning Little School Girl",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Good Morning Little School Girl",
                         "Me & My Uncle",
-                        "Alligator-> Drums-> Turn On Your Love Light"
+                        "Alligator ->",
+                        "Drums ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1754,6 +2113,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_76": {
@@ -1769,8 +2129,11 @@
                         "Me & My Uncle",
                         "Doin' That Rag",
                         "I'm A King Bee",
-                        "Dark Star &Gt; Cosmic Charlie",
-                        "Saint Stephen &Gt; The Eleven &Gt; Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Cosmic Charlie",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1779,6 +2142,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Charlie Miller"
                 },
                 "key_77": {
@@ -1795,26 +2159,22 @@
                         "Yellow Dog Story",
                         "Green Green Grass Of Home",
                         "Me And My Uncle",
-                        "Cryptical Envelopment -> Drums -> The Other One -> Cryptical Envelopment -> Sitting On Top Of The World",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Sitting On Top Of The World",
                         "It Hurts Me Too",
                         "Turn On Your Lovelight"
                     ],
-                    "set2": [
-                        "Hard To Handle",
-                        "Cold Rain And Snow",
-                        "Yellow Dog Story",
-                        "Green Green Grass Of Home",
-                        "Me And My Uncle",
-                        "Cryptical Envelopment -> Drums -> The Other One -> Cryptical Envelopment -> Sitting On Top Of The World",
-                        "It Hurts Me Too",
-                        "Turn On Your Lovelight"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_78": {
@@ -1832,23 +2192,19 @@
                         "He Was A Friend Of Mine",
                         "Hard To Handle",
                         "Cosmic Charlie",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement"
                     ],
-                    "set2": [
-                        "Morning Dew",
-                        "Me & My Uncle",
-                        "Doin' That Rag",
-                        "He Was A Friend Of Mine",
-                        "Hard To Handle",
-                        "Cosmic Charlie",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Other Artist(S): Gd; Jr. Walker & The All Stars; The Glass Family",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_79": {
@@ -1874,6 +2230,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Stark1"
                 },
                 "key_80": {
@@ -1888,7 +2245,12 @@
                         "Dire Wolf",
                         "Dupree's Diamond Blues",
                         "Mountains Of The Moon",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Sitting On Top Of The World-> Cold Rain & Snow-> Doin' That Rag",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Sitting On Top Of The World ->",
+                        "Cold Rain & Snow ->",
+                        "Doin' That Rag",
                         "Me & My Uncle",
                         "Turn On Your Love Light*"
                     ],
@@ -1899,6 +2261,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Mvernon"
                 },
                 "key_81": {
@@ -1910,19 +2273,21 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Dancing In The Streets > He Was A Friend Of Mine > China Cat Sunflower > Jam > New Potato Caboose",
+                        "Dancing In The Streets ->",
+                        "He Was A Friend Of Mine ->",
+                        "China Cat Sunflower ->",
+                        "Jam ->",
+                        "New Potato Caboose",
                         "Me And My Uncle"
                     ],
-                    "set2": [
-                        "Dancing In The Streets > He Was A Friend Of Mine > China Cat Sunflower > Jam > New Potato Caboose",
-                        "Me And My Uncle"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "*Wayne \"The Harp\" Ceballos- Vocals, Elvin Bishop- Guitar; ^Bishop- Vocals, Guitar. Deadlist Com Notes \"No Sign Of Garcia In The Second Set Before Cryptical.\"; Other Artists On Bill: Jr. Walker & The All Stars, The Glass Family",
                     "lastupdate": "2003-08-05 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_82": {
@@ -1963,6 +2328,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Greenone"
                 },
                 "key_83": {
@@ -1979,7 +2345,11 @@
                         "Sitting On Top Of The World",
                         "Beat It On Down The Line",
                         "Good Morning Little School Girl*",
-                        "China Cat Sunflower-> Morning Dew-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "China Cat Sunflower ->",
+                        "Morning Dew ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1988,6 +2358,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_84": {
@@ -1999,9 +2370,17 @@
                     "city": "Monterey",
                     "state": "Ca",
                     "set1": [
-                        "Turn On Your Love Light-> Me & My Uncle-> Doin' That Rag-> He Was A Friend Of Mine",
+                        "Turn On Your Love Light ->",
+                        "Me & My Uncle ->",
+                        "Doin' That Rag ->",
+                        "He Was A Friend Of Mine",
                         "Dire Wolf",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light-> Drums-> Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light ->",
+                        "Drums ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2010,6 +2389,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_85": {
@@ -2028,6 +2408,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_86": {
@@ -2054,6 +2435,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_87": {
@@ -2065,7 +2447,14 @@
                     "city": "San Mateo",
                     "state": "Ca",
                     "set1": [
-                        "St Stephen\nDupree's Diamond Blues \nRosemary \nDoin' That Rag \nMountains Of The Moon\nChina Cat Sunflower \nWhat's Become Of The Baby\nCosmic Charlie"
+                        "St Stephen",
+                        "Dupree's Diamond Blues",
+                        "Rosemary",
+                        "Doin' That Rag",
+                        "Mountains Of The Moon",
+                        "China Cat Sunflower",
+                        "What's Become Of The Baby",
+                        "Cosmic Charlie"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2074,6 +2463,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Rcdupre"
                 },
                 "key_88": {
@@ -2094,15 +2484,19 @@
                         "High Time",
                         "Dupree's Diamond Blues",
                         "Yellow Dog Story",
-                        "Dark Star > St. Stephen > The Eleven > Lovelight"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "Late Show.   Setlist Courtesy <A Href= \"Http://Www.Deadlists.Com\">Deadlists.Com</A>\r\nOther Artist(S): Gd; Buddy Miles Express; Savoy Brown",
+                    "comment": "Late Show.   Setlist Courtesy <A Href= \"Http://Www.Deadlists.Com\">Deadlists.Com</A> Other Artist(S): Gd; Buddy Miles Express; Savoy Brown",
                     "lastupdate": "2004-09-22 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_89": {
@@ -2117,8 +2511,13 @@
                         "Green Green Grass Of Home",
                         "Me & My Uncle",
                         "High Time",
-                        "China Cat Sunflower-> Morning Dew",
-                        "Alligator-> Drums-> The Other One-> Cryptical Envelopement-> Slewfoot",
+                        "China Cat Sunflower ->",
+                        "Morning Dew",
+                        "Alligator ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Slewfoot",
                         "Cosmic Charlie"
                     ],
                     "set2": "",
@@ -2128,6 +2527,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_90": {
@@ -2139,12 +2539,16 @@
                     "city": "New York",
                     "state": "Ny",
                     "set1": [
-                        "Dancing In The Streets > Casey Jones",
+                        "Dancing In The Streets ->",
+                        "Casey Jones",
                         "Hard To Handle",
                         "Me And My Uncle",
                         "Sittin On Top Of The World",
                         "Silver Threads And Golden Needles",
-                        "Dark Star > The Other One > St. Stephen > It's A Sin",
+                        "Dark Star ->",
+                        "The Other One ->",
+                        "St. Stephen ->",
+                        "It's A Sin",
                         "Turn On Your Love Light"
                     ],
                     "set2": "",
@@ -2154,6 +2558,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_91": {
@@ -2166,13 +2571,19 @@
                     "state": "Ca",
                     "set1": [
                         "Slewfoot",
-                        "Mama Tried-> High Time",
+                        "Mama Tried ->",
+                        "High Time",
                         "Dupree's Diamond Blues",
                         "Me & My Uncle",
-                        "Jam-> Casey Jones",
+                        "Jam ->",
+                        "Casey Jones",
                         "Dire Wolf",
-                        "Sitting On Top Of The World-> Big Boss Man",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Green Green Grass Of Home",
+                        "Sitting On Top Of The World ->",
+                        "Big Boss Man",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Green Green Grass Of Home",
                         "It's All Over Now Baby Blue"
                     ],
                     "set2": "",
@@ -2182,6 +2593,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_92": {
@@ -2210,6 +2622,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_93": {
@@ -2228,6 +2641,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_94": {
@@ -2239,10 +2653,10 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Friend Of The Devil  (With Other Lyrics And John \"Marmaduke\" Dawson Singing Lead)\r\nTrumpet Solo - Robert Hunter?\r\nDead Or Alive  (Robert Hunter Vocal",
-                        "Undocumented Song)\r\nTrain Song  (Robert Hunter Vocal",
-                        "Undocumented Song)\r\nNo Eggs Today  (Robert Hunter Vocal",
-                        "Undocumented Song)\r\nJam - \"Feeling Groovy\" And Uncle John's Band Riffs\r\nUncle John's Band Jam\r\n...Baby Crying?...\r\nUnidentified Guitar/ End Of Tape"
+                        "Friend Of The Devil  (With Other Lyrics And John \"Marmaduke\" Dawson Singing Lead) Trumpet Solo - Robert Hunter? Dead Or Alive  (Robert Hunter Vocal",
+                        "Undocumented Song) Train Song  (Robert Hunter Vocal",
+                        "Undocumented Song) No Eggs Today  (Robert Hunter Vocal",
+                        "Undocumented Song) Jam - \"Feeling Groovy\" And Uncle John's Band Riffs Uncle John's Band Jam ...Baby Crying?... Unidentified Guitar/ End Of Tape"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2251,6 +2665,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_95": {
@@ -2262,7 +2677,14 @@
                     "city": "Colorado Springs",
                     "state": "Co",
                     "set1": [
-                        "Green Green Grass Of Home &Gt;\nSlewfoot\nSitting On Top Of The World\nMorning Dew\nHigh Time\nMe And My Uncle\nCasey Jones\nHe Was A Friend Of Mine"
+                        "Green Green Grass Of Home ->",
+                        "Slewfoot",
+                        "Sitting On Top Of The World",
+                        "Morning Dew",
+                        "High Time",
+                        "Me And My Uncle",
+                        "Casey Jones",
+                        "He Was A Friend Of Mine"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2271,6 +2693,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Charliemiller"
                 },
                 "key_96": {
@@ -2286,13 +2709,19 @@
                         "Mama Tried",
                         "Slewfoot",
                         "Silver Threads And Golden Needles",
-                        "Cryptical Envelopment > Drums > The Other One > High Time > Casey Jones",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "High Time ->",
+                        "Casey Jones",
                         "King Bee",
-                        "Sittin On Top Of The World > Me And My Uncle",
+                        "Sittin On Top Of The World ->",
+                        "Me And My Uncle",
                         "Doin' That Rag",
                         "Let Me In",
                         "Dire Wolf",
-                        "St. Stephen > Lovelight"
+                        "St. Stephen ->",
+                        "Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2301,6 +2730,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_97": {
@@ -2313,20 +2743,20 @@
                     "state": "Il",
                     "set1": [
                         "Morning Dew",
-                        "Dark Star  > St. Stephen  > The Eleven > It's All Over Now",
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "It's All Over Now",
                         "Baby Blue"
                     ],
-                    "set2": [
-                        "Morning Dew",
-                        "Dark Star  > St. Stephen  > The Eleven > It's All Over Now",
-                        "Baby Blue"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "2001-06-21 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_98": {
@@ -2338,7 +2768,14 @@
                     "city": "Atlanta",
                     "state": "Ga",
                     "set1": [
-                        "Morning Dew\nMama Tried &Gt; \nHigh Time &Gt; \nCasey Jones\nDark Star &Gt; \nSt. Stephen &Gt; \nThe Eleven &Gt; \nLovelight*"
+                        "Morning Dew",
+                        "Mama Tried ->",
+                        "High Time ->",
+                        "Casey Jones",
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Lovelight*"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2347,6 +2784,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Snockaholic"
                 },
                 "key_99": {
@@ -2365,6 +2803,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_100": {
@@ -2383,6 +2822,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_101": {
@@ -2405,6 +2845,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_102": {
@@ -2425,7 +2866,12 @@
                         "Big Boss Man",
                         "Mama Tried",
                         "High Time",
-                        "Alligator-> Drums-> Jam-> The Other One-> Death Don't Have No Mercy-> Turn On Your Love Light"
+                        "Alligator ->",
+                        "Drums ->",
+                        "Jam ->",
+                        "The Other One ->",
+                        "Death Don't Have No Mercy ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2434,6 +2880,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Belikemike"
                 },
                 "key_103": {
@@ -2448,8 +2895,15 @@
                         "Green Green Grass Of Home",
                         "Slewfoot",
                         "Mountains Of The Moon",
-                        "Doin' That Rag -> China Cat Sunflower -> Mama Tried -> High Time",
-                        "Dark Star -> The Other One -> Saint Stephen -> The Eleven -> Turn On Your Lovelight"
+                        "Doin' That Rag ->",
+                        "China Cat Sunflower ->",
+                        "Mama Tried ->",
+                        "High Time",
+                        "Dark Star ->",
+                        "The Other One ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2458,6 +2912,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Belikemike"
                 },
                 "key_104": {
@@ -2476,6 +2931,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_105": {
@@ -2494,7 +2950,11 @@
                         "Silver Threads",
                         "Slewfoot",
                         "I'm A King Bee",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Turn On Your Love Light"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2503,6 +2963,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Greenone"
                 },
                 "key_106": {
@@ -2519,7 +2980,12 @@
                         "Hi-Heel Sneakers",
                         "High Time",
                         "Mama Tried",
-                        "Dark Star-> Alligator-> Drums-> Alligator-> Caution (Do Not Stop On Tracks)-> We Bid You Good Night"
+                        "Dark Star->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
+                        "Caution (Do Not Stop On Tracks) ->",
+                        "We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2528,6 +2994,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_107": {
@@ -2546,6 +3013,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Mikesgroove"
                 },
                 "key_108": {
@@ -2557,8 +3025,10 @@
                     "city": "Bethel",
                     "state": "Ny",
                     "set1": [
-                        "Saint Stephen-> Mama Tried",
-                        "Dark Star-> High Time",
+                        "Saint Stephen ->",
+                        "Mama Tried",
+                        "Dark Star ->",
+                        "High Time",
                         "Turn On Your Love Light"
                     ],
                     "set2": "",
@@ -2568,6 +3038,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_109": {
@@ -2581,15 +3052,21 @@
                     "set1": [
                         "Big Boss Man",
                         "Sitting On Top Of The World",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Dark Star-> Cosmic Charlie->"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Dark Star ->",
+                        "Cosmic Charlie->"
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "As Of 9/01, <A Href= \"Http://Www.Deadlists.Com\">Deadlists.Com</A> Gives No Listing For This Date, And Says Of 8/21/69: \"This Tape Often Circulates Labeled \"8/20/69\" But Bear's Cassette\r\nMaster Is Labeled 8/21/69.  Charles Lloyd Plays Flute On Minglewood And\r\nChina Cat > Jam.\"; Other Artist(S):Nrps; Sanpaku",
+                    "comment": "As Of 9/01, <A Href= \"Http://Www.Deadlists.Com\">Deadlists.Com</A> Gives No Listing For This Date, And Says Of 8/21/69: \"This Tape Often Circulates Labeled \"8/20/69\" But Bear's Cassette Master Is Labeled 8/21/69.  Charles Lloyd Plays Flute On Minglewood And China Cat > Jam.\"; Other Artist(S):Nrps; Sanpaku",
                     "lastupdate": "2001-09-13 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_110": {
@@ -2603,11 +3080,22 @@
                     "set1": [
                         "Casey Jones",
                         "Easy Wind",
-                        "Morning Dew > High Time > Mama Tried > Me And My Uncle",
-                        "New Minglewood Blues > China Cat Sunflower > Jam >\r\nDoin' That Rag",
+                        "Morning Dew ->",
+                        "High Time ->",
+                        "Mama Tried ->",
+                        "Me And My Uncle",
+                        "New Minglewood Blues ->",
+                        "China Cat Sunflower ->",
+                        "Jam ->",
+                        "Doin' That Rag",
                         "Big Boss Man",
                         "Sittin On Top Of The World",
-                        "Cryptical Envelopment > Drums  > The Other One > Cryptical Envelopment > Dark Star > Cosmic Charlie"
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Dark Star ->",
+                        "Cosmic Charlie"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2616,6 +3104,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Unkamunka"
                 },
                 "key_111": {
@@ -2627,7 +3116,17 @@
                     "city": "St. Helens",
                     "state": "Or",
                     "set1": [
-                        "Hard To Handle\nMama Tried &Gt; \nHigh Time\nCasey Jones\nEasy Wind\nSittin On Top Of The World\nDark Star &Gt; \nSt. Stephen &Gt; \nThe Eleven &Gt;\nLovelight\n\nEncore: \nAnd We Bid You Good Night"
+                        "Hard To Handle",
+                        "Mama Tried ->",
+                        "High Time",
+                        "Casey Jones",
+                        "Easy Wind",
+                        "Sittin On Top Of The World",
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Lovelight",
+                        "Encore: And We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2636,6 +3135,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Snockaholic"
                 },
                 "key_112": {
@@ -2654,6 +3154,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_113": {
@@ -2667,7 +3168,9 @@
                     "set1": [
                         "It's A Sin",
                         "Hi-Heeled Sneakers",
-                        "Dark Star > The Eleven Jam > Dark\r\nStar"
+                        "Dark Star ->",
+                        "The Eleven Jam ->",
+                        "Dark Star"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2676,6 +3179,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_114": {
@@ -2687,19 +3191,23 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "China Cat Sunflower-> Sitting On Top Of The World",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Drums-> High Time-> Cold Rain & Snow"
+                        "China Cat Sunflower ->",
+                        "Sitting On Top Of The World",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Drums ->",
+                        "High Time ->",
+                        "Cold Rain & Snow"
                     ],
-                    "set2": [
-                        "China Cat Sunflower-> Sitting On Top Of The World",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Drums-> High Time-> Cold Rain & Snow"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "setlist Courtesy Deadlists.Com- See Additional Comments There. Other Artist(S): Nrps; Commander Cody",
                     "lastupdate": "2003-03-17 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_115": {
@@ -2711,10 +3219,13 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "China Cat Sunflower > Doin' That Rag",
+                        "China Cat Sunflower ->",
+                        "Doin' That Rag",
                         "Morning Dew",
                         "Easy Wind",
-                        "Dark Star > St. Stephen > The Eleven",
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven",
                         "High Time"
                     ],
                     "set2": "",
@@ -2724,6 +3235,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_116": {
@@ -2737,10 +3249,15 @@
                     "set1": [
                         "(Banter)",
                         "Casey Jones",
-                        "Morning Dew-> Mama Tried-> High Time",
+                        "Morning Dew ->",
+                        "Mama Tried ->",
+                        "High Time",
                         "Easy Wind",
                         "(Banter)",
-                        "Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2749,6 +3266,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_117": {
@@ -2774,6 +3292,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Stark1"
                 },
                 "key_118": {
@@ -2789,8 +3308,11 @@
                         "That'll Be The Day",
                         "Johnny B. Goode",
                         "Peepin & Hidin",
-                        "Wipe Out Jam > Big Rr Blues",
-                        "Louie Louie > Twist & Shout > Blue Moon"
+                        "Wipe Out Jam ->",
+                        "Big Rr Blues",
+                        "Louie Louie ->",
+                        "Twist & Shout ->",
+                        "Blue Moon"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2799,6 +3321,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_119": {
@@ -2814,11 +3337,12 @@
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "W/ Jorma Kaukonen On Slide (?)\r\nAll That Circulates Per Deadlists.Com",
+                    "comment": "W/ Jorma Kaukonen On Slide (?) All That Circulates Per Deadlists.Com",
                     "lastupdate": "2002-05-23 11:38:29",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Dave L"
                 },
                 "key_120": {
@@ -2830,17 +3354,20 @@
                     "city": "New York",
                     "state": "Ny",
                     "set1": [
-                        "(Reported Early Show): Dark Star-> Saint Stephen-> The Eleven-> I'm A King Bee-> Death Don't Have No Mercy"
+                        "(Reported Early Show): Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "I'm A King Bee ->",
+                        "Death Don't Have No Mercy"
                     ],
-                    "set2": [
-                        "(Reported Early Show): Dark Star-> Saint Stephen-> The Eleven-> I'm A King Bee-> Death Don't Have No Mercy"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Other Artists On Bill: Country Joe & The Fish- Gd; Sha Na Na; See Deadlists.Com For Setlist Notes- Late Show Apparently Not In Circulation",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_121": {
@@ -2862,6 +3389,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_122": {
@@ -2877,7 +3405,8 @@
                         "Mama Tried",
                         "Next Time You See Me",
                         "Casey Jones",
-                        "China Cat Sunflower-> High Time",
+                        "China Cat Sunflower ->",
+                        "High Time",
                         "Dire Wolf",
                         "Me & My Uncle",
                         "Uncle John's Band Jam"
@@ -2889,6 +3418,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_123": {
@@ -2907,6 +3437,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_124": {
@@ -2918,7 +3449,13 @@
                     "city": "New York",
                     "state": "Ny",
                     "set1": [
-                        "Doin' That Rag-> The Seven-> Good Lovin'-> Drums-> Good Lovin'-> Saint Stephen-> The Eleven"
+                        "Doin' That Rag ->",
+                        "The Seven ->",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin' ->",
+                        "Saint Stephen ->",
+                        "The Eleven"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2927,6 +3464,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_125": {
@@ -2945,6 +3483,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_126": {
@@ -2956,8 +3495,10 @@
                     "city": "New York",
                     "state": "Ny",
                     "set1": [
-                        "China Cat Sunflower-> I Know You Rider",
-                        "Alligator-> Drums-> The Other One"
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
+                        "Alligator ->",
+                        "Drums-> The Other One"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2966,6 +3507,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_127": {
@@ -2984,6 +3526,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_128": {
@@ -3002,6 +3545,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_129": {
@@ -3020,6 +3564,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_130": {
@@ -3038,6 +3583,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_131": {
@@ -3056,6 +3602,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_132": {
@@ -3074,6 +3621,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_133": {
@@ -3089,11 +3637,18 @@
                         "Dire Wolf",
                         "High Time",
                         "Hard To Handle",
-                        "China Cat Sunflower-> I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "Easy Wind",
-                        "Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Cosmic Charlie",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Cosmic Charlie",
                         "Mama Tried",
-                        "Good Lovin'-> Drums-> Good Lovin'"
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3102,6 +3657,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Diana"
                 },
                 "key_134": {
@@ -3113,12 +3669,18 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Good Lovin' &Gt; Drums &Gt; Good Lovin'",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
                         "Me And My Uncle",
-                        "China Cat Sunflower &Gt; I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "Casey Jones",
                         "High Time",
-                        "Dark Star &Gt; Saint Stephen &Gt; The Eleven &Gt; Turn On Your Love Light*"
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light*"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3127,6 +3689,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Sofia"
                 },
                 "key_135": {
@@ -3146,9 +3709,12 @@
                         "Casey Jones",
                         "I'm A King Bee",
                         "Beat It On Down The Line",
-                        "Good Lovin'-> Drums-> Good Lovin'",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
                         "Doin' That Rag",
-                        "China Cat Sunflower-> I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "It's All Over Now Baby Blue"
                     ],
                     "set2": "",
@@ -3158,6 +3724,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_136": {
@@ -3183,6 +3750,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Greenone"
                 },
                 "key_137": {
@@ -3197,12 +3765,17 @@
                         "Casey Jones",
                         "Dire Wolf",
                         "It Hurts Me Too",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement",
-                        "China Cat Sunflower-> I Know You Rider",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "Mama Tried",
                         "High Time",
                         "Sitting On Top Of The World",
-                        "Next Time You See Me-> Easy Wind",
+                        "Next Time You See Me ->",
+                        "Easy Wind",
                         "Turn On Your Love Light"
                     ],
                     "set2": "",
@@ -3212,6 +3785,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_138": {
@@ -3232,10 +3806,15 @@
                         "Next Time You See Me",
                         "Casey Jones",
                         "He Was A Friend Of Mine",
-                        "Good Lovin'-> Drums-> Good Lovin'",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
                         "Easy Wind",
-                        "China Cat Sunflower-> I Know You Rider",
-                        "Alligator-> Drums-> Turn On Your Love Light"
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3244,6 +3823,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_139": {
@@ -3264,15 +3844,19 @@
                         "Big Boss Man",
                         "Casey Jones",
                         "Dancin In The Streets",
-                        "Dark Star > St. Stephen > The Eleven > Death Don't Have No Mercy"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Death Don't Have No Mercy"
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "Other Artist(S): Danny Cox, Golden Toad; \r\nSetlist Courtesy Deadlists.Com",
+                    "comment": "Other Artist(S): Danny Cox, Golden Toad;  Setlist Courtesy Deadlists.Com",
                     "lastupdate": "2000-12-30 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_140": {
@@ -3291,6 +3875,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Mikesgroove"
                 },
                 "key_141": {
@@ -3310,9 +3895,17 @@
                         "Cold Rain & Snow",
                         "Next Time You See Me",
                         "High Time",
-                        "Good Lovin'-> Drums-> Good Lovin'",
-                        "China Cat Sunflower-> I Know You Rider",
-                        "Dark Star-> Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Turn On Your Love Light"
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
+                        "Dark Star ->",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3321,6 +3914,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_142": {
@@ -3332,17 +3926,27 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Good Morning Little School Girl\nCasey Jones\nDire Wolf\nEasy Wind\nChina Cat Sunflower\nI Know You Rider\nHigh Time \nMama Tried \nGood Lovin'\nDrums\nGood Lovin' \nCumberland Blues"
+                        "Good Morning Little School Girl",
+                        "Casey Jones",
+                        "Dire Wolf",
+                        "Easy Wind",
+                        "China Cat Sunflower",
+                        "I Know You Rider",
+                        "High Time",
+                        "Mama Tried",
+                        "Good Lovin'",
+                        "Drums",
+                        "Good Lovin'",
+                        "Cumberland Blues"
                     ],
-                    "set2": [
-                        "Good Morning Little School Girl\nCasey Jones\nDire Wolf\nEasy Wind\nChina Cat Sunflower\nI Know You Rider\nHigh Time \nMama Tried \nGood Lovin'\nDrums\nGood Lovin' \nCumberland Blues"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "The New Old Fillmore",
                     "lastupdate": "2012-01-16 01:40:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Loudav"
                 },
                 "key_143": {
@@ -3357,7 +3961,9 @@
                         "Casey Jones",
                         "Me & My Uncle",
                         "Easy Wind",
-                        "Cumberland Blues-&Gt; China Cat Sunflower-&Gt; I Know You Rider",
+                        "Cumberland Blues ->",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "High Time",
                         "Next Time You See Me",
                         "Mama Tried",
@@ -3366,25 +3972,14 @@
                         "Dire Wolf",
                         "Cold Rain & Snow"
                     ],
-                    "set2": [
-                        "Casey Jones",
-                        "Me & My Uncle",
-                        "Easy Wind",
-                        "Cumberland Blues-&Gt; China Cat Sunflower-&Gt; I Know You Rider",
-                        "High Time",
-                        "Next Time You See Me",
-                        "Mama Tried",
-                        "Big Boss Man",
-                        "Cosmic Charlie",
-                        "Dire Wolf",
-                        "Cold Rain & Snow"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Moratorium Day Benefit",
                     "lastupdate": "2007-04-06 14:31:50",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Rcdupre"
                 },
                 "key_144": {
@@ -3402,19 +3997,14 @@
                         "Cumberland Blues",
                         "Easy Wind"
                     ],
-                    "set2": [
-                        "Casey Jones",
-                        "Good Morning Little School Girl",
-                        "Cold Rain & Snow",
-                        "Cumberland Blues",
-                        "Easy Wind"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_145": {
@@ -3432,10 +4022,14 @@
                         "Me & My Uncle",
                         "Cumberland Blues",
                         "Dire Wolf",
-                        "Dark Star-> High Time",
+                        "Dark Star ->",
+                        "High Time",
                         "Good Morning Little School Girl",
-                        "Good Lovin'-> Drums-> Good Lovin'",
-                        "China Cat Sunflower-> I Know You Rider",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "Uncle John's Band"
                     ],
                     "set2": "",
@@ -3445,6 +4039,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_146": {
@@ -3462,12 +4057,19 @@
                         "Mama Tried",
                         "It Hurts Me Too",
                         "Cumberland Blues",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Cosmic Charlie",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Cosmic Charlie",
                         "Dancin' In The Streets",
                         "Dire Wolf",
-                        "China Cat Sunflower-> I Know You Rider-> High Time",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider ->",
+                        "High Time",
                         "Uncle John's Band",
-                        "The Main Ten-> It's All Over Now Baby Blue"
+                        "The Main Ten ->",
+                        "It's All Over Now Baby Blue"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3476,6 +4078,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_147": {
@@ -3490,10 +4093,17 @@
                         "Black Peter",
                         "Hard To Handle",
                         "Cumberland Blues",
-                        "Mama Tried-> Easy Wind",
+                        "Mama Tried ->",
+                        "Easy Wind",
                         "Dancin' In The Streets",
-                        "Good Lovin'-> Drums-> Good Lovin'",
-                        "China Cat Sunflower-> I Know You Rider-> Saint Stephen-> The Eleven-> Turn On Your Love Light"
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3502,6 +4112,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_148": {
@@ -3513,17 +4124,25 @@
                     "city": "Los Angeles",
                     "state": "Ca",
                     "set1": [
-                        "China Cat Sunflower &Gt; I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "Black Peter",
                         "Me And My Uncle",
                         "Cold Rain And Snow",
-                        "Mama Tried &Gt; High Time",
+                        "Mama Tried ->",
+                        "High Time",
                         "Easy Wind",
                         "Dire Wolf",
                         "Casey Jones*",
                         "Good Morning Little School Girl*",
                         "Morning Dew*",
-                        "Black Queen^ &Gt; Turn On Your Love Light*\n\nE: Cryptical Envelopment &Gt; Drums &Gt; The Other One &Gt; Cryptical Envelopment &Gt; Cosmic Charlie"
+                        "Black Queen^ ->",
+                        "Turn On Your Love Light*",
+                        "E: Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Cosmic Charlie"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3532,6 +4151,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Sofia"
                 },
                 "key_149": {
@@ -3551,31 +4171,25 @@
                         "Yellow Dog Story",
                         "Dire Wolf",
                         "It Hurts Me Too",
-                        "China Cat Sunflower > Jam > I Know You Rider",
-                        "Black Peter > Me And My Uncle",
+                        "China Cat Sunflower ->",
+                        "Jam ->",
+                        "I Know You Rider",
+                        "Black Peter ->",
+                        "Me And My Uncle",
                         "Hard To Handle",
-                        "Dark Star > St. Stephen > The Eleven > Cumberland Blues"
+                        "Dark Star ->",
+                        "St. Stephen ->",
+                        "The Eleven ->",
+                        "Cumberland Blues"
                     ],
-                    "set2": [
-                        "Introduction",
-                        "Casey Jones",
-                        "Cold Rain And Snow",
-                        "Mama Tried",
-                        "(T.C. Plays Bach)",
-                        "Yellow Dog Story",
-                        "Dire Wolf",
-                        "It Hurts Me Too",
-                        "China Cat Sunflower > Jam > I Know You Rider",
-                        "Black Peter > Me And My Uncle",
-                        "Hard To Handle",
-                        "Dark Star > St. Stephen > The Eleven > Cumberland Blues"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Portions May Circulate Mislabled: See Deadlists.Com 1969 Thelma Theater Listings For Examples",
                     "lastupdate": "2004-09-05 14:58:09",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_150": {
@@ -3593,16 +4207,25 @@
                         "Cumberland Blues",
                         "Black Peter",
                         "Next Time You See Me",
-                        "China Cat Sunflower-> I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "Turn On Your Love Light",
                         "Hard To Handle",
                         "Casey Jones",
-                        "Mama Tried-> High Time",
+                        "Mama Tried ->",
+                        "High Time",
                         "Dire Wolf",
-                        "Good Lovin'-> Drums-> Good Lovin'-> I'm A King Bee",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin' ->",
+                        "I'm A King Bee",
                         "Uncle John's Band",
                         "He Was A Friend Of Mine",
-                        "Alligator-> Drums-> Alligator-> Caution (Do Not Stop On Tracks)-> We Bid You Good Night"
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
+                        "Caution (Do Not Stop On Tracks) ->",
+                        "We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3611,6 +4234,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_151": {
@@ -3625,10 +4249,16 @@
                         "Casey Jones",
                         "Hard To Handle",
                         "Black Peter",
-                        "Mama Tried-> China Cat Sunflower-> I Know You Rider",
+                        "Mama Tried ->",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "High Time",
-                        "Good Lovin'-> Drums-> Good Lovin'-> Cumberland Blues",
-                        "Saint Stephen-> Turn On Your Love Light"
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin' ->",
+                        "Cumberland Blues",
+                        "Saint Stephen ->",
+                        "Turn On Your Love Light"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3637,6 +4267,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_152": {
@@ -3653,18 +4284,14 @@
                         "Long Black Limousine",
                         "I've Been All Around This World"
                     ],
-                    "set2": [
-                        "Monkey & The Engineer",
-                        "Little Sadie",
-                        "Long Black Limousine",
-                        "I've Been All Around This World"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "New Old Fillmore - Other Artist(S): Osceola; Rhythm Dukes First Set Acoustic",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_153": {
@@ -3677,28 +4304,22 @@
                     "state": "Ca",
                     "set1": [
                         "Mason's Children",
-                        "China Cat Sunflower-> I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider",
                         "High Time",
                         "Me & My Uncle",
                         "Hard To Handle",
                         "Cumberland Blues",
                         "Black Peter"
                     ],
-                    "set2": [
-                        "Mason's Children",
-                        "China Cat Sunflower-> I Know You Rider",
-                        "High Time",
-                        "Me & My Uncle",
-                        "Hard To Handle",
-                        "Cumberland Blues",
-                        "Black Peter"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "New Old Fillmore - Other Artist(S): Osceola; Rhythm Dukes",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_154": {
@@ -3716,19 +4337,14 @@
                         "Dire Wolf",
                         "Mason's Children"
                     ],
-                    "set2": [
-                        "Smokestack Lightning",
-                        "New Speedway Boogie",
-                        "Mama Tried",
-                        "Dire Wolf",
-                        "Mason's Children"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "New Old Fillmore - Other Artist(S): Osceola; Rhythm Dukes",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_155": {
@@ -3748,21 +4364,14 @@
                         "Black Peter",
                         "Uncle John's Band"
                     ],
-                    "set2": [
-                        "The Monkey & The Engineer",
-                        "Little Sadie",
-                        "Long Black Limousine",
-                        "I've Been All Around This World",
-                        "Gathering Flowers For The Master's Bouquet",
-                        "Black Peter",
-                        "Uncle John's Band"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Zephyr Opened - First Set Acoustic Without Bill",
                     "lastupdate": "2010-07-07 12:10:46",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Musicnevstopped"
                 },
                 "key_156": {
@@ -3776,9 +4385,13 @@
                     "set1": [
                         "Black Peter",
                         "Me & My Uncle",
-                        "China Cat Sunflower-> I Know You Rider-> High Time",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider ->",
+                        "High Time",
                         "Cumberland Blues",
-                        "Good Lovin'-> Drums-> Good Lovin'",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
                         "Cold Rain & Snow",
                         "Hard To Handle",
                         "Mason's Children",
@@ -3791,6 +4404,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_157": {
@@ -3807,26 +4421,20 @@
                         "Black Peter",
                         "Easy Wind",
                         "Me & My Uncle",
-                        "China Cat Sunflower-> I Know You Rider-> High Time",
+                        "China Cat Sunflower ->",
+                        "I Know You Rider ->",
+                        "High Time",
                         "Hard To Handle",
                         "Mason's Children"
                     ],
-                    "set2": [
-                        "Cold Rain And Snow",
-                        "Mama Tried",
-                        "Black Peter",
-                        "Easy Wind",
-                        "Me & My Uncle",
-                        "China Cat Sunflower-> I Know You Rider-> High Time",
-                        "Hard To Handle",
-                        "Mason's Children"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "2003-06-29 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_158": {
@@ -3838,7 +4446,9 @@
                     "city": "Boston",
                     "state": "Ma",
                     "set1": [
-                        "Good Lovin'-> Drums-> Good Lovin'",
+                        "Good Lovin' ->",
+                        "Drums ->",
+                        "Good Lovin'",
                         "Mama Tried",
                         "New Speedway Boogie",
                         "Casey Jones",
@@ -3846,25 +4456,20 @@
                         "Me & My Uncle",
                         "Midnight Hour",
                         "Cumberland Blues",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Cosmic Charlie"
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "Cosmic Charlie"
                     ],
-                    "set2": [
-                        "Good Lovin'-> Drums-> Good Lovin'",
-                        "Mama Tried",
-                        "New Speedway Boogie",
-                        "Casey Jones",
-                        "Black Peter",
-                        "Me & My Uncle",
-                        "Midnight Hour",
-                        "Cumberland Blues",
-                        "Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Cosmic Charlie"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "System"
                 },
                 "key_159": {
@@ -3876,7 +4481,9 @@
                     "city": "Boston",
                     "state": "Ma",
                     "set1": [
-                        "China Cat Sunflower-> Jam-> I Know You Rider",
+                        "China Cat Sunflower ->",
+                        "Jam ->",
+                        "I Know You Rider",
                         "Mama Tried",
                         "Next Time You See Me",
                         "Cold Rain & Snow",
@@ -3887,24 +4494,14 @@
                         "Dire Wolf",
                         "Uncle John's Band"
                     ],
-                    "set2": [
-                        "China Cat Sunflower-> Jam-> I Know You Rider",
-                        "Mama Tried",
-                        "Next Time You See Me",
-                        "Cold Rain & Snow",
-                        "Black Peter",
-                        "Hard To Handle",
-                        "Me & My Uncle",
-                        "Mason's Children",
-                        "Dire Wolf",
-                        "Uncle John's Band"
-                    ],
+                    "set2": "",
                     "set3": "",
                     "comment": "Before The Second Set Jerry Says, \"Well, Looks Like The 70's Gonna Be Weird\"; The Jam Following The First Alligator Hints At Gdtrfb; User Also Submitted, \"The Pause After Nfa Contains A Merry-Go-Round Tuning And A Dark Star Tease.\" While Prev Notes Here Said, Merry-Go-Round Broke Down Tuning Before Seasons",
                     "lastupdate": "2003-02-17 00:00:00",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_160": {
@@ -3916,10 +4513,10 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Friend Of The Devil  (With Other Lyrics And John \"Marmaduke\" Dawson Singing Lead)\r\nTrumpet Solo - Robert Hunter?\r\nDead Or Alive  (Robert Hunter Vocal",
-                        "Undocumented Song)\r\nTrain Song  (Robert Hunter Vocal",
-                        "Undocumented Song)\r\nNo Eggs Today  (Robert Hunter Vocal",
-                        "Undocumented Song)\r\nJam - \"Feeling Groovy\" And Uncle John's Band Riffs\r\nUncle John's Band Jam\r\n...Baby Crying?...\r\nUnidentified Guitar/ End Of Tape."
+                        "Friend Of The Devil  (With Other Lyrics And John \"Marmaduke\" Dawson Singing Lead) Trumpet Solo - Robert Hunter? Dead Or Alive  (Robert Hunter Vocal",
+                        "Undocumented Song) Train Song  (Robert Hunter Vocal",
+                        "Undocumented Song) No Eggs Today  (Robert Hunter Vocal",
+                        "Undocumented Song) Jam - \"Feeling Groovy\" And Uncle John's Band Riffs Uncle John's Band Jam ...Baby Crying?... Unidentified Guitar/ End Of Tape."
                     ],
                     "set2": "",
                     "set3": "",
@@ -3928,6 +4525,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Hamilton"
                 },
                 "key_161": {
@@ -3939,7 +4537,14 @@
                     "city": "San Mateo",
                     "state": "Ca",
                     "set1": [
-                        "St. Stephen (4:27)\nDupree's Diamond Blues (3:41)\nRosemary (2:05)\nDoin' That Rag (5:15)\nMountains Of The Moon (4:11)\nChina Cat Sunflower (4:15)\nWhat's Become Of The Baby? (8:28)\nCosmic Charlie (5:43)"
+                        "St. Stephen (4:27)",
+                        "Dupree's Diamond Blues (3:41)",
+                        "Rosemary (2:05)",
+                        "Doin' That Rag (5:15)",
+                        "Mountains Of The Moon (4:11)",
+                        "China Cat Sunflower (4:15)",
+                        "What's Become Of The Baby? (8:28)",
+                        "Cosmic Charlie (5:43)"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3948,6 +4553,7 @@
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Jimvanhouten"
                 },
                 "key_162": {
@@ -3959,15 +4565,23 @@
                     "city": "Compilation",
                     "state": "Various",
                     "set1": [
-                        "St. Stephen  68-10-12\r\nDupree's Diamond Blues  69-02-15\r\nRosemary  68-12-07\r\nDoin' That Rag  69-06-07\r\nMountains Of The Moon  69-02-15\r\nChina Cat Sunflower 69-04-05\r\nWhat's Become Of The Baby  69-04-26\r\nCosmic Charlie 69-06-05"
+                        "St. Stephen  68-10-12",
+                        "Dupree's Diamond Blues  69-02-15",
+                        "Rosemary  68-12-07",
+                        "Doin' That Rag  69-06-07",
+                        "Mountains Of The Moon  69-02-15",
+                        "China Cat Sunflower 69-04-05",
+                        "What's Become Of The Baby  69-04-26",
+                        "Cosmic Charlie 69-06-05"
                     ],
                     "set2": "",
                     "set3": "",
-                    "comment": "Released In June 1969\r\n\r\nThe Recording Of Rosemary Is Not That Great But This Was The Only Time That It Was Performed Live.\r\nThis, Also, Is The Only Live Version Of What's Become Of The Baby.",
+                    "comment": "Released In June 1969  The Recording Of Rosemary Is Not That Great But This Was The Only Time That It Was Performed Live. This, Also, Is The Only Live Version Of What's Become Of The Baby.",
                     "lastupdate": "2006-10-02 07:43:27",
                     "showyear": "1969",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Wharfrat73"
                 }
             },

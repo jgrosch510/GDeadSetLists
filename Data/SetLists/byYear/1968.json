@@ -33,6 +33,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "antidote"
                 },
                 "key_1": {
@@ -66,6 +67,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "stark1"
                 },
                 "key_2": {
@@ -92,6 +94,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_3": {
@@ -123,6 +126,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "BeLikeMike"
                 },
                 "key_4": {
@@ -156,6 +160,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "BeLikeMike"
                 },
                 "key_5": {
@@ -174,6 +179,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "danburnfin"
                 },
                 "key_6": {
@@ -196,6 +202,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "BeLikeMike"
                 },
                 "key_7": {
@@ -216,6 +223,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "BeLikeMike"
                 },
                 "key_8": {
@@ -245,6 +253,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "ike6009"
                 },
                 "key_9": {
@@ -263,6 +272,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_10": {
@@ -283,6 +293,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Ifthir"
                 },
                 "key_11": {
@@ -308,6 +319,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_12": {
@@ -338,6 +350,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "diana"
                 },
                 "key_13": {
@@ -356,6 +369,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_14": {
@@ -388,6 +402,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "aikox2"
                 },
                 "key_15": {
@@ -406,6 +421,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_16": {
@@ -424,6 +440,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_17": {
@@ -453,6 +470,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Wharfrat73"
                 },
                 "key_18": {
@@ -488,6 +506,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Wharfrat73"
                 },
                 "key_19": {
@@ -506,6 +525,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "the earl"
                 },
                 "key_20": {
@@ -524,6 +544,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_21": {
@@ -542,6 +563,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "merrydankster"
                 },
                 "key_22": {
@@ -565,6 +587,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_23": {
@@ -576,11 +599,11 @@
                     "city": "Sacramento",
                     "state": "CA",
                     "set1": [
-                        "Cryptical Envelopement->",
-                        "The Other One->",
-                        "Cryptical Envelopement->",
-                        "New Potato Caboose->",
-                        "Born Cross-Eyed->",
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "New Potato Caboose ->",
+                        "Born Cross-Eyed ->",
                         "Caution (Do Not Stop on Tracks) Jam"
                     ],
                     "set2": "",
@@ -590,6 +613,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_24": {
@@ -608,6 +632,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_25": {
@@ -619,15 +644,15 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Dark Star->",
-                        "China Cat Sunflower->",
-                        "The Eleven->",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
                         "Good Morning Little Schoolgirl"
                     ],
                     "set2": [
-                        "Dark Star->",
-                        "China Cat Sunflower->",
-                        "The Eleven->",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
                         "Good Morning Little Schoolgirl"
                     ],
                     "set3": "",
@@ -636,6 +661,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_26": {
@@ -647,14 +673,14 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Dark Star->",
+                        "Dark Star ->",
                         "Born Cross-Eyed",
-                        "Cryptical Envelopement->",
-                        "The Other One->",
-                        "Cryptical Envelopement->",
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
                         "New Potato Caboose",
                         "China Cat Sunflower",
-                        "The Eleven->",
+                        "The Eleven ->",
                         "Caution (Do Not Stop on Tracks)"
                     ],
                     "set2": "",
@@ -664,6 +690,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_27": {
@@ -682,6 +709,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_28": {
@@ -700,6 +728,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_29": {
@@ -718,6 +747,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_30": {
@@ -736,6 +766,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_31": {
@@ -759,6 +790,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_32": {
@@ -787,6 +819,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "charlie miller"
                 },
                 "key_33": {
@@ -823,6 +856,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_34": {
@@ -848,6 +882,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "1478"
                 },
                 "key_35": {
@@ -859,14 +894,14 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Cryptical Envelopement->",
-                        "The Other One->",
-                        "Cryptical Envelopement->",
-                        "New Potato Caboose->",
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "New Potato Caboose ->",
                         "Born Cross-Eyed",
-                        "Alligator->",
-                        "Drums->",
-                        "Alligator->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
                         "Caution (Do Not Stop on Tracks)"
                     ],
                     "set2": "",
@@ -876,6 +911,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_36": {
@@ -894,6 +930,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_37": {
@@ -912,6 +949,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_38": {
@@ -930,6 +968,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_39": {
@@ -948,6 +987,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_40": {
@@ -966,6 +1006,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_41": {
@@ -984,6 +1025,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_42": {
@@ -1005,6 +1047,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_43": {
@@ -1023,6 +1066,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_44": {
@@ -1041,6 +1085,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_45": {
@@ -1059,6 +1104,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_46": {
@@ -1077,6 +1123,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_47": {
@@ -1095,6 +1142,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_48": {
@@ -1106,8 +1154,7 @@
                     "city": "New York",
                     "state": "NY",
                     "set1": [
-                        "He Was A Friend Of Mine",
-                        ""
+                        "He Was A Friend Of Mine"
                     ],
                     "set2": "",
                     "set3": "",
@@ -1116,6 +1163,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_49": {
@@ -1134,6 +1182,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_50": {
@@ -1152,6 +1201,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_51": {
@@ -1170,6 +1220,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_52": {
@@ -1181,10 +1232,10 @@
                     "city": "San Jose",
                     "state": "CA",
                     "set1": [
-                        "Alligator->",
-                        "Drums->",
-                        "Alligator->",
-                        "Caution (Do Not Stop on Tracks)->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
+                        "Caution (Do Not Stop on Tracks) ->",
                         "Feedback"
                     ],
                     "set2": "",
@@ -1194,6 +1245,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_53": {
@@ -1212,6 +1264,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_54": {
@@ -1237,6 +1290,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "diana"
                 },
                 "key_55": {
@@ -1266,6 +1320,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "mvernon"
                 },
                 "key_56": {
@@ -1284,6 +1339,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_57": {
@@ -1302,6 +1358,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_58": {
@@ -1320,6 +1377,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_59": {
@@ -1331,12 +1389,12 @@
                     "city": "Unknown",
                     "state": "Unknown",
                     "set1": [
-                        "St. Stephen (beginning cuts)->",
-                        "Cryptical Envelopment->",
-                        "That's It For The Other One->",
-                        "Cryptical Envelopment->",
+                        "St. Stephen (beginning cuts) ->",
+                        "Cryptical Envelopment ->",
+                        "That's It For The Other One ->",
+                        "Cryptical Envelopment ->",
                         "New Potato Caboose",
-                        "Alligator->",
+                        "Alligator ->",
                         "Caution"
                     ],
                     "set2": "",
@@ -1346,6 +1404,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "jcurrier"
                 },
                 "key_60": {
@@ -1364,6 +1423,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_61": {
@@ -1375,7 +1435,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Saint Stephen->",
+                        "Saint Stephen ->",
                         "Dark Star"
                     ],
                     "set2": "",
@@ -1385,6 +1445,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_62": {
@@ -1403,6 +1464,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_63": {
@@ -1421,6 +1483,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_64": {
@@ -1432,14 +1495,14 @@
                     "city": "New York",
                     "state": "NY",
                     "set1": [
-                        "Feedback->",
-                        "The Eleven->",
+                        "Feedback ->",
+                        "The Eleven ->",
                         "Saint Stephen",
-                        "Alligator->",
-                        "Turn On Your Love Light->",
-                        "Caution (Do Not Stop on Tracks)->",
-                        "Drums->",
-                        "Caution (Do Not Stop on Tracks)->",
+                        "Alligator ->",
+                        "Turn On Your Love Light ->",
+                        "Caution (Do Not Stop on Tracks) ->",
+                        "Drums ->",
+                        "Caution (Do Not Stop on Tracks) ->",
                         "Feedback"
                     ],
                     "set2": "",
@@ -1449,6 +1512,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_65": {
@@ -1472,6 +1536,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_66": {
@@ -1490,6 +1555,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_67": {
@@ -1508,6 +1574,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_68": {
@@ -1536,6 +1603,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "greenone"
                 },
                 "key_69": {
@@ -1554,6 +1622,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "douglaswoody37"
                 },
                 "key_70": {
@@ -1572,6 +1641,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_71": {
@@ -1590,6 +1660,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_72": {
@@ -1608,6 +1679,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_73": {
@@ -1629,9 +1701,7 @@
                         "Born Cross-Eyed   01-17-68",
                         "Alligator   05-xx-68",
                         "Caution (Do Not Stop On Tracks)   05-xx-68",
-                        "",
                         "bonus track",
-                        "",
                         "Feedback   11-01-68"
                     ],
                     "set2": "",
@@ -1641,6 +1711,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "MTNJAM"
                 },
                 "key_74": {
@@ -1659,6 +1730,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_75": {
@@ -1677,6 +1749,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_76": {
@@ -1695,6 +1768,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_77": {
@@ -1706,7 +1780,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Dark Star->",
+                        "Dark Star ->",
                         "Saint Stephen->",
                         "Death Don't Have No Mercy"
                     ],
@@ -1717,6 +1791,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_78": {
@@ -1728,17 +1803,17 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Cryptical Envelopement->",
-                        "Drums->",
-                        "The Other One->",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
                         "Cryptical Envelopement",
                         "Good Morning Little School Girl",
                         "Alligator"
                     ],
                     "set2": [
-                        "Cryptical Envelopement->",
-                        "Drums->",
-                        "The Other One->",
+                        "Cryptical Envelopement ->",
+                        "Drums ->",
+                        "The Other One ->",
                         "Cryptical Envelopement",
                         "Good Morning Little School Girl",
                         "Alligator"
@@ -1749,6 +1824,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_79": {
@@ -1775,6 +1851,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_80": {
@@ -1786,16 +1863,16 @@
                     "city": "Los Angeles",
                     "state": "CA",
                     "set1": [
-                        "Cryptical Envelopement->",
-                        "The Other One->",
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
                         "Cryptical Envelopement",
-                        "Dark Star->",
-                        "Saint Stephen->",
-                        "The Eleven->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy",
-                        "Alligator->",
-                        "Drums->",
-                        "Alligator->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
                         "Caution (Do Not Stop on Tracks)"
                     ],
                     "set2": "",
@@ -1805,6 +1882,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "fwagner.etree"
                 },
                 "key_81": {
@@ -1817,14 +1895,14 @@
                     "state": "CA",
                     "set1": [
                         "Good Morning Little School Girl",
-                        "Dark Star->",
-                        "Saint Stephen->",
-                        "The Eleven->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy",
-                        "Cryptical Envelopement->",
-                        "The Other One->",
-                        "Cryptical Envelopement->",
-                        "New Potato Caboose->",
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "New Potato Caboose ->",
                         "Turn On Your Love Light",
                         "E: Morning Dew"
                     ],
@@ -1835,6 +1913,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_82": {
@@ -1846,9 +1925,9 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Dark Star->",
-                        "Saint Stephen->",
-                        "The Eleven->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy",
                         "Turn On Your Love Light",
                         "Good Morning Little School Girl"
@@ -1860,6 +1939,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_83": {
@@ -1872,10 +1952,8 @@
                     "state": "CA",
                     "set1": [
                         "St. Stephen",
-                        "Cryptical->",
-                        "",
-                        "TOO->",
-                        "",
+                        "Cryptical ->",
+                        "TOO ->",
                         "Cryptical ",
                         "New Potato Caboose ",
                         "Alligator ",
@@ -1888,6 +1966,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "stark1"
                 },
                 "key_84": {
@@ -1906,6 +1985,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_85": {
@@ -1924,6 +2004,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_86": {
@@ -1942,6 +2023,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_87": {
@@ -1960,6 +2042,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_88": {
@@ -1992,6 +2075,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "Cfrolio"
                 },
                 "key_89": {
@@ -2003,8 +2087,7 @@
                     "city": "San Mateo",
                     "state": "CA",
                     "set1": [
-                        "Saint Stephen",
-                        ""
+                        "Saint Stephen"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2013,6 +2096,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_90": {
@@ -2034,6 +2118,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_91": {
@@ -2052,6 +2137,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "rodiebluez"
                 },
                 "key_92": {
@@ -2063,8 +2149,7 @@
                     "city": "San Mateo",
                     "state": "CA",
                     "set1": [
-                        "Saint Stephen",
-                        ""
+                        "Saint Stephen"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2073,6 +2158,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_93": {
@@ -2094,6 +2180,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_94": {
@@ -2123,6 +2210,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "wiedmann"
                 },
                 "key_95": {
@@ -2145,6 +2233,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_96": {
@@ -2163,6 +2252,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_97": {
@@ -2191,6 +2281,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_98": {
@@ -2209,6 +2300,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_99": {
@@ -2220,8 +2312,7 @@
                     "city": "San Mateo",
                     "state": "CA",
                     "set1": [
-                        "Saint Stephen",
-                        ""
+                        "Saint Stephen"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2230,6 +2321,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_100": {
@@ -2241,8 +2333,7 @@
                     "city": "San Mateo",
                     "state": "CA",
                     "set1": [
-                        "Whats Become Of The Baby",
-                        ""
+                        "Whats Become Of The Baby"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2251,6 +2342,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_101": {
@@ -2273,6 +2365,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_102": {
@@ -2294,6 +2387,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_103": {
@@ -2312,6 +2406,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_104": {
@@ -2333,6 +2428,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_105": {
@@ -2345,27 +2441,36 @@
                     "state": "CA",
                     "set1": [
                         "Clementine Jam",
-                        "Clementine Jam>The Eleven Jam>Death Don't Have No Mercy",
+                        "Clementine Jam ->",
+                        "The Eleven Jam ->",
+                        "Death Don't Have No Mercy",
                         "The Seven",
-                        "Dark Star Jam>Cosmic Charlie"
+                        "Dark Star Jam ->",
+                        "Cosmic Charlie"
                     ],
                     "set2": [
                         "Clementine Jam",
-                        "Clementine Jam>The Eleven Jam>Death Don't Have No Mercy",
+                        "Clementine Jam ->",
+                        "The Eleven Jam ->",
+                        "Death Don't Have No Mercy",
                         "The Seven",
                         "Dark Star Jam>Cosmic Charlie"
                     ],
                     "set3": [
                         "Clementine Jam",
-                        "Clementine Jam>The Eleven Jam>Death Don't Have No Mercy",
+                        "Clementine Jam ->",
+                        "The Eleven Jam ->",
+                        "Death Don't Have No Mercy",
                         "The Seven",
-                        "Dark Star Jam>Cosmic Charlie"
+                        "Dark Star Jam ->",
+                        "Cosmic Charlie"
                     ],
                     "comment": "Mickey And The Hartbeats - rehearsal",
                     "lastupdate": "1996-01-07 00:00:00",
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_106": {
@@ -2386,6 +2491,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_107": {
@@ -2409,8 +2515,8 @@
                         "The Other One Jam ->",
                         "Jam ->",
                         "Death Don't Have No Mercy",
-                        "Dark Star Jam  ->",
-                        "The Eleven Jam  ->",
+                        "Dark Star Jam ->",
+                        "The Eleven Jam ->",
                         "The Seven"
                     ],
                     "set2": "",
@@ -2420,6 +2526,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_108": {
@@ -2438,6 +2545,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_109": {
@@ -2451,13 +2559,13 @@
                     "set1": [
                         "Dark Star ->",
                         "St Stephen ->",
-                        "The Eleven  ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy"
                     ],
                     "set2": [
                         "Dark Star ->",
                         "St Stephen ->",
-                        "The Eleven  ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy"
                     ],
                     "set3": "",
@@ -2466,6 +2574,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_110": {
@@ -2477,15 +2586,15 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Dark Star  ->",
+                        "Dark Star ->",
                         "St Stephen ->",
-                        "The Eleven  ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy [9:07]"
                     ],
                     "set2": [
-                        "Dark Star  ->",
+                        "Dark Star ->",
                         "St Stephen ->",
-                        "The Eleven  ->",
+                        "The Eleven ->",
                         "Death Don't Have No Mercy [9:07]"
                     ],
                     "set3": "",
@@ -2494,6 +2603,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_111": {
@@ -2512,6 +2622,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "mikesgroove"
                 },
                 "key_112": {
@@ -2530,6 +2641,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_113": {
@@ -2548,6 +2660,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "rodiebluez"
                 },
                 "key_114": {
@@ -2574,6 +2687,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_115": {
@@ -2592,6 +2706,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_116": {
@@ -2610,6 +2725,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_117": {
@@ -2642,6 +2758,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_118": {
@@ -2660,6 +2777,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_119": {
@@ -2671,15 +2789,15 @@
                     "city": "Chico",
                     "state": "CA",
                     "set1": [
-                        "Alligator->",
-                        "Drums->",
-                        "Alligator->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
                         "Caution (Do Not Stop on Tracks)",
-                        "Dark Star->",
-                        "Cryptical Envelopment->",
-                        "Drums->",
-                        "The Other One->",
-                        "Cryptical Envelopment->",
+                        "Dark Star ->",
+                        "Cryptical Envelopment ->",
+                        "Drums ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
                         "New Potato Caboose",
                         "We Bid You Good Night"
                     ],
@@ -2690,6 +2808,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "diana"
                 },
                 "key_120": {
@@ -2708,6 +2827,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_121": {
@@ -2719,8 +2839,7 @@
                     "city": "San Mateo",
                     "state": "CA",
                     "set1": [
-                        "Clementine",
-                        ""
+                        "Clementine"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2729,6 +2848,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_122": {
@@ -2741,8 +2861,8 @@
                     "state": "CA",
                     "set1": [
                         "Turn On Your Love Light",
-                        "Dark Star->",
-                        "Saint Stephen->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
                         "The Eleven"
                     ],
                     "set2": "",
@@ -2752,6 +2872,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_123": {
@@ -2770,6 +2891,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_124": {
@@ -2788,6 +2910,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_125": {
@@ -2806,6 +2929,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_126": {
@@ -2817,8 +2941,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Morning Dew",
-                        ""
+                        "Morning Dew"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2827,6 +2950,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_127": {
@@ -2845,6 +2969,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_128": {
@@ -2876,6 +3001,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_129": {
@@ -2894,6 +3020,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_130": {
@@ -2912,6 +3039,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_131": {
@@ -2930,6 +3058,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_132": {
@@ -2948,6 +3077,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_133": {
@@ -2959,8 +3089,7 @@
                     "city": "Detroit",
                     "state": "MI",
                     "set1": [
-                        "We Bid You Good Night",
-                        ""
+                        "We Bid You Good Night"
                     ],
                     "set2": "",
                     "set3": "",
@@ -2969,6 +3098,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_134": {
@@ -2987,6 +3117,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_135": {
@@ -3027,6 +3158,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_136": {
@@ -3039,9 +3171,9 @@
                     "state": "CA",
                     "set1": [
                         "Turn On Your Love Light",
-                        "Dark Star->",
+                        "Dark Star ->",
                         "Saint Stephen",
-                        "Saint Stephen->",
+                        "Saint Stephen ->",
                         "The Eleven",
                         "The Eleven"
                     ],
@@ -3052,6 +3184,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_137": {
@@ -3070,6 +3203,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_138": {
@@ -3088,6 +3222,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_139": {
@@ -3100,7 +3235,6 @@
                     "state": "CA",
                     "set1": [
                         "The Eleven ->",
-                        "",
                         "Mountains Of The Moon*",
                         "Lovelight"
                     ],
@@ -3111,6 +3245,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "BeLikeMike"
                 },
                 "key_140": {
@@ -3140,6 +3275,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_141": {
@@ -3160,6 +3296,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "balou2"
                 },
                 "key_142": {
@@ -3178,6 +3315,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_143": {
@@ -3207,6 +3345,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "hamilton"
                 },
                 "key_144": {
@@ -3219,9 +3358,9 @@
                     "state": "CA",
                     "set1": [
                         "Midnight Hour",
-                        "Dark Star->",
-                        "Saint Stephen->",
-                        "The Eleven->",
+                        "Dark Star ->",
+                        "Saint Stephen ->",
+                        "The Eleven ->",
                         "Turn On Your Love Light"
                     ],
                     "set2": "",
@@ -3231,6 +3370,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "system"
                 },
                 "key_145": {
@@ -3242,8 +3382,10 @@
                     "city": "San Francisco",
                     "state": "Ca",
                     "set1": [
-                        "Dark Star>St. Stephen",
-                        "St. Stephen> The Eleven"
+                        "Dark Star ->",
+                        "St. Stephen",
+                        "St. Stephen ->",
+                        "The Eleven"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3252,6 +3394,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "sageandspirt"
                 },
                 "key_146": {
@@ -3272,6 +3415,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "crmass"
                 },
                 "key_147": {
@@ -3290,31 +3434,18 @@
                         "Conversion: CDR ->",
                         "EAC(secure) ->",
                         " mkwact(seekable)",
-                        "",
                         "01. [00:17] (fades in)//St. Stephen ->",
-                        "",
                         "02. [02:20] Jam (St. Stephen ish)",
                         "03. [01:46] Cryptical Envelopment Reprise ->",
-                        "",
                         "04. [04:41] The Other One ->",
-                        "",
                         "05. [06:05] Cryptical Envelopment ->",
-                        "",
                         "06. [04:25] New Potato Caboose ->",
-                        "",
                         "07. [06:21] Thirteens Jam ->",
-                        "",
                         "08. [03:21] Alligator ->",
-                        "",
                         "09. [04:25] Drumz ->",
-                        "",
                         "10. [09:04] Jam (Cautionish) ->",
-                        "",
                         "11. [04:27] Caution(Do Not Step on Tracks)//",
-                        "\t",
-                        "\t",
                         "This partial set is a differently tracked version of this corresponding entry in Deadlists",
-                        "",
                         "BAND\tGrateful Dead",
                         "VENUE\tunknown",
                         "CITY\tunknown",
@@ -3583,6 +3714,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "kollektionist"
                 },
                 "key_148": {
@@ -3594,8 +3726,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "jam // \t",
-                        "jam // ^"
+                        "jam"
                     ],
                     "set2": "",
                     "set3": "",
@@ -3604,6 +3735,7 @@
                     "showyear": "1968",
                     "verified_by": "",
                     "verify_source": "",
+                    "shnids": "",
                     "showsuserid": "spaceddeadhead"
                 }
             },
