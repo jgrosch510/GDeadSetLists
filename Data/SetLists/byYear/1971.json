@@ -11,7 +11,8 @@
                     "showdate": "01/05/71",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -30,7 +31,8 @@
                     "showdate": "01/21/71",
                     "venue": "Freeborn Hall, University of California",
                     "city": "Davis",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain &amp; Snow",
                         "Me &amp; My Uncle",
@@ -67,7 +69,8 @@
                     "showdate": "01/22/71",
                     "venue": "Lane Community College",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Introduction by Ken Babbs",
                         "Casey Jones",
@@ -106,7 +109,8 @@
                     "showdate": "01/24/71",
                     "venue": "Seattle Center Arena",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "China Cat Sunflower > I Know You Rider",
@@ -139,7 +143,8 @@
                     "showdate": "01/25/71",
                     "venue": "Seattle Center Arena",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin",
                         "Hard To Handle",
@@ -164,7 +169,8 @@
                     "showdate": "02/01/71",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -201,7 +207,8 @@
                     "showdate": "02/09/71",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -220,7 +227,8 @@
                     "showdate": "02/18/71",
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Truckin'",
@@ -257,7 +265,8 @@
                     "showdate": "02/19/71",
                     "venue": "Capitol Theatre",
                     "city": "Port Chester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -296,7 +305,8 @@
                     "showdate": "02/20/71",
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -335,7 +345,8 @@
                     "showdate": "02/21/71",
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me And Bobby McGee",
@@ -378,7 +389,8 @@
                     "showdate": "02/23/71",
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Uncle John's Band",
                         "Loser",
@@ -421,7 +433,8 @@
                     "showdate": "02/24/71",
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -464,7 +477,8 @@
                     "showdate": "02/??/71",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Playin' In The Band #1\nPlayin' In The Band #2\nPlayin' In The Band #3\nBird Song #1\nBird Song #2\nBird Song #3\nBird Song #4\nBird Song #5\nGreatest Story Ever Told #1\nGreatest Story Ever Told #2\nWharf Rat"
                     ],
@@ -485,7 +499,8 @@
                     "showdate": "03/03/71",
                     "venue": "Fillmore West",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Hard To Handle",
@@ -522,7 +537,8 @@
                     "showdate": "03/11/71",
                     "venue": "U. Centre Ballroom, N. Il. U.",
                     "city": "De Kalb",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -541,7 +557,8 @@
                     "showdate": "03/13/71",
                     "venue": "Jenison Field House, Mi. State U.",
                     "city": "Lansing",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Sugar Magnolia",
                         "Me And Bobby McGee",
@@ -564,7 +581,8 @@
                     "showdate": "03/14/71",
                     "venue": "Camp Randall Field House, University of Wisconsin",
                     "city": "Madison",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin",
                         "Me & My Uncle",
@@ -601,7 +619,8 @@
                     "showdate": "03/17/71",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Turn On Your Love Light"
@@ -623,7 +642,8 @@
                     "showdate": "03/18/71",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones\r\nMe And My Uncle\r\nBig Boss Man\r\nBertha\r\nMe And Bobby McGee\r\nLoser\r\nChina Cat Sunflower -> \r\nI Know You Rider\r\nThe Rub\r\nPlaying In The Band\r\nCumberland Blues"
                     ],
@@ -646,7 +666,8 @@
                     "showdate": "03/19/71",
                     "venue": "The Syndrome",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -665,7 +686,8 @@
                     "showdate": "03/20/71",
                     "venue": "University of Iowa",
                     "city": "Iowa City",
-                    "state": "IA",
+                    "state_abbrev": "IA",
+"country_abbrev":"US",
                     "set1": [
                         "...Truckin'",
                         "Loser",
@@ -708,7 +730,8 @@
                     "showdate": "03/21/71",
                     "venue": "Exposition Center",
                     "city": "Milwaukee",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": [
                         ""
@@ -729,7 +752,8 @@
                     "showdate": "03/23/71",
                     "venue": "Cow Palace",
                     "city": "Daly City",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -748,7 +772,8 @@
                     "showdate": "03/24/71",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Sugar Magnolia",
@@ -791,7 +816,8 @@
                     "showdate": "04/04/71",
                     "venue": "Manhattan Center",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -830,7 +856,8 @@
                     "showdate": "04/05/71",
                     "venue": "Manhattan Center",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me And Bobby McGee",
@@ -871,7 +898,8 @@
                     "showdate": "04/06/71",
                     "venue": "Manhattan Center",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -916,7 +944,8 @@
                     "showdate": "04/07/71",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Me & My Uncle",
                         "Next Time You See Me",
@@ -953,7 +982,8 @@
                     "showdate": "04/08/71",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Bertha",
@@ -994,7 +1024,8 @@
                     "showdate": "04/10/71",
                     "venue": "East Hall, Franklin & Marshall College",
                     "city": "Lancaster",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Me And Bobby McGee",
@@ -1035,7 +1066,8 @@
                     "showdate": "04/12/71",
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow\nMe & My Uncle\nBertha\nNext Time You See Me\nPlaying In The Band\nLoser\nCumberland Blues\nHard To Handle\nGreatest Story Ever Told -&gt;\nJohnny B. Goode"
                     ],
@@ -1058,7 +1090,8 @@
                     "showdate": "04/13/71",
                     "venue": "Catholic Youth Center",
                     "city": "Scranton",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -1094,7 +1127,8 @@
                     "showdate": "04/14/71",
                     "venue": "Davis Gymnasium",
                     "city": "Lewisburg",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'\nDeal\nMe And Bobbie McGee\nNext Time You See Me\nBertha\nPlayin' In The Band\nSing Me Back Home\nMe And My Uncle\nChina Cat Sunflower &gt;\nI Know You Rider\nI Second That Emotion\nCasey Jones"
                     ],
@@ -1117,7 +1151,8 @@
                     "showdate": "04/15/71",
                     "venue": "Allegheny College",
                     "city": "Meadville",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Beat It On Down The Line",
                         "Loser",
@@ -1154,7 +1189,8 @@
                     "showdate": "04/17/71",
                     "venue": "Dillon Gym, Princeton University",
                     "city": "Princeton",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Big Railroad Blues",
@@ -1195,7 +1231,8 @@
                     "showdate": "04/18/71",
                     "venue": "Lusk Field House, S.U.C.N.Y",
                     "city": "Cortland",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me & My Uncle",
@@ -1230,7 +1267,8 @@
                     "showdate": "04/21/71",
                     "venue": "Rhode Island Auditorium",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -1269,7 +1307,8 @@
                     "showdate": "04/22/71",
                     "venue": "Bangor Municipal Auditorium",
                     "city": "Bangor",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1310,7 +1349,8 @@
                     "showdate": "04/24/71",
                     "venue": "Wallace Wade Stadium, Duke University",
                     "city": "Durham",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Deal",
@@ -1353,7 +1393,8 @@
                     "showdate": "04/25/71",
                     "venue": "Fillmore East",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -1390,7 +1431,8 @@
                     "showdate": "04/26/71",
                     "venue": "Fillmore East",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1427,7 +1469,8 @@
                     "showdate": "04/27/71",
                     "venue": "Fillmore East",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Mama Tried",
@@ -1468,7 +1511,8 @@
                     "showdate": "04/28/71",
                     "venue": "Fillmore East",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Beat It On Down The Line",
@@ -1513,7 +1557,8 @@
                     "showdate": "04/29/71",
                     "venue": "Fillmore East",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Bertha",
@@ -1558,7 +1603,8 @@
                     "showdate": "05/14/71",
                     "venue": "Camp Randall Field House, U of Wisconsin",
                     "city": "Madison",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha\nMe And My Uncle\nLoser\nBlack Throated Wind\nScarlet Begonias -&gt;\nIt Must Have Been The Roses\nJack Straw\nTennessee Jed\nMexicali Blues\nDeal\nBig River\nBrown Eyed Women\nPlaying In The Band"
                     ],
@@ -1581,7 +1627,8 @@
                     "showdate": "05/29/71",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Me And Bobby McGee",
@@ -1615,7 +1662,8 @@
                     "showdate": "05/30/71",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me And Bobby McGee",
@@ -1654,7 +1702,8 @@
                     "showdate": "06/21/71",
                     "venue": "Chateau D'Herouville",
                     "city": "Herouville",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'\nLoser\nMe And Bobby McGee\nNext Time You See Me\nMorning Dew\nMe And My Uncle\nHard To Handle\nChina Cat Sunflower &gt;\nI Know You Rider\nThe Promised Land\nDeal\nPlaying In The Band\nBig Boss Man\nBlack Peter\nBertha\nCasey Jones\nThat's It For The Other One &gt;\nWharf Rat\nSugar Magnolia\nSing Me Back Home\nJohnny B. Goode"
                     ],
@@ -1675,7 +1724,8 @@
                     "showdate": "07/02/71",
                     "venue": "Fillmore West",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me And Bobby McGee",
@@ -1722,7 +1772,8 @@
                     "showdate": "07/07/71",
                     "venue": "Fillmore West",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1741,7 +1792,8 @@
                     "showdate": "07/31/71",
                     "venue": "Yale Bowl, Yale University",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -1782,7 +1834,8 @@
                     "showdate": "08/04/71",
                     "venue": "Terminal Island Correctional Fac.",
                     "city": "San Pedro",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'\nYellow Dog Story\nBertha\nMe And Bobby McGee\nHard To Handle\nChina Cat Sunflower -&gt;\nI Know You Rider\nLoser\nPlaying In The Band\nNext Time You See Me\nCasey Jones\nCumberland Blues\nBig Boss Man\nSugaree\nEl Paso\nGoing Down The Road Feeling Bad -&gt;\nTurn On Your Lovelight"
                     ],
@@ -1803,7 +1856,8 @@
                     "showdate": "08/05/71",
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1840,7 +1894,8 @@
                     "showdate": "08/06/71",
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -1879,7 +1934,8 @@
                     "showdate": "08/07/71",
                     "venue": "Golden Hall Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Big Railroad Blues",
                         "El Paso",
@@ -1924,7 +1980,8 @@
                     "showdate": "08/14/71",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me and My Uncle",
@@ -1971,7 +2028,8 @@
                     "showdate": "08/15/71",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Big Railroad Blues",
                         "Playin' In The Band",
@@ -2012,7 +2070,8 @@
                     "showdate": "08/21/71",
                     "venue": "Mickey's Barn",
                     "city": "Novato",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jam",
                         "The Wall Song > Jam > The Wall Song",
@@ -2044,7 +2103,8 @@
                     "showdate": "08/23/71",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Uncle John's Band",
                         "Sugaree",
@@ -2089,7 +2149,8 @@
                     "showdate": "08/24/71",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Big Railroad Blues",
                         "Playin' In The Band",
@@ -2126,7 +2187,8 @@
                     "showdate": "08/26/71",
                     "venue": "Gaelic Park",
                     "city": "Bronx",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -2175,7 +2237,8 @@
                     "showdate": "09/03/71",
                     "venue": "Harding Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2194,7 +2257,8 @@
                     "showdate": "09/04/71",
                     "venue": "Harding Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2213,7 +2277,8 @@
                     "showdate": "09/29/71",
                     "venue": "Studio Rehearsals with Keith Godchaux",
                     "city": "Santa Venetia",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "China Cat Sunflower > I Know You Rider",
                         "Bertha",
@@ -2244,7 +2309,8 @@
                     "showdate": "09/30/71",
                     "venue": "Studio",
                     "city": "Santa Venetia",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Brown-Eyed Women",
                         "Playin' In The Band",
@@ -2274,7 +2340,8 @@
                     "showdate": "09/??/71",
                     "venue": "Keith rehearsals",
                     "city": "Santa Venetia",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "(A) Playing",
                         "Jack Straw",
@@ -2314,7 +2381,8 @@
                     "showdate": "10/01/71",
                     "venue": "Studio",
                     "city": "Santa Venetia",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "(one possibility) Deadlists.com as of 4/2003 lists: Cold Rain And Snow",
                         "Ripple",
@@ -2343,7 +2411,8 @@
                     "showdate": "10/19/71",
                     "venue": "Northrop Auditorium, U. of Minn.",
                     "city": "Minneapolis",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2394,7 +2463,8 @@
                     "showdate": "10/21/71",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -2441,7 +2511,8 @@
                     "showdate": "10/22/71",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me And My Uncle",
@@ -2490,7 +2561,8 @@
                     "showdate": "10/23/71",
                     "venue": "Eastown Theater",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Playin' in the Band",
@@ -2537,7 +2609,8 @@
                     "showdate": "10/24/71",
                     "venue": "Eastown Theater",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Sugar Magnolia",
                         "Deal",
@@ -2580,7 +2653,8 @@
                     "showdate": "10/26/71",
                     "venue": "The Palestra, U. of Rochester",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -2633,7 +2707,8 @@
                     "showdate": "10/27/71",
                     "venue": "Onondaga County War Memorial",
                     "city": "Syracuse",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -2682,7 +2757,8 @@
                     "showdate": "10/29/71",
                     "venue": "Allen Theatre",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -2729,7 +2805,8 @@
                     "showdate": "10/30/71",
                     "venue": "Taft Auditorium",
                     "city": "Cincinnati",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2774,7 +2851,8 @@
                     "showdate": "10/31/71",
                     "venue": "Ohio Theatre",
                     "city": "Columbus",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me And My Uncle",
@@ -2823,7 +2901,8 @@
                     "showdate": "11/06/71",
                     "venue": "Harding Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me And My Uncle",
@@ -2874,7 +2953,8 @@
                     "showdate": "11/07/71",
                     "venue": "Harding Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Brown Eyed Women",
@@ -2921,7 +3001,8 @@
                     "showdate": "11/11/71",
                     "venue": "Atlanta Municipal Auditorium",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2956,7 +3037,8 @@
                     "showdate": "11/12/71",
                     "venue": "San Antonio Civic Auditorium",
                     "city": "San Antonio",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -2999,7 +3081,8 @@
                     "showdate": "11/14/71",
                     "venue": "Texas Christian University",
                     "city": "Fort Worth",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -3050,7 +3133,8 @@
                     "showdate": "11/15/71",
                     "venue": "Austin Municipal Auditorium",
                     "city": "Austin",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Bertha",
@@ -3089,7 +3173,8 @@
                     "showdate": "11/17/71",
                     "venue": "Albuquerque Civic Auditorium",
                     "city": "Albuquerque",
-                    "state": "NM",
+                    "state_abbrev": "NM",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3140,7 +3225,8 @@
                     "showdate": "11/20/71",
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3189,7 +3275,8 @@
                     "showdate": "12/01/71",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3234,7 +3321,8 @@
                     "showdate": "12/02/71",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -3283,7 +3371,8 @@
                     "showdate": "12/04/71",
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3332,7 +3421,8 @@
                     "showdate": "12/05/71",
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -3383,7 +3473,8 @@
                     "showdate": "12/06/71",
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -3428,7 +3519,8 @@
                     "showdate": "12/07/71",
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -3475,7 +3567,8 @@
                     "showdate": "12/09/71",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Monitor Check >Truckin'",
                         "Brown Eyed Woman",
@@ -3516,7 +3609,8 @@
                     "showdate": "12/10/71",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3561,7 +3655,8 @@
                     "showdate": "12/14/71",
                     "venue": "Hill Auditorium",
                     "city": "Ann Arbor",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3612,7 +3707,8 @@
                     "showdate": "12/15/71",
                     "venue": "Hill Auditorium",
                     "city": "Ann Arbor",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me And Bobby McGee",
@@ -3667,7 +3763,8 @@
                     "showdate": "12/31/71",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Mr. Charlie",
@@ -3720,7 +3817,8 @@
                     "showdate": "??/??/71",
                     "venue": "Unsurpassed Vol. 4",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "Saturday Night\r\nSaturday Night\r\nBrokedown Palace\r\nTennessee Jed\r\nTennessee Jed\r\nTennessee Jed\r\nBrokedown Palace\r\nCasey Jones\r\nTruckin'\r\nChina Cat > I Know You Rider\r\nBertha\r\nBertha"
                     ],
@@ -3741,7 +3839,8 @@
                     "showdate": "??/??/71",
                     "venue": "Unsurpassed Volume 5",
                     "city": "Santa Venetia",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Playin In The Band\r\nJack Straw\r\nDeep Elum Blues\r\nBig Rr Blues\r\nPromised Land\r\nAttics Of My Life\r\nBirdsong\r\nJack Straw\r\nMama Tried\r\nUncle John's Jam\r\nMe And My Uncle\r\nMexicali Blues\r\nCandyman\r\nCumberland Blues\r\nEl Paso\r\nJam",
                         "Cold Rain & Snow"
@@ -3763,7 +3862,8 @@
                     "showdate": "??/??/71",
                     "venue": "Masons Children Bootleg",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3782,7 +3882,8 @@
                     "showdate": "??/??/71",
                     "venue": "Pointless 1971 Compilation",
                     "city": "Compilation",
-                    "state": "Compilation",
+                    "state_abbrev": "Compilation",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

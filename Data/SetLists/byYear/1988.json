@@ -11,7 +11,8 @@
                     "showdate": "02/13/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -42,7 +43,8 @@
                     "showdate": "02/14/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Feel Like A Stranger",
@@ -75,7 +77,8 @@
                     "showdate": "02/16/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> West L.A. Fadeaway",
                         "Me & My Uncle-> Mexicali Blues",
@@ -106,7 +109,8 @@
                     "showdate": "02/17/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hey Pocky Way; Desolation Row; Tennessee Jed; Little Red Rooster; Cumberland Blues; It's All Over Now; Box Of Rain> Don't Ease Me In"
                     ],
@@ -129,7 +133,8 @@
                     "showdate": "03/12/88",
                     "venue": "Civic Auditorium",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Good Morning Little School Girl &gt;\nTurn on Your Lovelight\nLong Tall Sally"
                     ],
@@ -150,7 +155,8 @@
                     "showdate": "03/16/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Stagger Lee",
@@ -187,7 +193,8 @@
                     "showdate": "03/17/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -220,7 +227,8 @@
                     "showdate": "03/18/88",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Little Red Rooster",
@@ -253,7 +261,8 @@
                     "showdate": "03/24/88",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Walkin' Blues",
@@ -290,7 +299,8 @@
                     "showdate": "03/26/88",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Stir It Up",
@@ -327,7 +337,8 @@
                     "showdate": "03/27/88",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Little Red Rooster",
@@ -362,7 +373,8 @@
                     "showdate": "03/28/88",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> Franklin's Tower",
                         "Box Of Rain",
@@ -399,7 +411,8 @@
                     "showdate": "03/30/88",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told-> Hey Pocky Way",
                         "West L.A. Fadeaway",
@@ -430,7 +443,8 @@
                     "showdate": "03/31/88",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -465,7 +479,8 @@
                     "showdate": "04/01/88",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Jack Straw-> To Lay Me Down",
                         "Ballad Of A Thin Man",
@@ -498,7 +513,8 @@
                     "showdate": "04/03/88",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land-> Greatest Story Ever Told",
                         "Althea",
@@ -533,7 +549,8 @@
                     "showdate": "04/04/88",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Johnny B. Goode",
                         "Good Time Blues",
@@ -568,7 +585,8 @@
                     "showdate": "04/05/88",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Walkin' Blues",
@@ -603,7 +621,8 @@
                     "showdate": "04/07/88",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Feel Like A Stranger",
@@ -640,7 +659,8 @@
                     "showdate": "04/08/88",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "West L.A. Fadeaway",
@@ -671,7 +691,8 @@
                     "showdate": "04/09/88",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Big Boss Man",
                         "Walkin' Blues",
@@ -708,7 +729,8 @@
                     "showdate": "04/11/88",
                     "venue": "Joe Louis Arena",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -739,7 +761,8 @@
                     "showdate": "04/13/88",
                     "venue": "Rosemont Horizon",
                     "city": "Rosemont",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Feel Like A Stranger-> Franklin's Tower",
                         "Little Red Rooster-> When Push Comes To Shove",
@@ -768,7 +791,8 @@
                     "showdate": "04/14/88",
                     "venue": "Rosemont Horizon",
                     "city": "Rosemont",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "West L.A. Fadeaway",
@@ -803,7 +827,8 @@
                     "showdate": "04/15/88",
                     "venue": "Rosemont Horizon",
                     "city": "Rosemont",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Scarlet Begonias-> Fire On The Mountain",
                         "Scarlet Begonias",
@@ -836,7 +861,8 @@
                     "showdate": "04/22/88",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Feel Like A Stranger-> Franklin's Tower",
                         "Minglewood Blues",
@@ -869,7 +895,8 @@
                     "showdate": "04/23/88",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Cold Rain & Snow",
@@ -908,7 +935,8 @@
                     "showdate": "04/24/88",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Little Red Rooster",
@@ -943,7 +971,8 @@
                     "showdate": "04/30/88",
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll-> Feel Like A Stranger",
                         "Row Jimmy",
@@ -976,7 +1005,8 @@
                     "showdate": "05/01/88",
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Box Of Rain",
                         "Hell In A Bucket-> Touch Of Gray",
@@ -1013,7 +1043,8 @@
                     "showdate": "06/01/88",
                     "venue": "The Inn by the Sea Tape",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Instrumental\r\nVictim Or The Crime\r\nBlow Away\r\nBelieve It Or Not\r\nGentlemen",
                         "Start Your Engines\r\nBuilt To Last\r\nI Will Take You Home\r\nVictim or The Crime\r\nInstrumental 2\r\nInstrumental 3"
@@ -1035,7 +1066,8 @@
                     "showdate": "06/17/88",
                     "venue": "Metropolitan Sports Center",
                     "city": "Bloomington",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -1070,7 +1102,8 @@
                     "showdate": "06/19/88",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Feel Like A Stranger",
@@ -1105,7 +1138,8 @@
                     "showdate": "06/20/88",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Box Of Rain",
@@ -1140,7 +1174,8 @@
                     "showdate": "06/22/88",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Hell In A Bucket",
@@ -1177,7 +1212,8 @@
                     "showdate": "06/23/88",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Minglewood Blues",
@@ -1214,7 +1250,8 @@
                     "showdate": "06/25/88",
                     "venue": "Buckeye Lake Music Center",
                     "city": "Hebron",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> Franklin's Tower",
                         "Box Of Rain",
@@ -1249,7 +1286,8 @@
                     "showdate": "06/26/88",
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Little Red Rooster",
@@ -1286,7 +1324,8 @@
                     "showdate": "06/28/88",
                     "venue": "Saratoga Performing Arts Center",
                     "city": "Saratoga Springs",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Bertha",
                         "Walkin Blues",
@@ -1321,7 +1360,8 @@
                     "showdate": "06/30/88",
                     "venue": "Silver Stadium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Box Of Rain-> Cold Rain & Snow",
                         "Minglewood Blues",
@@ -1354,7 +1394,8 @@
                     "showdate": "07/02/88",
                     "venue": "Oxford Plains Speedway",
                     "city": "Oxford",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko -> Jack Straw",
                         "West L.A. Fadeaway",
@@ -1389,7 +1430,8 @@
                     "showdate": "07/03/88",
                     "venue": "Oxford Plains Speedway",
                     "city": "Oxford",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Walkin Blues",
@@ -1420,7 +1462,8 @@
                     "showdate": "07/15/88",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Walkin' Blues",
@@ -1459,7 +1502,8 @@
                     "showdate": "07/16/88",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -1494,7 +1538,8 @@
                     "showdate": "07/17/88",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Foolish Heart",
                         "Greatest Story Ever Told",
@@ -1529,7 +1574,8 @@
                     "showdate": "07/29/88",
                     "venue": "Laguna Seca Recreation Area",
                     "city": "Monterey",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Walkin' Blues",
@@ -1564,7 +1610,8 @@
                     "showdate": "07/30/88",
                     "venue": "Laguna Seca Recreation Area",
                     "city": "Monterey",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll-> Feel Like A Stranger",
                         "Loser",
@@ -1597,7 +1644,8 @@
                     "showdate": "07/31/88",
                     "venue": "Laguna Seca Recreation Area",
                     "city": "Monterey",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Little Red Rooster*",
@@ -1634,7 +1682,8 @@
                     "showdate": "08/26/88",
                     "venue": "Tacoma Dome",
                     "city": "Tacoma",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -1673,7 +1722,8 @@
                     "showdate": "08/28/88",
                     "venue": "Autzen Stadium, U. of Oregon",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Little Red Rooster",
@@ -1708,7 +1758,8 @@
                     "showdate": "09/02/88",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -1743,7 +1794,8 @@
                     "showdate": "09/03/88",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger-> Franklin's Tower-> Little Red Rooster-> Peggy-O",
@@ -1772,7 +1824,8 @@
                     "showdate": "09/05/88",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Walkin' Blues",
@@ -1809,7 +1862,8 @@
                     "showdate": "09/06/88",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Desolation Row",
@@ -1846,7 +1900,8 @@
                     "showdate": "09/08/88",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll-> Shakedown Street",
                         "Walkin' Blues",
@@ -1879,7 +1934,8 @@
                     "showdate": "09/09/88",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -1914,7 +1970,8 @@
                     "showdate": "09/11/88",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Feel Like A Stranger-> Franklin's Tower",
@@ -1949,7 +2006,8 @@
                     "showdate": "09/12/88",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Althea",
@@ -1988,7 +2046,8 @@
                     "showdate": "09/14/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Alabama Getaway-> Greatest Story Ever Told",
@@ -2025,7 +2084,8 @@
                     "showdate": "09/15/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Desolation Row",
@@ -2054,7 +2114,8 @@
                     "showdate": "09/16/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hey Pocky Away",
                         "New Minglewood Blues",
@@ -2091,7 +2152,8 @@
                     "showdate": "09/18/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> Franklin's Tower",
                         "Good Time Blues",
@@ -2124,7 +2186,8 @@
                     "showdate": "09/19/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Little Red Rooster",
@@ -2159,7 +2222,8 @@
                     "showdate": "09/20/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Althea",
@@ -2194,7 +2258,8 @@
                     "showdate": "09/22/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Minglewood Blues",
@@ -2227,7 +2292,8 @@
                     "showdate": "09/23/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Hell In A Bucket",
@@ -2264,7 +2330,8 @@
                     "showdate": "09/24/88",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Feel Like A Stranger",
@@ -2301,7 +2368,8 @@
                     "showdate": "09/30/88",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Walkin' Blues",
@@ -2334,7 +2402,8 @@
                     "showdate": "10/01/88",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -2371,7 +2440,8 @@
                     "showdate": "10/02/88",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Minglewood Blues",
@@ -2406,7 +2476,8 @@
                     "showdate": "10/14/88",
                     "venue": "Miami Arena",
                     "city": "Miami",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Minglewood Blues",
@@ -2443,7 +2514,8 @@
                     "showdate": "10/15/88",
                     "venue": "Bayfront Center Arena",
                     "city": "St. Petersburg",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped-> Sugaree",
                         "Blow Away",
@@ -2478,7 +2550,8 @@
                     "showdate": "10/16/88",
                     "venue": "Bayfront Center",
                     "city": "St. Petersburg",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half-Step Uptown Toodleloo ; Never Trust A Woman ; Feel Like A Stranger ; Friend Of The Devil ; Stuck In Mobile With The Memphis Blues Again ; To Lay Me Down ; Don't Ease Me In"
                     ],
@@ -2501,7 +2574,8 @@
                     "showdate": "10/18/88",
                     "venue": "Keifer Lakefront Arena",
                     "city": "New Orleans",
-                    "state": "LA",
+                    "state_abbrev": "LA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -2538,7 +2612,8 @@
                     "showdate": "10/20/88",
                     "venue": "The Summit",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Minglewood Blues",
@@ -2575,7 +2650,8 @@
                     "showdate": "10/21/88",
                     "venue": "Reunion Arena",
                     "city": "Dallas",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger-> Franklin's Tower",
@@ -2610,7 +2686,8 @@
                     "showdate": "12/09/88",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll> Franklin's Tower",
                         "When I Paint My Masterpiece",
@@ -2643,7 +2720,8 @@
                     "showdate": "12/10/88",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "West L.A. Fadeaway",
@@ -2678,7 +2756,8 @@
                     "showdate": "12/11/88",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Jack Straw",
@@ -2711,7 +2790,8 @@
                     "showdate": "12/28/88",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Walkin' Blues",
@@ -2748,7 +2828,8 @@
                     "showdate": "12/29/88",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -2779,7 +2860,8 @@
                     "showdate": "12/31/88",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll-> Franklin's Tower",
                         "Wang Dang Doodle*",
@@ -2812,7 +2894,8 @@
                     "showdate": "??/??/88",
                     "venue": "Unknown Studio (possibly Club Front)",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Instrumental\r\nVictim Or the Crime\r\nBlow Away\r\nBelieve It or Not\r\nGentleman",
                         "Start Your Engines\r\nBuilt To Last\r\nI Will Take You Home\r\nVictim Or the Crime\r\nInstrumental 2\r\nInstrumental 3\r\nfiller: Bob Weir studio sessions\r\nShit Happens (Barlow vocal?)\r\nJam\r\nJam\r\nBetty Cantor Vault tape\r\nBarbed Wire Whipping Party"

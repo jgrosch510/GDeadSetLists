@@ -11,7 +11,8 @@
                     "showdate": "02/21/84",
                     "venue": "Arista Studio",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Throwing Stones\nHell In A Bucket\nMy Brother Esau\nDay Tripper\nTons Of Steel\nTom Thumb's Blues"
                     ],
@@ -32,7 +33,8 @@
                     "showdate": "02/25/84",
                     "venue": "Studio",
                     "city": "Studio",
-                    "state": "Ca",
+                    "state_abbrev": "Ca",
+"country_abbrev":"US",
                     "set1": [
                         "Hell in a bucket (demo)\r\nBrother Esau (demo)"
                     ],
@@ -53,7 +55,8 @@
                     "showdate": "02/??/84",
                     "venue": "Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -72,7 +75,8 @@
                     "showdate": "03/14/84",
                     "venue": "Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help on the Way",
                         "Slipknot Jam",
@@ -105,7 +109,8 @@
                     "showdate": "03/28/84",
                     "venue": "Marin County Veterans Auditorium",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "CC Rider",
@@ -142,7 +147,8 @@
                     "showdate": "03/29/84",
                     "venue": "Marin County Veterans Auditorium",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Walkin' The Dog-> Bertha-> Promised Land",
                         "It Must Have Been The Roses",
@@ -175,7 +181,8 @@
                     "showdate": "03/31/84",
                     "venue": "Marin County Veterans Auditorium",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Feel Like A Stranger",
                         "Dupree's Diamond Blues",
@@ -206,7 +213,8 @@
                     "showdate": "04/01/84",
                     "venue": "Marin County Veterans Auditorium",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -241,7 +249,8 @@
                     "showdate": "04/06/84",
                     "venue": "Aladdin Theater",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -276,7 +285,8 @@
                     "showdate": "04/07/84",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "West L.A. Fadeaway",
@@ -313,7 +323,8 @@
                     "showdate": "04/13/84",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Day Job",
                         "Minglewood Blues",
@@ -350,7 +361,8 @@
                     "showdate": "04/14/84",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other",
@@ -385,7 +397,8 @@
                     "showdate": "04/16/84",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -420,7 +433,8 @@
                     "showdate": "04/17/84",
                     "venue": "Niagara Falls Convention Center",
                     "city": "Niagara Falls",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -455,7 +469,8 @@
                     "showdate": "04/19/84",
                     "venue": "Philadelphia Civic Center",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Loser",
@@ -490,7 +505,8 @@
                     "showdate": "04/20/84",
                     "venue": "Philadelphia Civic Center",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Cold Rain & Snow",
@@ -529,7 +545,8 @@
                     "showdate": "04/21/84",
                     "venue": "Philadelphia Civic Center",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil",
@@ -566,7 +583,8 @@
                     "showdate": "04/23/84",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -597,7 +615,8 @@
                     "showdate": "04/24/84",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Candyman",
@@ -634,7 +653,8 @@
                     "showdate": "04/26/84",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "CC Rider",
@@ -667,7 +687,8 @@
                     "showdate": "04/27/84",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-&gt; \nPromised Land\nDire Wolf\nMinglewood Blues\nRow Jimmy\nMe &amp; My Uncle-&gt; \nBig River\nAlthea\nMy Brother Esau\nBig Railroad Blues-&gt; \nThe Music Never Stopped"
                     ],
@@ -690,7 +711,8 @@
                     "showdate": "04/29/84",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -729,7 +751,8 @@
                     "showdate": "04/30/84",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko-> Greatest Story Ever Told",
                         "Althea",
@@ -760,7 +783,8 @@
                     "showdate": "05/06/84",
                     "venue": "Silva Hall, Hult Center",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Dire Wolf",
@@ -797,7 +821,8 @@
                     "showdate": "05/07/84",
                     "venue": "Silva Hall, Hult Center",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "CC Rider",
@@ -832,7 +857,8 @@
                     "showdate": "05/08/84",
                     "venue": "Silva Hall, Hult Center",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Beer Barrel Polka",
                         "Jack Straw",
@@ -871,7 +897,8 @@
                     "showdate": "06/09/84",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Hell In A Bucket",
@@ -904,7 +931,8 @@
                     "showdate": "06/10/84",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other",
@@ -941,7 +969,8 @@
                     "showdate": "06/12/84",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -978,7 +1007,8 @@
                     "showdate": "06/13/84",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Candyman",
@@ -1011,7 +1041,8 @@
                     "showdate": "06/14/84",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Cassidy-> It Must Have Been The Roses",
@@ -1042,7 +1073,8 @@
                     "showdate": "06/21/84",
                     "venue": "Kingswood Music Theater",
                     "city": "Maple",
-                    "state": "ON",
+                    "state_abbrev": "ON",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -1071,7 +1103,8 @@
                     "showdate": "06/23/84",
                     "venue": "City Island",
                     "city": "Harrisburg",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -1106,7 +1139,8 @@
                     "showdate": "06/24/84",
                     "venue": "Saratoga Performing Arts Center",
                     "city": "Saratoga Springs",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Dire Wolf",
@@ -1143,7 +1177,8 @@
                     "showdate": "06/26/84",
                     "venue": "Merriweather Post Pavilion",
                     "city": "Columbia",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Feel Like A Stranger",
@@ -1176,7 +1211,8 @@
                     "showdate": "06/27/84",
                     "venue": "Merriweather Post Pavilion",
                     "city": "Columbia",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -1211,7 +1247,8 @@
                     "showdate": "06/29/84",
                     "venue": "Blossom Music Center",
                     "city": "Cuyahoga Falls",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -1244,7 +1281,8 @@
                     "showdate": "06/30/84",
                     "venue": "Indianapolis Sports and Music Center",
                     "city": "Indianapolis",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1277,7 +1315,8 @@
                     "showdate": "07/01/84",
                     "venue": "Pine Knob Music Theater",
                     "city": "Clarkston",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Little Red Rooster",
@@ -1312,7 +1351,8 @@
                     "showdate": "07/03/84",
                     "venue": "Starlight Theater",
                     "city": "Kansas City",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman",
@@ -1345,7 +1385,8 @@
                     "showdate": "07/04/84",
                     "venue": "Five Seasons Center",
                     "city": "Cedar Rapids",
-                    "state": "IA",
+                    "state_abbrev": "IA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -1378,7 +1419,8 @@
                     "showdate": "07/06/84",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Jack Straw-> Big Railroad Blues",
@@ -1413,7 +1455,8 @@
                     "showdate": "07/07/84",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Dire Wolf",
@@ -1448,7 +1491,8 @@
                     "showdate": "07/13/84",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Dire Wolf",
@@ -1483,7 +1527,8 @@
                     "showdate": "07/14/84",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw\nWest L.A. Fadeaway\nLittle Red Rooster*\nTennessee Jed\nBeat It On Down The Line-&gt; \nBig Railroad Blues\nLooks Like Rain\nDon't Ease Me In"
                     ],
@@ -1506,7 +1551,8 @@
                     "showdate": "07/15/84",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets-> Bird Song",
                         "Minglewood Blues",
@@ -1539,7 +1585,8 @@
                     "showdate": "07/21/84",
                     "venue": "Ventura County Fairgrounds",
                     "city": "Ventura",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -1570,7 +1617,8 @@
                     "showdate": "07/22/84",
                     "venue": "Ventura County Fairgrounds",
                     "city": "Ventura",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets-> Bertha",
                         "My Brother Esau",
@@ -1603,7 +1651,8 @@
                     "showdate": "10/05/84",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Promised Land",
                         "West L.A. Fadeaway",
@@ -1640,7 +1689,8 @@
                     "showdate": "10/06/84",
                     "venue": "Richmond Coliseum",
                     "city": "Richmond",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Dire Wolf",
@@ -1675,7 +1725,8 @@
                     "showdate": "10/08/84",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Beat It On Down The Line",
@@ -1708,7 +1759,8 @@
                     "showdate": "10/09/84",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Friend Of The Devil",
@@ -1743,7 +1795,8 @@
                     "showdate": "10/11/84",
                     "venue": "Augusta Civic Center",
                     "city": "Augusta",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Greatest Story Ever Told",
                         "Peggy-O",
@@ -1774,7 +1827,8 @@
                     "showdate": "10/12/84",
                     "venue": "Augusta Civic Center",
                     "city": "Augusta",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "It Must Have Been The Roses",
@@ -1809,7 +1863,8 @@
                     "showdate": "10/14/84",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Dire Wolf",
@@ -1848,7 +1903,8 @@
                     "showdate": "10/15/84",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree-> El Paso",
                         "Bird Song",
@@ -1881,7 +1937,8 @@
                     "showdate": "10/17/84",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko-> Promised Land",
                         "West L.A. Fadeaway",
@@ -1916,7 +1973,8 @@
                     "showdate": "10/18/84",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Candyman",
@@ -1949,7 +2007,8 @@
                     "showdate": "10/20/84",
                     "venue": "Carrier Dome, Syracuse U",
                     "city": "Syracuse",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -1984,7 +2043,8 @@
                     "showdate": "10/27/84",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "It's All Over Now",
@@ -2017,7 +2077,8 @@
                     "showdate": "10/28/84",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> My Brother Esau-> Althea-> CC Rider",
                         "Bird Song",
@@ -2044,7 +2105,8 @@
                     "showdate": "10/30/84",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Dire Wolf",
@@ -2079,7 +2141,8 @@
                     "showdate": "10/31/84",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Mama Tried-> Big River",
@@ -2112,7 +2175,8 @@
                     "showdate": "11/02/84",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Peggy-O",
                         "El Paso",
@@ -2143,7 +2207,8 @@
                     "showdate": "11/03/84",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil",
@@ -2174,7 +2239,8 @@
                     "showdate": "12/18/84",
                     "venue": "Studio",
                     "city": "Studio",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Day tripper\r\nTons of steel\r\nJust like Tom Thumb's blues"
                     ],
@@ -2195,7 +2261,8 @@
                     "showdate": "12/28/84",
                     "venue": "San Francisco Civic Auditorium",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey\nGreatest Story Ever Told\nDire Wolf\nTons Of Steel\nDown In The Bottom\nI Ain't Superstitious\nDupree's Diamond Blues\nMe &amp; My Uncle\nMexicali Blues\nWest L.A. Fadeaway\nMight As Well"
                     ],
@@ -2218,7 +2285,8 @@
                     "showdate": "12/29/84",
                     "venue": "San Francisco Civic Auditorium",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "One More Saturday Night\nFriend Of The Devil\nMy Brother Esau\nBig Railroad Blues\nCassidy\nAlthea\nLet It Grow"
                     ],
@@ -2241,7 +2309,8 @@
                     "showdate": "12/31/84",
                     "venue": "San Francisco Civic Auditorium",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street\nNew Minglewood Blues\nPeggy-O\nJack Straw\nBird Song\nHell In A Bucket\nDon't Ease Me In"
                     ],
@@ -2266,7 +2335,8 @@
                     "showdate": "??/??/84",
                     "venue": "1984 Studio Material",
                     "city": "San Rafael?",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

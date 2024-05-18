@@ -11,7 +11,8 @@
                     "showdate": "02/26/81",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Althea-> Little Red Rooster",
@@ -48,7 +49,8 @@
                     "showdate": "02/27/81",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil",
@@ -81,7 +83,8 @@
                     "showdate": "02/28/81",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -118,7 +121,8 @@
                     "showdate": "03/02/81",
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues",
                         "Dire Wolf-> Cassidy",
@@ -151,7 +155,8 @@
                     "showdate": "03/03/81",
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -182,7 +187,8 @@
                     "showdate": "03/05/81",
                     "venue": "Stanley Theater",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -217,7 +223,8 @@
                     "showdate": "03/06/81",
                     "venue": "Stanley Theater",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -252,7 +259,8 @@
                     "showdate": "03/07/81",
                     "venue": "Cole Field House - University of Maryland",
                     "city": "College Park",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-&gt;\r\nGreatest Story Ever Told\r\nDire Wolf\r\nMe &amp; My Uncle-&gt;\r\nBig River\r\nCandyman-&gt;\r\nCC Rider\r\nJack A Roe\r\nPassenger\r\nBird Song-&gt;\r\nLooks Like Rain-&gt;\r\nDeal"
                     ],
@@ -275,7 +283,8 @@
                     "showdate": "03/09/81",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Althea-> CC Rider",
@@ -310,7 +319,8 @@
                     "showdate": "03/10/81",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Me & My Uncle",
                         "Roses> Little Red Rooster",
@@ -341,7 +351,8 @@
                     "showdate": "03/12/81",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -374,7 +385,8 @@
                     "showdate": "03/13/81",
                     "venue": "Utica Memorial Auditorium",
                     "city": "Utica",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues",
                         "They Love Each Other-> El Paso",
@@ -409,7 +421,8 @@
                     "showdate": "03/14/81",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree",
@@ -444,7 +457,8 @@
                     "showdate": "03/20/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -481,7 +495,8 @@
                     "showdate": "03/21/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -514,7 +529,8 @@
                     "showdate": "03/23/81",
                     "venue": "Rainbow Theatre",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw\r\nThey Love Each Other\r\nCassidy\r\nIt Must Have Been The Roses->\r\nEl Paso\r\nRamble On Rose\r\nNew Minglewood Blues\r\nSugaree\r\nLazy Lightning->\r\nSupplication"
                     ],
@@ -537,7 +553,8 @@
                     "showdate": "03/24/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Beat It On Down The Line-> Greatest Story Ever Told",
@@ -570,7 +587,8 @@
                     "showdate": "03/28/81",
                     "venue": "Grugahalle",
                     "city": "Essen",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway &gt; Greatest Story Ever Told &gt; Sugaree",
                         "Me & My Uncle &gt; Mexicali Blues",
@@ -603,7 +621,8 @@
                     "showdate": "04/25/81",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Deep Elem Blues",
                         "Dark Hollow",
@@ -633,7 +652,8 @@
                     "showdate": "04/30/81",
                     "venue": "Greensboro Coliseum",
                     "city": "Greensboro",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O-> CC Rider",
@@ -664,7 +684,8 @@
                     "showdate": "05/01/81",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> Me & My Uncle-> Big River",
@@ -693,7 +714,8 @@
                     "showdate": "05/02/81",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "El Paso",
@@ -736,7 +758,8 @@
                     "showdate": "05/04/81",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In-> Beat It On Down The Line",
                         "Jack A Roe-> Little Red Rooster",
@@ -769,7 +792,8 @@
                     "showdate": "05/05/81",
                     "venue": "Glens Falls Civic Center",
                     "city": "Glens Falls",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O-> El Paso",
@@ -806,7 +830,8 @@
                     "showdate": "05/06/81",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -841,7 +866,8 @@
                     "showdate": "05/07/81",
                     "venue": "NBC Studios",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "Dire Wolf",
@@ -865,7 +891,8 @@
                     "showdate": "05/08/81",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -898,7 +925,8 @@
                     "showdate": "05/09/81",
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Feel Like A Stranger",
                         "Bird Song-> Little Red Rooster",
@@ -929,7 +957,8 @@
                     "showdate": "05/11/81",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree-> El Paso",
@@ -966,7 +995,8 @@
                     "showdate": "05/12/81",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Peggy-O",
@@ -1001,7 +1031,8 @@
                     "showdate": "05/13/81",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -1036,7 +1067,8 @@
                     "showdate": "05/15/81",
                     "venue": "Athletic Center - Rutgers University",
                     "city": "Piscataway",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step Uptown Toodeloo-&gt;\r\nFranklin's Tower-&gt;\r\nMinglewood Blues",
                         "Dire Wolf-&gt;\r\nCassidy\r\nCandyman-&gt;\r\nLittle Red Rooster\r\nJack A Roe\r\nEl Paso\r\nRamble On Rose\r\nLooks Like Rain-&gt;\r\nDon't Ease Me In"
@@ -1061,7 +1093,8 @@
                     "showdate": "05/16/81",
                     "venue": "Barton Hall, Cornell U",
                     "city": "Ithaca",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> Friend Of The Devil-> Me & My Uncle-> Big River",
                         "Althea-> CC Rider",
@@ -1092,7 +1125,8 @@
                     "showdate": "05/17/81",
                     "venue": "Onondaga County War Memorial",
                     "city": "Syracuse",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-&gt; \nPromised Land",
                         "Peggy-O-&gt; \nMama Tried-&gt; \nMexicali Blues",
@@ -1125,7 +1159,8 @@
                     "showdate": "05/22/81",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Deep Elem Blues",
                         "The Race is On",
@@ -1157,7 +1192,8 @@
                     "showdate": "07/02/81",
                     "venue": "The Summit",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil-> CC Rider",
@@ -1192,7 +1228,8 @@
                     "showdate": "07/04/81",
                     "venue": "Manor Downs",
                     "city": "Austin",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -1227,7 +1264,8 @@
                     "showdate": "07/05/81",
                     "venue": "Zoo Amphitheater",
                     "city": "Oklahoma City",
-                    "state": "OK",
+                    "state_abbrev": "OK",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Promised Land",
                         "Candyman-> Cassidy",
@@ -1260,7 +1298,8 @@
                     "showdate": "07/07/81",
                     "venue": "Kansas City Municipal Auditorium Arena",
                     "city": "Kansas City",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues-> Bertha-> Dancin' In The Streets",
                         "Big Railroad Blues-> El Paso",
@@ -1291,7 +1330,8 @@
                     "showdate": "07/08/81",
                     "venue": "Kiel Auditorium",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Feel Like A Stranger",
                         "Peggy-O-> Little Red Rooster",
@@ -1326,7 +1366,8 @@
                     "showdate": "07/10/81",
                     "venue": "St. Paul Civic Center",
                     "city": "St. Paul",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -1363,7 +1404,8 @@
                     "showdate": "07/11/81",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Peggy-O-> Little Red Rooster",
@@ -1398,7 +1440,8 @@
                     "showdate": "07/13/81",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other-> El Paso",
@@ -1429,7 +1472,8 @@
                     "showdate": "07/14/81",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Minglewood Blues",
                         "Friend Of The Devil-> Cassidy",
@@ -1460,7 +1504,8 @@
                     "showdate": "08/12/81",
                     "venue": "Salt Palace",
                     "city": "Salt Lake City",
-                    "state": "UT",
+                    "state_abbrev": "UT",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -1493,7 +1538,8 @@
                     "showdate": "08/14/81",
                     "venue": "Seattle Center Coliseum",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues-> Sugaree-> On The Road Again",
                         "Peggy-O-> Beat It On Down The Line",
@@ -1524,7 +1570,8 @@
                     "showdate": "08/15/81",
                     "venue": "Portland Memorial Coliseum",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Me & My Uncle-> Big River",
                         "Tennessee Jed",
@@ -1557,7 +1604,8 @@
                     "showdate": "08/16/81",
                     "venue": "McArthur Court, U of Oregon",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil-> El Paso-> Loser",
@@ -1588,7 +1636,8 @@
                     "showdate": "08/27/81",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> CC Rider",
@@ -1617,7 +1666,8 @@
                     "showdate": "08/28/81",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1650,7 +1700,8 @@
                     "showdate": "08/30/81",
                     "venue": "Compton Terrace Amphitheatre",
                     "city": "Tempe",
-                    "state": "AZ",
+                    "state_abbrev": "AZ",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -1687,7 +1738,8 @@
                     "showdate": "08/31/81",
                     "venue": "Aladdin Theater",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Jack A Roe-> El Paso",
@@ -1722,7 +1774,8 @@
                     "showdate": "09/11/81",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -1757,7 +1810,8 @@
                     "showdate": "09/12/81",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Greatest Story Ever Told",
                         "Friend Of The Devil-> El Paso",
@@ -1788,7 +1842,8 @@
                     "showdate": "09/13/81",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Bertha",
                         "Me & My Uncle-> Big River",
@@ -1821,7 +1876,8 @@
                     "showdate": "09/25/81",
                     "venue": "Stabler Arena, Lehigh U",
                     "city": "Bethlehem",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Friend Of The Devil-> El Paso",
@@ -1856,7 +1912,8 @@
                     "showdate": "09/26/81",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Buffalo",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> CC Rider",
                         "They Love Each Other",
@@ -1895,7 +1952,8 @@
                     "showdate": "09/27/81",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Alabama Getaway-> Promised Land",
@@ -1928,7 +1986,8 @@
                     "showdate": "09/30/81",
                     "venue": "Playhouse Theater",
                     "city": "Edinburgh",
-                    "state": "Scotland",
+                    "state_abbrev": "Scotland",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -1965,7 +2024,8 @@
                     "showdate": "10/02/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree-> CC Rider",
@@ -2000,7 +2060,8 @@
                     "showdate": "10/03/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -2033,7 +2094,8 @@
                     "showdate": "10/04/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Jam-> Jack Straw",
                         "Friend Of The Devil-> El Paso",
@@ -2068,7 +2130,8 @@
                     "showdate": "10/06/81",
                     "venue": "Rainbow Theater",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues-> It Must Have Been The Roses",
                         "Little Red Rooster",
@@ -2101,7 +2164,8 @@
                     "showdate": "10/08/81",
                     "venue": "Forum Theater",
                     "city": "Copenhagen",
-                    "state": "Denmark",
+                    "state_abbrev": "Denmark",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other-> CC Rider",
@@ -2138,7 +2202,8 @@
                     "showdate": "10/10/81",
                     "venue": "Stadthalle",
                     "city": "Bremen",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Bertha-> Minglewood Blues",
                         "Friend Of The Devil-> El Paso",
@@ -2171,7 +2236,8 @@
                     "showdate": "10/11/81",
                     "venue": "Club Melk Weg",
                     "city": "Amsterdam",
-                    "state": "Netherlands",
+                    "state_abbrev": "Netherlands",
+"country_abbrev":"US",
                     "set1": [
                         "Monkey & The Engineer",
                         "I've Been All Around This World",
@@ -2197,7 +2263,8 @@
                     "showdate": "10/12/81",
                     "venue": "Olympia Halle",
                     "city": "Munich",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman-> Little Red Rooster",
@@ -2234,7 +2301,8 @@
                     "showdate": "10/13/81",
                     "venue": "Walter Koebel Halle",
                     "city": "Russelsheim",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -2271,7 +2339,8 @@
                     "showdate": "10/15/81",
                     "venue": "Club Melk Weg",
                     "city": "Amsterdam",
-                    "state": "Netherlands",
+                    "state_abbrev": "Netherlands",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other-> El Paso",
@@ -2304,7 +2373,8 @@
                     "showdate": "10/16/81",
                     "venue": "Club Melk Weg",
                     "city": "Amsterdam",
-                    "state": "Netherlands",
+                    "state_abbrev": "Netherlands",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "Dire Wolf",
@@ -2341,7 +2411,8 @@
                     "showdate": "10/17/81",
                     "venue": "The Hippodrome",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues",
                         "Candyman",
@@ -2374,7 +2445,8 @@
                     "showdate": "10/19/81",
                     "venue": "Sports Palace",
                     "city": "Barcelona",
-                    "state": "Spain",
+                    "state_abbrev": "Spain",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -2411,7 +2483,8 @@
                     "showdate": "11/29/81",
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> Greatest Story Ever Told",
                         "Friend Of The Devil-> CC Rider",
@@ -2446,7 +2519,8 @@
                     "showdate": "11/30/81",
                     "venue": "Hara Arena",
                     "city": "Dayton",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Mack The Knife",
@@ -2481,7 +2555,8 @@
                     "showdate": "12/02/81",
                     "venue": "Assembly Hall",
                     "city": "Champaign",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha &gt; Greatest Story Ever Told",
                         "Peggy-O",
@@ -2520,7 +2595,8 @@
                     "showdate": "12/03/81",
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2559,7 +2635,8 @@
                     "showdate": "12/05/81",
                     "venue": "Market Square Arena",
                     "city": "Indianapolis",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> CC Rider",
@@ -2592,7 +2669,8 @@
                     "showdate": "12/06/81",
                     "venue": "Rosemont Horizon",
                     "city": "Rosemont",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues-> Sugaree",
                         "Mama Tried-> Mexicali Blues",
@@ -2631,7 +2709,8 @@
                     "showdate": "12/07/81",
                     "venue": "Des Moines Civic Center",
                     "city": "Des Moines",
-                    "state": "IA",
+                    "state_abbrev": "IA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Friend Of The Devil-> CC Rider",
@@ -2668,7 +2747,8 @@
                     "showdate": "12/09/81",
                     "venue": "Events Center, U of Colorado",
                     "city": "Boulder",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Jack Straw",
                         "Friend Of The Devil-> Little Red Rooster",
@@ -2705,7 +2785,8 @@
                     "showdate": "12/12/81",
                     "venue": "Fiesta Hall, San Mateo County Fairgrounds",
                     "city": "San Mateo",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Children Of The Eighties",
@@ -2748,7 +2829,8 @@
                     "showdate": "12/26/81",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman-> Little Red Rooster",
@@ -2785,7 +2867,8 @@
                     "showdate": "12/27/81",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues-&gt; Sugaree",
                         "Cassidy",
@@ -2818,7 +2901,8 @@
                     "showdate": "12/28/81",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Peggy-O-> El Paso",
@@ -2853,7 +2937,8 @@
                     "showdate": "12/30/81",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2890,7 +2975,8 @@
                     "showdate": "12/31/81",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Acoustic: Me And Bobby McGee*",
                         "Bye Bye Love*",
@@ -2927,7 +3013,8 @@
                     "showdate": "??/??/81",
                     "venue": "Unknown",
                     "city": "Various",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Part 1\r\n\r\nDiscussion of the Grateful Dead's Acoustic Music"
                     ],

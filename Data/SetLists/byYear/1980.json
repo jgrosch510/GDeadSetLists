@@ -11,7 +11,8 @@
                     "showdate": "01/13/80",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower",
                         "Minglewood Blues",
@@ -36,7 +37,8 @@
                     "showdate": "03/30/80",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -75,7 +77,8 @@
                     "showdate": "03/31/80",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -112,7 +115,8 @@
                     "showdate": "04/01/80",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land*",
                         "Candyman",
@@ -147,7 +151,8 @@
                     "showdate": "04/05/80",
                     "venue": "NBC Studios",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway",
                         "Saint Of Circumstance"
@@ -169,7 +174,8 @@
                     "showdate": "04/28/80",
                     "venue": "Boutwell Auditorium",
                     "city": "Birmingham",
-                    "state": "AL",
+                    "state_abbrev": "AL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -208,7 +214,8 @@
                     "showdate": "04/29/80",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -245,7 +252,8 @@
                     "showdate": "04/??/80",
                     "venue": "WNEW Studios",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "This is 12 minutes of a longer \"interview\" where Jerry",
                         "Bob",
@@ -270,7 +278,8 @@
                     "showdate": "05/01/80",
                     "venue": "Greensboro Coliseum",
                     "city": "Greensboro",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman",
@@ -307,7 +316,8 @@
                     "showdate": "05/02/80",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -342,7 +352,8 @@
                     "showdate": "05/04/80",
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Feel Like A Stranger",
                         "Althea",
@@ -373,7 +384,8 @@
                     "showdate": "05/06/80",
                     "venue": "Rec Hall, Penn State U",
                     "city": "State College",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Peggy-O",
@@ -406,7 +418,8 @@
                     "showdate": "05/07/80",
                     "venue": "Barton Hall",
                     "city": "Ithaca",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -443,7 +456,8 @@
                     "showdate": "05/08/80",
                     "venue": "Glens Falls Civic Center",
                     "city": "Glens Falls",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil",
@@ -478,7 +492,8 @@
                     "showdate": "05/10/80",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Peggy-O",
@@ -513,7 +528,8 @@
                     "showdate": "05/11/80",
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -552,7 +568,8 @@
                     "showdate": "05/12/80",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Alabama Getaway-> El Paso",
                         "Althea",
@@ -583,7 +600,8 @@
                     "showdate": "05/14/80",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman",
@@ -616,7 +634,8 @@
                     "showdate": "05/15/80",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower",
                         "Cassidy",
@@ -651,7 +670,8 @@
                     "showdate": "05/16/80",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "High Time",
@@ -688,7 +708,8 @@
                     "showdate": "05/29/80",
                     "venue": "Des Moines Civic Center",
                     "city": "Des Moines",
-                    "state": "IA",
+                    "state_abbrev": "IA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -725,7 +746,8 @@
                     "showdate": "05/30/80",
                     "venue": "Milwaukee Auditorium",
                     "city": "Milwaukee",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower",
                         "Me & My Uncle-> Big River",
@@ -760,7 +782,8 @@
                     "showdate": "05/31/80",
                     "venue": "Metropolitan Sports Center",
                     "city": "Bloomington",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -795,7 +818,8 @@
                     "showdate": "05/??/80",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway>Promised Land",
                         "Terrapin Station>Playin In The Band>Uncle John's Band",
@@ -820,7 +844,8 @@
                     "showdate": "05/??/80",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama > Promised",
                         "Terrapin > Playing > Uncle John's Band",
@@ -845,7 +870,8 @@
                     "showdate": "05/??/80",
                     "venue": "Various",
                     "city": "Various",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -864,7 +890,8 @@
                     "showdate": "06/05/80",
                     "venue": "Compton Terrace Amphitheatre",
                     "city": "Tempe",
-                    "state": "AZ",
+                    "state_abbrev": "AZ",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -901,7 +928,8 @@
                     "showdate": "06/07/80",
                     "venue": "Folsom Field, U. of Colorado",
                     "city": "Boulder",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil-> El Paso-> Mama Tried",
@@ -940,7 +968,8 @@
                     "showdate": "06/08/80",
                     "venue": "Folsom Field, U. of Colorado",
                     "city": "Boulder",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Uncle John's Band-> Playin' In The Band-> Uncle John's Band",
                         "Me & My Uncle-> Mexicali Blues",
@@ -971,7 +1000,8 @@
                     "showdate": "06/12/80",
                     "venue": "Portland Memorial Coliseum",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O-> El Paso",
@@ -1004,7 +1034,8 @@
                     "showdate": "06/13/80",
                     "venue": "Seattle Center Arena",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree",
@@ -1039,7 +1070,8 @@
                     "showdate": "06/14/80",
                     "venue": "Spokane Coliseum",
                     "city": "Spokane",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> El Paso",
@@ -1076,7 +1108,8 @@
                     "showdate": "06/19/80",
                     "venue": "West High Auditorium",
                     "city": "Anchorage",
-                    "state": "AK",
+                    "state_abbrev": "AK",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other-> El Paso",
@@ -1111,7 +1144,8 @@
                     "showdate": "06/20/80",
                     "venue": "West High Auditorium",
                     "city": "Anchorage",
-                    "state": "AK",
+                    "state_abbrev": "AK",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower-> Mama Tried-> Mexicali Blues",
                         "Friend Of The Devil",
@@ -1142,7 +1176,8 @@
                     "showdate": "06/21/80",
                     "venue": "West High Auditorium",
                     "city": "Anchorage",
-                    "state": "AK",
+                    "state_abbrev": "AK",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree-> Minglewood Blues",
                         "Candyman",
@@ -1179,7 +1214,8 @@
                     "showdate": "06/29/80",
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway",
                         "Promised Land",
@@ -1216,7 +1252,8 @@
                     "showdate": "07/01/80",
                     "venue": "San Diego Sports Arena",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower-> El Paso",
                         "Tennessee Jed",
@@ -1247,7 +1284,8 @@
                     "showdate": "08/16/80",
                     "venue": "Southern Illinois University",
                     "city": "Edwardsville",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway &gt; Promised Land",
                         "They Love Each Other",
@@ -1286,7 +1324,8 @@
                     "showdate": "08/17/80",
                     "venue": "Kansas City Municipal Auditorium Arena",
                     "city": "Kansas City",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "Mama Tried-> Mexicali Blues",
@@ -1321,7 +1360,8 @@
                     "showdate": "08/19/80",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Minglewood Blues",
                         "Dire Wolf",
@@ -1358,7 +1398,8 @@
                     "showdate": "08/20/80",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Loser",
@@ -1393,7 +1434,8 @@
                     "showdate": "08/21/80",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Minglewood Blues",
                         "High Time",
@@ -1428,7 +1470,8 @@
                     "showdate": "08/23/80",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman",
@@ -1463,7 +1506,8 @@
                     "showdate": "08/24/80",
                     "venue": "Grand Center",
                     "city": "Grand Rapids",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1502,7 +1546,8 @@
                     "showdate": "08/26/80",
                     "venue": "Cleveland Public Hall",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree-> El Paso",
                         "Loser",
@@ -1535,7 +1580,8 @@
                     "showdate": "08/27/80",
                     "venue": "Pine Knob Music Theater",
                     "city": "Clarkston",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1574,7 +1620,8 @@
                     "showdate": "08/29/80",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman-> Me & My Uncle-> Big River",
@@ -1607,7 +1654,8 @@
                     "showdate": "08/30/80",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -1646,7 +1694,8 @@
                     "showdate": "08/31/80",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -1683,7 +1732,8 @@
                     "showdate": "09/02/80",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree-> El Paso",
@@ -1714,7 +1764,8 @@
                     "showdate": "09/03/80",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -1747,7 +1798,8 @@
                     "showdate": "09/04/80",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -1786,7 +1838,8 @@
                     "showdate": "09/06/80",
                     "venue": "State Fairgrounds",
                     "city": "Lewiston",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Sugaree",
@@ -1825,7 +1878,8 @@
                     "showdate": "09/25/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bird Song",
                         "I've Been All Around This World",
@@ -1871,7 +1925,8 @@
                     "showdate": "09/26/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "To Lay Me Down",
                         "On The Road Again",
@@ -1917,7 +1972,8 @@
                     "showdate": "09/27/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "The Race is On",
@@ -1969,7 +2025,8 @@
                     "showdate": "09/29/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "On The Road Again",
@@ -2018,7 +2075,8 @@
                     "showdate": "09/30/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "Jack A Roe",
@@ -2067,7 +2125,8 @@
                     "showdate": "10/02/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dark Hollow",
                         "Iko Iko",
@@ -2113,7 +2172,8 @@
                     "showdate": "10/03/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "Monkey & The Engineer",
@@ -2162,7 +2222,8 @@
                     "showdate": "10/04/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Deep Elem Blues",
                         "The Race is On",
@@ -2211,7 +2272,8 @@
                     "showdate": "10/06/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "Cassidy",
@@ -2260,7 +2322,8 @@
                     "showdate": "10/07/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Dark Hollow",
@@ -2306,7 +2369,8 @@
                     "showdate": "10/09/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "Dark Hollow",
@@ -2355,7 +2419,8 @@
                     "showdate": "10/10/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "It Must Have Been The Roses",
@@ -2404,7 +2469,8 @@
                     "showdate": "10/11/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "Dark Hollow",
@@ -2453,7 +2519,8 @@
                     "showdate": "10/13/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "Bird Song",
@@ -2499,7 +2566,8 @@
                     "showdate": "10/14/80",
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "Dark Hollow",
@@ -2548,7 +2616,8 @@
                     "showdate": "10/18/80",
                     "venue": "Saenger Performing Arts Center",
                     "city": "New Orleans",
-                    "state": "LA",
+                    "state_abbrev": "LA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "On The Road Again",
@@ -2594,7 +2663,8 @@
                     "showdate": "10/19/80",
                     "venue": "Saenger Performing Arts Center",
                     "city": "New Orleans",
-                    "state": "LA",
+                    "state_abbrev": "LA",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "Jack A Roe",
@@ -2640,7 +2710,8 @@
                     "showdate": "10/22/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "On The Road Again",
@@ -2683,7 +2754,8 @@
                     "showdate": "10/23/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "On The Road Again",
                         "It Must Have Been The Roses",
@@ -2729,7 +2801,8 @@
                     "showdate": "10/25/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Deep Elem Blues",
                         "The Race is On",
@@ -2778,7 +2851,8 @@
                     "showdate": "10/26/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Dark Hollow",
@@ -2821,7 +2895,8 @@
                     "showdate": "10/27/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "The Race is On",
                         "I've Been All Around This World",
@@ -2867,7 +2942,8 @@
                     "showdate": "10/29/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "On The Road Again",
@@ -2910,7 +2986,8 @@
                     "showdate": "10/30/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Deep Elem Blues",
                         "Dark Hollow",
@@ -2953,7 +3030,8 @@
                     "showdate": "10/31/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Heaven Help The Fool",
                         "Sage And Spirit",
@@ -2996,7 +3074,8 @@
                     "showdate": "10/??/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3015,7 +3094,8 @@
                     "showdate": "10/??/80",
                     "venue": "Radio City Music Hall",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "(Acoustic)\r\nBird Song 22 Oct 1980\r\nOn The Road Again 22 Oct 1980 \r\nTo Lay Me Down 22 Oct 1980 \r\nRipple 22 Oct 1980 \r\n(Electric)\r\nMe And My Uncle 31 Oct 1980 \r\nMexicali Blues 31 Oct 1980 \r\nRamble On Rose 31 Oct 1980 \r\nLittle Red Rooster 31 Oct 1980"
                     ],
@@ -3038,7 +3118,8 @@
                     "showdate": "11/17/80",
                     "venue": "Rambler Room-Loyola University",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3057,7 +3138,8 @@
                     "showdate": "11/26/80",
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -3094,7 +3176,8 @@
                     "showdate": "11/28/80",
                     "venue": "Lakeland Civic Center",
                     "city": "Lakeland",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -3129,7 +3212,8 @@
                     "showdate": "11/29/80",
                     "venue": "Alligator Alley Gymnasium, U of Florida",
                     "city": "Gainesville",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman",
@@ -3162,7 +3246,8 @@
                     "showdate": "11/30/80",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Loser",
@@ -3201,7 +3286,8 @@
                     "showdate": "12/06/80",
                     "venue": "Mill Valley Recreation Center",
                     "city": "Mill Valley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf\nOn The Road Again\nI've Been All Around This World\nMonkey And The Engineer\nJack A Roe\nCassidy\nBird Song\nOh Babe",
                         "It Ain't No Lie\nRipple"
@@ -3223,7 +3309,8 @@
                     "showdate": "12/12/80",
                     "venue": "Swing Auditorium",
                     "city": "San Bernardino",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -3254,7 +3341,8 @@
                     "showdate": "12/13/80",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> Sugaree-> CC Rider",
                         "To Lay Me Down-> Minglewood Blues",
@@ -3283,7 +3371,8 @@
                     "showdate": "12/14/80",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Althea-> Little Red Rooster*",
@@ -3318,7 +3407,8 @@
                     "showdate": "12/26/80",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -3353,7 +3443,8 @@
                     "showdate": "12/27/80",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree-> Minglewood Blues",
@@ -3390,7 +3481,8 @@
                     "showdate": "12/28/80",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Me & My Uncle-> Big River",
@@ -3423,7 +3515,8 @@
                     "showdate": "12/30/80",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Friend Of The Devil",
@@ -3458,7 +3551,8 @@
                     "showdate": "12/31/80",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dire Wolf",
                         "On The Road Again",
@@ -3507,7 +3601,8 @@
                     "showdate": "??/??/80",
                     "venue": "Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Reckoning Mix:\n\nDire Wolf\nThe Race is On \nOh Babe It Ain't No Lie \nIt Must Have Been the Roses \nDark Hollow \nChina Doll \nI've Been All Around this World \nMonkey and the Engineer \nJackaroe \nDeep Elem Blues \nCassidy \nTo Lay Me Down \nRosalie McFall \nOn the Road Again \nBirdsong \nRipple"
                     ],
@@ -3528,7 +3623,8 @@
                     "showdate": "??/??/80",
                     "venue": "\"The Dead Non-Stop\"",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Bird Song\nOn The Road Again\nTo Lay Me Down\nRipple\nDon't Ease Me In\nLost Sailor\nSaint Of Circumstance\n-\nFranklin's Tower\nDrums\nSpace\nFire On The Mountain\nNot Fade Away\nGood Lovin'"
                     ],

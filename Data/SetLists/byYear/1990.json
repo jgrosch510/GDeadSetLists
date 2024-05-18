@@ -11,7 +11,8 @@
                     "showdate": "02/25/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Jack A Roe",
@@ -48,7 +49,8 @@
                     "showdate": "02/26/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Peggy-O",
@@ -81,7 +83,8 @@
                     "showdate": "02/27/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -116,7 +119,8 @@
                     "showdate": "03/14/90",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain &amp; Snow\nFeel Like A Stranger\nNever Trust A Woman\nMama Tried\nBig River\nLoose Lucy\nStuck Insdie Of Mobile With The Memphis Blues Again\nRow Jimmy\nLet It Grow"
                     ],
@@ -139,7 +143,8 @@
                     "showdate": "03/15/90",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw\nSugaree\nEasy To Love You\nWalkin' Blues\nAlthea\nJust Like Tom Thumb's Blues\nTennessee Jed\nCassidy\nDon't Ease Me In"
                     ],
@@ -162,7 +167,8 @@
                     "showdate": "03/16/90",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll\nTouch Of Grey\nNew Minglewood Blues\nPeggy-O\nQueen Jane Approximately\nLoser\nBlack Throated Wind\nBird Song\nBlow Away"
                     ],
@@ -185,7 +191,8 @@
                     "showdate": "03/18/90",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -224,7 +231,8 @@
                     "showdate": "03/19/90",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Bertha",
@@ -261,7 +269,8 @@
                     "showdate": "03/21/90",
                     "venue": "Copps Coliseum",
                     "city": "Hamilton",
-                    "state": "ON",
+                    "state_abbrev": "ON",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -298,7 +307,8 @@
                     "showdate": "03/22/90",
                     "venue": "Copps Coliseum",
                     "city": "Hamilton",
-                    "state": "ON",
+                    "state_abbrev": "ON",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "West L.A. Fadeaway",
@@ -335,7 +345,8 @@
                     "showdate": "03/24/90",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
@@ -370,7 +381,8 @@
                     "showdate": "03/25/90",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Touch Of Gray",
@@ -407,7 +419,8 @@
                     "showdate": "03/26/90",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Dupree's Diamond Blues",
@@ -444,7 +457,8 @@
                     "showdate": "03/28/90",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Minglewood Blues",
@@ -481,7 +495,8 @@
                     "showdate": "03/29/90",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -516,7 +531,8 @@
                     "showdate": "03/30/90",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -551,7 +567,8 @@
                     "showdate": "04/01/90",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -590,7 +607,8 @@
                     "showdate": "04/02/90",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Mississippi Half Step-> The Weight",
@@ -623,7 +641,8 @@
                     "showdate": "04/03/90",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Hell in the Bucket > Sugaree",
@@ -654,7 +673,8 @@
                     "showdate": "05/05/90",
                     "venue": "Cal State Dominguez Hills",
                     "city": "Carson",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "The Race is On",
@@ -693,7 +713,8 @@
                     "showdate": "05/06/90",
                     "venue": "Cal State Dominguez Hills",
                     "city": "Carson",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Feel Like A Stranger",
@@ -730,7 +751,8 @@
                     "showdate": "06/08/90",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -767,7 +789,8 @@
                     "showdate": "06/09/90",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -806,7 +829,8 @@
                     "showdate": "06/10/90",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Jack Straw",
@@ -843,7 +867,8 @@
                     "showdate": "06/15/90",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Minglewood Blues",
@@ -878,7 +903,8 @@
                     "showdate": "06/16/90",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll-> Truckin'-> Touch Of Gray",
                         "Mama Tried-> Big River",
@@ -911,7 +937,8 @@
                     "showdate": "06/17/90",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -944,7 +971,8 @@
                     "showdate": "06/23/90",
                     "venue": "Autzen Stadium - University of Oregon",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> West L.A. Fadeaway",
                         "Me & My Uncle",
@@ -981,7 +1009,8 @@
                     "showdate": "06/24/90",
                     "venue": "Autzen Stadium, U. of Oregon",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "When I Paint My Masterpiece",
@@ -1016,7 +1045,8 @@
                     "showdate": "07/04/90",
                     "venue": "Sandstone Ampitheatre",
                     "city": "Bonner Springs",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -1053,7 +1083,8 @@
                     "showdate": "07/06/90",
                     "venue": "Cardinal Stadium",
                     "city": "Louisville",
-                    "state": "KY",
+                    "state_abbrev": "KY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Easy To Love You",
@@ -1090,7 +1121,8 @@
                     "showdate": "07/08/90",
                     "venue": "Three Rivers Stadium",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Jack A Roe",
@@ -1125,7 +1157,8 @@
                     "showdate": "07/10/90",
                     "venue": "Carter-Finley Stadium",
                     "city": "Raleigh",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw*",
                         "Loser",
@@ -1162,7 +1195,8 @@
                     "showdate": "07/12/90",
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -1201,7 +1235,8 @@
                     "showdate": "07/14/90",
                     "venue": "Foxboro Stadium",
                     "city": "Foxboro",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street\nWalkin' Blues\nFar From Me\nCandyman\nStuck Inside Of Mobile With The Memphis Blues Again\nRamble On Rose\nOne More Saturday Night"
                     ],
@@ -1224,7 +1259,8 @@
                     "showdate": "07/16/90",
                     "venue": "Rich Stadium",
                     "city": "Orchard Park",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket\nMississippi Half-Step Uptown Toodleloo\nBlow Away\nMama Tried\nMexicali Blues\nLoose Lucy\nIt's All Over Now\nHigh Time\nLet It Grow\nDon't Ease Me In"
                     ],
@@ -1247,7 +1283,8 @@
                     "showdate": "07/18/90",
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-&gt; Slipknot!",
                         "Franklin's Tower",
@@ -1284,7 +1321,8 @@
                     "showdate": "07/19/90",
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1317,7 +1355,8 @@
                     "showdate": "07/21/90",
                     "venue": "World Music Theater",
                     "city": "Tinley Park",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Greatest Story Ever Told",
@@ -1354,7 +1393,8 @@
                     "showdate": "07/22/90",
                     "venue": "World Music Theater",
                     "city": "Tinley Park",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Box Of Rain",
                         "Feel Like A Stranger",
@@ -1393,7 +1433,8 @@
                     "showdate": "07/23/90",
                     "venue": "World Music Theater",
                     "city": "Tinley Park",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Picasso Moon",
@@ -1426,7 +1467,8 @@
                     "showdate": "09/07/90",
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -1465,7 +1507,8 @@
                     "showdate": "09/08/90",
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-&gt;\nSugaree\nMinglewood Blues\nFriend Of The Devil\nQueen Jane Approximately\nLoser\nCassidy\nDeal"
                     ],
@@ -1488,7 +1531,8 @@
                     "showdate": "09/10/90",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -1523,7 +1567,8 @@
                     "showdate": "09/11/90",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Bertha-> Greatest Story Ever Told",
@@ -1560,7 +1605,8 @@
                     "showdate": "09/12/90",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step> Walkin' Blues",
                         "They Love Each Other",
@@ -1595,7 +1641,8 @@
                     "showdate": "09/14/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree",
@@ -1632,7 +1679,8 @@
                     "showdate": "09/15/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -1669,7 +1717,8 @@
                     "showdate": "09/16/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Cold Rain & Snow",
@@ -1706,7 +1755,8 @@
                     "showdate": "09/18/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -1743,7 +1793,8 @@
                     "showdate": "09/19/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -1776,7 +1827,8 @@
                     "showdate": "09/20/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Althea",
@@ -1811,7 +1863,8 @@
                     "showdate": "09/28/90",
                     "venue": "Front Street",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "St. of Cicumstance",
                         "Stander on the Mountain",
@@ -1834,7 +1887,8 @@
                     "showdate": "10/13/90",
                     "venue": "Ice Stadium",
                     "city": "Stockholm",
-                    "state": "Sweden",
+                    "state_abbrev": "Sweden",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Feel Like A Stranger",
@@ -1871,7 +1925,8 @@
                     "showdate": "10/17/90",
                     "venue": "Gruga Halle",
                     "city": "Essen",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -1912,7 +1967,8 @@
                     "showdate": "10/19/90",
                     "venue": "Internationales Congress Centrum",
                     "city": "Berlin",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Shakedown Street",
@@ -1949,7 +2005,8 @@
                     "showdate": "10/20/90",
                     "venue": "Internationales Congress Centrum",
                     "city": "Berlin",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Mississippi Half Step",
@@ -1988,7 +2045,8 @@
                     "showdate": "10/22/90",
                     "venue": "Festhalle",
                     "city": "Frankfurt",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha> Greatest Story Ever Told",
                         "Peggy-O",
@@ -2023,7 +2081,8 @@
                     "showdate": "10/24/90",
                     "venue": "Sportsahalle",
                     "city": "Hamburg",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Cold Rain & Snow",
@@ -2060,7 +2119,8 @@
                     "showdate": "10/27/90",
                     "venue": "The Zenith",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -2099,7 +2159,8 @@
                     "showdate": "10/28/90",
                     "venue": "The Zenith",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -2140,7 +2201,8 @@
                     "showdate": "10/30/90",
                     "venue": "Wembley Arena",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -2175,7 +2237,8 @@
                     "showdate": "10/31/90",
                     "venue": "Wembley Arena",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -2212,7 +2275,8 @@
                     "showdate": "11/01/90",
                     "venue": "Wembley Arena",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Friend Of The Devil",
@@ -2249,7 +2313,8 @@
                     "showdate": "12/03/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Feel Like A Stranger",
@@ -2286,7 +2351,8 @@
                     "showdate": "12/04/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Mississippi Half Step",
@@ -2325,7 +2391,8 @@
                     "showdate": "12/08/90",
                     "venue": "Compton Terrace Amphitheatre",
                     "city": "Chandler",
-                    "state": "AZ",
+                    "state_abbrev": "AZ",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Picasso Moon",
@@ -2362,7 +2429,8 @@
                     "showdate": "12/09/90",
                     "venue": "Compton Terrace",
                     "city": "Chandler",
-                    "state": "AZ",
+                    "state_abbrev": "AZ",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Bertha",
@@ -2399,7 +2467,8 @@
                     "showdate": "12/12/90",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Candyman",
@@ -2434,7 +2503,8 @@
                     "showdate": "12/13/90",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "Wang Dang Doodle",
@@ -2469,7 +2539,8 @@
                     "showdate": "12/14/90",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Picasso Moon",
@@ -2506,7 +2577,8 @@
                     "showdate": "12/27/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -2543,7 +2615,8 @@
                     "showdate": "12/28/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -2576,7 +2649,8 @@
                     "showdate": "12/30/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Feel Like A Stranger",
@@ -2613,7 +2687,8 @@
                     "showdate": "12/31/90",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Jack A Roe",
@@ -2648,7 +2723,8 @@
                     "showdate": "??/??/90",
                     "venue": "Compilation",
                     "city": "Compilation",
-                    "state": "various",
+                    "state_abbrev": "various",
+"country_abbrev":"US",
                     "set1": [
                         "Carib Jam >\r\nSpanish Lady Jam >\r\nNeal@TheWheel Jam >\r\nFaded Jam >\r\nFoolish Jam >\r\nFarewell Terrapin Jam >\r\nPlaying In The Jam",
                         "pt. 1 >\r\nGoing Home Jam >\r\nBass Jam >\r\nScarlet Jam >\r\nBluesy Jam >\r\nPlaying In The Jam",
@@ -2671,7 +2747,8 @@
                     "showdate": "??/??/90",
                     "venue": "Best of Brent Spring 1990",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "1990.03.18 Hartford Civic Center - Hartford",
                         "CT\r\nShakedown Street\r\nFriend of the Devil\r\n\r\n1990.03.21 Copps Coliseum - Hamilton",
@@ -2708,7 +2785,8 @@
                     "showdate": "??/??/90",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

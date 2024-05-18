@@ -11,7 +11,8 @@
                     "showdate": "01/02/74",
                     "venue": "Bootleg \"Unsurpassed Vol. 8\"",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "1974 \"Mars Hotel\" Rehearsals \r\n1. Pride Of Cucamonga #1 > Pride Of Cucamonga #2 6:40 \r\n2. Money Money 5:41 \r\n3.Unbroken Chain #1 > \r\nUnbroken Chain #2 8:03 \r\n4. Unbroken Chain (acoustic) 6:19 Phil Teaching the Band!\r\n1974 \"Mars Hotel\" Demos ; All Instrumental \r\n5. Unbroken Chain 6:46 \r\n6. Scarlet Begonias 8:45 \r\n7. Pride Of Cucamonga 5:00 \r\n8. Ship Of Fools 4:25 \r\n9. Money Money 7:54 \r\n10. Loose Lucy 6:21 \r\nTotal Time 65:59"
                     ],
@@ -32,7 +33,8 @@
                     "showdate": "02/02/74",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -51,7 +53,8 @@
                     "showdate": "02/22/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "U.S. Blues",
                         "Beat It On Down The Line",
@@ -109,7 +112,8 @@
                     "showdate": "02/23/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Around & Around",
                         "Dire Wolf",
@@ -152,7 +156,8 @@
                     "showdate": "02/24/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "U.S. Blues",
                         "Mexicali Blues",
@@ -193,7 +198,8 @@
                     "showdate": "02/24/74",
                     "venue": "Winterland Arena- soundcheck",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let It Grow",
                         "They Love Each Other Let It Grow",
@@ -219,7 +225,8 @@
                     "showdate": "03/23/74",
                     "venue": "Cow Palace",
                     "city": "Daly City",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "U.S. Blues",
                         "Promised Land",
@@ -268,7 +275,8 @@
                     "showdate": "03/25/74",
                     "venue": "Wally Heiders Studio (Mars Hotel outtakes)",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "-Unbroken Chain Instrumental (Reel wow & fluter",
                         "Minor distortion)\r\n-Scarlet Begonias Instrumental (Drop Out 2:36)\r\n-Pride Of Cucamongo Instrumental\r\n-Ship Of Fools Instrumental w/ Acoustic\r\n-Money Honey Instrumental\r\n-Loose Lucy Instrumental\r\n-US Blues Instrumental\r\nFiller:\r\nEarly Crazy Fingers 6-3-75 Ace's Mill Valley"
@@ -290,7 +298,8 @@
                     "showdate": "05/12/74",
                     "venue": "University of Nevada",
                     "city": "Reno",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Beer Barrel Polka",
@@ -337,7 +346,8 @@
                     "showdate": "05/14/74",
                     "venue": "Adams Field House, U of Montana",
                     "city": "Missoula",
-                    "state": "MT",
+                    "state_abbrev": "MT",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -382,7 +392,8 @@
                     "showdate": "05/17/74",
                     "venue": "P.N.E. Coliseum",
                     "city": "Vancouver",
-                    "state": "BC",
+                    "state_abbrev": "BC",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -429,7 +440,8 @@
                     "showdate": "05/19/74",
                     "venue": "Portland Memorial Coliseum",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half-Step Uptown Toodeloo",
                         "Mexicali Blues",
@@ -480,7 +492,8 @@
                     "showdate": "05/21/74",
                     "venue": "Edmundson Pavilion, U of Washington",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Me & My Uncle",
                         "Brown Eyed Women",
@@ -527,7 +540,8 @@
                     "showdate": "05/25/74",
                     "venue": "Campus Stadium, UC Santa Barbara",
                     "city": "Goleta",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "U.S. Blues",
                         "Mexicali Blues",
@@ -572,7 +586,8 @@
                     "showdate": "06/08/74",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -615,7 +630,8 @@
                     "showdate": "06/16/74",
                     "venue": "Des Moines State Fair Grandstand",
                     "city": "Des Moines",
-                    "state": "IA",
+                    "state_abbrev": "IA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -673,7 +689,8 @@
                     "showdate": "06/18/74",
                     "venue": "Freedom Hall",
                     "city": "Louisville",
-                    "state": "KY",
+                    "state_abbrev": "KY",
+"country_abbrev":"US",
                     "set1": [
                         "Soundcheck:\n\nThey Love Each Other",
                         "U.S. Blues\n\nSet 1:\n\nPromised Land",
@@ -714,7 +731,8 @@
                     "showdate": "06/20/74",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "U.S. Blues",
                         "Beat It On Down The Line",
@@ -757,7 +775,8 @@
                     "showdate": "06/22/74",
                     "venue": "Jai-Alai Fronton",
                     "city": "Miami",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Bertha-> Greatest Story Ever Told",
@@ -802,7 +821,8 @@
                     "showdate": "06/23/74",
                     "venue": "Jai-Alai Fronton",
                     "city": "Miami",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Ramble On Rose",
                         "Black Throated Wind",
@@ -845,7 +865,8 @@
                     "showdate": "06/26/74",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Big River",
                         "Brown Eyed Women",
@@ -892,7 +913,8 @@
                     "showdate": "06/28/74",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> It Must Have Been The Roses-> Jack Straw",
                         "Beat It On Down The Line",
@@ -933,7 +955,8 @@
                     "showdate": "06/30/74",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Black Throated Wind",
@@ -972,7 +995,8 @@
                     "showdate": "07/19/74",
                     "venue": "Selland Arena",
                     "city": "Fresno",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -1013,7 +1037,8 @@
                     "showdate": "07/21/74",
                     "venue": "Hollywood Bowl",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -1052,7 +1077,8 @@
                     "showdate": "07/25/74",
                     "venue": "International Amphitheater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Me & My Uncle",
                         "Loose Lucy",
@@ -1095,7 +1121,8 @@
                     "showdate": "07/27/74",
                     "venue": "Civic Center",
                     "city": "Roanoke",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha\nMexicali Blues\nRow Jimmy\nJack Straw\nMississippi Half-Step Uptown Toodleoo &gt;\nIt Must Have Been The Roses\nMe And Bobby McGee\nTennessee Jed\nPlayin' In The Band"
                     ],
@@ -1118,7 +1145,8 @@
                     "showdate": "07/29/74",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1161,7 +1189,8 @@
                     "showdate": "07/31/74",
                     "venue": "Dillon Stadium",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Scarlet Begonias",
                         "Me And My Uncle",
@@ -1213,7 +1242,8 @@
                     "showdate": "08/04/74",
                     "venue": "Philadelphia Civic Arena",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -1258,7 +1288,8 @@
                     "showdate": "08/05/74",
                     "venue": "Philadelphia Civic Arena",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -1301,7 +1332,8 @@
                     "showdate": "08/06/74",
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -1342,7 +1374,8 @@
                     "showdate": "09/09/74",
                     "venue": "Alexandra Palace",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Promised Land",
@@ -1379,7 +1412,8 @@
                     "showdate": "09/10/74",
                     "venue": "Alexandra Palace",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Around & Around",
                         "Mississippi Half Step",
@@ -1420,7 +1454,8 @@
                     "showdate": "09/11/74",
                     "venue": "Alexandra Palace",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Scarlet Begonias",
                         "Mexicali Blues",
@@ -1465,7 +1500,8 @@
                     "showdate": "09/14/74",
                     "venue": "Olympia Halle",
                     "city": "Munich",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1510,7 +1546,8 @@
                     "showdate": "09/18/74",
                     "venue": "Parc des Expositions",
                     "city": "Dijon",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Uncle John's Band",
                         "Jack Straw",
@@ -1555,7 +1592,8 @@
                     "showdate": "09/20/74",
                     "venue": "Palais Des Sports",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Cumberland Blues",
                         "Jack Straw",
@@ -1598,7 +1636,8 @@
                     "showdate": "09/21/74",
                     "venue": "Palais Des Sports",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -1653,7 +1692,8 @@
                     "showdate": "09/??/74",
                     "venue": "Alexandra Palace (Dick's Picks 7)",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Scarlet Begonias\r\nMexicali Blues\r\nRow Jimmy\r\nBlack-Throated Wind\r\nMississippi Half-Step Uptown Toodeloo\r\nBeat It On Down The Line\r\nTennessee Jed\r\nPlaying In The Band"
                     ],
@@ -1678,7 +1718,8 @@
                     "showdate": "09/??/74",
                     "venue": "Alexandra Palace",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1697,7 +1738,8 @@
                     "showdate": "10/16/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Jack Straw",
@@ -1742,7 +1784,8 @@
                     "showdate": "10/17/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -1785,7 +1828,8 @@
                     "showdate": "10/18/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Around & Around",
                         "Sugaree",
@@ -1846,7 +1890,8 @@
                     "showdate": "10/19/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Me & My Uncle",
@@ -1893,7 +1938,8 @@
                     "showdate": "10/20/74",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mama Tried",
@@ -1948,7 +1994,8 @@
                     "showdate": "10/??/74",
                     "venue": "Winterland Arena",
                     "city": "San Franciso",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "US Blues \r\nOne More Saturday Night\r\nChina Cat Sunflower> \r\nI Know You Rider\r\nEyes of the World> \r\nChina Doll \r\nPlaying In The Band \r\nScarlet Begonias \r\nHe?s Gone> \r\nJam>\r\nWeirdness>\r\nThe Other One>\r\nSpanish Jam>\r\nMind Left Body Jam>\r\nThe Other One>\r\nStella Blue\r\nCasey Jones\r\nUncle John?s Band \r\nBig Railroad Blues \r\nTomorrow Is Forever \r\nSugar Magnolia> \r\nHe?s Gone> \r\nCaution Jam> \r\nDrums> \r\nSpace>\r\nTruckin?>\r\nBlack Peter \r\nSunshine Daydream\r\nWeather Report Suite \r\nJam> \r\nDark Star>\r\nMorning Dew \r\nNot Fade Away> \r\nGoin? Down The Road Feeling Bad>\r\nSoundcheck\r\nPlaying In The Band> \r\nDrums>\r\nNot Fade Away>\r\nDrums>\r\nThe Other One>\r\nWharf Rat>\r\nPlaying In The Band\r\nJohnny B. Goode \r\nMississippi Half Step Uptown Toodeloo> \r\nWe Bid You Goodnight"
                     ],
@@ -1969,7 +2016,8 @@
                     "showdate": "12/01/74",
                     "venue": "Studio",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Pride Of Cucamonga",
                         "Money Money",
@@ -2006,7 +2054,8 @@
                     "showdate": "12/??/74",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2025,7 +2074,8 @@
                     "showdate": "??/??/74",
                     "venue": "China-Rider Compilation",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "2-22 S:RM:P:D:CD",
                         "2-24 S:RM:D:CD",
@@ -2054,7 +2104,8 @@
                     "showdate": "??/??/74",
                     "venue": "Studio (Mars Hotel Outtakes)",
                     "city": "Unknown",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Pride Of Cucamonga [6:40]\r\nMoney Money [5:41]\r\nUnbroken Chain [8:03]\r\nUnbroken Chain [6:19]\r\nUnbroken Chain [6:47]\r\nScarlet Begonias [4:20]\r\nPride Of Cucamonga [4:24]\r\nShip Of Fools [5:00]\r\nMoney Money [4:25]\r\nLoose Lucy [3:14]\r\nUS Blues [4:40]\r\nCrazy Fingers [6:22]"
                     ],

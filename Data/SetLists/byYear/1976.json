@@ -11,7 +11,8 @@
                     "showdate": "05/06/76",
                     "venue": "Studio",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -30,7 +31,8 @@
                     "showdate": "05/28/76",
                     "venue": "Le Club Front Studios",
                     "city": "San Rafael",
-                    "state": "Ca",
+                    "state_abbrev": "Ca",
+"country_abbrev":"US",
                     "set1": [
                         "Lazy Lightning x3\r\nAttics of my life x3\r\ncassidy x2\r\nCosmic Charlie"
                     ],
@@ -51,7 +53,8 @@
                     "showdate": "05/29/76",
                     "venue": "Studio Reheasal",
                     "city": "Novato",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Eyes of the World\r\nPlayin' in the Band\r\nJam\r\nPlayin' in the Band\r\nEyes of the World (2x)\r\nLazy Lightning"
                     ],
@@ -72,7 +75,8 @@
                     "showdate": "05/30/76",
                     "venue": "Club Le Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Wharf Rat (2x)\r\nThe Wheel\r\nLazy Lightning\r\nCandyman"
                     ],
@@ -93,7 +97,8 @@
                     "showdate": "06/03/76",
                     "venue": "Paramount Theatre",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "Cassidy",
@@ -136,7 +141,8 @@
                     "showdate": "06/04/76",
                     "venue": "Paramount Theatre",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -181,7 +187,8 @@
                     "showdate": "06/09/76",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Cassidy",
@@ -222,7 +229,8 @@
                     "showdate": "06/10/76",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -267,7 +275,8 @@
                     "showdate": "06/11/76",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "Mama Tried",
@@ -310,7 +319,8 @@
                     "showdate": "06/12/76",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Samson & Delilah",
                         "Row Jimmy",
@@ -349,7 +359,8 @@
                     "showdate": "06/14/76",
                     "venue": "Beacon Theatre",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mama Tried",
@@ -390,7 +401,8 @@
                     "showdate": "06/15/76",
                     "venue": "Beacon Theatre",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -429,7 +441,8 @@
                     "showdate": "06/17/76",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Big River",
@@ -466,7 +479,8 @@
                     "showdate": "06/18/76",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -509,7 +523,8 @@
                     "showdate": "06/19/76",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower-> The Music Never Stopped",
                         "Brown Eyed Women",
@@ -544,7 +559,8 @@
                     "showdate": "06/21/76",
                     "venue": "The Tower Theatre",
                     "city": "Upper Darby",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -587,7 +603,8 @@
                     "showdate": "06/22/76",
                     "venue": "The Tower Theatre",
                     "city": "Upper Darby",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "U.S. Blues",
                         "The Music Never Stopped",
@@ -628,7 +645,8 @@
                     "showdate": "06/23/76",
                     "venue": "The Tower Theatre",
                     "city": "Upper Darby",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -671,7 +689,8 @@
                     "showdate": "06/24/76",
                     "venue": "The Tower Theatre",
                     "city": "Upper Darby",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Big River",
@@ -712,7 +731,8 @@
                     "showdate": "06/26/76",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -755,7 +775,8 @@
                     "showdate": "06/27/76",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Cassidy",
@@ -794,7 +815,8 @@
                     "showdate": "06/28/76",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land\r\nThey Love Each Other\r\nCassidy\r\nTennessee Jed\r\nLooks Like Rain\r\nScarlet Begonias\r\nLazy Lightnin' -&gt;\r\nSupplication\r\nHigh Time\r\nThe Music Never Stopped"
                     ],
@@ -817,7 +839,8 @@
                     "showdate": "06/29/76",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Tennessee Jed",
                         "Cassidy",
@@ -860,7 +883,8 @@
                     "showdate": "07/12/76",
                     "venue": "Orpheum Theatre",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Brown Eyed Women",
@@ -915,7 +939,8 @@
                     "showdate": "07/13/76",
                     "venue": "Orpheum Theatre",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Big River",
@@ -946,7 +971,8 @@
                     "showdate": "07/14/76",
                     "venue": "Orpheum Theatre",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -985,7 +1011,8 @@
                     "showdate": "07/16/76",
                     "venue": "Orpheum Theatre",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Cassidy",
@@ -1026,7 +1053,8 @@
                     "showdate": "07/17/76",
                     "venue": "Orpheum Theatre",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -1065,7 +1093,8 @@
                     "showdate": "07/18/76",
                     "venue": "Orpheum Theatre",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Cassidy",
@@ -1106,7 +1135,8 @@
                     "showdate": "08/02/76",
                     "venue": "Colt Park",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -1153,7 +1183,8 @@
                     "showdate": "08/04/76",
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Minglewood Blues",
@@ -1192,7 +1223,8 @@
                     "showdate": "09/23/76",
                     "venue": "Cameron Indoor Stadium, Duke U",
                     "city": "Durham",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -1231,7 +1263,8 @@
                     "showdate": "09/24/76",
                     "venue": "William and Mary College Hall",
                     "city": "Williamsburg",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -1270,7 +1303,8 @@
                     "showdate": "09/25/76",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Minglewood Blues",
@@ -1313,7 +1347,8 @@
                     "showdate": "09/27/76",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1356,7 +1391,8 @@
                     "showdate": "09/28/76",
                     "venue": "Onongada County War Memorial",
                     "city": "Syracuse",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Big River",
@@ -1397,7 +1433,8 @@
                     "showdate": "09/30/76",
                     "venue": "Mershon Auditorium, OSU",
                     "city": "Columbus",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -1436,7 +1473,8 @@
                     "showdate": "10/01/76",
                     "venue": "Market Square Arena",
                     "city": "Indianapolis",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mama Tried",
@@ -1477,7 +1515,8 @@
                     "showdate": "10/02/76",
                     "venue": "Riverfront Arena",
                     "city": "Cincinnati",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "It's All Over Now",
                         "Brown Eyed Women",
@@ -1508,7 +1547,8 @@
                     "showdate": "10/03/76",
                     "venue": "Cobo Arena",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Minglewood Blues",
@@ -1545,7 +1585,8 @@
                     "showdate": "10/09/76",
                     "venue": "Oakland-Alameda County Stadium",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -1586,7 +1627,8 @@
                     "showdate": "10/10/76",
                     "venue": "Oakland-Alameda County Stadium",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "Mama Tried",
@@ -1627,7 +1669,8 @@
                     "showdate": "10/14/76",
                     "venue": "Shrine Auditorium",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1672,7 +1715,8 @@
                     "showdate": "10/15/76",
                     "venue": "Shrine Auditorium",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "Mama Tried",
@@ -1713,7 +1757,8 @@
                     "showdate": "12/31/76",
                     "venue": "Cow Palace",
                     "city": "Daly City",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Bertha",

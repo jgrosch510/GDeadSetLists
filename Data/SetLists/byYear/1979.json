@@ -11,7 +11,8 @@
                     "showdate": "01/05/79",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Minglewood Blues",
@@ -50,7 +51,8 @@
                     "showdate": "01/07/79",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -89,7 +91,8 @@
                     "showdate": "01/08/79",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -126,7 +129,8 @@
                     "showdate": "01/10/79",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -169,7 +173,8 @@
                     "showdate": "01/11/79",
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Me & My Uncle-> Big River",
@@ -208,7 +213,8 @@
                     "showdate": "01/12/79",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -245,7 +251,8 @@
                     "showdate": "01/14/79",
                     "venue": "Utica Memorial Coliseum",
                     "city": "Utica",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Minglewood Blues",
@@ -286,7 +293,8 @@
                     "showdate": "01/15/79",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Jack A Roe",
@@ -323,7 +331,8 @@
                     "showdate": "01/17/79",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Me & My Uncle-> Big River",
@@ -362,7 +371,8 @@
                     "showdate": "01/18/79",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -403,7 +413,8 @@
                     "showdate": "01/20/79",
                     "venue": "Shea's Buffalo Theater",
                     "city": "Buffalo",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -442,7 +453,8 @@
                     "showdate": "01/21/79",
                     "venue": "Masonic Temple",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Me & My Uncle-> Big River",
@@ -485,7 +497,8 @@
                     "showdate": "02/03/79",
                     "venue": "Market Square Arena",
                     "city": "Indianapolis",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Candyman",
@@ -522,7 +535,8 @@
                     "showdate": "02/04/79",
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Me & My Uncle-> Big River",
@@ -559,7 +573,8 @@
                     "showdate": "02/06/79",
                     "venue": "Tulsa Fairgrounds Pavilion",
                     "city": "Tulsa",
-                    "state": "OK",
+                    "state_abbrev": "OK",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Loser",
@@ -598,7 +613,8 @@
                     "showdate": "02/07/79",
                     "venue": "SIU Arena, U of Southern Illinois",
                     "city": "Carbondale",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Mama Tried-> Mexicali Blues",
@@ -639,7 +655,8 @@
                     "showdate": "02/09/79",
                     "venue": "Soldiers' and Sailors' Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Candyman",
@@ -680,7 +697,8 @@
                     "showdate": "02/10/79",
                     "venue": "Soldiers' and Sailors' Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Me & My Uncle-> Big River",
@@ -717,7 +735,8 @@
                     "showdate": "02/11/79",
                     "venue": "Kiel Auditorium",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -752,7 +771,8 @@
                     "showdate": "02/17/79",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Don't Ease Me In",
@@ -793,7 +813,8 @@
                     "showdate": "04/16/79",
                     "venue": "Studio Rehersal, Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jam-> Not Fade Away-> Jam-> Drums-> Passenger",
                         "Bertha",
@@ -821,7 +842,8 @@
                     "showdate": "04/22/79",
                     "venue": "Spartan Stadium, San Jose State U",
                     "city": "San Jose",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -862,7 +884,8 @@
                     "showdate": "05/03/79",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -899,7 +922,8 @@
                     "showdate": "05/04/79",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -936,7 +960,8 @@
                     "showdate": "05/05/79",
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "El Paso",
@@ -969,7 +994,8 @@
                     "showdate": "05/07/79",
                     "venue": "Allan Kirby Field House, Lafayette College",
                     "city": "Easton",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Me & My Uncle-> Big River",
@@ -1006,7 +1032,8 @@
                     "showdate": "05/08/79",
                     "venue": "Rec Hall, Penn State U",
                     "city": "State College",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1045,7 +1072,8 @@
                     "showdate": "05/09/79",
                     "venue": "Broome County Arena",
                     "city": "Binghamton",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Me & My Uncle",
@@ -1082,7 +1110,8 @@
                     "showdate": "05/11/79",
                     "venue": "Billerica Forum",
                     "city": "Billerica",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -1115,7 +1144,8 @@
                     "showdate": "05/12/79",
                     "venue": "Alumni Stadium, University of Massachusetts",
                     "city": "Amherst",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1152,7 +1182,8 @@
                     "showdate": "05/13/79",
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Mama Tried-> Mexicali Blues",
@@ -1189,7 +1220,8 @@
                     "showdate": "06/28/79",
                     "venue": "Sacramento Memorial Auditorium",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Minglewood Blues",
@@ -1230,7 +1262,8 @@
                     "showdate": "06/30/79",
                     "venue": "Portland International Speedway",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -1263,7 +1296,8 @@
                     "showdate": "07/01/79",
                     "venue": "Seattle Center Coliseum",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -1300,7 +1334,8 @@
                     "showdate": "07/11/79",
                     "venue": "Studio Rehersal, Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Easy To Love You",
                         "Lost Sailor",
@@ -1324,7 +1359,8 @@
                     "showdate": "08/04/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1363,7 +1399,8 @@
                     "showdate": "08/05/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Me & My Uncle-> Big River",
                         "Candyman",
@@ -1394,7 +1431,8 @@
                     "showdate": "08/12/79",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1431,7 +1469,8 @@
                     "showdate": "08/13/79",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Me & My Uncle-> Big River",
@@ -1468,7 +1507,8 @@
                     "showdate": "08/14/79",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Jack A Roe",
@@ -1505,7 +1545,8 @@
                     "showdate": "08/31/79",
                     "venue": "Glens Falls Civic Center",
                     "city": "Glens Falls",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -1546,7 +1587,8 @@
                     "showdate": "09/01/79",
                     "venue": "Holleder Memorial Stadium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Me & My Uncle-> Big River",
@@ -1579,7 +1621,8 @@
                     "showdate": "09/02/79",
                     "venue": "Augusta Civic Center",
                     "city": "Augusta",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1618,7 +1661,8 @@
                     "showdate": "09/04/79",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -1653,7 +1697,8 @@
                     "showdate": "09/05/79",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half-Step > Franklin's Tower",
                         "Mama Tried  > Mexicali Blues",
@@ -1686,7 +1731,8 @@
                     "showdate": "09/06/79",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -1723,7 +1769,8 @@
                     "showdate": "10/24/79",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Loser",
@@ -1760,7 +1807,8 @@
                     "showdate": "10/25/79",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Cassidy",
@@ -1799,7 +1847,8 @@
                     "showdate": "10/27/79",
                     "venue": "Cape Cod Coliseum",
                     "city": "South Yarmouth",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -1836,7 +1885,8 @@
                     "showdate": "10/28/79",
                     "venue": "Cape Cod Coliseum",
                     "city": "South Yarmouth",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -1869,7 +1919,8 @@
                     "showdate": "10/31/79",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Cassidy",
@@ -1902,7 +1953,8 @@
                     "showdate": "11/01/79",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1943,7 +1995,8 @@
                     "showdate": "11/02/79",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "El Paso-> Mexicali Blues",
@@ -1974,7 +2027,8 @@
                     "showdate": "11/04/79",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -2009,7 +2063,8 @@
                     "showdate": "11/05/79",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Cassidy",
@@ -2046,7 +2101,8 @@
                     "showdate": "11/06/79",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Tennessee Jed",
@@ -2083,7 +2139,8 @@
                     "showdate": "11/08/79",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Stagger Lee",
@@ -2118,7 +2175,8 @@
                     "showdate": "11/09/79",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Buffalo",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -2155,7 +2213,8 @@
                     "showdate": "11/10/79",
                     "venue": "Crisler Arena",
                     "city": "Ann Arbor",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Minglewood Blues",
                         "Peggy-O",
@@ -2196,7 +2255,8 @@
                     "showdate": "11/23/79",
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "They Love Each Other",
@@ -2233,7 +2293,8 @@
                     "showdate": "11/24/79",
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Mama Tried-> Mexicali Blues",
@@ -2266,7 +2327,8 @@
                     "showdate": "11/25/79",
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -2303,7 +2365,8 @@
                     "showdate": "11/29/79",
                     "venue": "Cleveland Public Hall",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway &gt; Promised Land",
                         "Candyman",
@@ -2338,7 +2401,8 @@
                     "showdate": "11/30/79",
                     "venue": "Stanley Theater",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Peggy-O",
@@ -2375,7 +2439,8 @@
                     "showdate": "12/01/79",
                     "venue": "Stanley Theater",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "Me & My Uncle-> Big River",
@@ -2410,7 +2475,8 @@
                     "showdate": "12/03/79",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Brown Eyed Women",
@@ -2449,7 +2515,8 @@
                     "showdate": "12/04/79",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -2484,7 +2551,8 @@
                     "showdate": "12/05/79",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Dire Wolf",
@@ -2517,7 +2585,8 @@
                     "showdate": "12/07/79",
                     "venue": "Indiana Convention Center",
                     "city": "Indianapolis",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Tennessee Jed",
@@ -2554,7 +2623,8 @@
                     "showdate": "12/09/79",
                     "venue": "Kiel Auditorium",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Brown Eyed Women",
@@ -2591,7 +2661,8 @@
                     "showdate": "12/10/79",
                     "venue": "Soldiers' and Sailors' Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Greatest Story Ever Told",
                         "Peggy-O",
@@ -2622,7 +2693,8 @@
                     "showdate": "12/11/79",
                     "venue": "Soldiers' and Sailors' Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Loser",
@@ -2657,7 +2729,8 @@
                     "showdate": "12/26/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "CC Rider",
@@ -2696,7 +2769,8 @@
                     "showdate": "12/27/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2731,7 +2805,8 @@
                     "showdate": "12/28/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Mama Tried-> Mexicali Blues",
@@ -2764,7 +2839,8 @@
                     "showdate": "12/30/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Candyman",
@@ -2795,7 +2871,8 @@
                     "showdate": "12/31/79",
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -2829,7 +2906,8 @@
                     "showdate": "??/??/79",
                     "venue": "studio (Go To Heaven Outtakes)",
                     "city": "San Rafael?",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Lost Sailor\nSaint Of Circumstance\nFeel Like A Stranger"
                     ],
@@ -2850,7 +2928,8 @@
                     "showdate": "??/??/79",
                     "venue": "Various",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

@@ -11,7 +11,8 @@
                     "showdate": "02/18/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko-> CC Rider",
                         "Dire Wolf",
@@ -44,7 +45,8 @@
                     "showdate": "02/19/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dupree's Diamond Blues",
@@ -79,7 +81,8 @@
                     "showdate": "02/20/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain and Snow  > Day Tripper",
                         "West L.A. Fadeaway",
@@ -110,7 +113,8 @@
                     "showdate": "02/??/85",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Twilight Zone Sessions"
                     ],
@@ -131,7 +135,8 @@
                     "showdate": "03/09/85",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> One More Saturday Night-> Sugaree",
                         "It's All Over Now",
@@ -160,7 +165,8 @@
                     "showdate": "03/10/85",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -189,7 +195,8 @@
                     "showdate": "03/12/85",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Little Red Rooster*",
@@ -222,7 +229,8 @@
                     "showdate": "03/13/85",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Althea",
                         "Mama Tried-> Mexicali Blues",
@@ -253,7 +261,8 @@
                     "showdate": "03/21/85",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other-> El Paso",
@@ -286,7 +295,8 @@
                     "showdate": "03/22/85",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Cold Rain & Snow",
@@ -323,7 +333,8 @@
                     "showdate": "03/24/85",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Promised Land",
                         "Althea",
@@ -354,7 +365,8 @@
                     "showdate": "03/25/85",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Sugaree-> Little Red Rooster",
                         "Bird Song",
@@ -383,7 +395,8 @@
                     "showdate": "03/27/85",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Hell In A Bucket",
                         "West L.A. Fadeaway",
@@ -418,7 +431,8 @@
                     "showdate": "03/28/85",
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'-> Smokestack Lightning*-> High Time",
                         "El Paso",
@@ -449,7 +463,8 @@
                     "showdate": "03/29/85",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Down In The Bottom*-> I Ain't Superstitous*",
@@ -486,7 +501,8 @@
                     "showdate": "03/31/85",
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped\nCandyman\nC.C. Rider\nBeat It On Down The Line\nDupree's Diamond Blues\nIt's All Over Now\nDon't Ease Me In"
                     ],
@@ -509,7 +525,8 @@
                     "showdate": "04/01/85",
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -544,7 +561,8 @@
                     "showdate": "04/03/85",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Me & My Uncle-> Mexicali Blues",
@@ -577,7 +595,8 @@
                     "showdate": "04/04/85",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Jack Straw",
                         "Dire Wolf",
@@ -612,7 +631,8 @@
                     "showdate": "04/06/85",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other",
@@ -649,7 +669,8 @@
                     "showdate": "04/07/85",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Why Don't We Do It In The Road?",
                         "Mississippi Half-Step Uptown Toodeloo",
@@ -682,7 +703,8 @@
                     "showdate": "04/08/85",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "In The Midnight Hour\nWalking The Dog\nBig Boss Man\nMe &amp; My Uncle\nCumberland Blues\nDown In The Bottom\nI Ain't Superstitous\nAlthea\nTons Of Steel\nSupplication\nMight As Well"
                     ],
@@ -705,7 +727,8 @@
                     "showdate": "04/13/85",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Why Don't We Do It In The Road-> Bertha-> Jack Straw",
                         "West L.A. Fadeaway",
@@ -738,7 +761,8 @@
                     "showdate": "04/14/85",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey-> Hell In A Bucket-> Sugaree-> Down In The Bottom-> I Ain't Superstitous",
                         "Brown Eyed Women",
@@ -769,7 +793,8 @@
                     "showdate": "04/21/85",
                     "venue": "Marin Veterans Memorial Auditorium",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Tons of Steel - false start\nTons of Steel\nCassidy\nComes a Time\nMississippi Half Step - false start\nMississippi Half Step\nJack Straw >\nBrown Eyed Women\nNot Fade Away\nGreen Onions\nUncle John's Band - false start\nUncle John's Band >\nPlayin' in the Band >\nUncle John's Band Reprise\nDrums >\nBeam & Percussion"
                     ],
@@ -790,7 +815,8 @@
                     "showdate": "04/27/85",
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets-> Bertha",
                         "Little Red Rooster",
@@ -823,7 +849,8 @@
                     "showdate": "04/28/85",
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'-> Mississippi Half Step-> Minglewood Blues",
                         "Bird Song",
@@ -850,7 +877,8 @@
                     "showdate": "06/14/85",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets",
                         "West L.A. Fadeaway",
@@ -883,7 +911,8 @@
                     "showdate": "06/15/85",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Minglewood Blues",
@@ -914,7 +943,8 @@
                     "showdate": "06/16/85",
                     "venue": "Greek Theater, U. of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "In the Midnight Hour > Bertha",
                         "Walkin' Blues",
@@ -951,7 +981,8 @@
                     "showdate": "06/21/85",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Down In The Bottom-> I Ain't Superstitous",
                         "Stagger Lee",
@@ -982,7 +1013,8 @@
                     "showdate": "06/22/85",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Walkin' Blues-> Candyman-> It's All Over Now",
@@ -1015,7 +1047,8 @@
                     "showdate": "06/24/85",
                     "venue": "River Bend Music Center",
                     "city": "Cincinnati",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -1050,7 +1083,8 @@
                     "showdate": "06/25/85",
                     "venue": "Blossom Music Center",
                     "city": "Cuyahoga Falls",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Day Tripper-> West L.A. Fadeaway-> CC Rider",
                         "Dire Wolf",
@@ -1085,7 +1119,8 @@
                     "showdate": "06/27/85",
                     "venue": "Saratoga Performing Arts Center",
                     "city": "Saratoga Springs",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Midnight Hour-> Bertha-> Little Red Rooster",
                         "Stagger Lee-> El Paso",
@@ -1114,7 +1149,8 @@
                     "showdate": "06/28/85",
                     "venue": "Hershey Park Stadium",
                     "city": "Hershey",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> Promised Land",
                         "Ramble On Rose",
@@ -1143,7 +1179,8 @@
                     "showdate": "06/30/85",
                     "venue": "Merriweather Post Pavilion",
                     "city": "Columbia",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> CC Rider-> Brown Eyed Women",
                         "Mama Tried-> Mexicali Blues",
@@ -1170,7 +1207,8 @@
                     "showdate": "07/01/85",
                     "venue": "Merriweather Post Pavilion",
                     "city": "Columbia",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Dupree's Diamond Blues",
@@ -1205,7 +1243,8 @@
                     "showdate": "07/02/85",
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> It Must Have Been The Roses",
                         "Minglewood Blues",
@@ -1238,7 +1277,8 @@
                     "showdate": "07/13/85",
                     "venue": "Ventura County Fairgrounds",
                     "city": "Ventura",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "One More Saturday Night-> Fire On The Mountain",
                         "Walkin' Blues",
@@ -1269,7 +1309,8 @@
                     "showdate": "07/14/85",
                     "venue": "Ventura County Fairgrounds",
                     "city": "Ventura",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -1302,7 +1343,8 @@
                     "showdate": "08/24/85",
                     "venue": "Boreal Ridge Ski Resort",
                     "city": "Donner's Summit",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -1333,7 +1375,8 @@
                     "showdate": "08/30/85",
                     "venue": "Southern Star Amphitheater",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Row Jimmy",
@@ -1362,7 +1405,8 @@
                     "showdate": "08/31/85",
                     "venue": "Manor Downs",
                     "city": "Austin",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> El Paso",
                         "Dupree's Diamond Blues",
@@ -1397,7 +1441,8 @@
                     "showdate": "09/02/85",
                     "venue": "Zoo Amphitheater",
                     "city": "Oklahoma City",
-                    "state": "OK",
+                    "state_abbrev": "OK",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -1432,7 +1477,8 @@
                     "showdate": "09/03/85",
                     "venue": "Starlight Theater",
                     "city": "Kansas City",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> They Love Each Other",
                         "Little Red Rooster",
@@ -1465,7 +1511,8 @@
                     "showdate": "09/05/85",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "CC Rider",
@@ -1502,7 +1549,8 @@
                     "showdate": "09/06/85",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "It's All Over Now",
@@ -1533,7 +1581,8 @@
                     "showdate": "09/07/85",
                     "venue": "Red Rocks Amphitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "The Frozen Logger*",
                         "Mississippi Half Step-> Minglewood Blues",
@@ -1568,7 +1617,8 @@
                     "showdate": "09/10/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Peggy-O",
                         "Little Red Rooster",
@@ -1599,7 +1649,8 @@
                     "showdate": "09/11/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Minglewood Blues",
                         "Friend Of The Devil",
@@ -1626,7 +1677,8 @@
                     "showdate": "09/12/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told-> Bertha",
                         "It's All Over Now",
@@ -1655,7 +1707,8 @@
                     "showdate": "09/15/85",
                     "venue": "Devore Field, Southwestern U",
                     "city": "Chula Vista",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "West L.A. Fadeaway",
@@ -1686,7 +1739,8 @@
                     "showdate": "10/25/85",
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Deal",
                         "Little Red Rooster",
@@ -1723,7 +1777,8 @@
                     "showdate": "10/26/85",
                     "venue": "Sun Dome",
                     "city": "Tampa",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'-> Greatest Story Ever Told",
                         "Dupree's Diamond Blues",
@@ -1758,7 +1813,8 @@
                     "showdate": "10/28/85",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Kansas City*",
@@ -1795,7 +1851,8 @@
                     "showdate": "10/29/85",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -1826,7 +1883,8 @@
                     "showdate": "10/31/85",
                     "venue": "Carolina Coliseum, U of South Carolina",
                     "city": "Columbia",
-                    "state": "SC",
+                    "state_abbrev": "SC",
+"country_abbrev":"US",
                     "set1": [
                         "Jam-> Werewolves of London-> The Music Never Stopped",
                         "West L.A. Fadeaway",
@@ -1857,7 +1915,8 @@
                     "showdate": "11/01/85",
                     "venue": "Richmond Coliseum",
                     "city": "Richmond",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets-> Cold Rain & Snow",
                         "Little Red Rooster",
@@ -1892,7 +1951,8 @@
                     "showdate": "11/02/85",
                     "venue": "Richmond Coliseum",
                     "city": "Richmond",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Dupree's Diamond Blues",
@@ -1925,7 +1985,8 @@
                     "showdate": "11/04/85",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway>Promised",
                         "Roses",
@@ -1960,7 +2021,8 @@
                     "showdate": "11/05/85",
                     "venue": "The Centrum",
                     "city": "Worcester",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -1991,7 +2053,8 @@
                     "showdate": "11/07/85",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' In The Streets-> Dire Wolf",
                         "CC Rider-> Loser",
@@ -2018,7 +2081,8 @@
                     "showdate": "11/08/85",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko-> Little Red Rooster-> Peggy-O",
                         "My Brother Esau",
@@ -2047,7 +2111,8 @@
                     "showdate": "11/10/85",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray-> Hell In A Bucket-> Sugaree",
                         "Cassidy",
@@ -2076,7 +2141,8 @@
                     "showdate": "11/11/85",
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Walkin' The Dog-> Deal",
                         "Minglewood Blues",
@@ -2107,7 +2173,8 @@
                     "showdate": "11/16/85",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree-> El Paso",
                         "Dupree's Diamond Blues",
@@ -2138,7 +2205,8 @@
                     "showdate": "11/17/85",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -2173,7 +2241,8 @@
                     "showdate": "11/20/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Peggy-O",
                         "CC Rider",
@@ -2206,7 +2275,8 @@
                     "showdate": "11/21/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Big Boy Pete",
                         "Dire Wolf",
@@ -2239,7 +2309,8 @@
                     "showdate": "11/22/85",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues-> Althea",
@@ -2266,7 +2337,8 @@
                     "showdate": "12/30/85",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -2299,7 +2371,8 @@
                     "showdate": "12/31/85",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Not Fade Away\nTouch Of Grey\nTons Of Steel\nC.C. Rider\nDupree's Diamond Blues\nCassidy\nBrown Eyed Women\nLet It Grow"
                     ],
@@ -2322,7 +2395,8 @@
                     "showdate": "??/??/85",
                     "venue": "Dead Play the Beatles",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "Dead Play the Beatles\r\n\r\nDisc I\r\nDay Tripper   GD 06-25-85\r\nCome Together   Dead 07-07-03  \r\nEleanor Rigby Jam JGB 02-12-80 \r\nTomorrow Never Knows GD 11/29/94\r\nBlackbird   Ratdog 11-09-99  \r\nGet Back   PLQ 10-16-00  \r\nWhy Don't We Do It In The Road   GD  04-07-85  \r\nHey Jude   GD  03-22-90  *Complete version; Jude>Reprise patched together",
                         "no Fantasy \r\nStrawberry Fields Forever   PLQ 02-08-02\r\nRain   GD  10-09-94\r\n\r\nDisc II\r\nRevolution   GD  07-02-85  \r\nShe Said   Dead 07-07-03  \r\nDear Prudence   Reconstruction 7-8-79  \r\nI Am The Walrus   PLQ 09-01-02 \r\nI Want To Tell You   JGB 03-08-87  *1 of 2 JGB times played; other in '76\r\nLucy In The Sky With Diamonds    GD  03-17-95  \r\nAll Too Much   GD  03-26-95  \r\nWhile My Guitar Gently Weeps   PLQ 11-30-01  *Only time played"
@@ -2344,7 +2418,8 @@
                     "showdate": "??/??/85",
                     "venue": "20th Anniversary Press Conference",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "the whole band fields questions from the media for 20 minutes"
                     ],
@@ -2365,7 +2440,8 @@
                     "showdate": "??/??/85",
                     "venue": "Various Television Appearances",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "West 57th (CBS) 1985 \r\n\tVery entertaining report on the Grateful Dead 20th \r\nanniversary shot at the Ventura County Fairgrounds.  This\r\none really captures the concert experience.  Lots of dancing",
                         "drugs",

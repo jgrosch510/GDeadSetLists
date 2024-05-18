@@ -11,7 +11,8 @@
                     "showdate": "01/06/78",
                     "venue": "Swing Auditorium",
                     "city": "San Bernardino",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -42,7 +43,8 @@
                     "showdate": "01/07/78",
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Cassidy",
@@ -77,7 +79,8 @@
                     "showdate": "01/08/78",
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Mama Tried-> Big River",
@@ -110,7 +113,8 @@
                     "showdate": "01/10/78",
                     "venue": "Shrine Auditorium",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Brown Eyed Women",
@@ -149,7 +153,8 @@
                     "showdate": "01/11/78",
                     "venue": "Shrine Auditorium",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -184,7 +189,8 @@
                     "showdate": "01/13/78",
                     "venue": "Arlington Theater",
                     "city": "Santa Barbara",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Mexicali Blues-> Big River",
@@ -221,7 +227,8 @@
                     "showdate": "01/14/78",
                     "venue": "Bakersfield Memorial Auditorium",
                     "city": "Bakersfield",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -260,7 +267,8 @@
                     "showdate": "01/15/78",
                     "venue": "Selland Arena",
                     "city": "Fresno",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -295,7 +303,8 @@
                     "showdate": "01/17/78",
                     "venue": "Sacramento Memorial Auditorium",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -334,7 +343,8 @@
                     "showdate": "01/18/78",
                     "venue": "Stockton Civic Auditorium",
                     "city": "Stockton",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Mama Tried-> Me & My Uncle",
@@ -371,7 +381,8 @@
                     "showdate": "01/22/78",
                     "venue": "McArthur Court, U of Oregon",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -410,7 +421,8 @@
                     "showdate": "01/30/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -449,7 +461,8 @@
                     "showdate": "01/31/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Passenger",
@@ -486,7 +499,8 @@
                     "showdate": "02/01/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -521,7 +535,8 @@
                     "showdate": "02/03/78",
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mexicali Blues-> Big River",
@@ -562,7 +577,8 @@
                     "showdate": "02/04/78",
                     "venue": "Milwaukee Auditorium",
                     "city": "Milwaukee",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -599,7 +615,8 @@
                     "showdate": "02/05/78",
                     "venue": "Uni Dome, U of Northern Iowa",
                     "city": "Cedar Falls",
-                    "state": "IA",
+                    "state_abbrev": "IA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'-> Jack Straw-> Good Lovin'",
                         "El Paso",
@@ -634,7 +651,8 @@
                     "showdate": "04/06/78",
                     "venue": "Curtis Hixon Convention Hall",
                     "city": "Tampa",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -669,7 +687,8 @@
                     "showdate": "04/07/78",
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -708,7 +727,8 @@
                     "showdate": "04/08/78",
                     "venue": "Veteran's Memorial Coliseum",
                     "city": "Jacksonville",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Me & My Uncle-> Big River",
@@ -745,7 +765,8 @@
                     "showdate": "04/10/78",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -788,7 +809,8 @@
                     "showdate": "04/11/78",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Friend Of The Devil",
@@ -825,7 +847,8 @@
                     "showdate": "04/12/78",
                     "venue": "Cameron Indoor Stadium",
                     "city": "Durham",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -866,7 +889,8 @@
                     "showdate": "04/14/78",
                     "venue": "Coliseum, Virginia Polytechnic U",
                     "city": "Blacksburg",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -903,7 +927,8 @@
                     "showdate": "04/15/78",
                     "venue": "William and Mary College Hall",
                     "city": "Williamsburg",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Passenger",
@@ -938,7 +963,8 @@
                     "showdate": "04/16/78",
                     "venue": "Huntington Civic Center",
                     "city": "Huntington",
-                    "state": "WV",
+                    "state_abbrev": "WV",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -975,7 +1001,8 @@
                     "showdate": "04/18/78",
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree",
@@ -1014,7 +1041,8 @@
                     "showdate": "04/19/78",
                     "venue": "Veterans' Memorial Hall",
                     "city": "Columbus",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Friend Of The Devil",
@@ -1051,7 +1079,8 @@
                     "showdate": "04/21/78",
                     "venue": "Rupp Arena, Lexington Center",
                     "city": "Lexington",
-                    "state": "KY",
+                    "state_abbrev": "KY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -1092,7 +1121,8 @@
                     "showdate": "04/22/78",
                     "venue": "Nashville Municipal Auditorium",
                     "city": "Nashville",
-                    "state": "TN",
+                    "state_abbrev": "TN",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Candyman",
@@ -1129,7 +1159,8 @@
                     "showdate": "04/24/78",
                     "venue": "Horton Field House, Illinois State U.",
                     "city": "Normal",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Ramble On Rose",
@@ -1168,7 +1199,8 @@
                     "showdate": "05/05/78",
                     "venue": "Thompson Arena, Dartmouth College",
                     "city": "Hanover",
-                    "state": "NH",
+                    "state_abbrev": "NH",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -1207,7 +1239,8 @@
                     "showdate": "05/06/78",
                     "venue": "Patrick Gymnasium, U of Vermont",
                     "city": "Burlington",
-                    "state": "VT",
+                    "state_abbrev": "VT",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Minglewood Blues",
@@ -1246,7 +1279,8 @@
                     "showdate": "05/07/78",
                     "venue": "Field House, Rensselaer Polytechnic Institute",
                     "city": "Troy",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1287,7 +1321,8 @@
                     "showdate": "05/09/78",
                     "venue": "Onongada County War Memorial",
                     "city": "Syracuse",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Franklin's Tower",
                         "Minglewood Blues",
@@ -1326,7 +1361,8 @@
                     "showdate": "05/10/78",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1361,7 +1397,8 @@
                     "showdate": "05/11/78",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -1402,7 +1439,8 @@
                     "showdate": "05/13/78",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1441,7 +1479,8 @@
                     "showdate": "05/14/78",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Cassidy",
@@ -1478,7 +1517,8 @@
                     "showdate": "05/16/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1515,7 +1555,8 @@
                     "showdate": "05/17/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Me & My Uncle-> Big River",
@@ -1548,7 +1589,8 @@
                     "showdate": "06/04/78",
                     "venue": "Campus Stadium, UC Santa Barbara",
                     "city": "Goleta",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -1583,7 +1625,8 @@
                     "showdate": "06/25/78",
                     "venue": "Autzen Stadium, U. of Oregon",
                     "city": "Eugene",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1620,7 +1663,8 @@
                     "showdate": "07/01/78",
                     "venue": "Arrowhead Stadium",
                     "city": "Kansas City",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Tennessee Jed",
@@ -1653,7 +1697,8 @@
                     "showdate": "07/03/78",
                     "venue": "St. Paul Civic Center",
                     "city": "St. Paul",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -1692,7 +1737,8 @@
                     "showdate": "07/05/78",
                     "venue": "Omaha Civic Auditorium",
                     "city": "Omaha",
-                    "state": "NE",
+                    "state_abbrev": "NE",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Beat It On Down The Line",
@@ -1731,7 +1777,8 @@
                     "showdate": "07/07/78",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -1770,7 +1817,8 @@
                     "showdate": "07/08/78",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -1807,7 +1855,8 @@
                     "showdate": "08/01/78",
                     "venue": "Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1826,7 +1875,8 @@
                     "showdate": "08/18/78",
                     "venue": "Club Front",
                     "city": "San Rafael",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Good Lovin'\nFrance\nFire On The Mountain\nStagger Lee\nIf I Had The World To Give\nShakedown Street\nI Need A Miracle\nGood Lovin'\nSaint Of Circumstance"
                     ],
@@ -1847,7 +1897,8 @@
                     "showdate": "08/30/78",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1880,7 +1931,8 @@
                     "showdate": "08/31/78",
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> El Paso",
                         "Peggy-O",
@@ -1913,7 +1965,8 @@
                     "showdate": "08/??/78",
                     "venue": "Studio (Shakedown Street Rehearsal)",
                     "city": "Unknown",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Good Lovin' Take # 1 \r\nSerengetti \r\nFire On The Mountain\r\nStagger Lee Take # 1 \r\nStagger Lee Take # 2 \r\nIf I Had The World To Give \r\nShakedown Street \r\nI Need A Miracle\r\nGood Lovin' Take # 2 \r\nSaint Of Circumstance"
                     ],
@@ -1934,7 +1987,8 @@
                     "showdate": "09/02/78",
                     "venue": "Giants Stadium",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -1973,7 +2027,8 @@
                     "showdate": "09/13/78",
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": [
                         "Ollin Arageed instrumental",
                         "tuning"
@@ -1995,7 +2050,8 @@
                     "showdate": "09/14/78",
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": [
                         "Ollin Arrageed*-> Not Fade Away",
                         "Me & My Uncle",
@@ -2030,7 +2086,8 @@
                     "showdate": "09/15/78",
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": [
                         "Ollin Arrageed*-> Promised Land",
                         "Friend Of The Devil",
@@ -2063,7 +2120,8 @@
                     "showdate": "09/16/78",
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Candyman",
@@ -2100,7 +2158,8 @@
                     "showdate": "09/??/78",
                     "venue": "Giza Sound and Light Theater",
                     "city": "Giza",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": [
                         "Anubian Folk Song w/ Hamza El-Din\r\nOllin Arageed w/ Hamza El-Din\r\nThe Grateful Dead take the stage\r\nOne More Saturday Night (9-16)\r\nPaul Krasner interviews Lawrence of Winterland\r\nTruckin' (9-14 or 9-16)\r\nsite seeing\r\nPaul Krasner interviews Bob Nichols\r\nBertha >\r\nGood Lovin' (9-16)\r\nOllin Arageed\r\nPaul Krasner interviews Blaze part 1\r\nIko Iko (9-16)"
                     ],
@@ -2123,7 +2182,8 @@
                     "showdate": "09/??/78",
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": [
                         "credits/ Clips\nHand clappers-&gt; promised land\nClips of egypt w/ truckin\nKEsey and Kreutzman with pranksters in egypt\nBertha \nGood luvin\nHand clappers/ more Egypt footage with akio-aiko\nmiracle jam with more Egypt footage\nKEsey and friends with tour guide w/ estimated\nKreutzman talks about the Ufo in the pyramid\nmiracle / KEsey & Pranksters and Bill Walton go into the great pyramid\n inside the great pyramid with KEsey & Pranksters and Bill Walton \nKEsey & Pranksters and Bill Walton come out of the great pyramid\nJack Straw\nclimbing pyramid & flying of dead flag on top /scarlet with empty venue footage\nRow Jimmy\nKen Babbs toast/ terrapin outro\n\nfiller: 30 mins of time coded acid test footage"
                     ],
@@ -2144,7 +2204,8 @@
                     "showdate": "10/17/78",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -2179,7 +2240,8 @@
                     "showdate": "10/18/78",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Me & My Uncle-> Big River",
@@ -2216,7 +2278,8 @@
                     "showdate": "10/20/78",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -2255,7 +2318,8 @@
                     "showdate": "10/21/78",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Ollin Arrageed* &gt; Promised Land",
                         "Sugaree",
@@ -2290,7 +2354,8 @@
                     "showdate": "10/22/78",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Ollin Arrageed*-> Deal",
                         "Me & My Uncle-> Big River",
@@ -2323,7 +2388,8 @@
                     "showdate": "11/11/78",
                     "venue": "NBC Studios",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "I Need A Miracle",
@@ -2346,7 +2412,8 @@
                     "showdate": "11/13/78",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2385,7 +2452,8 @@
                     "showdate": "11/14/78",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "El Paso",
@@ -2422,7 +2490,8 @@
                     "showdate": "11/16/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -2461,7 +2530,8 @@
                     "showdate": "11/17/78",
                     "venue": "Rambler Room, Loyola College",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Winin' Boy Blues",
                         "Tom Dooley",
@@ -2491,7 +2561,8 @@
                     "showdate": "11/17/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Mama Tried-> Mexicali Blues",
@@ -2528,7 +2599,8 @@
                     "showdate": "11/18/78",
                     "venue": "Uptown Theater",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -2567,7 +2639,8 @@
                     "showdate": "11/20/78",
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -2604,7 +2677,8 @@
                     "showdate": "11/21/78",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2645,7 +2719,8 @@
                     "showdate": "11/23/78",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -2682,7 +2757,8 @@
                     "showdate": "11/24/78",
                     "venue": "Capitol Theatre",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw\nSugaree\nMe And My Uncle\nBig River\nStagger Lee\nPassenger\nCandyman\nMinglewood Blues\nFrom The Heart Of Me\nLoser\nPromised Land"
                     ],
@@ -2707,7 +2783,8 @@
                     "showdate": "11/25/78",
                     "venue": "Veterens' Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Bob Weir - Jerry's sick\r\npromoter Jim Koplick - we'll validate parking... fine"
                     ],
@@ -2728,7 +2805,8 @@
                     "showdate": "12/12/78",
                     "venue": "Jai-Alai Fronton",
                     "city": "Miami",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Looks Like Rain",
@@ -2765,7 +2843,8 @@
                     "showdate": "12/13/78",
                     "venue": "Curtis Hixon Convention Hall",
                     "city": "Tampa",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Passenger",
                         "They Love Each Other",
@@ -2806,7 +2885,8 @@
                     "showdate": "12/15/78",
                     "venue": "Boutwell Auditorium",
                     "city": "Birmingham",
-                    "state": "AL",
+                    "state_abbrev": "AL",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Shakedown Street",
@@ -2845,7 +2925,8 @@
                     "showdate": "12/16/78",
                     "venue": "Nashville Municipal Auditorium",
                     "city": "Nashville",
-                    "state": "TN",
+                    "state_abbrev": "TN",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Beat It On Down The Line",
@@ -2882,7 +2963,8 @@
                     "showdate": "12/17/78",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2921,7 +3003,8 @@
                     "showdate": "12/19/78",
                     "venue": "Memorial Coliseum, Mississippi State Fairgrounds",
                     "city": "Jackson",
-                    "state": "MS",
+                    "state_abbrev": "MS",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -2958,7 +3041,8 @@
                     "showdate": "12/21/78",
                     "venue": "The Summit",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -3001,7 +3085,8 @@
                     "showdate": "12/22/78",
                     "venue": "Dallas County Convention Center Arena",
                     "city": "Dallas",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Me & My Uncle-> Big River",
@@ -3040,7 +3125,8 @@
                     "showdate": "12/27/78",
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -3075,7 +3161,8 @@
                     "showdate": "12/28/78",
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Finiculi Finicula",
@@ -3118,7 +3205,8 @@
                     "showdate": "12/30/78",
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -3161,7 +3249,8 @@
                     "showdate": "12/31/78",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugar Magnolia-> Scarlet Begonias-> Fire On The Mountain-> Me & My Uncle-> Big River",
                         "Friend Of The Devil",
@@ -3198,7 +3287,8 @@
                     "showdate": "??/??/78",
                     "venue": "Compilation - 1978 Interviews",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "Bob Weir",
                         "Bobby Cochran",
@@ -3227,7 +3317,8 @@
                     "showdate": "??/??/78",
                     "venue": "There Were Only Three Shows From",
                     "city": "Giza",
-                    "state": "Egypt",
+                    "state_abbrev": "Egypt",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3246,7 +3337,8 @@
                     "showdate": "??/??/78",
                     "venue": "Various",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": [
                         "track 1 Bob Weir",
                         "Bobby Cochran",

@@ -11,7 +11,8 @@
                     "showdate": "01/02/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -66,7 +67,8 @@
                     "showdate": "03/05/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Black Throated Wind",
@@ -113,7 +115,8 @@
                     "showdate": "03/21/72",
                     "venue": "Academy Of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Black-Throated Wind",
@@ -164,7 +167,8 @@
                     "showdate": "03/22/72",
                     "venue": "Academy of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Deal",
@@ -215,7 +219,8 @@
                     "showdate": "03/23/72",
                     "venue": "Academy of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Black Throated Wind",
@@ -262,7 +267,8 @@
                     "showdate": "03/25/72",
                     "venue": "Academy of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hey Bo Diddley*-> I'm A Man*-> Jam*-> Take It Off*-> Mona*",
                         "Wow Wow Hey Hey*",
@@ -297,7 +303,8 @@
                     "showdate": "03/26/72",
                     "venue": "Academy of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Cold Rain &amp; Snow",
@@ -346,7 +353,8 @@
                     "showdate": "03/27/72",
                     "venue": "Academy of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Black Throated Wind",
@@ -389,7 +397,8 @@
                     "showdate": "03/28/72",
                     "venue": "Academy of Music",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Tennessee Jed",
@@ -440,7 +449,8 @@
                     "showdate": "04/07/72",
                     "venue": "Wembley Empire Pool",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Sugaree",
@@ -485,7 +495,8 @@
                     "showdate": "04/08/72",
                     "venue": "Wembley Empire Pool",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -534,7 +545,8 @@
                     "showdate": "04/11/72",
                     "venue": "Newcastle City Hall",
                     "city": "Newcastle",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Deal",
@@ -589,7 +601,8 @@
                     "showdate": "04/14/72",
                     "venue": "Tivoli Theater",
                     "city": "Copenhagen",
-                    "state": "Denmark",
+                    "state_abbrev": "Denmark",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -640,7 +653,8 @@
                     "showdate": "04/16/72",
                     "venue": "Stakladen, Aarhus University",
                     "city": "Aarhus",
-                    "state": "Denmark",
+                    "state_abbrev": "Denmark",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Sugaree",
@@ -687,7 +701,8 @@
                     "showdate": "04/17/72",
                     "venue": "Tivoli Concert Hall",
                     "city": "Copenhagen",
-                    "state": "Denmark",
+                    "state_abbrev": "Denmark",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Me And Bobby McGee*",
@@ -733,7 +748,8 @@
                     "showdate": "04/21/72",
                     "venue": "Beat Club",
                     "city": "Bremen",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha\nPlaying In The Band *\nMr. Charlie\nSugaree\nOne More Saturday Night\nPlaying In The Band *\nBeat It On Down The Line\nTruckin'\nDrums\nThe Other One"
                     ],
@@ -756,7 +772,8 @@
                     "showdate": "04/24/72",
                     "venue": "Rheinhalle",
                     "city": "D\u00fcsseldorf",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Tennessee Jed",
@@ -803,7 +820,8 @@
                     "showdate": "04/26/72",
                     "venue": "Jahrhundert Halle",
                     "city": "Frankfurt",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -856,7 +874,8 @@
                     "showdate": "04/29/72",
                     "venue": "Musikhalle",
                     "city": "Hamburg",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Playin' In The Band",
                         "Sugaree",
@@ -903,7 +922,8 @@
                     "showdate": "05/03/72",
                     "venue": "Olympia Theater",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -954,7 +974,8 @@
                     "showdate": "05/04/72",
                     "venue": "Olympia Theater",
                     "city": "Paris",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Deal",
@@ -1003,7 +1024,8 @@
                     "showdate": "05/07/72",
                     "venue": "Bickershaw Festival",
                     "city": "Wigan",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -1052,7 +1074,8 @@
                     "showdate": "05/10/72",
                     "venue": "Concertgebouw",
                     "city": "Amsterdam",
-                    "state": "Netherlands",
+                    "state_abbrev": "Netherlands",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1107,7 +1130,8 @@
                     "showdate": "05/11/72",
                     "venue": "Rotterdam Civic Hall",
                     "city": "Rotterdam",
-                    "state": "Netherlands",
+                    "state_abbrev": "Netherlands",
+"country_abbrev":"US",
                     "set1": [
                         "Playin' In The Band",
                         "Sugaree",
@@ -1158,7 +1182,8 @@
                     "showdate": "05/13/72",
                     "venue": "Lille Fairgrounds",
                     "city": "Lille",
-                    "state": "France",
+                    "state_abbrev": "France",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Black Throated Wind",
@@ -1207,7 +1232,8 @@
                     "showdate": "05/16/72",
                     "venue": "Theatre Hall",
                     "city": "Luxembourg",
-                    "state": "Luxembourg",
+                    "state_abbrev": "Luxembourg",
+"country_abbrev":"US",
                     "set1": [
                         "Souncheck:\n\nBig River",
                         "Sugar Magnolia\n\nSet 1:\n\nBertha",
@@ -1254,7 +1280,8 @@
                     "showdate": "05/18/72",
                     "venue": "Kongressaal Deutsches Museum",
                     "city": "M\u00fcnchen",
-                    "state": "Germany",
+                    "state_abbrev": "Germany",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -1303,7 +1330,8 @@
                     "showdate": "05/23/72",
                     "venue": "The Strand Lyceum",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1360,7 +1388,8 @@
                     "showdate": "05/24/72",
                     "venue": "The Strand Lyceum",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -1409,7 +1438,8 @@
                     "showdate": "05/25/72",
                     "venue": "The Strand Lyceum",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -1456,7 +1486,8 @@
                     "showdate": "05/26/72",
                     "venue": "The Strand Lyceum",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1509,7 +1540,8 @@
                     "showdate": "05/??/72",
                     "venue": "BBC Interview of Bob Weir",
                     "city": "London",
-                    "state": "England",
+                    "state_abbrev": "England",
+"country_abbrev":"US",
                     "set1": [
                         "Part 1\r\n\r\nThe Wembley Pool concerts and what Bobby thought of the audience response\r\nThe way in which the band put a set together\r\nHow The Dead improvise and move from one song to another\r\nHow the music is developing\r\nPigpen's planned solo album\r\nMore about the improvisation\r\nWorkingman's Dead\r\nA live album to come (Europe '72)\r\nThe future of the band\r\nA sociological phenomena!\r\nThe Dead Family structure\r\nEurope '72 tour\r\nEuropean audiences\r\n\r\n\r\nPart 2\r\n\r\nAbout Bobby's",
                         "then newly released",
@@ -1532,7 +1564,8 @@
                     "showdate": "06/17/72",
                     "venue": "Hollywood Bowl",
                     "city": "Hollywood",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1577,7 +1610,8 @@
                     "showdate": "07/16/72",
                     "venue": "Dillon Stadium",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "The Promised Land",
                         "Cold Rain And Snow",
@@ -1626,7 +1660,8 @@
                     "showdate": "07/18/72",
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1678,7 +1713,8 @@
                     "showdate": "07/21/72",
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1723,7 +1759,8 @@
                     "showdate": "07/22/72",
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1772,7 +1809,8 @@
                     "showdate": "07/25/72",
                     "venue": "Paramount Theater",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "The Promised Land",
                         "Sugaree",
@@ -1821,7 +1859,8 @@
                     "showdate": "07/26/72",
                     "venue": "Paramount Theater",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Black Throated Wind",
@@ -1864,7 +1903,8 @@
                     "showdate": "08/12/72",
                     "venue": "Sacramento Memorial Auditorium",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1913,7 +1953,8 @@
                     "showdate": "08/20/72",
                     "venue": "San Jose Civic Auditorium",
                     "city": "San Jose",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1958,7 +1999,8 @@
                     "showdate": "08/21/72",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "He's Gone",
@@ -2007,7 +2049,8 @@
                     "showdate": "08/22/72",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -2052,7 +2095,8 @@
                     "showdate": "08/24/72",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2093,7 +2137,8 @@
                     "showdate": "08/25/72",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Black Throated Wind",
@@ -2142,7 +2187,8 @@
                     "showdate": "08/27/72",
                     "venue": "Old Renaissance Faire Grounds",
                     "city": "Veneta",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2188,7 +2234,8 @@
                     "showdate": "09/03/72",
                     "venue": "Folsom Field, U of Colorado",
                     "city": "Boulder",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2240,7 +2287,8 @@
                     "showdate": "09/09/72",
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2283,7 +2331,8 @@
                     "showdate": "09/10/72",
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -2326,7 +2375,8 @@
                     "showdate": "09/15/72",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2371,7 +2421,8 @@
                     "showdate": "09/16/72",
                     "venue": "Music Hall",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2416,7 +2467,8 @@
                     "showdate": "09/17/72",
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2461,7 +2513,8 @@
                     "showdate": "09/19/72",
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Bird Song",
@@ -2500,7 +2553,8 @@
                     "showdate": "09/21/72",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Bird Song",
@@ -2545,7 +2599,8 @@
                     "showdate": "09/23/72",
                     "venue": "Palace Theater",
                     "city": "Waterbury",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Big River",
                         "Sugaree",
@@ -2592,7 +2647,8 @@
                     "showdate": "09/24/72",
                     "venue": "Palace Theater",
                     "city": "Waterbury",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Big Railroad Blues",
                         "Mexicali Blues",
@@ -2639,7 +2695,8 @@
                     "showdate": "09/26/72",
                     "venue": "Stanley Theatre",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Cold Rain & Snow",
@@ -2686,7 +2743,8 @@
                     "showdate": "09/27/72",
                     "venue": "Stanley Theatre",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Morning Dew",
                         "Beat It On Down The Line",
@@ -2731,7 +2789,8 @@
                     "showdate": "09/28/72",
                     "venue": "Stanley Theatre",
                     "city": "Jersey City",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -2778,7 +2837,8 @@
                     "showdate": "09/30/72",
                     "venue": "American University",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Deal",
                         "Mexicali Blues",
@@ -2821,7 +2881,8 @@
                     "showdate": "10/02/72",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mexicali Blues",
@@ -2870,7 +2931,8 @@
                     "showdate": "10/09/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -2919,7 +2981,8 @@
                     "showdate": "10/17/72",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Bird Song",
@@ -2966,7 +3029,8 @@
                     "showdate": "10/18/72",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha\nMe and My Uncle\nDon't Ease Me In\nMexicali Blues\nBrown Eyed Women\nBeat It On Down the Line\nBird Song\nBig River\nLoser\nJack Straw\nBig Railroad Blues\nEl Paso\nChina Cat Sunflower >\nI Know You Rider"
                     ],
@@ -2989,7 +3053,8 @@
                     "showdate": "10/19/72",
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -3038,7 +3103,8 @@
                     "showdate": "10/21/72",
                     "venue": "Alumni Lawn, Vanderbilt University",
                     "city": "Nashville",
-                    "state": "TN",
+                    "state_abbrev": "TN",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3083,7 +3149,8 @@
                     "showdate": "10/23/72",
                     "venue": "Milwaukee Performing Arts Center",
                     "city": "Milwaukee",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3134,7 +3201,8 @@
                     "showdate": "10/24/72",
                     "venue": "Milwaukee Performing Arts Center",
                     "city": "Milwaukee",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "[setlist according to Deadbase:] Promised Land",
                         "Ramble On Rose",
@@ -3169,7 +3237,8 @@
                     "showdate": "10/26/72",
                     "venue": "Cincinnati Music Hall",
                     "city": "Cincinnati",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "The Promised Land",
                         "Sugaree",
@@ -3216,7 +3285,8 @@
                     "showdate": "10/27/72",
                     "venue": "Veterans' Memorial Hall",
                     "city": "Columbus",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -3269,7 +3339,8 @@
                     "showdate": "10/28/72",
                     "venue": "Cleveland Public Hall",
                     "city": "Cleveland",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -3312,7 +3383,8 @@
                     "showdate": "10/30/72",
                     "venue": "Ford Auditorium",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3363,7 +3435,8 @@
                     "showdate": "11/12/72",
                     "venue": "Soldiers' and Sailors' Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Deal",
@@ -3406,7 +3479,8 @@
                     "showdate": "11/13/72",
                     "venue": "Soldiers and Sailors Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -3453,7 +3527,8 @@
                     "showdate": "11/14/72",
                     "venue": "Civic Center Music Hall",
                     "city": "Oklahoma City",
-                    "state": "OK",
+                    "state_abbrev": "OK",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3504,7 +3579,8 @@
                     "showdate": "11/15/72",
                     "venue": "Civic Center Music Hall",
                     "city": "Oklahoma City",
-                    "state": "OK",
+                    "state_abbrev": "OK",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha\nBeat It On Down The Line\nBird Song\nJack Straw\nCandyman\nBig River\nSugaree\nEl Paso\nBox Of Rain\nDeal\nCumberland Blues\nAround And Around\nChina Cat Sunflower -&gt;\nI Know You Rider"
                     ],
@@ -3527,7 +3603,8 @@
                     "showdate": "11/17/72",
                     "venue": "Century II Convention Hall",
                     "city": "Wichita",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3578,7 +3655,8 @@
                     "showdate": "11/18/72",
                     "venue": "Hofheinz Pavilion",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "The Promised Land\nSugaree\nMexicali Blues\nLoser\nBlack Throated Wind\nTennessee Jed\nEl Paso\nBig Railroad Blues\nBox Of Rain\nChina Cat Sunflower -&gt;\nI Know You Rider\nBeat It On Down The Line\nBrown Eyed Women\nAround And Around\nCasey Jones"
                     ],
@@ -3601,7 +3679,8 @@
                     "showdate": "11/19/72",
                     "venue": "Hofheinz Pavilion",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3650,7 +3729,8 @@
                     "showdate": "11/22/72",
                     "venue": "Austin Municipal Auditorium",
                     "city": "Austin",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3695,7 +3775,8 @@
                     "showdate": "11/24/72",
                     "venue": "Dallas Memorial Auditorium",
                     "city": "Dallas",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Don't Ease Me In",
                         "Me & My Uncle",
@@ -3740,7 +3821,8 @@
                     "showdate": "11/26/72",
                     "venue": "San Antonio Civic Auditorium",
                     "city": "San Antonio",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -3787,7 +3869,8 @@
                     "showdate": "12/10/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -3836,7 +3919,8 @@
                     "showdate": "12/11/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3883,7 +3967,8 @@
                     "showdate": "12/12/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down the Line",
@@ -3930,7 +4015,8 @@
                     "showdate": "12/15/72",
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3981,7 +4067,8 @@
                     "showdate": "12/31/72",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Around & Around",
                         "Deal",
@@ -4028,7 +4115,8 @@
                     "showdate": "??/??/72",
                     "venue": "Compilation- Old World Shuffle",
                     "city": "various",
-                    "state": "Europe",
+                    "state_abbrev": "Europe",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

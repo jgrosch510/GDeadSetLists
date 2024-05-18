@@ -11,7 +11,8 @@
                     "showdate": "02/08/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Little Red Rooster-> Peggy-O",
@@ -42,7 +43,8 @@
                     "showdate": "02/09/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -73,7 +75,8 @@
                     "showdate": "02/11/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Minglewood Blues",
@@ -104,7 +107,8 @@
                     "showdate": "02/12/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Tons Of Steel",
@@ -133,7 +137,8 @@
                     "showdate": "02/14/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger-> Cold Rain & Snow",
                         "Mama Tried-> Big River",
@@ -164,7 +169,8 @@
                     "showdate": "03/19/86",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Stagger Lee",
                         "CC Rider",
@@ -191,7 +197,8 @@
                     "showdate": "03/20/86",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Little Red Rooster",
@@ -228,7 +235,8 @@
                     "showdate": "03/21/86",
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Roadrunner-> Dupree's Diamond Blues",
                         "Minglewood Blues",
@@ -257,7 +265,8 @@
                     "showdate": "03/23/86",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'-> Deal",
                         "Hand Jive",
@@ -290,7 +299,8 @@
                     "showdate": "03/24/86",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Dire Wolf-> Little Red Rooster",
@@ -325,7 +335,8 @@
                     "showdate": "03/25/86",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Tennessee Jed",
@@ -358,7 +369,8 @@
                     "showdate": "03/27/86",
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Peggy-O",
                         "Minglewood Blues",
@@ -387,7 +399,8 @@
                     "showdate": "03/28/86",
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
-                    "state": "ME",
+                    "state_abbrev": "ME",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko-> Beat It On Down The Line",
                         "Loser",
@@ -420,7 +433,8 @@
                     "showdate": "03/30/86",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "El Paso-> Cumberland Blues",
@@ -453,7 +467,8 @@
                     "showdate": "03/31/86",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Roadrunner-> West L.A. Fadeaway",
                         "My Brother Esau",
@@ -482,7 +497,8 @@
                     "showdate": "04/01/86",
                     "venue": "Providence Civic Center",
                     "city": "Providence",
-                    "state": "RI",
+                    "state_abbrev": "RI",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'-> Little Red Rooster",
                         "Stagger Lee",
@@ -513,7 +529,8 @@
                     "showdate": "04/03/86",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Minglewood Blues",
@@ -546,7 +563,8 @@
                     "showdate": "04/04/86",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -579,7 +597,8 @@
                     "showdate": "04/12/86",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Bertha",
                         "Little Red Rooster",
@@ -616,7 +635,8 @@
                     "showdate": "04/13/86",
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Minglewood Blues",
@@ -649,7 +669,8 @@
                     "showdate": "04/18/86",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -686,7 +707,8 @@
                     "showdate": "04/19/86",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Stagger Lee",
@@ -721,7 +743,8 @@
                     "showdate": "04/21/86",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> El Paso",
                         "Row Jimmy",
@@ -756,7 +779,8 @@
                     "showdate": "04/22/86",
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Box Of Rain-> Visions Of Johanna",
                         "Mama Tried-> Big River",
@@ -787,7 +811,8 @@
                     "showdate": "05/03/86",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow-> The Race is On",
                         "They Love Each Other",
@@ -818,7 +843,8 @@
                     "showdate": "05/04/86",
                     "venue": "Cal Expo Amphitheatre",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "One More Saturday Night-> Mississippi Half Step-> Little Red Rooster",
                         "Candyman",
@@ -847,7 +873,8 @@
                     "showdate": "05/10/86",
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -882,7 +909,8 @@
                     "showdate": "05/11/86",
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'-> Dancin' In The Streets",
                         "Good Time Blues",
@@ -915,7 +943,8 @@
                     "showdate": "06/20/86",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Midnight Hour-> Mississippi Half Step",
                         "El Paso-> West L.A. Fadeaway",
@@ -946,7 +975,8 @@
                     "showdate": "06/21/86",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil",
@@ -979,7 +1009,8 @@
                     "showdate": "06/22/86",
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "It Must Have Been The Roses",
@@ -1016,7 +1047,8 @@
                     "showdate": "06/26/86",
                     "venue": "Hubert H. Humphrey Metrodome",
                     "city": "Minneapolis",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Gimme Some Lovin'",
                         "Sugaree",
@@ -1045,7 +1077,8 @@
                     "showdate": "06/28/86",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Ramble On Rose",
@@ -1080,7 +1113,8 @@
                     "showdate": "06/29/86",
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
-                    "state": "WI",
+                    "state_abbrev": "WI",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Dancin' In The Streets",
                         "Brown Eyed Women",
@@ -1113,7 +1147,8 @@
                     "showdate": "06/30/86",
                     "venue": "River Bend Music Center",
                     "city": "Cincinnati",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -1148,7 +1183,8 @@
                     "showdate": "07/02/86",
                     "venue": "Rubber Bowl, University of Akron",
                     "city": "Akron",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told-> They Love Each Other",
                         "Little Red Rooster*",
@@ -1183,7 +1219,8 @@
                     "showdate": "07/04/86",
                     "venue": "Rich Stadium",
                     "city": "Buffalo",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw\nDupree's Diamond Blues\nCC Rider\nTennessee Jed\nMy Brother Esau\nTouch Of Gray"
                     ],
@@ -1206,7 +1243,8 @@
                     "showdate": "07/06/86",
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Me & My Uncle-> Big River",
@@ -1239,7 +1277,8 @@
                     "showdate": "07/07/86",
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Ramble On Rose",
                         "Minglewood Blues",
@@ -1270,7 +1309,8 @@
                     "showdate": "12/15/86",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "CC Rider",
@@ -1311,7 +1351,8 @@
                     "showdate": "12/16/86",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Row Jimmy",
@@ -1346,7 +1387,8 @@
                     "showdate": "12/17/86",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "West L.A. Fadeaway",
@@ -1381,7 +1423,8 @@
                     "showdate": "12/27/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Playin' In The Band-> Bertha",
                         "Mama Tried-> Mexicali Blues",
@@ -1412,7 +1455,8 @@
                     "showdate": "12/28/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Minglewood Blues",
@@ -1449,7 +1493,8 @@
                     "showdate": "12/30/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Althea",
@@ -1486,7 +1531,8 @@
                     "showdate": "12/31/86",
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-&gt;\nSugaree\nMe & My Uncle-&gt;\nMexicali Blues\nCandyman\nDesolation Row\nU.S. Blues"
                     ],

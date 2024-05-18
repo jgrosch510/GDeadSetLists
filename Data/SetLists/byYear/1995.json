@@ -11,7 +11,8 @@
                     "showdate": "02/19/95",
                     "venue": "Delta Center",
                     "city": "Salt Lake City",
-                    "state": "UT",
+                    "state_abbrev": "UT",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -44,7 +45,8 @@
                     "showdate": "02/20/95",
                     "venue": "Delta Center",
                     "city": "Salt Lake City",
-                    "state": "UT",
+                    "state_abbrev": "UT",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -81,7 +83,8 @@
                     "showdate": "02/21/95",
                     "venue": "Delta Center",
                     "city": "Salt Lake City",
-                    "state": "UT",
+                    "state_abbrev": "UT",
+"country_abbrev":"US",
                     "set1": [
                         "Salt Lake City",
                         "Friend Of The Devil",
@@ -118,7 +121,8 @@
                     "showdate": "02/24/95",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "The Same Thing",
@@ -151,7 +155,8 @@
                     "showdate": "02/25/95",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -186,7 +191,8 @@
                     "showdate": "02/26/95",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll\nWest L.A. Fadeaway\nQueen Jane Approximately\nLazy River Road*\nMama Tried** -&gt; \nMexicali Blues**\nDon't Ease Me In**"
                     ],
@@ -211,7 +217,8 @@
                     "showdate": "03/17/95",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Here Comes Sunshine",
                         "Wang Dang Doodle",
@@ -246,7 +253,8 @@
                     "showdate": "03/17/95",
                     "venue": "The Spectrum (soundcheck)",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Phil Practices Base Line By Himself\r\n\"it Would Really Help To Have Vinny Here...bob Did You Give That Disc To Steve?\"\r\nMostly Dead Air",
                         "Drummers Start To Come In\r\nPhil",
@@ -270,7 +278,8 @@
                     "showdate": "03/18/95",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "West L.A. Fadeaway",
@@ -305,7 +314,8 @@
                     "showdate": "03/19/95",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway",
                         "Walkin' Blues",
@@ -338,7 +348,8 @@
                     "showdate": "03/22/95",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw-> Bertha",
                         "The Same Thing",
@@ -371,7 +382,8 @@
                     "showdate": "03/23/95",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Wang Dang Doodle",
@@ -406,7 +418,8 @@
                     "showdate": "03/24/95",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Stagger Lee",
@@ -443,7 +456,8 @@
                     "showdate": "03/25/95",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Unbroken Chain rehearsals"
                     ],
@@ -464,7 +478,8 @@
                     "showdate": "03/26/95",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Little Red Rooster",
@@ -499,7 +514,8 @@
                     "showdate": "03/27/95",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Sugaree",
@@ -530,7 +546,8 @@
                     "showdate": "03/28/95",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "When a Man Loves a Woman\r\nPhil Tuning\r\nBanter\r\nSchoolgirl (1)\r\nSchoolgirl (2)\r\nJerrys ABB Idea *\r\nSchoolgirl (3)\r\nThe ABB Idea Considered *\r\nNeighbor Neighbor\r\nHi-Heeled Sneakers\r\nBig Boy Pete\r\nBig Boy Pete (2)\r\nBig Boy Pete (3)\r\nPaperback Writer\r\nAttics (1)\r\nJerry Complaint\r\nAttics (2)\r\nPhil Explains to Jerry / Tuning -> Out\r\n\r\n* One Way Out Snippet"
                     ],
@@ -551,7 +568,8 @@
                     "showdate": "03/29/95",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Row Jimmy",
@@ -584,7 +602,8 @@
                     "showdate": "03/30/95",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Good Morning Little School Girl",
@@ -621,7 +640,8 @@
                     "showdate": "04/01/95",
                     "venue": "Pyramid Arena",
                     "city": "Memphis",
-                    "state": "TN",
+                    "state_abbrev": "TN",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Candyman",
@@ -656,7 +676,8 @@
                     "showdate": "04/02/95",
                     "venue": "Pyramid Arena",
                     "city": "Memphis",
-                    "state": "TN",
+                    "state_abbrev": "TN",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "The Same Thing",
@@ -689,7 +710,8 @@
                     "showdate": "04/04/95",
                     "venue": "Jefferson Civic Center Coliseum",
                     "city": "Birmingham",
-                    "state": "AL",
+                    "state_abbrev": "AL",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree",
@@ -722,7 +744,8 @@
                     "showdate": "04/05/95",
                     "venue": "Jefferson Civic Center Coliseum",
                     "city": "Birmingham",
-                    "state": "AL",
+                    "state_abbrev": "AL",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Wang Dang Doodle",
@@ -755,7 +778,8 @@
                     "showdate": "04/07/95",
                     "venue": "Tampa Stadium",
                     "city": "Tampa",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -790,7 +814,8 @@
                     "showdate": "05/17/95",
                     "venue": "Franklyn County Airport",
                     "city": "Highgate",
-                    "state": "VT",
+                    "state_abbrev": "VT",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -809,7 +834,8 @@
                     "showdate": "05/19/95",
                     "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Friend Of The Devil",
@@ -844,7 +870,8 @@
                     "showdate": "05/20/95",
                     "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "The Race is On",
@@ -877,7 +904,8 @@
                     "showdate": "05/21/95",
                     "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "West L.A. Fadeaway",
@@ -912,7 +940,8 @@
                     "showdate": "05/24/95",
                     "venue": "Memorial Stadium",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Soundcheck:\r\n\r\nTough Mama\r\nChildhood's End\r\nRain"
                     ],
@@ -937,7 +966,8 @@
                     "showdate": "05/25/95",
                     "venue": "Memorial Stadium",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Bertha",
@@ -972,7 +1002,8 @@
                     "showdate": "05/26/95",
                     "venue": "Memorial Stadium",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way &gt; Slipknot! &gt; Franklin's Tower",
                         "The Same Thing",
@@ -1003,7 +1034,8 @@
                     "showdate": "05/28/95",
                     "venue": "Portland Meadows",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -1038,7 +1070,8 @@
                     "showdate": "05/29/95",
                     "venue": "Portland Meadows",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Jack A Roe",
@@ -1075,7 +1108,8 @@
                     "showdate": "06/02/95",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Alabama Getaway",
                         "Greatest Story Ever Told",
@@ -1121,7 +1155,8 @@
                     "showdate": "06/03/95",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Althea",
@@ -1156,7 +1191,8 @@
                     "showdate": "06/04/95",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Wang Dang Doodle",
@@ -1193,7 +1229,8 @@
                     "showdate": "06/15/95",
                     "venue": "Franklin County Airport",
                     "city": "Highgate",
-                    "state": "VT",
+                    "state_abbrev": "VT",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Wang Dang Doodle",
@@ -1239,7 +1276,8 @@
                     "showdate": "06/18/95",
                     "venue": "Giants Stadium",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Bertha",
@@ -1272,7 +1310,8 @@
                     "showdate": "06/19/95",
                     "venue": "Giants Stadium",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Good Morning Little School Girl",
@@ -1307,7 +1346,8 @@
                     "showdate": "06/21/95",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Soundcheck:\r\n\r\nVince on piano solo",
                         "Its All Too Much",
@@ -1341,7 +1381,8 @@
                     "showdate": "06/22/95",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Walkin' Blues",
@@ -1374,7 +1415,8 @@
                     "showdate": "06/24/95",
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Althea",
@@ -1409,7 +1451,8 @@
                     "showdate": "06/25/95",
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Wang Dang Doodle",
@@ -1442,7 +1485,8 @@
                     "showdate": "06/27/95",
                     "venue": "The Palace",
                     "city": "Auburn Hills",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Greatest Story Ever Told-> Bertha",
                         "Minglewood Blues",
@@ -1477,7 +1521,8 @@
                     "showdate": "06/28/95",
                     "venue": "The Palace",
                     "city": "Auburn Hills",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Good Morning Little School Girl",
@@ -1512,7 +1557,8 @@
                     "showdate": "06/30/95",
                     "venue": "Three Rivers Stadium",
                     "city": "Pittsburgh",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "West L.A. Fadeaway",
@@ -1547,7 +1593,8 @@
                     "showdate": "07/02/95",
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Soundcheck:\r\n\r\nHoochie Coochie Man",
                         "Death Dont Have No Mercy",
@@ -1587,7 +1634,8 @@
                     "showdate": "07/05/95",
                     "venue": "Riverport Amphitheatre",
                     "city": "Maryland Heights",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -1622,7 +1670,8 @@
                     "showdate": "07/06/95",
                     "venue": "Riverport Amphitheatre",
                     "city": "Maryland Heights",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Take Me To The River",
@@ -1655,7 +1704,8 @@
                     "showdate": "07/08/95",
                     "venue": "Soldier Field",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -1692,7 +1742,8 @@
                     "showdate": "07/09/95",
                     "venue": "Soldier Field",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Little Red Rooster",
@@ -1735,7 +1786,8 @@
                     "showdate": "08/09/95",
                     "venue": "News Footage",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1754,7 +1806,8 @@
                     "showdate": "??/??/95",
                     "venue": "Studio - Earthquake Country sessions",
                     "city": "Unknown",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Lazy River Road \t\t\t\t\r\nEasy Answers \t\t\r\nSo Many Roads \t\t\t\t\t\t\r\nWave To The Wind \r\nEternity \t\t\t\t\t\t\t\r\nThe Days Between\t\t\t\t\t\r\nWay To Go Home\t\r\nCorinna \t\t\t\t\t\t\r\nLiberty"
                     ],
@@ -1775,7 +1828,8 @@
                     "showdate": "??/??/95",
                     "venue": "Studio",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "Lazy River Road\r\nEasy Answers\r\nSo Many Roads\r\nWave To The Wind\r\nEternity\r\nThe Days Between\r\nWay To Go Home\r\nCorinna\r\nLiberty"
                     ],

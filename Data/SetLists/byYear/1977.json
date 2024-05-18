@@ -11,7 +11,8 @@
                     "showdate": "02/17/77",
                     "venue": "Sound City",
                     "city": "Van Nuys",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Samson & Delilah\nSunrise\nPassenger\nEstimated Prophet\nFire On The Mountain\nEquinox\nTerrapin Station\nPride Of Cucamonga*\nMoney Money\nUnbroken Chain^"
                     ],
@@ -32,7 +33,8 @@
                     "showdate": "02/20/77",
                     "venue": "Sound City",
                     "city": "Van Nuys",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Dancin' in the Streets",
                         "Sunrise",
@@ -60,7 +62,8 @@
                     "showdate": "02/26/77",
                     "venue": "Swing Auditorium",
                     "city": "San Bernardino",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Terrapin Station",
                         "Minglewood Blues",
@@ -97,7 +100,8 @@
                     "showdate": "02/27/77",
                     "venue": "Robertson Gym, UC Santa Barbara",
                     "city": "Goleta",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -138,7 +142,8 @@
                     "showdate": "03/18/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -175,7 +180,8 @@
                     "showdate": "03/19/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Mama Tried",
@@ -214,7 +220,8 @@
                     "showdate": "03/20/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Ramble On Rose",
@@ -255,7 +262,8 @@
                     "showdate": "04/22/77",
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
-                    "state": "PA",
+                    "state_abbrev": "PA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -294,7 +302,8 @@
                     "showdate": "04/23/77",
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugaree",
                         "Cassidy",
@@ -333,7 +342,8 @@
                     "showdate": "04/25/77",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Deal",
@@ -376,7 +386,8 @@
                     "showdate": "04/26/77",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -415,7 +426,8 @@
                     "showdate": "04/27/77",
                     "venue": "Capitol Theater",
                     "city": "Passaic",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -454,7 +466,8 @@
                     "showdate": "04/29/77",
                     "venue": "The Palladium",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Minglewood Blues",
@@ -491,7 +504,8 @@
                     "showdate": "04/30/77",
                     "venue": "The Palladium",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Bertha",
@@ -530,7 +544,8 @@
                     "showdate": "05/01/77",
                     "venue": "The Palladium",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "El Paso",
@@ -573,7 +588,8 @@
                     "showdate": "05/03/77",
                     "venue": "The Palladium",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Bertha",
@@ -616,7 +632,8 @@
                     "showdate": "05/04/77",
                     "venue": "The Palladium",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half-Step Uptown Toodeloo > Big River",
                         "They Love Each Other",
@@ -655,7 +672,8 @@
                     "showdate": "05/05/77",
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -694,7 +712,8 @@
                     "showdate": "05/07/77",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Cassidy",
@@ -733,7 +752,8 @@
                     "showdate": "05/08/77",
                     "venue": "Barton Hall",
                     "city": "Ithaca",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -776,7 +796,8 @@
                     "showdate": "05/09/77",
                     "venue": "Buffalo Memorial Auditorium",
                     "city": "Buffalo",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Cassidy",
@@ -815,7 +836,8 @@
                     "showdate": "05/11/77",
                     "venue": "St. Paul Civic Center",
                     "city": "St. Paul",
-                    "state": "MN",
+                    "state_abbrev": "MN",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land\nThey Love Each Other\nBig River\nLoser\nLooks Like Rain\nRamble On Rose\nJack Straw\nPeggy-O\nEl Paso\nDeal\nLazy Lightning -&gt; \nSupplication\nSugaree"
                     ],
@@ -838,7 +860,8 @@
                     "showdate": "05/12/77",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -877,7 +900,8 @@
                     "showdate": "05/13/77",
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Ramble On Rose",
@@ -918,7 +942,8 @@
                     "showdate": "05/15/77",
                     "venue": "The Arena",
                     "city": "St. Louis",
-                    "state": "MO",
+                    "state_abbrev": "MO",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha &gt; Good Lovin'",
                         "Row Jimmy",
@@ -959,7 +984,8 @@
                     "showdate": "05/17/77",
                     "venue": "Memorial Coliseum, U of Alabama",
                     "city": "Tuscaloosa",
-                    "state": "AL",
+                    "state_abbrev": "AL",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Mississippi Half Step-> El Paso",
@@ -1004,7 +1030,8 @@
                     "showdate": "05/18/77",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Deal",
                         "Cassidy",
@@ -1045,7 +1072,8 @@
                     "showdate": "05/19/77",
                     "venue": "Fox Theater",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree-> El Paso",
@@ -1082,7 +1110,8 @@
                     "showdate": "05/21/77",
                     "venue": "Lakeland Civic Center",
                     "city": "Lakeland",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1125,7 +1154,8 @@
                     "showdate": "05/22/77",
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -1164,7 +1194,8 @@
                     "showdate": "05/25/77",
                     "venue": "The Mosque",
                     "city": "Richmond",
-                    "state": "VA",
+                    "state_abbrev": "VA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -1205,7 +1236,8 @@
                     "showdate": "05/26/77",
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -1248,7 +1280,8 @@
                     "showdate": "05/28/77",
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
-                    "state": "CT",
+                    "state_abbrev": "CT",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'-> Sugaree",
                         "Jack Straw",
@@ -1285,7 +1318,8 @@
                     "showdate": "06/04/77",
                     "venue": "The Forum",
                     "city": "Inglewood",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -1328,7 +1362,8 @@
                     "showdate": "06/07/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Jack Straw",
@@ -1367,7 +1402,8 @@
                     "showdate": "06/08/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree",
@@ -1408,7 +1444,8 @@
                     "showdate": "06/09/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -1447,7 +1484,8 @@
                     "showdate": "09/03/77",
                     "venue": "Raceway Park",
                     "city": "Englishtown",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1486,7 +1524,8 @@
                     "showdate": "09/28/77",
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -1529,7 +1568,8 @@
                     "showdate": "09/29/77",
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
-                    "state": "WA",
+                    "state_abbrev": "WA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half-Step Uptown Toodeloo",
                         "Mama Tried",
@@ -1568,7 +1608,8 @@
                     "showdate": "10/01/77",
                     "venue": "Paramount Theater",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1611,7 +1652,8 @@
                     "showdate": "10/02/77",
                     "venue": "Paramount Theater",
                     "city": "Portland",
-                    "state": "OR",
+                    "state_abbrev": "OR",
+"country_abbrev":"US",
                     "set1": [
                         "Casey Jones",
                         "Jack Straw",
@@ -1648,7 +1690,8 @@
                     "showdate": "10/06/77",
                     "venue": "Activity Center. Arizona State U",
                     "city": "Tempe",
-                    "state": "AZ",
+                    "state_abbrev": "AZ",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land*",
                         "Tennessee Jed*",
@@ -1687,7 +1730,8 @@
                     "showdate": "10/07/77",
                     "venue": "University of New Mexico",
                     "city": "Albuquerque",
-                    "state": "NM",
+                    "state_abbrev": "NM",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -1726,7 +1770,8 @@
                     "showdate": "10/09/77",
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1765,7 +1810,8 @@
                     "showdate": "10/11/77",
                     "venue": "Lloyd Noble Center",
                     "city": "Norman",
-                    "state": "OK",
+                    "state_abbrev": "OK",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way &gt; Slipknot! &gt; Franklin's Tower",
                         "Jack Straw",
@@ -1800,7 +1846,8 @@
                     "showdate": "10/12/77",
                     "venue": "Manor Downs",
                     "city": "Austin",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1841,7 +1888,8 @@
                     "showdate": "10/14/77",
                     "venue": "Hofheinz Pavilion",
                     "city": "Houston",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Mississippi Half Step-> El Paso",
@@ -1882,7 +1930,8 @@
                     "showdate": "10/15/77",
                     "venue": "Moody Coliseum, S.M.U",
                     "city": "Dallas",
-                    "state": "TX",
+                    "state_abbrev": "TX",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "They Love Each Other",
@@ -1917,7 +1966,8 @@
                     "showdate": "10/16/77",
                     "venue": "Assembly Center, Lousiana State U",
                     "city": "Baton Rouge",
-                    "state": "LA",
+                    "state_abbrev": "LA",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1956,7 +2006,8 @@
                     "showdate": "10/28/77",
                     "venue": "Soldiers &amp; Sailors Memorial Hall",
                     "city": "Kansas City",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1993,7 +2044,8 @@
                     "showdate": "10/29/77",
                     "venue": "Field House, Northern Illinois U",
                     "city": "De Kalb",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "Jack Straw",
@@ -2034,7 +2086,8 @@
                     "showdate": "10/30/77",
                     "venue": "Assembly Hall, Ind",
                     "city": "Bloomington",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -2071,7 +2124,8 @@
                     "showdate": "10/??/77",
                     "venue": "Various",
                     "city": "Various",
-                    "state": "Various",
+                    "state_abbrev": "Various",
+"country_abbrev":"US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2090,7 +2144,8 @@
                     "showdate": "11/01/77",
                     "venue": "Cobo Arena",
                     "city": "Detroit",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well",
                         "Jack Straw",
@@ -2131,7 +2186,8 @@
                     "showdate": "11/02/77",
                     "venue": "Field House, Seneca College",
                     "city": "Toronto",
-                    "state": "ON",
+                    "state_abbrev": "ON",
+"country_abbrev":"US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2168,7 +2224,8 @@
                     "showdate": "11/04/77",
                     "venue": "Cotterell Gym, Colgate University",
                     "city": "Hamilton",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Brown Eyed Women",
@@ -2205,7 +2262,8 @@
                     "showdate": "11/05/77",
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Minglewood Blues",
                         "Mississippi Half Step",
@@ -2242,7 +2300,8 @@
                     "showdate": "11/06/77",
                     "venue": "Broome County Arena",
                     "city": "Binghamton",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -2283,7 +2342,8 @@
                     "showdate": "12/27/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Brown Eyed Women",
@@ -2326,7 +2386,8 @@
                     "showdate": "12/29/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2365,7 +2426,8 @@
                     "showdate": "12/30/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Me & My Uncle",
@@ -2406,7 +2468,8 @@
                     "showdate": "12/31/77",
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "The Music Never Stopped",
                         "Tennessee Jed",

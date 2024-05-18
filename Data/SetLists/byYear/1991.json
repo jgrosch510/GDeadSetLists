@@ -11,7 +11,8 @@
                     "showdate": "02/19/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -50,7 +51,8 @@
                     "showdate": "02/20/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -85,7 +87,8 @@
                     "showdate": "02/21/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -118,7 +121,8 @@
                     "showdate": "03/17/91",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -153,7 +157,8 @@
                     "showdate": "03/18/91",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Minglewood Blues",
@@ -188,7 +193,8 @@
                     "showdate": "03/20/91",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Cold Rain & Snow",
@@ -225,7 +231,8 @@
                     "showdate": "03/20/91",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Might As Well"
                     ],
@@ -246,7 +253,8 @@
                     "showdate": "03/21/91",
                     "venue": "Capital Centre",
                     "city": "Landover",
-                    "state": "MD",
+                    "state_abbrev": "MD",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Mexicali Blues-> Big River",
@@ -277,7 +285,8 @@
                     "showdate": "03/23/91",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -314,7 +323,8 @@
                     "showdate": "03/24/91",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Wang Dang Doodle",
@@ -349,7 +359,8 @@
                     "showdate": "03/25/91",
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -386,7 +397,8 @@
                     "showdate": "03/27/91",
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Cold Rain & Snow",
@@ -423,7 +435,8 @@
                     "showdate": "03/28/91",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -456,7 +469,8 @@
                     "showdate": "03/29/91",
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree",
@@ -491,7 +505,8 @@
                     "showdate": "03/31/91",
                     "venue": "Greensboro Coliseum",
                     "city": "Greensboro",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Wang Dang Doodle",
@@ -526,7 +541,8 @@
                     "showdate": "04/01/91",
                     "venue": "Greensboro Coliseum",
                     "city": "Greensboro",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw> Peggy-O",
                         "It's All Over Now",
@@ -559,7 +575,8 @@
                     "showdate": "04/03/91",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Greatest Story Ever Told",
@@ -598,7 +615,8 @@
                     "showdate": "04/04/91",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -635,7 +653,8 @@
                     "showdate": "04/05/91",
                     "venue": "The Omni",
                     "city": "Atlanta",
-                    "state": "GA",
+                    "state_abbrev": "GA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Minglewood Blues",
@@ -670,7 +689,8 @@
                     "showdate": "04/07/91",
                     "venue": "Orlando Arena",
                     "city": "Orlando",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -705,7 +725,8 @@
                     "showdate": "04/08/91",
                     "venue": "Orlando Arena",
                     "city": "Orlando",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Walkin' Blues",
@@ -740,7 +761,8 @@
                     "showdate": "04/09/91",
                     "venue": "Orlando Arena",
                     "city": "Orlando",
-                    "state": "FL",
+                    "state_abbrev": "FL",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Cold Rain & Snow",
@@ -775,7 +797,8 @@
                     "showdate": "04/27/91",
                     "venue": "Sam Boyd Silver Bowl",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -810,7 +833,8 @@
                     "showdate": "04/28/91",
                     "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
                     "city": "Las Vegas",
-                    "state": "NV",
+                    "state_abbrev": "NV",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -843,7 +867,8 @@
                     "showdate": "05/03/91",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -878,7 +903,8 @@
                     "showdate": "05/04/91",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues",
@@ -913,7 +939,8 @@
                     "showdate": "05/05/91",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -946,7 +973,8 @@
                     "showdate": "05/10/91",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -983,7 +1011,8 @@
                     "showdate": "05/11/91",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Wang Dang Doodle",
@@ -1016,7 +1045,8 @@
                     "showdate": "05/12/91",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Althea",
@@ -1051,7 +1081,8 @@
                     "showdate": "06/01/91",
                     "venue": "Los Angeles Coliseum",
                     "city": "Los Angeles",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "Walkin' Blues",
@@ -1084,7 +1115,8 @@
                     "showdate": "06/06/91",
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1121,7 +1153,8 @@
                     "showdate": "06/07/91",
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
-                    "state": "IN",
+                    "state_abbrev": "IN",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Little Red Rooster",
@@ -1154,7 +1187,8 @@
                     "showdate": "06/09/91",
                     "venue": "Buckeye Lake Music Center",
                     "city": "Hebron",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Sugaree",
@@ -1189,7 +1223,8 @@
                     "showdate": "06/11/91",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Walkin' Blues",
@@ -1226,7 +1261,8 @@
                     "showdate": "06/12/91",
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
-                    "state": "NC",
+                    "state_abbrev": "NC",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -1261,7 +1297,8 @@
                     "showdate": "06/14/91",
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
-                    "state": "DC",
+                    "state_abbrev": "DC",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Wang Dang Doodle",
@@ -1298,7 +1335,8 @@
                     "showdate": "06/16/91",
                     "venue": "Giants Stadium",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Bertha",
@@ -1333,7 +1371,8 @@
                     "showdate": "06/17/91",
                     "venue": "Giants Stadium",
                     "city": "East Rutherford",
-                    "state": "NJ",
+                    "state_abbrev": "NJ",
+"country_abbrev":"US",
                     "set1": [
                         "Eyes Of The World",
                         "Walkin' Blues",
@@ -1368,7 +1407,8 @@
                     "showdate": "06/19/91",
                     "venue": "Pine Knob Music Theater",
                     "city": "Clarkston",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other",
@@ -1403,7 +1443,8 @@
                     "showdate": "06/20/91",
                     "venue": "Pine Knob Music Theater",
                     "city": "Clarkston",
-                    "state": "MI",
+                    "state_abbrev": "MI",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Greatest Story Ever Told",
@@ -1434,7 +1475,8 @@
                     "showdate": "06/22/91",
                     "venue": "Soldier Field",
                     "city": "Chicago",
-                    "state": "IL",
+                    "state_abbrev": "IL",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Shakedown Street",
@@ -1467,7 +1509,8 @@
                     "showdate": "06/24/91",
                     "venue": "Sandstone Ampitheatre",
                     "city": "Bonner Springs",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "CC Rider-> It Takes A Lot To Laugh It Takes A Train To Cry",
@@ -1498,7 +1541,8 @@
                     "showdate": "06/25/91",
                     "venue": "Sandstone Ampitheatre",
                     "city": "Bonner Springs",
-                    "state": "KS",
+                    "state_abbrev": "KS",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -1533,7 +1577,8 @@
                     "showdate": "06/28/91",
                     "venue": "Mile High Stadium",
                     "city": "Denver",
-                    "state": "CO",
+                    "state_abbrev": "CO",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Greatest Story Ever Told",
@@ -1572,7 +1617,8 @@
                     "showdate": "08/12/91",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko",
                         "Minglewood Blues",
@@ -1607,7 +1653,8 @@
                     "showdate": "08/13/91",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Sugaree",
@@ -1642,7 +1689,8 @@
                     "showdate": "08/14/91",
                     "venue": "Cal Expo",
                     "city": "Sacramento",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Little Red Rooster",
@@ -1677,7 +1725,8 @@
                     "showdate": "08/16/91",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -1710,7 +1759,8 @@
                     "showdate": "08/17/91",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Wang Dang Doodle",
@@ -1743,7 +1793,8 @@
                     "showdate": "08/18/91",
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Jack A Roe",
@@ -1780,7 +1831,8 @@
                     "showdate": "09/04/91",
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Jack Straw",
@@ -1819,7 +1871,8 @@
                     "showdate": "09/05/91",
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Mississippi Half Step",
                         "Little Red Rooster",
@@ -1854,7 +1907,8 @@
                     "showdate": "09/06/91",
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
-                    "state": "OH",
+                    "state_abbrev": "OH",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Bertha",
@@ -1889,7 +1943,8 @@
                     "showdate": "09/08/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Loser",
@@ -1924,7 +1979,8 @@
                     "showdate": "09/09/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Sugaree",
@@ -1959,7 +2015,8 @@
                     "showdate": "09/10/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street-> CC Rider-> It Takes A Lot To Laugh It Takes A Train To Cry",
                         "Black Throated Wind",
@@ -1990,7 +2047,8 @@
                     "showdate": "09/12/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Bertha",
@@ -2027,7 +2085,8 @@
                     "showdate": "09/13/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Wang Dang Doodle",
@@ -2064,7 +2123,8 @@
                     "showdate": "09/14/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Jack Straw",
@@ -2101,7 +2161,8 @@
                     "showdate": "09/16/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Bertha",
@@ -2136,7 +2197,8 @@
                     "showdate": "09/17/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Iko Iko-> Greatest Story Ever Told",
                         "Althea",
@@ -2171,7 +2233,8 @@
                     "showdate": "09/18/91",
                     "venue": "Madison Square Garden",
                     "city": "New York",
-                    "state": "NY",
+                    "state_abbrev": "NY",
+"country_abbrev":"US",
                     "set1": [
                         "Midnight Hour",
                         "Ramble On Rose",
@@ -2206,7 +2269,8 @@
                     "showdate": "09/20/91",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Grey",
                         "Little Red Rooster",
@@ -2241,7 +2305,8 @@
                     "showdate": "09/21/91",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket\nThey Love Each Other\nMinglewood Blues\nJust Like Tom Thumb's Blues\nCassidy\nDeal"
                     ],
@@ -2264,7 +2329,8 @@
                     "showdate": "09/22/91",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Shakedown Street",
                         "CC Rider-> It Takes A Lot To Laugh It Takes A Train To Cry",
@@ -2295,7 +2361,8 @@
                     "showdate": "09/24/91",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -2334,7 +2401,8 @@
                     "showdate": "09/25/91",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Walkin' Blues",
@@ -2367,7 +2435,8 @@
                     "showdate": "09/26/91",
                     "venue": "Boston Garden",
                     "city": "Boston",
-                    "state": "MA",
+                    "state_abbrev": "MA",
+"country_abbrev":"US",
                     "set1": [
                         "Jack Straw",
                         "Cold Rain & Snow",
@@ -2402,7 +2471,8 @@
                     "showdate": "09/??/91",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "\"Edge\" w/Buck Henry - PBS 1991\r\n\r\n\"CBS Evening News\" 9-13-91 & \"CBS This Morning\" 9-18-91"
                     ],
@@ -2423,7 +2493,8 @@
                     "showdate": "10/27/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Sugar Magnolia-> Sugaree",
                         "Walkin' Blues",
@@ -2458,7 +2529,8 @@
                     "showdate": "10/28/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -2493,7 +2565,8 @@
                     "showdate": "10/30/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Picasso Moon",
                         "Friend Of The Devil",
@@ -2528,7 +2601,8 @@
                     "showdate": "10/31/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -2559,7 +2633,8 @@
                     "showdate": "11/03/91",
                     "venue": "Polo Field, Golden Gate Park",
                     "city": "San Francisco",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "China Cat Sunflower-> I Know You Rider",
@@ -2589,7 +2664,8 @@
                     "showdate": "12/27/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Little Red Rooster",
@@ -2626,7 +2702,8 @@
                     "showdate": "12/28/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "One More Saturday Night-> Jack Straw",
                         "El Paso",
@@ -2661,7 +2738,8 @@
                     "showdate": "12/30/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Touch Of Gray",
                         "Victim Or The Crime",
@@ -2696,7 +2774,8 @@
                     "showdate": "12/31/91",
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
-                    "state": "CA",
+                    "state_abbrev": "CA",
+"country_abbrev":"US",
                     "set1": [
                         "Hell In A Bucket",
                         "Candyman",
@@ -2733,7 +2812,8 @@
                     "showdate": "??/??/91",
                     "venue": "Compilation",
                     "city": "Compilation",
-                    "state": "Compilation",
+                    "state_abbrev": "Compilation",
+"country_abbrev":"US",
                     "set1": [
                         "Credits Screen:\t Wonderful World\r\n Party Hardy\r\n\r\nJerry Garcia Bar Video:\tSmoke Gets In Your Eyes\r\n\r\nJerry Garcia Band\r\n11-24-91\r\nTarget Center\r\nMinneapolis",
                         "Minnesota\r\nJerry Garcia",
@@ -2766,7 +2846,8 @@
                     "showdate": "??/??/91",
                     "venue": "Unknown",
                     "city": "Unknown",
-                    "state": "Unknown",
+                    "state_abbrev": "Unknown",
+"country_abbrev":"US",
                     "set1": [
                         "\"Lifelines\" KTVU TV\r\n\r\nInterview with Jerry.  Few live performance clips"
                     ],
