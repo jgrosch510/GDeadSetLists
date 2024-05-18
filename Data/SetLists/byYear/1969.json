@@ -1,7 +1,7 @@
 {
     "db_rest": {
         "@Generator": "Zend",
-        "@Version": "1.0",
+        "@Version": "0.1",
         "fetchArtistYear": {
             "shows": {
                 "key_0": {
