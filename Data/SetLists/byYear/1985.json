@@ -12,7 +12,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Iko Iko-> CC Rider",
                         "Dire Wolf",
@@ -46,7 +46,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dupree's Diamond Blues",
@@ -82,7 +82,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain and Snow  > Day Tripper",
                         "West L.A. Fadeaway",
@@ -114,7 +114,7 @@
                     "venue": "Unknown",
                     "city": "Unknown",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Twilight Zone Sessions"
                     ],
@@ -136,7 +136,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> One More Saturday Night-> Sugaree",
                         "It's All Over Now",
@@ -166,7 +166,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -196,7 +196,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Iko Iko",
                         "Little Red Rooster*",
@@ -230,7 +230,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Althea",
                         "Mama Tried-> Mexicali Blues",
@@ -262,7 +262,7 @@
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other-> El Paso",
@@ -296,7 +296,7 @@
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Cold Rain & Snow",
@@ -334,7 +334,7 @@
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Promised Land",
                         "Althea",
@@ -366,7 +366,7 @@
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Sugaree-> Little Red Rooster",
                         "Bird Song",
@@ -396,7 +396,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Hell In A Bucket",
                         "West L.A. Fadeaway",
@@ -432,7 +432,7 @@
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'-> Smokestack Lightning*-> High Time",
                         "El Paso",
@@ -464,7 +464,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Down In The Bottom*-> I Ain't Superstitous*",
@@ -502,7 +502,7 @@
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
                     "state_abbrev": "ME",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Music Never Stopped\nCandyman\nC.C. Rider\nBeat It On Down The Line\nDupree's Diamond Blues\nIt's All Over Now\nDon't Ease Me In"
                     ],
@@ -526,7 +526,7 @@
                     "venue": "Cumberland County Civic Center",
                     "city": "Portland",
                     "state_abbrev": "ME",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -562,7 +562,7 @@
                     "venue": "Providence Civic Center",
                     "city": "Providence",
                     "state_abbrev": "RI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Me & My Uncle-> Mexicali Blues",
@@ -596,7 +596,7 @@
                     "venue": "Providence Civic Center",
                     "city": "Providence",
                     "state_abbrev": "RI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Jack Straw",
                         "Dire Wolf",
@@ -632,7 +632,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other",
@@ -670,7 +670,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Why Don't We Do It In The Road?",
                         "Mississippi Half-Step Uptown Toodeloo",
@@ -704,7 +704,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "In The Midnight Hour\nWalking The Dog\nBig Boss Man\nMe &amp; My Uncle\nCumberland Blues\nDown In The Bottom\nI Ain't Superstitous\nAlthea\nTons Of Steel\nSupplication\nMight As Well"
                     ],
@@ -728,7 +728,7 @@
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Why Don't We Do It In The Road-> Bertha-> Jack Straw",
                         "West L.A. Fadeaway",
@@ -762,7 +762,7 @@
                     "venue": "Irvine Meadows",
                     "city": "Irvine",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Grey-> Hell In A Bucket-> Sugaree-> Down In The Bottom-> I Ain't Superstitous",
                         "Brown Eyed Women",
@@ -794,7 +794,7 @@
                     "venue": "Marin Veterans Memorial Auditorium",
                     "city": "San Rafael",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Tons of Steel - false start\nTons of Steel\nCassidy\nComes a Time\nMississippi Half Step - false start\nMississippi Half Step\nJack Straw >\nBrown Eyed Women\nNot Fade Away\nGreen Onions\nUncle John's Band - false start\nUncle John's Band >\nPlayin' in the Band >\nUncle John's Band Reprise\nDrums >\nBeam & Percussion"
                     ],
@@ -816,7 +816,7 @@
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets-> Bertha",
                         "Little Red Rooster",
@@ -850,7 +850,7 @@
                     "venue": "Frost Amphitheatre",
                     "city": "Palo Alto",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Gimme Some Lovin'-> Mississippi Half Step-> Minglewood Blues",
                         "Bird Song",
@@ -878,7 +878,7 @@
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets",
                         "West L.A. Fadeaway",
@@ -912,7 +912,7 @@
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray",
                         "Minglewood Blues",
@@ -944,7 +944,7 @@
                     "venue": "Greek Theater, U. of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "In the Midnight Hour > Bertha",
                         "Walkin' Blues",
@@ -982,7 +982,7 @@
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow-> Down In The Bottom-> I Ain't Superstitous",
                         "Stagger Lee",
@@ -1014,7 +1014,7 @@
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Walkin' Blues-> Candyman-> It's All Over Now",
@@ -1048,7 +1048,7 @@
                     "venue": "River Bend Music Center",
                     "city": "Cincinnati",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -1084,7 +1084,7 @@
                     "venue": "Blossom Music Center",
                     "city": "Cuyahoga Falls",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Day Tripper-> West L.A. Fadeaway-> CC Rider",
                         "Dire Wolf",
@@ -1120,7 +1120,7 @@
                     "venue": "Saratoga Performing Arts Center",
                     "city": "Saratoga Springs",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Midnight Hour-> Bertha-> Little Red Rooster",
                         "Stagger Lee-> El Paso",
@@ -1150,7 +1150,7 @@
                     "venue": "Hershey Park Stadium",
                     "city": "Hershey",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow-> Promised Land",
                         "Ramble On Rose",
@@ -1180,7 +1180,7 @@
                     "venue": "Merriweather Post Pavilion",
                     "city": "Columbia",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> CC Rider-> Brown Eyed Women",
                         "Mama Tried-> Mexicali Blues",
@@ -1208,7 +1208,7 @@
                     "venue": "Merriweather Post Pavilion",
                     "city": "Columbia",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Dupree's Diamond Blues",
@@ -1244,7 +1244,7 @@
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> It Must Have Been The Roses",
                         "Minglewood Blues",
@@ -1278,7 +1278,7 @@
                     "venue": "Ventura County Fairgrounds",
                     "city": "Ventura",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "One More Saturday Night-> Fire On The Mountain",
                         "Walkin' Blues",
@@ -1310,7 +1310,7 @@
                     "venue": "Ventura County Fairgrounds",
                     "city": "Ventura",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -1344,7 +1344,7 @@
                     "venue": "Boreal Ridge Ski Resort",
                     "city": "Donner's Summit",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -1376,7 +1376,7 @@
                     "venue": "Southern Star Amphitheater",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Row Jimmy",
@@ -1406,7 +1406,7 @@
                     "venue": "Manor Downs",
                     "city": "Austin",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> El Paso",
                         "Dupree's Diamond Blues",
@@ -1442,7 +1442,7 @@
                     "venue": "Zoo Amphitheater",
                     "city": "Oklahoma City",
                     "state_abbrev": "OK",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -1478,7 +1478,7 @@
                     "venue": "Starlight Theater",
                     "city": "Kansas City",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger-> They Love Each Other",
                         "Little Red Rooster",
@@ -1512,7 +1512,7 @@
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "CC Rider",
@@ -1550,7 +1550,7 @@
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "It's All Over Now",
@@ -1582,7 +1582,7 @@
                     "venue": "Red Rocks Amphitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Frozen Logger*",
                         "Mississippi Half Step-> Minglewood Blues",
@@ -1618,7 +1618,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Peggy-O",
                         "Little Red Rooster",
@@ -1650,7 +1650,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Minglewood Blues",
                         "Friend Of The Devil",
@@ -1678,7 +1678,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told-> Bertha",
                         "It's All Over Now",
@@ -1708,7 +1708,7 @@
                     "venue": "Devore Field, Southwestern U",
                     "city": "Chula Vista",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "West L.A. Fadeaway",
@@ -1740,7 +1740,7 @@
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deal",
                         "Little Red Rooster",
@@ -1778,7 +1778,7 @@
                     "venue": "Sun Dome",
                     "city": "Tampa",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Gimme Some Lovin'-> Greatest Story Ever Told",
                         "Dupree's Diamond Blues",
@@ -1814,7 +1814,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Kansas City*",
@@ -1852,7 +1852,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -1884,7 +1884,7 @@
                     "venue": "Carolina Coliseum, U of South Carolina",
                     "city": "Columbia",
                     "state_abbrev": "SC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jam-> Werewolves of London-> The Music Never Stopped",
                         "West L.A. Fadeaway",
@@ -1916,7 +1916,7 @@
                     "venue": "Richmond Coliseum",
                     "city": "Richmond",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets-> Cold Rain & Snow",
                         "Little Red Rooster",
@@ -1952,7 +1952,7 @@
                     "venue": "Richmond Coliseum",
                     "city": "Richmond",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Dupree's Diamond Blues",
@@ -1986,7 +1986,7 @@
                     "venue": "The Centrum",
                     "city": "Worcester",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway>Promised",
                         "Roses",
@@ -2022,7 +2022,7 @@
                     "venue": "The Centrum",
                     "city": "Worcester",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "They Love Each Other",
@@ -2054,7 +2054,7 @@
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets-> Dire Wolf",
                         "CC Rider-> Loser",
@@ -2082,7 +2082,7 @@
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Iko Iko-> Little Red Rooster-> Peggy-O",
                         "My Brother Esau",
@@ -2112,7 +2112,7 @@
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray-> Hell In A Bucket-> Sugaree",
                         "Cassidy",
@@ -2142,7 +2142,7 @@
                     "venue": "Meadowlands Arena",
                     "city": "East Rutherford",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Walkin' The Dog-> Deal",
                         "Minglewood Blues",
@@ -2174,7 +2174,7 @@
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree-> El Paso",
                         "Dupree's Diamond Blues",
@@ -2206,7 +2206,7 @@
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -2242,7 +2242,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Peggy-O",
                         "CC Rider",
@@ -2276,7 +2276,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Boy Pete",
                         "Dire Wolf",
@@ -2310,7 +2310,7 @@
                     "venue": "Henry J. Kaiser Convention Center",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Minglewood Blues-> Althea",
@@ -2338,7 +2338,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Gimme Some Lovin'-> Greatest Story Ever Told",
                         "West L.A. Fadeaway",
@@ -2372,7 +2372,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Not Fade Away\nTouch Of Grey\nTons Of Steel\nC.C. Rider\nDupree's Diamond Blues\nCassidy\nBrown Eyed Women\nLet It Grow"
                     ],
@@ -2396,7 +2396,7 @@
                     "venue": "Dead Play the Beatles",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dead Play the Beatles\r\n\r\nDisc I\r\nDay Tripper   GD 06-25-85\r\nCome Together   Dead 07-07-03  \r\nEleanor Rigby Jam JGB 02-12-80 \r\nTomorrow Never Knows GD 11/29/94\r\nBlackbird   Ratdog 11-09-99  \r\nGet Back   PLQ 10-16-00  \r\nWhy Don't We Do It In The Road   GD  04-07-85  \r\nHey Jude   GD  03-22-90  *Complete version; Jude>Reprise patched together",
                         "no Fantasy \r\nStrawberry Fields Forever   PLQ 02-08-02\r\nRain   GD  10-09-94\r\n\r\nDisc II\r\nRevolution   GD  07-02-85  \r\nShe Said   Dead 07-07-03  \r\nDear Prudence   Reconstruction 7-8-79  \r\nI Am The Walrus   PLQ 09-01-02 \r\nI Want To Tell You   JGB 03-08-87  *1 of 2 JGB times played; other in '76\r\nLucy In The Sky With Diamonds    GD  03-17-95  \r\nAll Too Much   GD  03-26-95  \r\nWhile My Guitar Gently Weeps   PLQ 11-30-01  *Only time played"
@@ -2419,7 +2419,7 @@
                     "venue": "20th Anniversary Press Conference",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "the whole band fields questions from the media for 20 minutes"
                     ],
@@ -2441,7 +2441,7 @@
                     "venue": "Various Television Appearances",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "West 57th (CBS) 1985 \r\n\tVery entertaining report on the Grateful Dead 20th \r\nanniversary shot at the Ventura County Fairgrounds.  This\r\none really captures the concert experience.  Lots of dancing",
                         "drugs",

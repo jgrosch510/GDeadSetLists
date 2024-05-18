@@ -12,7 +12,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Jack A Roe",
@@ -50,7 +50,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Peggy-O",
@@ -84,7 +84,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -120,7 +120,7 @@
                     "venue": "Capital Centre",
                     "city": "Landover",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain &amp; Snow\nFeel Like A Stranger\nNever Trust A Woman\nMama Tried\nBig River\nLoose Lucy\nStuck Insdie Of Mobile With The Memphis Blues Again\nRow Jimmy\nLet It Grow"
                     ],
@@ -144,7 +144,7 @@
                     "venue": "Capital Centre",
                     "city": "Landover",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw\nSugaree\nEasy To Love You\nWalkin' Blues\nAlthea\nJust Like Tom Thumb's Blues\nTennessee Jed\nCassidy\nDon't Ease Me In"
                     ],
@@ -168,7 +168,7 @@
                     "venue": "Capital Centre",
                     "city": "Landover",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll\nTouch Of Grey\nNew Minglewood Blues\nPeggy-O\nQueen Jane Approximately\nLoser\nBlack Throated Wind\nBird Song\nBlow Away"
                     ],
@@ -192,7 +192,7 @@
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -232,7 +232,7 @@
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Bertha",
@@ -270,7 +270,7 @@
                     "venue": "Copps Coliseum",
                     "city": "Hamilton",
                     "state_abbrev": "ON",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -308,7 +308,7 @@
                     "venue": "Copps Coliseum",
                     "city": "Hamilton",
                     "state_abbrev": "ON",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "West L.A. Fadeaway",
@@ -346,7 +346,7 @@
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
@@ -382,7 +382,7 @@
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Touch Of Gray",
@@ -420,7 +420,7 @@
                     "venue": "Knickerbocker Arena",
                     "city": "Albany",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Dupree's Diamond Blues",
@@ -458,7 +458,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Minglewood Blues",
@@ -496,7 +496,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -532,7 +532,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -568,7 +568,7 @@
                     "venue": "The Omni",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -608,7 +608,7 @@
                     "venue": "The Omni",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Mississippi Half Step-> The Weight",
@@ -642,7 +642,7 @@
                     "venue": "The Omni",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Hell in the Bucket > Sugaree",
@@ -674,7 +674,7 @@
                     "venue": "Cal State Dominguez Hills",
                     "city": "Carson",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll",
                         "The Race is On",
@@ -714,7 +714,7 @@
                     "venue": "Cal State Dominguez Hills",
                     "city": "Carson",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Feel Like A Stranger",
@@ -752,7 +752,7 @@
                     "venue": "Cal Expo",
                     "city": "Sacramento",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -790,7 +790,7 @@
                     "venue": "Cal Expo",
                     "city": "Sacramento",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -830,7 +830,7 @@
                     "venue": "Cal Expo",
                     "city": "Sacramento",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Jack Straw",
@@ -868,7 +868,7 @@
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Minglewood Blues",
@@ -904,7 +904,7 @@
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll-> Truckin'-> Touch Of Gray",
                         "Mama Tried-> Big River",
@@ -938,7 +938,7 @@
                     "venue": "Shoreline Amphitheatre",
                     "city": "Mountain View",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -972,7 +972,7 @@
                     "venue": "Autzen Stadium - University of Oregon",
                     "city": "Eugene",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger-> West L.A. Fadeaway",
                         "Me & My Uncle",
@@ -1010,7 +1010,7 @@
                     "venue": "Autzen Stadium, U. of Oregon",
                     "city": "Eugene",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "When I Paint My Masterpiece",
@@ -1046,7 +1046,7 @@
                     "venue": "Sandstone Ampitheatre",
                     "city": "Bonner Springs",
                     "state_abbrev": "KS",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -1084,7 +1084,7 @@
                     "venue": "Cardinal Stadium",
                     "city": "Louisville",
                     "state_abbrev": "KY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-> Sugaree",
                         "Easy To Love You",
@@ -1122,7 +1122,7 @@
                     "venue": "Three Rivers Stadium",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Jack A Roe",
@@ -1158,7 +1158,7 @@
                     "venue": "Carter-Finley Stadium",
                     "city": "Raleigh",
                     "state_abbrev": "NC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw*",
                         "Loser",
@@ -1196,7 +1196,7 @@
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
                     "state_abbrev": "DC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Feel Like A Stranger",
@@ -1236,7 +1236,7 @@
                     "venue": "Foxboro Stadium",
                     "city": "Foxboro",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street\nWalkin' Blues\nFar From Me\nCandyman\nStuck Inside Of Mobile With The Memphis Blues Again\nRamble On Rose\nOne More Saturday Night"
                     ],
@@ -1260,7 +1260,7 @@
                     "venue": "Rich Stadium",
                     "city": "Orchard Park",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket\nMississippi Half-Step Uptown Toodleloo\nBlow Away\nMama Tried\nMexicali Blues\nLoose Lucy\nIt's All Over Now\nHigh Time\nLet It Grow\nDon't Ease Me In"
                     ],
@@ -1284,7 +1284,7 @@
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
                     "state_abbrev": "IN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-&gt; Slipknot!",
                         "Franklin's Tower",
@@ -1322,7 +1322,7 @@
                     "venue": "Deer Creek Music Center",
                     "city": "Noblesville",
                     "state_abbrev": "IN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1356,7 +1356,7 @@
                     "venue": "World Music Theater",
                     "city": "Tinley Park",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray",
                         "Greatest Story Ever Told",
@@ -1394,7 +1394,7 @@
                     "venue": "World Music Theater",
                     "city": "Tinley Park",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Box Of Rain",
                         "Feel Like A Stranger",
@@ -1434,7 +1434,7 @@
                     "venue": "World Music Theater",
                     "city": "Tinley Park",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Picasso Moon",
@@ -1468,7 +1468,7 @@
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -1508,7 +1508,7 @@
                     "venue": "Richfield Coliseum",
                     "city": "Richfield",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket-&gt;\nSugaree\nMinglewood Blues\nFriend Of The Devil\nQueen Jane Approximately\nLoser\nCassidy\nDeal"
                     ],
@@ -1532,7 +1532,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Little Red Rooster",
@@ -1568,7 +1568,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Bertha-> Greatest Story Ever Told",
@@ -1606,7 +1606,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step> Walkin' Blues",
                         "They Love Each Other",
@@ -1642,7 +1642,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree",
@@ -1680,7 +1680,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -1718,7 +1718,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Cold Rain & Snow",
@@ -1756,7 +1756,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Minglewood Blues",
@@ -1794,7 +1794,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -1828,7 +1828,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Althea",
@@ -1864,7 +1864,7 @@
                     "venue": "Front Street",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "St. of Cicumstance",
                         "Stander on the Mountain",
@@ -1888,7 +1888,7 @@
                     "venue": "Ice Stadium",
                     "city": "Stockholm",
                     "state_abbrev": "Sweden",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Feel Like A Stranger",
@@ -1926,7 +1926,7 @@
                     "venue": "Gruga Halle",
                     "city": "Essen",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -1968,7 +1968,7 @@
                     "venue": "Internationales Congress Centrum",
                     "city": "Berlin",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Let The Good Times Roll",
                         "Shakedown Street",
@@ -2006,7 +2006,7 @@
                     "venue": "Internationales Congress Centrum",
                     "city": "Berlin",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Mississippi Half Step",
@@ -2046,7 +2046,7 @@
                     "venue": "Festhalle",
                     "city": "Frankfurt",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha> Greatest Story Ever Told",
                         "Peggy-O",
@@ -2082,7 +2082,7 @@
                     "venue": "Sportsahalle",
                     "city": "Hamburg",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Cold Rain & Snow",
@@ -2120,7 +2120,7 @@
                     "venue": "The Zenith",
                     "city": "Paris",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Sugaree",
@@ -2160,7 +2160,7 @@
                     "venue": "The Zenith",
                     "city": "Paris",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray",
                         "Walkin' Blues",
@@ -2202,7 +2202,7 @@
                     "venue": "Wembley Arena",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Bertha",
@@ -2238,7 +2238,7 @@
                     "venue": "Wembley Arena",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Little Red Rooster",
@@ -2276,7 +2276,7 @@
                     "venue": "Wembley Arena",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Friend Of The Devil",
@@ -2314,7 +2314,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray",
                         "Feel Like A Stranger",
@@ -2352,7 +2352,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Mississippi Half Step",
@@ -2392,7 +2392,7 @@
                     "venue": "Compton Terrace Amphitheatre",
                     "city": "Chandler",
                     "state_abbrev": "AZ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Picasso Moon",
@@ -2430,7 +2430,7 @@
                     "venue": "Compton Terrace",
                     "city": "Chandler",
                     "state_abbrev": "AZ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Bertha",
@@ -2468,7 +2468,7 @@
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Touch Of Gray-> Greatest Story Ever Told",
                         "Candyman",
@@ -2504,7 +2504,7 @@
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "Wang Dang Doodle",
@@ -2540,7 +2540,7 @@
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Picasso Moon",
@@ -2578,7 +2578,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -2616,7 +2616,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Walkin' Blues",
@@ -2650,7 +2650,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Feel Like A Stranger",
@@ -2688,7 +2688,7 @@
                     "venue": "Oakland-Alameda County Coliseum",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hell In A Bucket",
                         "Jack A Roe",
@@ -2724,7 +2724,7 @@
                     "venue": "Compilation",
                     "city": "Compilation",
                     "state_abbrev": "various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Carib Jam >\r\nSpanish Lady Jam >\r\nNeal@TheWheel Jam >\r\nFaded Jam >\r\nFoolish Jam >\r\nFarewell Terrapin Jam >\r\nPlaying In The Jam",
                         "pt. 1 >\r\nGoing Home Jam >\r\nBass Jam >\r\nScarlet Jam >\r\nBluesy Jam >\r\nPlaying In The Jam",
@@ -2748,7 +2748,7 @@
                     "venue": "Best of Brent Spring 1990",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "1990.03.18 Hartford Civic Center - Hartford",
                         "CT\r\nShakedown Street\r\nFriend of the Devil\r\n\r\n1990.03.21 Copps Coliseum - Hamilton",
@@ -2786,7 +2786,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

@@ -12,7 +12,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -68,7 +68,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Black Throated Wind",
@@ -116,7 +116,7 @@
                     "venue": "Academy Of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Black-Throated Wind",
@@ -168,7 +168,7 @@
                     "venue": "Academy of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Deal",
@@ -220,7 +220,7 @@
                     "venue": "Academy of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Black Throated Wind",
@@ -268,7 +268,7 @@
                     "venue": "Academy of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hey Bo Diddley*-> I'm A Man*-> Jam*-> Take It Off*-> Mona*",
                         "Wow Wow Hey Hey*",
@@ -304,7 +304,7 @@
                     "venue": "Academy of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Cold Rain &amp; Snow",
@@ -354,7 +354,7 @@
                     "venue": "Academy of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Black Throated Wind",
@@ -398,7 +398,7 @@
                     "venue": "Academy of Music",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Tennessee Jed",
@@ -450,7 +450,7 @@
                     "venue": "Wembley Empire Pool",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Sugaree",
@@ -496,7 +496,7 @@
                     "venue": "Wembley Empire Pool",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -546,7 +546,7 @@
                     "venue": "Newcastle City Hall",
                     "city": "Newcastle",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Deal",
@@ -602,7 +602,7 @@
                     "venue": "Tivoli Theater",
                     "city": "Copenhagen",
                     "state_abbrev": "Denmark",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -654,7 +654,7 @@
                     "venue": "Stakladen, Aarhus University",
                     "city": "Aarhus",
                     "state_abbrev": "Denmark",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Sugaree",
@@ -702,7 +702,7 @@
                     "venue": "Tivoli Concert Hall",
                     "city": "Copenhagen",
                     "state_abbrev": "Denmark",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Me And Bobby McGee*",
@@ -749,7 +749,7 @@
                     "venue": "Beat Club",
                     "city": "Bremen",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha\nPlaying In The Band *\nMr. Charlie\nSugaree\nOne More Saturday Night\nPlaying In The Band *\nBeat It On Down The Line\nTruckin'\nDrums\nThe Other One"
                     ],
@@ -773,7 +773,7 @@
                     "venue": "Rheinhalle",
                     "city": "D\u00fcsseldorf",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Tennessee Jed",
@@ -821,7 +821,7 @@
                     "venue": "Jahrhundert Halle",
                     "city": "Frankfurt",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -875,7 +875,7 @@
                     "venue": "Musikhalle",
                     "city": "Hamburg",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Playin' In The Band",
                         "Sugaree",
@@ -923,7 +923,7 @@
                     "venue": "Olympia Theater",
                     "city": "Paris",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -975,7 +975,7 @@
                     "venue": "Olympia Theater",
                     "city": "Paris",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Greatest Story Ever Told",
                         "Deal",
@@ -1025,7 +1025,7 @@
                     "venue": "Bickershaw Festival",
                     "city": "Wigan",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -1075,7 +1075,7 @@
                     "venue": "Concertgebouw",
                     "city": "Amsterdam",
                     "state_abbrev": "Netherlands",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1131,7 +1131,7 @@
                     "venue": "Rotterdam Civic Hall",
                     "city": "Rotterdam",
                     "state_abbrev": "Netherlands",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Playin' In The Band",
                         "Sugaree",
@@ -1183,7 +1183,7 @@
                     "venue": "Lille Fairgrounds",
                     "city": "Lille",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Black Throated Wind",
@@ -1233,7 +1233,7 @@
                     "venue": "Theatre Hall",
                     "city": "Luxembourg",
                     "state_abbrev": "Luxembourg",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Souncheck:\n\nBig River",
                         "Sugar Magnolia\n\nSet 1:\n\nBertha",
@@ -1281,7 +1281,7 @@
                     "venue": "Kongressaal Deutsches Museum",
                     "city": "M\u00fcnchen",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -1331,7 +1331,7 @@
                     "venue": "The Strand Lyceum",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1389,7 +1389,7 @@
                     "venue": "The Strand Lyceum",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -1439,7 +1439,7 @@
                     "venue": "The Strand Lyceum",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -1487,7 +1487,7 @@
                     "venue": "The Strand Lyceum",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1541,7 +1541,7 @@
                     "venue": "BBC Interview of Bob Weir",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Part 1\r\n\r\nThe Wembley Pool concerts and what Bobby thought of the audience response\r\nThe way in which the band put a set together\r\nHow The Dead improvise and move from one song to another\r\nHow the music is developing\r\nPigpen's planned solo album\r\nMore about the improvisation\r\nWorkingman's Dead\r\nA live album to come (Europe '72)\r\nThe future of the band\r\nA sociological phenomena!\r\nThe Dead Family structure\r\nEurope '72 tour\r\nEuropean audiences\r\n\r\n\r\nPart 2\r\n\r\nAbout Bobby's",
                         "then newly released",
@@ -1565,7 +1565,7 @@
                     "venue": "Hollywood Bowl",
                     "city": "Hollywood",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1611,7 +1611,7 @@
                     "venue": "Dillon Stadium",
                     "city": "Hartford",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land",
                         "Cold Rain And Snow",
@@ -1661,7 +1661,7 @@
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1714,7 +1714,7 @@
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1760,7 +1760,7 @@
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1810,7 +1810,7 @@
                     "venue": "Paramount Theater",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land",
                         "Sugaree",
@@ -1860,7 +1860,7 @@
                     "venue": "Paramount Theater",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Black Throated Wind",
@@ -1904,7 +1904,7 @@
                     "venue": "Sacramento Memorial Auditorium",
                     "city": "Sacramento",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1954,7 +1954,7 @@
                     "venue": "San Jose Civic Auditorium",
                     "city": "San Jose",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2000,7 +2000,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "He's Gone",
@@ -2050,7 +2050,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -2096,7 +2096,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2138,7 +2138,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Black Throated Wind",
@@ -2188,7 +2188,7 @@
                     "venue": "Old Renaissance Faire Grounds",
                     "city": "Veneta",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2235,7 +2235,7 @@
                     "venue": "Folsom Field, U of Colorado",
                     "city": "Boulder",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2288,7 +2288,7 @@
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2332,7 +2332,7 @@
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Greatest Story Ever Told",
@@ -2376,7 +2376,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2422,7 +2422,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2468,7 +2468,7 @@
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2514,7 +2514,7 @@
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Bird Song",
@@ -2554,7 +2554,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Bird Song",
@@ -2600,7 +2600,7 @@
                     "venue": "Palace Theater",
                     "city": "Waterbury",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big River",
                         "Sugaree",
@@ -2648,7 +2648,7 @@
                     "venue": "Palace Theater",
                     "city": "Waterbury",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "Mexicali Blues",
@@ -2696,7 +2696,7 @@
                     "venue": "Stanley Theatre",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Cold Rain & Snow",
@@ -2744,7 +2744,7 @@
                     "venue": "Stanley Theatre",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Morning Dew",
                         "Beat It On Down The Line",
@@ -2790,7 +2790,7 @@
                     "venue": "Stanley Theatre",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -2838,7 +2838,7 @@
                     "venue": "American University",
                     "city": "Washington",
                     "state_abbrev": "DC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deal",
                         "Mexicali Blues",
@@ -2882,7 +2882,7 @@
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mexicali Blues",
@@ -2932,7 +2932,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -2982,7 +2982,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Bird Song",
@@ -3030,7 +3030,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha\nMe and My Uncle\nDon't Ease Me In\nMexicali Blues\nBrown Eyed Women\nBeat It On Down the Line\nBird Song\nBig River\nLoser\nJack Straw\nBig Railroad Blues\nEl Paso\nChina Cat Sunflower >\nI Know You Rider"
                     ],
@@ -3054,7 +3054,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -3104,7 +3104,7 @@
                     "venue": "Alumni Lawn, Vanderbilt University",
                     "city": "Nashville",
                     "state_abbrev": "TN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3150,7 +3150,7 @@
                     "venue": "Milwaukee Performing Arts Center",
                     "city": "Milwaukee",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3202,7 +3202,7 @@
                     "venue": "Milwaukee Performing Arts Center",
                     "city": "Milwaukee",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "[setlist according to Deadbase:] Promised Land",
                         "Ramble On Rose",
@@ -3238,7 +3238,7 @@
                     "venue": "Cincinnati Music Hall",
                     "city": "Cincinnati",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land",
                         "Sugaree",
@@ -3286,7 +3286,7 @@
                     "venue": "Veterans' Memorial Hall",
                     "city": "Columbus",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -3340,7 +3340,7 @@
                     "venue": "Cleveland Public Hall",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -3384,7 +3384,7 @@
                     "venue": "Ford Auditorium",
                     "city": "Detroit",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3436,7 +3436,7 @@
                     "venue": "Soldiers' and Sailors' Memorial Hall",
                     "city": "Kansas City",
                     "state_abbrev": "KS",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Deal",
@@ -3480,7 +3480,7 @@
                     "venue": "Soldiers and Sailors Memorial Hall",
                     "city": "Kansas City",
                     "state_abbrev": "KS",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -3528,7 +3528,7 @@
                     "venue": "Civic Center Music Hall",
                     "city": "Oklahoma City",
                     "state_abbrev": "OK",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3580,7 +3580,7 @@
                     "venue": "Civic Center Music Hall",
                     "city": "Oklahoma City",
                     "state_abbrev": "OK",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha\nBeat It On Down The Line\nBird Song\nJack Straw\nCandyman\nBig River\nSugaree\nEl Paso\nBox Of Rain\nDeal\nCumberland Blues\nAround And Around\nChina Cat Sunflower -&gt;\nI Know You Rider"
                     ],
@@ -3604,7 +3604,7 @@
                     "venue": "Century II Convention Hall",
                     "city": "Wichita",
                     "state_abbrev": "KS",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3656,7 +3656,7 @@
                     "venue": "Hofheinz Pavilion",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land\nSugaree\nMexicali Blues\nLoser\nBlack Throated Wind\nTennessee Jed\nEl Paso\nBig Railroad Blues\nBox Of Rain\nChina Cat Sunflower -&gt;\nI Know You Rider\nBeat It On Down The Line\nBrown Eyed Women\nAround And Around\nCasey Jones"
                     ],
@@ -3680,7 +3680,7 @@
                     "venue": "Hofheinz Pavilion",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3730,7 +3730,7 @@
                     "venue": "Austin Municipal Auditorium",
                     "city": "Austin",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3776,7 +3776,7 @@
                     "venue": "Dallas Memorial Auditorium",
                     "city": "Dallas",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "Me & My Uncle",
@@ -3822,7 +3822,7 @@
                     "venue": "San Antonio Civic Auditorium",
                     "city": "San Antonio",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -3870,7 +3870,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -3920,7 +3920,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3968,7 +3968,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down the Line",
@@ -4016,7 +4016,7 @@
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -4068,7 +4068,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Around & Around",
                         "Deal",
@@ -4116,7 +4116,7 @@
                     "venue": "Compilation- Old World Shuffle",
                     "city": "various",
                     "state_abbrev": "Europe",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

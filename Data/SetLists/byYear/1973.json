@@ -12,7 +12,7 @@
                     "venue": "Roscoe Maples Pavilion, Stanford",
                     "city": "Palo Alto",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Row Jimmy",
@@ -60,7 +60,7 @@
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Loose Lucy",
                         "Beat It On Down The Line",
@@ -110,7 +110,7 @@
                     "venue": "St. Paul Auditorium",
                     "city": "St. Paul",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "He's Gone",
@@ -160,7 +160,7 @@
                     "venue": "International Amphitheatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Box Of Rain",
@@ -190,7 +190,7 @@
                     "venue": "Assembly Hall, University Of Illinois",
                     "city": "Champaign",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Wave That Flag",
                         "Me & My Uncle",
@@ -236,7 +236,7 @@
                     "venue": "Assembly Hall, University Of Illinois",
                     "city": "Champaign",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -278,7 +278,7 @@
                     "venue": "UI Field House, University Of Iowa",
                     "city": "Iowa City",
                     "state_abbrev": "IA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -326,7 +326,7 @@
                     "venue": "Pershing Municipal Auditorium",
                     "city": "Lincoln",
                     "state_abbrev": "NE",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -378,7 +378,7 @@
                     "venue": "Salt Palace",
                     "city": "Salt Lake City",
                     "state_abbrev": "UT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -418,7 +418,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -468,7 +468,7 @@
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Jack Straw",
@@ -516,7 +516,7 @@
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "He's Gone",
@@ -566,7 +566,7 @@
                     "venue": "Utica Memorial Auditorium",
                     "city": "Utica",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -620,7 +620,7 @@
                     "venue": "Utica Memorial Auditorium",
                     "city": "Utica",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -674,7 +674,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha\nBeat It On Down The Line\nDon't Ease Me In\nThe Race Is On\nCumberland Blues\nBox Of Rain\nRow Jimmy\nJack Straw\nThey Love Each Other\nMexicali Blues\nTennessee Jed\nLooks Like Rain\nWave That Flag\nEl Paso\nHere Comes Sunshine\nMe And Bobby McGee\nLoser\nPlayin' In The Band"
                     ],
@@ -698,7 +698,7 @@
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -752,7 +752,7 @@
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cumberland Blues",
                         "Here Comes Sunshine",
@@ -806,7 +806,7 @@
                     "venue": "Rochester Community War Memorial",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -858,7 +858,7 @@
                     "venue": "Buffalo Memorial Auditorium",
                     "city": "Buffalo",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "The Race is On",
@@ -906,7 +906,7 @@
                     "venue": "Boston Garden",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -958,7 +958,7 @@
                     "venue": "Iowa State Fairgrounds",
                     "city": "Des Moines",
                     "state_abbrev": "IA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -1017,7 +1017,7 @@
                     "venue": "Stadium, U.C Santa Barbara",
                     "city": "Santa Barbara",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1073,7 +1073,7 @@
                     "venue": "Kezar Stadium",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -1129,7 +1129,7 @@
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
                     "state_abbrev": "DC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Deal",
@@ -1177,7 +1177,7 @@
                     "venue": "Robert F. Kennedy Stadium",
                     "city": "Washington",
                     "state_abbrev": "DC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Morning Dew",
                         "Beat It On Down The Line",
@@ -1239,7 +1239,7 @@
                     "venue": "P.N.E. Coliseum",
                     "city": "Vancouver",
                     "state_abbrev": "BC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -1291,7 +1291,7 @@
                     "venue": "Portland Memorial Coliseum",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land\nLoser\nMexicali Blues\nThey Love Each Other\nLooks Like Rain\nBox Of Rain\nBig Railroad Blues\nJack Straw\nSugaree\nThe Race Is On\nRow Jimmy\nBeat It On Down The Line\nChina Cat Sunflower -&gt;\nI Know You Rider\nAround and Around"
                     ],
@@ -1315,7 +1315,7 @@
                     "venue": "Seattle Center Arena",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones-> Greatest Story Ever Told",
                         "Brown Eyed Women",
@@ -1365,7 +1365,7 @@
                     "venue": "Universal Amphitheatre",
                     "city": "Universal City",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1413,7 +1413,7 @@
                     "venue": "Universal Amphitheatre",
                     "city": "Universal City",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1461,7 +1461,7 @@
                     "venue": "Universal Amphitheatre",
                     "city": "Universal City",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Me & My Uncle",
@@ -1503,7 +1503,7 @@
                     "venue": "Grand Prix Racecourse",
                     "city": "Watkins Glen",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1537,7 +1537,7 @@
                     "venue": "Grand Prix Racecourse",
                     "city": "Watkins Glen",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -1593,7 +1593,7 @@
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ramble On Rose",
                         "Me & My Uncle",
@@ -1643,7 +1643,7 @@
                     "venue": "Roosevelt Stadium",
                     "city": "Jersey City",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1687,7 +1687,7 @@
                     "venue": "Record Plant",
                     "city": "Sausalito",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Here Comes Sunshine\nHere Comes Sunshine Take 2\nLet Me Sing Your Blues Away\nLet It Grow\nRow Jimmy\nEyes of the World\nWRS Prelude-&gt; WRS Part 1\nWRS Prelude Take 2\nWRS Prelude-&gt; WRS Part 1 Take 3\nStella Blue\nStella Blue Take 2\nHere Comes Sunshine Take 3\nHere Comes Sunshine Take 4\nLet Me Sing Your Blues Away Take 2"
                     ],
@@ -1709,7 +1709,7 @@
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1753,7 +1753,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1797,7 +1797,7 @@
                     "venue": "William and Mary College Hall",
                     "city": "Williamsburg",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1841,7 +1841,7 @@
                     "venue": "William and Mary College Hall",
                     "city": "Williamsburg",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -1889,7 +1889,7 @@
                     "venue": "Providence Civic Center",
                     "city": "Providence",
                     "state_abbrev": "RI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Beat It On Down The Line",
                         "Sugaree",
@@ -1937,7 +1937,7 @@
                     "venue": "Onondaga County War Memorial",
                     "city": "Syracuse",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Tennessee Jed",
                         "Me & My Uncle",
@@ -1985,7 +1985,7 @@
                     "venue": "Onondaga County War Memorial",
                     "city": "Syracuse",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2005,7 +2005,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -2051,7 +2051,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "Me & My Uncle",
@@ -2097,7 +2097,7 @@
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2141,7 +2141,7 @@
                     "venue": "Community War Memorial Auditorium",
                     "city": "Buffalo",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Here Comes Sunshine",
                         "Beat It On Down The Line",
@@ -2191,7 +2191,7 @@
                     "venue": "Cincinnati Gardens",
                     "city": "Cincinnati",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Fragments of the show\r\nCasey Jones\r\nOne More Saturday Night"
                     ],
@@ -2213,7 +2213,7 @@
                     "venue": "Oklahoma City Fairgrounds Arena",
                     "city": "Oklahoma City",
                     "state_abbrev": "OK",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2269,7 +2269,7 @@
                     "venue": "Omaha Civic Auditorium",
                     "city": "Omaha",
                     "state_abbrev": "NE",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Here Comes Sunshine",
                         "Beat It On Down The Line",
@@ -2309,7 +2309,7 @@
                     "venue": "Metropolitan Sports Center",
                     "city": "Bloomington",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2357,7 +2357,7 @@
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Big River",
@@ -2403,7 +2403,7 @@
                     "venue": "Indianapolis State Fair Coliseum",
                     "city": "Indianapolis",
                     "state_abbrev": "IN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2453,7 +2453,7 @@
                     "venue": "Kiel Auditorium",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -2499,7 +2499,7 @@
                     "venue": "Kiel Auditorium",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Here Comes Sunshine",
                         "Me & My Uncle",
@@ -2545,7 +2545,7 @@
                     "venue": "McGaw Memorial Hall, Northwestern U.",
                     "city": "Evanston",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land",
                         "Sugaree",
@@ -2593,7 +2593,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land",
                         "Brown Eyed Women",
@@ -2637,7 +2637,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Jack Straw",
@@ -2683,7 +2683,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land-> Bertha-> Greatest Story Ever Told",
                         "Sugaree",
@@ -2727,7 +2727,7 @@
                     "venue": "San Diego Sports Arena",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "Jack Straw",
@@ -2779,7 +2779,7 @@
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me & My Uncle",
                         "Here Comes Sunshine",
@@ -2823,7 +2823,7 @@
                     "venue": "Denver Coliseum",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ramble On Rose",
                         "Mexicali",
@@ -2875,7 +2875,7 @@
                     "venue": "Denver Coliseum",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me & My Uncle",
                         "Sugaree",
@@ -2923,7 +2923,7 @@
                     "venue": "County Coliseum",
                     "city": "El Paso",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha ; Mexicali Blues",
                         "Deal",
@@ -2969,7 +2969,7 @@
                     "venue": "Feyline Field",
                     "city": "Tempe",
                     "state_abbrev": "AZ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3017,7 +3017,7 @@
                     "venue": "Palace of Fine Arts",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3037,7 +3037,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Morning Dew",
                         "Mexicali Blues",
@@ -3083,7 +3083,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -3125,7 +3125,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -3171,7 +3171,7 @@
                     "venue": "Cincinnati Gardens",
                     "city": "Cincinnati",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Johnny B. Goode",
                         "Sugaree",
@@ -3213,7 +3213,7 @@
                     "venue": "Public Hall",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Mexicali Blues",
@@ -3259,7 +3259,7 @@
                     "venue": "Cameron Indoor Stadium, Duke U",
                     "city": "Durham",
                     "state_abbrev": "NC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me & My Uncle",
                         "Sugaree",
@@ -3309,7 +3309,7 @@
                     "venue": "Charlotte Coliseum",
                     "city": "Charlotte",
                     "state_abbrev": "NC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha \nMexicali Blues \nDeal  \nBig River  \nDon't Ease Me In \nPlaying In The Band \nPromised Land  \nPeggy-O\nRow Jimmy  \nMe And Bobby McGee  \nBig Railroad Blues"
                     ],
@@ -3333,7 +3333,7 @@
                     "venue": "The Omni",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Promised Land",
                         "Sugaree",
@@ -3385,7 +3385,7 @@
                     "venue": "Curtis Hixon Convention Hall",
                     "city": "Tampa",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Tennessee Jed",
                         "Me & My Uncle",
@@ -3431,7 +3431,7 @@
                     "venue": "Curtis Hixon Convention Hall",
                     "city": "Tampa",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land \nSugaree\nMexicali Blues \nDire Wolf\nBlack Throated Wind \nCandyman \nJack Straw\nBig Railroad Blues \nBig River\nHere Comes Sunshine \nEl Paso\nRamble On Rose\nPlayin' In The Band"
                     ],
@@ -3455,7 +3455,7 @@
                     "venue": "Unsurpassed Masters Vol. 7",
                     "city": "Compilation",
                     "state_abbrev": "Compilation",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "\"Unsurpassed Vol. 7\"           (1cd) 'A' to 'B+'   \r\nTracks 1-6 are from 12/12/73 soundcheck\r\nTracks 7-16 are Garcia \"Compliments\" outtakes\r\n1.Rip It Up   2.Blue Suede Shoes   3.Peggy-O   4.Jack Straw   5.Cumberland Blues   \r\n6. 30 Days  7.Turn on the Bright Lights   8.Spend the Night Together   9.Nothing Without Love \r\n10.That's What Love Will Make You Do   11.Let It Rock  12.Roadrunner  13-15.unknown  \r\n16.I Saw Her Standing There   17.Let it Grow   18.They Love Each Other   19.Wave That Flag"
                     ],
@@ -3477,7 +3477,7 @@
                     "venue": "Studio Rehearsals",
                     "city": "Various",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "<b>Admin work in progress:</b>\r\npossible placeholder for:\r\ncomment:\r\nunknown date and location; studio outtakes; sbd>?>cassette>wav>shn\r\ncirc date: 1/30/04"
                     ],

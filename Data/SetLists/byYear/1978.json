@@ -12,7 +12,7 @@
                     "venue": "Swing Auditorium",
                     "city": "San Bernardino",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -44,7 +44,7 @@
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Cassidy",
@@ -80,7 +80,7 @@
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Mama Tried-> Big River",
@@ -114,7 +114,7 @@
                     "venue": "Shrine Auditorium",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Brown Eyed Women",
@@ -154,7 +154,7 @@
                     "venue": "Shrine Auditorium",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -190,7 +190,7 @@
                     "venue": "Arlington Theater",
                     "city": "Santa Barbara",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Mexicali Blues-> Big River",
@@ -228,7 +228,7 @@
                     "venue": "Bakersfield Memorial Auditorium",
                     "city": "Bakersfield",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -268,7 +268,7 @@
                     "venue": "Selland Arena",
                     "city": "Fresno",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -304,7 +304,7 @@
                     "venue": "Sacramento Memorial Auditorium",
                     "city": "Sacramento",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -344,7 +344,7 @@
                     "venue": "Stockton Civic Auditorium",
                     "city": "Stockton",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Mama Tried-> Me & My Uncle",
@@ -382,7 +382,7 @@
                     "venue": "McArthur Court, U of Oregon",
                     "city": "Eugene",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -422,7 +422,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -462,7 +462,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Passenger",
@@ -500,7 +500,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -536,7 +536,7 @@
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mexicali Blues-> Big River",
@@ -578,7 +578,7 @@
                     "venue": "Milwaukee Auditorium",
                     "city": "Milwaukee",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -616,7 +616,7 @@
                     "venue": "Uni Dome, U of Northern Iowa",
                     "city": "Cedar Falls",
                     "state_abbrev": "IA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'-> Jack Straw-> Good Lovin'",
                         "El Paso",
@@ -652,7 +652,7 @@
                     "venue": "Curtis Hixon Convention Hall",
                     "city": "Tampa",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -688,7 +688,7 @@
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -728,7 +728,7 @@
                     "venue": "Veteran's Memorial Coliseum",
                     "city": "Jacksonville",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Me & My Uncle-> Big River",
@@ -766,7 +766,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Brown Eyed Women",
@@ -810,7 +810,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Friend Of The Devil",
@@ -848,7 +848,7 @@
                     "venue": "Cameron Indoor Stadium",
                     "city": "Durham",
                     "state_abbrev": "NC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -890,7 +890,7 @@
                     "venue": "Coliseum, Virginia Polytechnic U",
                     "city": "Blacksburg",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -928,7 +928,7 @@
                     "venue": "William and Mary College Hall",
                     "city": "Williamsburg",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Passenger",
@@ -964,7 +964,7 @@
                     "venue": "Huntington Civic Center",
                     "city": "Huntington",
                     "state_abbrev": "WV",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1002,7 +1002,7 @@
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree",
@@ -1042,7 +1042,7 @@
                     "venue": "Veterans' Memorial Hall",
                     "city": "Columbus",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Friend Of The Devil",
@@ -1080,7 +1080,7 @@
                     "venue": "Rupp Arena, Lexington Center",
                     "city": "Lexington",
                     "state_abbrev": "KY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -1122,7 +1122,7 @@
                     "venue": "Nashville Municipal Auditorium",
                     "city": "Nashville",
                     "state_abbrev": "TN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Candyman",
@@ -1160,7 +1160,7 @@
                     "venue": "Horton Field House, Illinois State U.",
                     "city": "Normal",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Ramble On Rose",
@@ -1200,7 +1200,7 @@
                     "venue": "Thompson Arena, Dartmouth College",
                     "city": "Hanover",
                     "state_abbrev": "NH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Dire Wolf",
@@ -1240,7 +1240,7 @@
                     "venue": "Patrick Gymnasium, U of Vermont",
                     "city": "Burlington",
                     "state_abbrev": "VT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Minglewood Blues",
@@ -1280,7 +1280,7 @@
                     "venue": "Field House, Rensselaer Polytechnic Institute",
                     "city": "Troy",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1322,7 +1322,7 @@
                     "venue": "Onongada County War Memorial",
                     "city": "Syracuse",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Franklin's Tower",
                         "Minglewood Blues",
@@ -1362,7 +1362,7 @@
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1398,7 +1398,7 @@
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line",
@@ -1440,7 +1440,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1480,7 +1480,7 @@
                     "venue": "Providence Civic Center",
                     "city": "Providence",
                     "state_abbrev": "RI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Cassidy",
@@ -1518,7 +1518,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -1556,7 +1556,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Me & My Uncle-> Big River",
@@ -1590,7 +1590,7 @@
                     "venue": "Campus Stadium, UC Santa Barbara",
                     "city": "Goleta",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -1626,7 +1626,7 @@
                     "venue": "Autzen Stadium, U. of Oregon",
                     "city": "Eugene",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1664,7 +1664,7 @@
                     "venue": "Arrowhead Stadium",
                     "city": "Kansas City",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Tennessee Jed",
@@ -1698,7 +1698,7 @@
                     "venue": "St. Paul Civic Center",
                     "city": "St. Paul",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -1738,7 +1738,7 @@
                     "venue": "Omaha Civic Auditorium",
                     "city": "Omaha",
                     "state_abbrev": "NE",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Beat It On Down The Line",
@@ -1778,7 +1778,7 @@
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -1818,7 +1818,7 @@
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Dire Wolf",
@@ -1856,7 +1856,7 @@
                     "venue": "Club Front",
                     "city": "San Rafael",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1876,7 +1876,7 @@
                     "venue": "Club Front",
                     "city": "San Rafael",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Good Lovin'\nFrance\nFire On The Mountain\nStagger Lee\nIf I Had The World To Give\nShakedown Street\nI Need A Miracle\nGood Lovin'\nSaint Of Circumstance"
                     ],
@@ -1898,7 +1898,7 @@
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -1932,7 +1932,7 @@
                     "venue": "Red Rocks Ampitheatre",
                     "city": "Morrison",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> El Paso",
                         "Peggy-O",
@@ -1966,7 +1966,7 @@
                     "venue": "Studio (Shakedown Street Rehearsal)",
                     "city": "Unknown",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Good Lovin' Take # 1 \r\nSerengetti \r\nFire On The Mountain\r\nStagger Lee Take # 1 \r\nStagger Lee Take # 2 \r\nIf I Had The World To Give \r\nShakedown Street \r\nI Need A Miracle\r\nGood Lovin' Take # 2 \r\nSaint Of Circumstance"
                     ],
@@ -1988,7 +1988,7 @@
                     "venue": "Giants Stadium",
                     "city": "East Rutherford",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil",
@@ -2028,7 +2028,7 @@
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ollin Arageed instrumental",
                         "tuning"
@@ -2051,7 +2051,7 @@
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ollin Arrageed*-> Not Fade Away",
                         "Me & My Uncle",
@@ -2087,7 +2087,7 @@
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ollin Arrageed*-> Promised Land",
                         "Friend Of The Devil",
@@ -2121,7 +2121,7 @@
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Candyman",
@@ -2159,7 +2159,7 @@
                     "venue": "Giza Sound and Light Theater",
                     "city": "Giza",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Anubian Folk Song w/ Hamza El-Din\r\nOllin Arageed w/ Hamza El-Din\r\nThe Grateful Dead take the stage\r\nOne More Saturday Night (9-16)\r\nPaul Krasner interviews Lawrence of Winterland\r\nTruckin' (9-14 or 9-16)\r\nsite seeing\r\nPaul Krasner interviews Bob Nichols\r\nBertha >\r\nGood Lovin' (9-16)\r\nOllin Arageed\r\nPaul Krasner interviews Blaze part 1\r\nIko Iko (9-16)"
                     ],
@@ -2183,7 +2183,7 @@
                     "venue": "Gizah Sound and Light Theater",
                     "city": "Cairo",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "credits/ Clips\nHand clappers-&gt; promised land\nClips of egypt w/ truckin\nKEsey and Kreutzman with pranksters in egypt\nBertha \nGood luvin\nHand clappers/ more Egypt footage with akio-aiko\nmiracle jam with more Egypt footage\nKEsey and friends with tour guide w/ estimated\nKreutzman talks about the Ufo in the pyramid\nmiracle / KEsey & Pranksters and Bill Walton go into the great pyramid\n inside the great pyramid with KEsey & Pranksters and Bill Walton \nKEsey & Pranksters and Bill Walton come out of the great pyramid\nJack Straw\nclimbing pyramid & flying of dead flag on top /scarlet with empty venue footage\nRow Jimmy\nKen Babbs toast/ terrapin outro\n\nfiller: 30 mins of time coded acid test footage"
                     ],
@@ -2205,7 +2205,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -2241,7 +2241,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Me & My Uncle-> Big River",
@@ -2279,7 +2279,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -2319,7 +2319,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ollin Arrageed* &gt; Promised Land",
                         "Sugaree",
@@ -2355,7 +2355,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ollin Arrageed*-> Deal",
                         "Me & My Uncle-> Big River",
@@ -2389,7 +2389,7 @@
                     "venue": "NBC Studios",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "I Need A Miracle",
@@ -2413,7 +2413,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2453,7 +2453,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "El Paso",
@@ -2491,7 +2491,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Dire Wolf",
@@ -2531,7 +2531,7 @@
                     "venue": "Rambler Room, Loyola College",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Winin' Boy Blues",
                         "Tom Dooley",
@@ -2562,7 +2562,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Mama Tried-> Mexicali Blues",
@@ -2600,7 +2600,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Candyman",
@@ -2640,7 +2640,7 @@
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -2678,7 +2678,7 @@
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2720,7 +2720,7 @@
                     "venue": "Capital Centre",
                     "city": "Landover",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -2758,7 +2758,7 @@
                     "venue": "Capitol Theatre",
                     "city": "Passaic",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw\nSugaree\nMe And My Uncle\nBig River\nStagger Lee\nPassenger\nCandyman\nMinglewood Blues\nFrom The Heart Of Me\nLoser\nPromised Land"
                     ],
@@ -2784,7 +2784,7 @@
                     "venue": "Veterens' Coliseum",
                     "city": "New Haven",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bob Weir - Jerry's sick\r\npromoter Jim Koplick - we'll validate parking... fine"
                     ],
@@ -2806,7 +2806,7 @@
                     "venue": "Jai-Alai Fronton",
                     "city": "Miami",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Looks Like Rain",
@@ -2844,7 +2844,7 @@
                     "venue": "Curtis Hixon Convention Hall",
                     "city": "Tampa",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Passenger",
                         "They Love Each Other",
@@ -2886,7 +2886,7 @@
                     "venue": "Boutwell Auditorium",
                     "city": "Birmingham",
                     "state_abbrev": "AL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Shakedown Street",
@@ -2926,7 +2926,7 @@
                     "venue": "Nashville Municipal Auditorium",
                     "city": "Nashville",
                     "state_abbrev": "TN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Beat It On Down The Line",
@@ -2964,7 +2964,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -3004,7 +3004,7 @@
                     "venue": "Memorial Coliseum, Mississippi State Fairgrounds",
                     "city": "Jackson",
                     "state_abbrev": "MS",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -3042,7 +3042,7 @@
                     "venue": "The Summit",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Dire Wolf",
@@ -3086,7 +3086,7 @@
                     "venue": "Dallas County Convention Center Arena",
                     "city": "Dallas",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street",
                         "Me & My Uncle-> Big River",
@@ -3126,7 +3126,7 @@
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Friend Of The Devil",
@@ -3162,7 +3162,7 @@
                     "venue": "Golden Hall, Community Concourse",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Finiculi Finicula",
@@ -3206,7 +3206,7 @@
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -3250,7 +3250,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugar Magnolia-> Scarlet Begonias-> Fire On The Mountain-> Me & My Uncle-> Big River",
                         "Friend Of The Devil",
@@ -3288,7 +3288,7 @@
                     "venue": "Compilation - 1978 Interviews",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bob Weir",
                         "Bobby Cochran",
@@ -3318,7 +3318,7 @@
                     "venue": "There Were Only Three Shows From",
                     "city": "Giza",
                     "state_abbrev": "Egypt",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3338,7 +3338,7 @@
                     "venue": "Various",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "track 1 Bob Weir",
                         "Bobby Cochran",

@@ -12,7 +12,7 @@
                     "venue": "Fillmore East (show a- Early?)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mason's Children",
                         "Casey Jones",
@@ -44,7 +44,7 @@
                     "venue": "Fillmore East (show b- Late?)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Uncle John's Band ->",
                         "High Time",
@@ -80,7 +80,7 @@
                     "venue": "Fillmore East (Late Show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -123,7 +123,7 @@
                     "venue": "Fillmore East (Early Show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Morning Dew",
                         "Me And My Uncle",
@@ -158,7 +158,7 @@
                     "venue": "Springer's Inn",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -178,7 +178,7 @@
                     "venue": "Golden Hall",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower ->",
                         "I Know You Rider",
@@ -212,7 +212,7 @@
                     "venue": "Springer's Inn Portland",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -264,7 +264,7 @@
                     "venue": "Oregon State University",
                     "city": "Corvallis",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dire Wolf",
                         "China Cat Sunflower-> I Know You Rider",
@@ -294,7 +294,7 @@
                     "venue": "Springer's Inn",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mama Tried",
                         "Cold Rain & Snow",
@@ -325,7 +325,7 @@
                     "venue": "Honolulu Civic Auditorium",
                     "city": "Honolulu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -345,7 +345,7 @@
                     "venue": "Honolulu Civic Auditorium",
                     "city": "Honolulu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower >  I Know You Rider > Black Peter  Yellow Dog story Hard To Handle Mama Tried Searchin' tease > Dire Wolf Good Lovin' >  Drums >  Good Lovin'"
                     ],
@@ -369,7 +369,7 @@
                     "venue": "Honolulu Civic Auditorium",
                     "city": "Honolulu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cumberland Blues",
                         "Cold Rain & Snow",
@@ -398,7 +398,7 @@
                     "venue": "Honolulu Civic Auditorium",
                     "city": "Honolulu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -418,7 +418,7 @@
                     "venue": "Honolulu Civic Auditorium",
                     "city": "Honolulu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -438,7 +438,7 @@
                     "venue": "The Warehouse",
                     "city": "New Orleans",
                     "state_abbrev": "LA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -470,7 +470,7 @@
                     "venue": "The Warehouse",
                     "city": "New Orleans",
                     "state_abbrev": "LA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Mama Tried",
@@ -517,7 +517,7 @@
                     "venue": "The Warehouse",
                     "city": "New Orleans",
                     "state_abbrev": "LA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Beat It On Down The Line",
                         "China Cat Sunflower > I Know You Rider",
@@ -548,7 +548,7 @@
                     "venue": "The Fabulous Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -579,7 +579,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Hard To Handle",
@@ -606,7 +606,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Big Boss Man",
@@ -635,7 +635,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cumberland Blues",
                         "Cold Rain & Snow",
@@ -668,7 +668,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Green Green Grass of Home",
                         "Saw Mill",
@@ -701,7 +701,7 @@
                     "venue": "Pacific High Recording",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mason's Children",
                         "Uncle John's Band"
@@ -724,7 +724,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Smokestack Lightning",
                         "Morning Dew",
@@ -757,7 +757,7 @@
                     "venue": "Fillmore East (late show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Not Fade Away",
                         "Cumberland Blues",
@@ -784,7 +784,7 @@
                     "venue": "Fillmore East (early show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "...Cryptical Envelopment > drums > The Other One  > Cryptical Envelopment  > Dire Wolf",
                         "Casey Jones"
@@ -807,7 +807,7 @@
                     "venue": "Ungano's Night Club",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Beat It On Down The Line (5 beats)",
@@ -835,7 +835,7 @@
                     "venue": "Fillmore East (Late Show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower-> I Know You Rider",
                         "Me & My Uncle",
@@ -870,7 +870,7 @@
                     "venue": "Fillmore East (Early Show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -897,7 +897,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Early Show:\n\nCold Rain And Snow",
                         "Dark Star &gt; Saint Stephen &gt; The Eleven &gt; Turn On Your Lovelight"
@@ -923,7 +923,7 @@
                     "venue": "Panther Hall",
                     "city": "Fort Worth",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -943,7 +943,7 @@
                     "venue": "San Antonio Civic Center Arena",
                     "city": "San Antonio",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -963,7 +963,7 @@
                     "venue": "Sam Houston Coliseum",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -983,7 +983,7 @@
                     "venue": "The Auditorium",
                     "city": "Austin",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "I Know You Rider\nHigh Time\nDire Wolf"
                     ],
@@ -1009,7 +1009,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain &Snow",
                         "Me And My Uncle",
@@ -1041,7 +1041,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Turn On Your Lovelight > Me And My Uncle; Cumberland Blues Monkey And The Engineer; Little Sadie > Black Peter ; China Cat Sunflower > I Know You Rider ; High Time > Dire Wolf Good Lovin' > drums > Good Lovin'; Big Boss Man ; Casey Jones ; Alligator > drums > The Other One > Mason's Children > jam > Turn On Your Lovelight ENCORE  Uncle John's Band"
                     ],
@@ -1063,7 +1063,7 @@
                     "venue": "Pacific High Recording",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ripple\nTastebud\nMason's Children\nUncle John's Band\nRipple\nTastebud\nMason's Children\nUncle John's Band"
                     ],
@@ -1085,7 +1085,7 @@
                     "venue": "Fillmore East,  Fox Theatre, The Warehouse",
                     "city": "various",
                     "state_abbrev": "various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "2/11/70 Fillmore East w/Greg & Duane Allman & Peter Green  1. Dark Star (12:18) > 2. Alhambra (5:23) > 3. Turn On Your Lovelight (28:53)  2/2/70 Fox Theatre",
                         "St. Louis",
@@ -1113,7 +1113,7 @@
                     "venue": "Pacific High Recording",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ripple\nTastebud\nMason's Children\nUncle John's Band"
                     ],
@@ -1135,7 +1135,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "New Speedway Boogie",
                         "Casey Jones",
@@ -1172,7 +1172,7 @@
                     "venue": "Civic Auditorium",
                     "city": "Santa Monica",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Black Peter",
                         "China Cat Sunflower > I Know You Rider > High Time",
@@ -1207,7 +1207,7 @@
                     "venue": "Star Theatre",
                     "city": "Phoenix",
                     "state_abbrev": "AZ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Yellow Dog Story",
@@ -1239,7 +1239,7 @@
                     "venue": "Kleinhans Music Hall",
                     "city": "Buffalo",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dark Star-> Drums*-> Turn On Your Love Light"
                     ],
@@ -1261,7 +1261,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -1296,7 +1296,7 @@
                     "venue": "Capitol Theater (Early)",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Walkin' The Dog",
                         "Me & My Uncle",
@@ -1324,7 +1324,7 @@
                     "venue": "Capitol Theater (Late)",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Electric-1: Casey Jones",
                         "Dancin' In The Streets",
@@ -1356,7 +1356,7 @@
                     "venue": "Pirates World",
                     "city": "Dania",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Morning Dew",
                         "Mama Tried",
@@ -1384,7 +1384,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain and Snow\nHard To Handle \nBlack Peter\nMe & My Uncle\nChina Cat Sunflower -&gt; \nI Know You Rider \nSt. Stephen -&gt; \nNot Fade Away -&gt; \nSt. Stephen -&gt; \nIn the Midnight Hour"
                     ],
@@ -1406,7 +1406,7 @@
                     "venue": "Field House, U. of Cincinnati",
                     "city": "Cincinnati",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "China Cat Sunflower-> I Know You Rider",
@@ -1444,7 +1444,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Good Morning Little School Girl",
                         "Mama Tried",
@@ -1479,7 +1479,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "New Speedway Boogie",
@@ -1520,7 +1520,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "I'm A King Bee",
@@ -1558,7 +1558,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Good Morning Little School Girl",
                         "Casey Jones",
@@ -1596,7 +1596,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "China Cat Sunflower-> I Know You Rider",
@@ -1626,7 +1626,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "Long Black Limousine",
@@ -1660,7 +1660,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "Silver Threads",
@@ -1695,7 +1695,7 @@
                     "venue": "Family Dog at the Great Highway",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "I Know You Rider",
                         "Friend Of The Devil",
@@ -1732,7 +1732,7 @@
                     "venue": "Mammoth Gardens",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "I Know You Rider",
                         "Monkey & The Engineer",
@@ -1766,7 +1766,7 @@
                     "venue": "Mammoth Gardens",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1786,7 +1786,7 @@
                     "venue": "York Farm",
                     "city": "Poynette",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1806,7 +1806,7 @@
                     "venue": "Alfred College",
                     "city": "Alfred",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "(Acoustic Dead:) The Race Is On",
                         "Wake Up Little Susie",
@@ -1844,7 +1844,7 @@
                     "venue": "Harpur College",
                     "city": "Binghamton",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "I Know You Rider",
@@ -1894,7 +1894,7 @@
                     "venue": "Field House, Wesleyan University",
                     "city": "Middletown",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me & My Uncle",
                         "New Speedway Boogie",
@@ -1921,7 +1921,7 @@
                     "venue": "Kresge Plaza, M.I.T.",
                     "city": "Cambridge",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets",
                         "China Cat Sunflower-> I Know You Rider",
@@ -1949,7 +1949,7 @@
                     "venue": "Dupont Gymnasium, MIT",
                     "city": "Cambridge",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "I Know You Rider",
@@ -1991,7 +1991,7 @@
                     "venue": "Farrell Hall",
                     "city": "Delhi",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dark Star &gt;\nDancin' In The Street\nGood Lovin'\n\nE: Uncle John's Band"
                     ],
@@ -2013,7 +2013,7 @@
                     "venue": "Worcester Polytechnic Institute",
                     "city": "Worcester",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deep Elem Blues",
                         "Friend Of The Devil",
@@ -2038,7 +2038,7 @@
                     "venue": "Sports Arena",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hard To Handle\nThe Other One\nMama Tried\nWill The Circle Be Unbroken?*"
                     ],
@@ -2060,7 +2060,7 @@
                     "venue": "Meramec Community College",
                     "city": "Kirkwood",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Acoustic Set: \n\nDon't Ease Me In",
                         "Friend Of The Devil",
@@ -2092,7 +2092,7 @@
                     "venue": "Fillmore East  (Late Show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "(late show",
                         "acoustic Dead set): Deep Elem Blues",
@@ -2148,7 +2148,7 @@
                     "venue": "Fillmore East (Early Show)",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "(Early show",
                         "acoustic Dead): Don't Ease Me In",
@@ -2201,7 +2201,7 @@
                     "venue": "Temple University",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -2229,7 +2229,7 @@
                     "venue": "Fairfield University",
                     "city": "Fairfield",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2249,7 +2249,7 @@
                     "venue": "Washington University",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "<b>Not played on this date:</b> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment",
                         "High Time",
@@ -2273,7 +2273,7 @@
                     "venue": "Newcastle-Under-Lyme",
                     "city": "Newcastle",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "China Cat Sunflower &gt; I Know You Rider",
@@ -2302,7 +2302,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deep Elem Blues",
                         "Candyman",
@@ -2340,7 +2340,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dire Wolf",
                         "I Know You Rider",
@@ -2376,7 +2376,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "The Frozen Logger",
@@ -2414,7 +2414,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "Silver Threads",
@@ -2454,7 +2454,7 @@
                     "venue": "Diamond Head Crater",
                     "city": "Oahu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2474,7 +2474,7 @@
                     "venue": "Red Vest",
                     "city": "Oahu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2494,7 +2494,7 @@
                     "venue": "Red Vest",
                     "city": "Oahu",
                     "state_abbrev": "HI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow\nEasy Wind\nUncle John's Band\nCandyman\nMe & My Uncle\nGood Lovin' *\nChina Cat Sunflower &gt;\nI Know You Rider\nNew Speedway Boogie\nCasey Jones\nTurn On Your Lovelight*"
                     ],
@@ -2516,7 +2516,7 @@
                     "venue": "Pauley Ballroom, U. of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "intro / Frozen Logger Casey Jones Cumberland Blues Easy Wind Mama Tried Candyman //Not Fade Away > Saint Stephen > Drums > Good Lovin' > Drums > Good Lovin'//"
                     ],
@@ -2538,7 +2538,7 @@
                     "venue": "Capitol Theater (Late)",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "Deep Elem Blues",
@@ -2570,7 +2570,7 @@
                     "venue": "Capitol Theater (Early)",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me & My Uncle",
@@ -2598,7 +2598,7 @@
                     "venue": "Canadian National Exhibition Hall",
                     "city": "Toronto",
                     "state_abbrev": "ON",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2618,7 +2618,7 @@
                     "venue": "Winnipeg Fairgrounds",
                     "city": "Winnipeg",
                     "state_abbrev": "MB",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2638,7 +2638,7 @@
                     "venue": "McMahon Stadium",
                     "city": "Calgary",
                     "state_abbrev": "AB",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2658,7 +2658,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In Silver Threads & Golden Needles My Dog Joke Friend Of The Devil Candyman Cold Jordan Swing Low Sweet Chariot Cumberland Blues Me & My Uncle New Speedway Boogie"
                     ],
@@ -2682,7 +2682,7 @@
                     "venue": "Southern Illinois University",
                     "city": "Edwardsville",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2702,7 +2702,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Silver Threads",
                         "Cumberland Blues",
@@ -2732,7 +2732,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alligator  > drums  > The Other One  > Attics Of My Life  > The Other One  > Cryptical Envelopment  > Cosmic Charlie",
                         "Cold Rain And Snow",
@@ -2757,7 +2757,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Not Fade Away",
                         "Casey Jones",
@@ -2790,7 +2790,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dire Wolf",
                         "The Rub",
@@ -2834,7 +2834,7 @@
                     "venue": "Euphoria Ballroom",
                     "city": "San Rafael",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "Friend Of The Devil",
@@ -2876,7 +2876,7 @@
                     "venue": "Euphoria Ballroom",
                     "city": "San Rafael",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Turn On Your Love Light",
                         "Me & My Uncle",
@@ -2910,7 +2910,7 @@
                     "venue": "The Matrix",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "To Lay Me Down",
                         "Dire Wolf",
@@ -2937,7 +2937,7 @@
                     "venue": "Trans Continental Pop Festival?",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "?\nCC Rider [Janis]\nDon't Ease Me In\nNew Speedway Boogie\nHard To Handle\nEasy Wind\nCandyman\nCold Jordan\n?\n?\nLong Black Veil [the Band]"
                     ],
@@ -2959,7 +2959,7 @@
                     "venue": "Festival Express Train",
                     "city": "Unknown",
                     "state_abbrev": "Canada",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jam\nBlue Yodel #1 Jam\nHonky Tonk Woman Jam\nJam\nSugar Magnolia"
                     ],
@@ -2981,7 +2981,7 @@
                     "venue": "Golden Hall Community Concourse",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Candyman",
                         "El Paso",
@@ -3019,7 +3019,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         ""
@@ -3042,7 +3042,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "SET1 [49:18] [0:12 intro]; Truckin [5:44]; [1:20 turn up the monitors]; Dire Wolf [3:53]; [0:32]; Friend Of The Devil [3:31]; [0:23]; Dark Hollow [3:05]; [0:12]; Ripple [4:15] ? Brokedown Palace [4:16]; [0:25] % Operator [2:27]; [0:25]; Rosalie McFall [2:57]; [0:19]; New Speedway Boogie [9:22]; [0:53]; Cold Jordan [2:22] ? Swing Low Sweet Chariot [3:40]; [0:42] %"
                     ],
@@ -3068,7 +3068,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Monkey & The Engineer",
                         "How Long Blues",
@@ -3118,7 +3118,7 @@
                     "venue": "The Club",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3138,7 +3138,7 @@
                     "venue": "The Club",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3158,7 +3158,7 @@
                     "venue": "KQED Studios",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Easy Wind",
                         "Candyman",
@@ -3184,7 +3184,7 @@
                     "venue": "University of Rochester",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin",
                         "Big Boss Man",
@@ -3212,7 +3212,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "GD acoustic: Truckin' False Start",
                         "banter",
@@ -3268,7 +3268,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugar Magnolia",
                         "Candyman",
@@ -3299,7 +3299,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "(acoustic Dead): Don't Ease Me In",
                         "Candyman",
@@ -3355,7 +3355,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Uncle John's Band",
                         "Deep Elem Blues",
@@ -3401,7 +3401,7 @@
                     "venue": "Pasadena Civic Auditorium",
                     "city": "Pasadena",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3421,7 +3421,7 @@
                     "venue": "Terrace Ballroom",
                     "city": "Salt Lake City",
                     "state_abbrev": "UT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "I Know You Rider",
                         "Ripple",
@@ -3451,7 +3451,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Till The Morning Comes",
@@ -3482,7 +3482,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Turn On Your Love Light"
@@ -3505,7 +3505,7 @@
                     "venue": "Colden Auditorium, Queens College",
                     "city": "Queens",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Deep Elem Blues",
@@ -3539,7 +3539,7 @@
                     "venue": "Marion Shea Aud., Paterson State Col.",
                     "city": "Wayne",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried*",
@@ -3570,7 +3570,7 @@
                     "venue": "Irvine Auditorium",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Morning Dew",
                         "Casey Jones",
@@ -3596,7 +3596,7 @@
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones\nChina Cat Sunflower\nI know You Rider\nMe and My Uncle\nIt Hurts me Too\nTruckin'\nThe Other One\nCryptical Envelopment\nSugar Magnolia\nCandyman\nHard to Handle"
                     ],
@@ -3620,7 +3620,7 @@
                     "venue": "Tyrone Guthrie Theatre",
                     "city": "Minneapolis",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3640,7 +3640,7 @@
                     "venue": "Tyrone Guthrie Theatre",
                     "city": "Minneapolis",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -3667,7 +3667,7 @@
                     "venue": "unknown",
                     "city": "Minneapolis",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3687,7 +3687,7 @@
                     "venue": "McDonough Arena, Georgetown U.",
                     "city": "Washington",
                     "state_abbrev": "DC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -3718,7 +3718,7 @@
                     "venue": "Kiel Opera House",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets",
                         "It Hurts Me Too",
@@ -3748,7 +3748,7 @@
                     "venue": "Gym, SUNY (Late Show)",
                     "city": "Stony Brook",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Smokestack Lightning",
                         "Beat It On Down The Line",
@@ -3779,7 +3779,7 @@
                     "venue": "Gym, SUNY (Early Show)",
                     "city": "Stony Brook",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Truckin'",
@@ -3807,7 +3807,7 @@
                     "venue": "Gym, S.U.N.Y. (late)",
                     "city": "Stony Brook",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Sugar Magnolia",
@@ -3837,7 +3837,7 @@
                     "venue": "Gym, S.U.N.Y. (early)",
                     "city": "Stony Brook",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Till The Morning Comes",
                         "Hard To Handle",
@@ -3868,7 +3868,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hard To Handle",
                         "Sittin On Top Of The World",
@@ -3893,7 +3893,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Candyman",
                         "Uncle John's Band",
@@ -3928,7 +3928,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -3957,7 +3957,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Acoustic Set: Deep Elem Blues",
                         "Monkey And The Engineer",
@@ -4004,7 +4004,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dire Wolf",
                         "I Know You Rider",
@@ -4046,7 +4046,7 @@
                     "venue": "Action House",
                     "city": "Island Park",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Attics Of My Life",
                         "Mama Tried",
@@ -4073,7 +4073,7 @@
                     "venue": "Action House",
                     "city": "Island Park",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4093,7 +4093,7 @@
                     "venue": "46th Street Rock Palace",
                     "city": "Brooklyn",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hard To Handle",
                         "Truckin'",
@@ -4124,7 +4124,7 @@
                     "venue": "46th Street Rock Palace",
                     "city": "Brooklyn",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4144,7 +4144,7 @@
                     "venue": "46th Street Rock Palace",
                     "city": "Brooklyn",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4164,7 +4164,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Good Lovin'*"
                     ],
@@ -4188,7 +4188,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4208,7 +4208,7 @@
                     "venue": "The Palestra, U. of Rochester",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me & My Uncle",
@@ -4254,7 +4254,7 @@
                     "venue": "Sargent Gym, Boston University",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Candyman",
@@ -4282,7 +4282,7 @@
                     "venue": "WBCN-FM Studios",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "El Paso\nBig River\nI Know You Rider\nInstrumental Jam\nDark Hollow\nAngie\nLet Me In"
                     ],
@@ -4304,7 +4304,7 @@
                     "venue": "Middlesex County Community College",
                     "city": "Edison",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4324,7 +4324,7 @@
                     "venue": "Anderson Theater",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4344,7 +4344,7 @@
                     "venue": "The Syndrome",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Turn On Your Love Light"
@@ -4367,7 +4367,7 @@
                     "venue": "Club Agora",
                     "city": "Columbus",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In",
                         "Cumberland Blues",
@@ -4407,7 +4407,7 @@
                     "venue": "Santa Rosa Fairgrounds",
                     "city": "Santa Rosa",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me & My Uncle",
                         "Truckin'",
@@ -4447,7 +4447,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4467,7 +4467,7 @@
                     "venue": "The Matrix",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4487,7 +4487,7 @@
                     "venue": "Winterland",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Hard to Handle Candyman Me and My Uncle Cold Rain and Snow Dancing in the Street Uncle John's Band"
                     ],
@@ -4509,7 +4509,7 @@
                     "venue": "Pepperland",
                     "city": "San Rafael",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4529,7 +4529,7 @@
                     "venue": "Sacramento Memorial Auditorium",
                     "city": "Sacramento",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4549,7 +4549,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Dire Wolf",
@@ -4574,7 +4574,7 @@
                     "venue": "Legion Stadium",
                     "city": "El Monte",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Mama Tried",
@@ -4611,7 +4611,7 @@
                     "venue": "Legion Stadium",
                     "city": "El Monte",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Mama Tried",
@@ -4655,7 +4655,7 @@
                     "venue": "Legion Stadium",
                     "city": "El Monte",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Truckin'",
@@ -4693,7 +4693,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin",
                         "The Monkey And The Engineer",
@@ -4725,7 +4725,7 @@
                     "venue": "Winterland Arena (aftershow)",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Johnny B Goode",
                         "Around & Around",
@@ -4757,7 +4757,7 @@
                     "venue": "Radio",
                     "city": "Unknown",
                     "state_abbrev": "Unknown",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -4777,7 +4777,7 @@
                     "venue": "Pacific High Recording Studio",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ripple",
                         "Tastebud",
@@ -4802,7 +4802,7 @@
                     "venue": "Studio- Workingman's Dead Outtakes",
                     "city": "Unknown",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Ripple",
                         "Tastebud",
@@ -4832,7 +4832,7 @@
                     "venue": "Studio sessions for Workingman's Dead",
                     "city": "Unknown",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dire Wolf\nDire Wolf\nCasey Jones\nHigh Time\nHigh Time\nAcoustic Blues\nDire Wolf\nDire Wolf\nDire Wolf\nHigh Time\nHigh Time\nHigh Time"
                     ],

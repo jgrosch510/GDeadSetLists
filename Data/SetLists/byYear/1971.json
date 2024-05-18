@@ -12,7 +12,7 @@
                     "venue": "Unknown",
                     "city": "Unknown",
                     "state_abbrev": "Unknown",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -32,7 +32,7 @@
                     "venue": "Freeborn Hall, University of California",
                     "city": "Davis",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain &amp; Snow",
                         "Me &amp; My Uncle",
@@ -70,7 +70,7 @@
                     "venue": "Lane Community College",
                     "city": "Eugene",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Introduction by Ken Babbs",
                         "Casey Jones",
@@ -110,7 +110,7 @@
                     "venue": "Seattle Center Arena",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "China Cat Sunflower > I Know You Rider",
@@ -144,7 +144,7 @@
                     "venue": "Seattle Center Arena",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin",
                         "Hard To Handle",
@@ -170,7 +170,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -208,7 +208,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -228,7 +228,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Truckin'",
@@ -266,7 +266,7 @@
                     "venue": "Capitol Theatre",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -306,7 +306,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -346,7 +346,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me And Bobby McGee",
@@ -390,7 +390,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Uncle John's Band",
                         "Loser",
@@ -434,7 +434,7 @@
                     "venue": "Capitol Theater",
                     "city": "Port Chester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -478,7 +478,7 @@
                     "venue": "Unknown",
                     "city": "Unknown",
                     "state_abbrev": "Unknown",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Playin' In The Band #1\nPlayin' In The Band #2\nPlayin' In The Band #3\nBird Song #1\nBird Song #2\nBird Song #3\nBird Song #4\nBird Song #5\nGreatest Story Ever Told #1\nGreatest Story Ever Told #2\nWharf Rat"
                     ],
@@ -500,7 +500,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Hard To Handle",
@@ -538,7 +538,7 @@
                     "venue": "U. Centre Ballroom, N. Il. U.",
                     "city": "De Kalb",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -558,7 +558,7 @@
                     "venue": "Jenison Field House, Mi. State U.",
                     "city": "Lansing",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugar Magnolia",
                         "Me And Bobby McGee",
@@ -582,7 +582,7 @@
                     "venue": "Camp Randall Field House, University of Wisconsin",
                     "city": "Madison",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin",
                         "Me & My Uncle",
@@ -620,7 +620,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Turn On Your Love Light"
@@ -643,7 +643,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones\r\nMe And My Uncle\r\nBig Boss Man\r\nBertha\r\nMe And Bobby McGee\r\nLoser\r\nChina Cat Sunflower -> \r\nI Know You Rider\r\nThe Rub\r\nPlaying In The Band\r\nCumberland Blues"
                     ],
@@ -667,7 +667,7 @@
                     "venue": "The Syndrome",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -687,7 +687,7 @@
                     "venue": "University of Iowa",
                     "city": "Iowa City",
                     "state_abbrev": "IA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "...Truckin'",
                         "Loser",
@@ -731,7 +731,7 @@
                     "venue": "Exposition Center",
                     "city": "Milwaukee",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": [
                         ""
@@ -753,7 +753,7 @@
                     "venue": "Cow Palace",
                     "city": "Daly City",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -773,7 +773,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Sugar Magnolia",
@@ -817,7 +817,7 @@
                     "venue": "Manhattan Center",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -857,7 +857,7 @@
                     "venue": "Manhattan Center",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me And Bobby McGee",
@@ -899,7 +899,7 @@
                     "venue": "Manhattan Center",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -945,7 +945,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me & My Uncle",
                         "Next Time You See Me",
@@ -983,7 +983,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Bertha",
@@ -1025,7 +1025,7 @@
                     "venue": "East Hall, Franklin & Marshall College",
                     "city": "Lancaster",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me And Bobby McGee",
@@ -1067,7 +1067,7 @@
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow\nMe & My Uncle\nBertha\nNext Time You See Me\nPlaying In The Band\nLoser\nCumberland Blues\nHard To Handle\nGreatest Story Ever Told -&gt;\nJohnny B. Goode"
                     ],
@@ -1091,7 +1091,7 @@
                     "venue": "Catholic Youth Center",
                     "city": "Scranton",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -1128,7 +1128,7 @@
                     "venue": "Davis Gymnasium",
                     "city": "Lewisburg",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'\nDeal\nMe And Bobbie McGee\nNext Time You See Me\nBertha\nPlayin' In The Band\nSing Me Back Home\nMe And My Uncle\nChina Cat Sunflower &gt;\nI Know You Rider\nI Second That Emotion\nCasey Jones"
                     ],
@@ -1152,7 +1152,7 @@
                     "venue": "Allegheny College",
                     "city": "Meadville",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Beat It On Down The Line",
                         "Loser",
@@ -1190,7 +1190,7 @@
                     "venue": "Dillon Gym, Princeton University",
                     "city": "Princeton",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Big Railroad Blues",
@@ -1232,7 +1232,7 @@
                     "venue": "Lusk Field House, S.U.C.N.Y",
                     "city": "Cortland",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow",
                         "Me & My Uncle",
@@ -1268,7 +1268,7 @@
                     "venue": "Rhode Island Auditorium",
                     "city": "Providence",
                     "state_abbrev": "RI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Mama Tried",
@@ -1308,7 +1308,7 @@
                     "venue": "Bangor Municipal Auditorium",
                     "city": "Bangor",
                     "state_abbrev": "ME",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1350,7 +1350,7 @@
                     "venue": "Wallace Wade Stadium, Duke University",
                     "city": "Durham",
                     "state_abbrev": "NC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Deal",
@@ -1394,7 +1394,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -1432,7 +1432,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1470,7 +1470,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Mama Tried",
@@ -1512,7 +1512,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Beat It On Down The Line",
@@ -1558,7 +1558,7 @@
                     "venue": "Fillmore East",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Bertha",
@@ -1604,7 +1604,7 @@
                     "venue": "Camp Randall Field House, U of Wisconsin",
                     "city": "Madison",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha\nMe And My Uncle\nLoser\nBlack Throated Wind\nScarlet Begonias -&gt;\nIt Must Have Been The Roses\nJack Straw\nTennessee Jed\nMexicali Blues\nDeal\nBig River\nBrown Eyed Women\nPlaying In The Band"
                     ],
@@ -1628,7 +1628,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me And Bobby McGee",
@@ -1663,7 +1663,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me And Bobby McGee",
@@ -1703,7 +1703,7 @@
                     "venue": "Chateau D'Herouville",
                     "city": "Herouville",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'\nLoser\nMe And Bobby McGee\nNext Time You See Me\nMorning Dew\nMe And My Uncle\nHard To Handle\nChina Cat Sunflower &gt;\nI Know You Rider\nThe Promised Land\nDeal\nPlaying In The Band\nBig Boss Man\nBlack Peter\nBertha\nCasey Jones\nThat's It For The Other One &gt;\nWharf Rat\nSugar Magnolia\nSing Me Back Home\nJohnny B. Goode"
                     ],
@@ -1725,7 +1725,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me And Bobby McGee",
@@ -1773,7 +1773,7 @@
                     "venue": "Fillmore West",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -1793,7 +1793,7 @@
                     "venue": "Yale Bowl, Yale University",
                     "city": "New Haven",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -1835,7 +1835,7 @@
                     "venue": "Terminal Island Correctional Fac.",
                     "city": "San Pedro",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'\nYellow Dog Story\nBertha\nMe And Bobby McGee\nHard To Handle\nChina Cat Sunflower -&gt;\nI Know You Rider\nLoser\nPlaying In The Band\nNext Time You See Me\nCasey Jones\nCumberland Blues\nBig Boss Man\nSugaree\nEl Paso\nGoing Down The Road Feeling Bad -&gt;\nTurn On Your Lovelight"
                     ],
@@ -1857,7 +1857,7 @@
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1895,7 +1895,7 @@
                     "venue": "Hollywood Palladium",
                     "city": "Hollywood",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -1935,7 +1935,7 @@
                     "venue": "Golden Hall Community Concourse",
                     "city": "San Diego",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "El Paso",
@@ -1981,7 +1981,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me and My Uncle",
@@ -2029,7 +2029,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "Playin' In The Band",
@@ -2071,7 +2071,7 @@
                     "venue": "Mickey's Barn",
                     "city": "Novato",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jam",
                         "The Wall Song > Jam > The Wall Song",
@@ -2104,7 +2104,7 @@
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Uncle John's Band",
                         "Sugaree",
@@ -2150,7 +2150,7 @@
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Big Railroad Blues",
                         "Playin' In The Band",
@@ -2188,7 +2188,7 @@
                     "venue": "Gaelic Park",
                     "city": "Bronx",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -2238,7 +2238,7 @@
                     "venue": "Harding Theater",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2258,7 +2258,7 @@
                     "venue": "Harding Theater",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2278,7 +2278,7 @@
                     "venue": "Studio Rehearsals with Keith Godchaux",
                     "city": "Santa Venetia",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "China Cat Sunflower > I Know You Rider",
                         "Bertha",
@@ -2310,7 +2310,7 @@
                     "venue": "Studio",
                     "city": "Santa Venetia",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Brown-Eyed Women",
                         "Playin' In The Band",
@@ -2341,7 +2341,7 @@
                     "venue": "Keith rehearsals",
                     "city": "Santa Venetia",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "(A) Playing",
                         "Jack Straw",
@@ -2382,7 +2382,7 @@
                     "venue": "Studio",
                     "city": "Santa Venetia",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "(one possibility) Deadlists.com as of 4/2003 lists: Cold Rain And Snow",
                         "Ripple",
@@ -2412,7 +2412,7 @@
                     "venue": "Northrop Auditorium, U. of Minn.",
                     "city": "Minneapolis",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2464,7 +2464,7 @@
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -2512,7 +2512,7 @@
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me And My Uncle",
@@ -2562,7 +2562,7 @@
                     "venue": "Eastown Theater",
                     "city": "Detroit",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Playin' in the Band",
@@ -2610,7 +2610,7 @@
                     "venue": "Eastown Theater",
                     "city": "Detroit",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugar Magnolia",
                         "Deal",
@@ -2654,7 +2654,7 @@
                     "venue": "The Palestra, U. of Rochester",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -2708,7 +2708,7 @@
                     "venue": "Onondaga County War Memorial",
                     "city": "Syracuse",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Me & My Uncle",
@@ -2758,7 +2758,7 @@
                     "venue": "Allen Theatre",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -2806,7 +2806,7 @@
                     "venue": "Taft Auditorium",
                     "city": "Cincinnati",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -2852,7 +2852,7 @@
                     "venue": "Ohio Theatre",
                     "city": "Columbus",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me And My Uncle",
@@ -2902,7 +2902,7 @@
                     "venue": "Harding Theater",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me And My Uncle",
@@ -2954,7 +2954,7 @@
                     "venue": "Harding Theater",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Brown Eyed Women",
@@ -3002,7 +3002,7 @@
                     "venue": "Atlanta Municipal Auditorium",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3038,7 +3038,7 @@
                     "venue": "San Antonio Civic Auditorium",
                     "city": "San Antonio",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -3082,7 +3082,7 @@
                     "venue": "Texas Christian University",
                     "city": "Fort Worth",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -3134,7 +3134,7 @@
                     "venue": "Austin Municipal Auditorium",
                     "city": "Austin",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Bertha",
@@ -3174,7 +3174,7 @@
                     "venue": "Albuquerque Civic Auditorium",
                     "city": "Albuquerque",
                     "state_abbrev": "NM",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3226,7 +3226,7 @@
                     "venue": "Pauley Pavilion, UCLA",
                     "city": "Los Angeles",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3276,7 +3276,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3322,7 +3322,7 @@
                     "venue": "Music Hall",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Playin' In The Band",
@@ -3372,7 +3372,7 @@
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3422,7 +3422,7 @@
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Beat It On Down The Line",
@@ -3474,7 +3474,7 @@
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Loser",
@@ -3520,7 +3520,7 @@
                     "venue": "Felt Forum, Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain And Snow",
                         "Beat It On Down The Line",
@@ -3568,7 +3568,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Monitor Check >Truckin'",
                         "Brown Eyed Woman",
@@ -3610,7 +3610,7 @@
                     "venue": "Fox Theatre",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -3656,7 +3656,7 @@
                     "venue": "Hill Auditorium",
                     "city": "Ann Arbor",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Truckin'",
                         "Sugaree",
@@ -3708,7 +3708,7 @@
                     "venue": "Hill Auditorium",
                     "city": "Ann Arbor",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me And Bobby McGee",
@@ -3764,7 +3764,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' In The Streets",
                         "Mr. Charlie",
@@ -3818,7 +3818,7 @@
                     "venue": "Unsurpassed Vol. 4",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Saturday Night\r\nSaturday Night\r\nBrokedown Palace\r\nTennessee Jed\r\nTennessee Jed\r\nTennessee Jed\r\nBrokedown Palace\r\nCasey Jones\r\nTruckin'\r\nChina Cat > I Know You Rider\r\nBertha\r\nBertha"
                     ],
@@ -3840,7 +3840,7 @@
                     "venue": "Unsurpassed Volume 5",
                     "city": "Santa Venetia",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Playin In The Band\r\nJack Straw\r\nDeep Elum Blues\r\nBig Rr Blues\r\nPromised Land\r\nAttics Of My Life\r\nBirdsong\r\nJack Straw\r\nMama Tried\r\nUncle John's Jam\r\nMe And My Uncle\r\nMexicali Blues\r\nCandyman\r\nCumberland Blues\r\nEl Paso\r\nJam",
                         "Cold Rain & Snow"
@@ -3863,7 +3863,7 @@
                     "venue": "Masons Children Bootleg",
                     "city": "Unknown",
                     "state_abbrev": "Unknown",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -3883,7 +3883,7 @@
                     "venue": "Pointless 1971 Compilation",
                     "city": "Compilation",
                     "state_abbrev": "Compilation",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",

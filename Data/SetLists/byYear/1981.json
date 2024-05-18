@@ -12,7 +12,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Althea-> Little Red Rooster",
@@ -50,7 +50,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil",
@@ -84,7 +84,7 @@
                     "venue": "Uptown Theater",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -122,7 +122,7 @@
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues",
                         "Dire Wolf-> Cassidy",
@@ -156,7 +156,7 @@
                     "venue": "Cleveland Music Hall",
                     "city": "Cleveland",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O",
@@ -188,7 +188,7 @@
                     "venue": "Stanley Theater",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -224,7 +224,7 @@
                     "venue": "Stanley Theater",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -260,7 +260,7 @@
                     "venue": "Cole Field House - University of Maryland",
                     "city": "College Park",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-&gt;\r\nGreatest Story Ever Told\r\nDire Wolf\r\nMe &amp; My Uncle-&gt;\r\nBig River\r\nCandyman-&gt;\r\nCC Rider\r\nJack A Roe\r\nPassenger\r\nBird Song-&gt;\r\nLooks Like Rain-&gt;\r\nDeal"
                     ],
@@ -284,7 +284,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Althea-> CC Rider",
@@ -320,7 +320,7 @@
                     "venue": "Madison Square Garden",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Me & My Uncle",
                         "Roses> Little Red Rooster",
@@ -352,7 +352,7 @@
                     "venue": "Boston Garden",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -386,7 +386,7 @@
                     "venue": "Utica Memorial Auditorium",
                     "city": "Utica",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues",
                         "They Love Each Other-> El Paso",
@@ -422,7 +422,7 @@
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Sugaree",
@@ -458,7 +458,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Friend Of The Devil",
@@ -496,7 +496,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -530,7 +530,7 @@
                     "venue": "Rainbow Theatre",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw\r\nThey Love Each Other\r\nCassidy\r\nIt Must Have Been The Roses->\r\nEl Paso\r\nRamble On Rose\r\nNew Minglewood Blues\r\nSugaree\r\nLazy Lightning->\r\nSupplication"
                     ],
@@ -554,7 +554,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Beat It On Down The Line-> Greatest Story Ever Told",
@@ -588,7 +588,7 @@
                     "venue": "Grugahalle",
                     "city": "Essen",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway &gt; Greatest Story Ever Told &gt; Sugaree",
                         "Me & My Uncle &gt; Mexicali Blues",
@@ -622,7 +622,7 @@
                     "venue": "Berkeley Community Theater",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deep Elem Blues",
                         "Dark Hollow",
@@ -653,7 +653,7 @@
                     "venue": "Greensboro Coliseum",
                     "city": "Greensboro",
                     "state_abbrev": "NC",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O-> CC Rider",
@@ -685,7 +685,7 @@
                     "venue": "Hampton Coliseum",
                     "city": "Hampton",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> Me & My Uncle-> Big River",
@@ -715,7 +715,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Sugaree",
                         "El Paso",
@@ -759,7 +759,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Don't Ease Me In-> Beat It On Down The Line",
                         "Jack A Roe-> Little Red Rooster",
@@ -793,7 +793,7 @@
                     "venue": "Glens Falls Civic Center",
                     "city": "Glens Falls",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Peggy-O-> El Paso",
@@ -831,7 +831,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -867,7 +867,7 @@
                     "venue": "NBC Studios",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "On The Road Again",
                         "Dire Wolf",
@@ -892,7 +892,7 @@
                     "venue": "Nassau Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -926,7 +926,7 @@
                     "venue": "Nassau Veterans Memorial Coliseum",
                     "city": "Uniondale",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower-> Feel Like A Stranger",
                         "Bird Song-> Little Red Rooster",
@@ -958,7 +958,7 @@
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree-> El Paso",
@@ -996,7 +996,7 @@
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Peggy-O",
@@ -1032,7 +1032,7 @@
                     "venue": "Providence Civic Center",
                     "city": "Providence",
                     "state_abbrev": "RI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Tennessee Jed",
@@ -1068,7 +1068,7 @@
                     "venue": "Athletic Center - Rutgers University",
                     "city": "Piscataway",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step Uptown Toodeloo-&gt;\r\nFranklin's Tower-&gt;\r\nMinglewood Blues",
                         "Dire Wolf-&gt;\r\nCassidy\r\nCandyman-&gt;\r\nLittle Red Rooster\r\nJack A Roe\r\nEl Paso\r\nRamble On Rose\r\nLooks Like Rain-&gt;\r\nDon't Ease Me In"
@@ -1094,7 +1094,7 @@
                     "venue": "Barton Hall, Cornell U",
                     "city": "Ithaca",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger-> Friend Of The Devil-> Me & My Uncle-> Big River",
                         "Althea-> CC Rider",
@@ -1126,7 +1126,7 @@
                     "venue": "Onondaga County War Memorial",
                     "city": "Syracuse",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-&gt; \nPromised Land",
                         "Peggy-O-&gt; \nMama Tried-&gt; \nMexicali Blues",
@@ -1160,7 +1160,7 @@
                     "venue": "Warfield Theater",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deep Elem Blues",
                         "The Race is On",
@@ -1193,7 +1193,7 @@
                     "venue": "The Summit",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil-> CC Rider",
@@ -1229,7 +1229,7 @@
                     "venue": "Manor Downs",
                     "city": "Austin",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Peggy-O",
@@ -1265,7 +1265,7 @@
                     "venue": "Zoo Amphitheater",
                     "city": "Oklahoma City",
                     "state_abbrev": "OK",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Promised Land",
                         "Candyman-> Cassidy",
@@ -1299,7 +1299,7 @@
                     "venue": "Kansas City Municipal Auditorium Arena",
                     "city": "Kansas City",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues-> Bertha-> Dancin' In The Streets",
                         "Big Railroad Blues-> El Paso",
@@ -1331,7 +1331,7 @@
                     "venue": "Kiel Auditorium",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Feel Like A Stranger",
                         "Peggy-O-> Little Red Rooster",
@@ -1367,7 +1367,7 @@
                     "venue": "St. Paul Civic Center",
                     "city": "St. Paul",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Sugaree",
@@ -1405,7 +1405,7 @@
                     "venue": "Alpine Valley Music Theatre",
                     "city": "East Troy",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Peggy-O-> Little Red Rooster",
@@ -1441,7 +1441,7 @@
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other-> El Paso",
@@ -1473,7 +1473,7 @@
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow-> Minglewood Blues",
                         "Friend Of The Devil-> Cassidy",
@@ -1505,7 +1505,7 @@
                     "venue": "Salt Palace",
                     "city": "Salt Lake City",
                     "state_abbrev": "UT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "Friend Of The Devil",
@@ -1539,7 +1539,7 @@
                     "venue": "Seattle Center Coliseum",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues-> Sugaree-> On The Road Again",
                         "Peggy-O-> Beat It On Down The Line",
@@ -1571,7 +1571,7 @@
                     "venue": "Portland Memorial Coliseum",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Me & My Uncle-> Big River",
                         "Tennessee Jed",
@@ -1605,7 +1605,7 @@
                     "venue": "McArthur Court, U of Oregon",
                     "city": "Eugene",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Friend Of The Devil-> El Paso-> Loser",
@@ -1637,7 +1637,7 @@
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> CC Rider",
@@ -1667,7 +1667,7 @@
                     "venue": "Long Beach Arena",
                     "city": "Long Beach",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -1701,7 +1701,7 @@
                     "venue": "Compton Terrace Amphitheatre",
                     "city": "Tempe",
                     "state_abbrev": "AZ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step-> Franklin's Tower",
                         "Minglewood Blues",
@@ -1739,7 +1739,7 @@
                     "venue": "Aladdin Theater",
                     "city": "Las Vegas",
                     "state_abbrev": "NV",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "Jack A Roe-> El Paso",
@@ -1775,7 +1775,7 @@
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -1811,7 +1811,7 @@
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Greatest Story Ever Told",
                         "Friend Of The Devil-> El Paso",
@@ -1843,7 +1843,7 @@
                     "venue": "Greek Theatre, U. Of California",
                     "city": "Berkeley",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Bertha",
                         "Me & My Uncle-> Big River",
@@ -1877,7 +1877,7 @@
                     "venue": "Stabler Arena, Lehigh U",
                     "city": "Bethlehem",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Friend Of The Devil-> El Paso",
@@ -1913,7 +1913,7 @@
                     "venue": "Community War Memorial Auditorium",
                     "city": "Buffalo",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> CC Rider",
                         "They Love Each Other",
@@ -1953,7 +1953,7 @@
                     "venue": "Capital Centre",
                     "city": "Landover",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Alabama Getaway-> Promised Land",
@@ -1987,7 +1987,7 @@
                     "venue": "Playhouse Theater",
                     "city": "Edinburgh",
                     "state_abbrev": "Scotland",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -2025,7 +2025,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree-> CC Rider",
@@ -2061,7 +2061,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Peggy-O",
@@ -2095,7 +2095,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jam-> Jack Straw",
                         "Friend Of The Devil-> El Paso",
@@ -2131,7 +2131,7 @@
                     "venue": "Rainbow Theater",
                     "city": "London",
                     "state_abbrev": "England",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues-> It Must Have Been The Roses",
                         "Little Red Rooster",
@@ -2165,7 +2165,7 @@
                     "venue": "Forum Theater",
                     "city": "Copenhagen",
                     "state_abbrev": "Denmark",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Feel Like A Stranger",
                         "They Love Each Other-> CC Rider",
@@ -2203,7 +2203,7 @@
                     "venue": "Stadthalle",
                     "city": "Bremen",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Bertha-> Minglewood Blues",
                         "Friend Of The Devil-> El Paso",
@@ -2237,7 +2237,7 @@
                     "venue": "Club Melk Weg",
                     "city": "Amsterdam",
                     "state_abbrev": "Netherlands",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Monkey & The Engineer",
                         "I've Been All Around This World",
@@ -2264,7 +2264,7 @@
                     "venue": "Olympia Halle",
                     "city": "Munich",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Candyman-> Little Red Rooster",
@@ -2302,7 +2302,7 @@
                     "venue": "Walter Koebel Halle",
                     "city": "Russelsheim",
                     "state_abbrev": "Germany",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Greatest Story Ever Told",
                         "They Love Each Other",
@@ -2340,7 +2340,7 @@
                     "venue": "Club Melk Weg",
                     "city": "Amsterdam",
                     "state_abbrev": "Netherlands",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other-> El Paso",
@@ -2374,7 +2374,7 @@
                     "venue": "Club Melk Weg",
                     "city": "Amsterdam",
                     "state_abbrev": "Netherlands",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "On The Road Again",
                         "Dire Wolf",
@@ -2412,7 +2412,7 @@
                     "venue": "The Hippodrome",
                     "city": "Paris",
                     "state_abbrev": "France",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Minglewood Blues",
                         "Candyman",
@@ -2446,7 +2446,7 @@
                     "venue": "Sports Palace",
                     "city": "Barcelona",
                     "state_abbrev": "Spain",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw-> Franklin's Tower",
                         "Mama Tried-> Mexicali Blues",
@@ -2484,7 +2484,7 @@
                     "venue": "Civic Arena",
                     "city": "Pittsburgh",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Shakedown Street-> Greatest Story Ever Told",
                         "Friend Of The Devil-> CC Rider",
@@ -2520,7 +2520,7 @@
                     "venue": "Hara Arena",
                     "city": "Dayton",
                     "state_abbrev": "OH",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Mack The Knife",
@@ -2556,7 +2556,7 @@
                     "venue": "Assembly Hall",
                     "city": "Champaign",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha &gt; Greatest Story Ever Told",
                         "Peggy-O",
@@ -2596,7 +2596,7 @@
                     "venue": "Dane County Coliseum",
                     "city": "Madison",
                     "state_abbrev": "WI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2636,7 +2636,7 @@
                     "venue": "Market Square Arena",
                     "city": "Indianapolis",
                     "state_abbrev": "IN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Friend Of The Devil-> CC Rider",
@@ -2670,7 +2670,7 @@
                     "venue": "Rosemont Horizon",
                     "city": "Rosemont",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues-> Sugaree",
                         "Mama Tried-> Mexicali Blues",
@@ -2710,7 +2710,7 @@
                     "venue": "Des Moines Civic Center",
                     "city": "Des Moines",
                     "state_abbrev": "IA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Friend Of The Devil-> CC Rider",
@@ -2748,7 +2748,7 @@
                     "venue": "Events Center, U of Colorado",
                     "city": "Boulder",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Cold Rain & Snow-> Jack Straw",
                         "Friend Of The Devil-> Little Red Rooster",
@@ -2786,7 +2786,7 @@
                     "venue": "Fiesta Hall, San Mateo County Fairgrounds",
                     "city": "San Mateo",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Me And Bobby McGee",
                         "Children Of The Eighties",
@@ -2830,7 +2830,7 @@
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Alabama Getaway-> Promised Land",
                         "Candyman-> Little Red Rooster",
@@ -2868,7 +2868,7 @@
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues-&gt; Sugaree",
                         "Cassidy",
@@ -2902,7 +2902,7 @@
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Greatest Story Ever Told",
                         "Peggy-O-> El Paso",
@@ -2938,7 +2938,7 @@
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2976,7 +2976,7 @@
                     "venue": "Oakland Auditorium Arena",
                     "city": "Oakland",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Acoustic: Me And Bobby McGee*",
                         "Bye Bye Love*",
@@ -3014,7 +3014,7 @@
                     "venue": "Unknown",
                     "city": "Various",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Part 1\r\n\r\nDiscussion of the Grateful Dead's Acoustic Music"
                     ],

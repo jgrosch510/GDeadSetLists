@@ -12,7 +12,7 @@
                     "venue": "Sound City",
                     "city": "Van Nuys",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Samson & Delilah\nSunrise\nPassenger\nEstimated Prophet\nFire On The Mountain\nEquinox\nTerrapin Station\nPride Of Cucamonga*\nMoney Money\nUnbroken Chain^"
                     ],
@@ -34,7 +34,7 @@
                     "venue": "Sound City",
                     "city": "Van Nuys",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Dancin' in the Streets",
                         "Sunrise",
@@ -63,7 +63,7 @@
                     "venue": "Swing Auditorium",
                     "city": "San Bernardino",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Terrapin Station",
                         "Minglewood Blues",
@@ -101,7 +101,7 @@
                     "venue": "Robertson Gym, UC Santa Barbara",
                     "city": "Goleta",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -143,7 +143,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -181,7 +181,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Mama Tried",
@@ -221,7 +221,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Ramble On Rose",
@@ -263,7 +263,7 @@
                     "venue": "The Spectrum",
                     "city": "Philadelphia",
                     "state_abbrev": "PA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -303,7 +303,7 @@
                     "venue": "Springfield Civic Center",
                     "city": "Springfield",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Sugaree",
                         "Cassidy",
@@ -343,7 +343,7 @@
                     "venue": "Capitol Theater",
                     "city": "Passaic",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Deal",
@@ -387,7 +387,7 @@
                     "venue": "Capitol Theater",
                     "city": "Passaic",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -427,7 +427,7 @@
                     "venue": "Capitol Theater",
                     "city": "Passaic",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Mississippi Half Step",
@@ -467,7 +467,7 @@
                     "venue": "The Palladium",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Minglewood Blues",
@@ -505,7 +505,7 @@
                     "venue": "The Palladium",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Music Never Stopped",
                         "Bertha",
@@ -545,7 +545,7 @@
                     "venue": "The Palladium",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Might As Well",
                         "El Paso",
@@ -589,7 +589,7 @@
                     "venue": "The Palladium",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Bertha",
@@ -633,7 +633,7 @@
                     "venue": "The Palladium",
                     "city": "New York",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half-Step Uptown Toodeloo > Big River",
                         "They Love Each Other",
@@ -673,7 +673,7 @@
                     "venue": "Veterans' Memorial Coliseum",
                     "city": "New Haven",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -713,7 +713,7 @@
                     "venue": "Boston Garden",
                     "city": "Boston",
                     "state_abbrev": "MA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Cassidy",
@@ -753,7 +753,7 @@
                     "venue": "Barton Hall",
                     "city": "Ithaca",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Loser",
@@ -797,7 +797,7 @@
                     "venue": "Buffalo Memorial Auditorium",
                     "city": "Buffalo",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way-> Slipknot!-> Franklin's Tower",
                         "Cassidy",
@@ -837,7 +837,7 @@
                     "venue": "St. Paul Civic Center",
                     "city": "St. Paul",
                     "state_abbrev": "MN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land\nThey Love Each Other\nBig River\nLoser\nLooks Like Rain\nRamble On Rose\nJack Straw\nPeggy-O\nEl Paso\nDeal\nLazy Lightning -&gt; \nSupplication\nSugaree"
                     ],
@@ -861,7 +861,7 @@
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -901,7 +901,7 @@
                     "venue": "Auditorium Theatre",
                     "city": "Chicago",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Music Never Stopped",
                         "Ramble On Rose",
@@ -943,7 +943,7 @@
                     "venue": "The Arena",
                     "city": "St. Louis",
                     "state_abbrev": "MO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha &gt; Good Lovin'",
                         "Row Jimmy",
@@ -985,7 +985,7 @@
                     "venue": "Memorial Coliseum, U of Alabama",
                     "city": "Tuscaloosa",
                     "state_abbrev": "AL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Mississippi Half Step-> El Paso",
@@ -1031,7 +1031,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Deal",
                         "Cassidy",
@@ -1073,7 +1073,7 @@
                     "venue": "Fox Theater",
                     "city": "Atlanta",
                     "state_abbrev": "GA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree-> El Paso",
@@ -1111,7 +1111,7 @@
                     "venue": "Lakeland Civic Center",
                     "city": "Lakeland",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Me & My Uncle",
@@ -1155,7 +1155,7 @@
                     "venue": "The Sportatorium",
                     "city": "Pembroke Pines",
                     "state_abbrev": "FL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -1195,7 +1195,7 @@
                     "venue": "The Mosque",
                     "city": "Richmond",
                     "state_abbrev": "VA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -1237,7 +1237,7 @@
                     "venue": "Baltimore Civic Center",
                     "city": "Baltimore",
                     "state_abbrev": "MD",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Music Never Stopped",
                         "Sugaree",
@@ -1281,7 +1281,7 @@
                     "venue": "Hartford Civic Center",
                     "city": "Hartford",
                     "state_abbrev": "CT",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'-> Sugaree",
                         "Jack Straw",
@@ -1319,7 +1319,7 @@
                     "venue": "The Forum",
                     "city": "Inglewood",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Tennessee Jed",
@@ -1363,7 +1363,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha",
                         "Jack Straw",
@@ -1403,7 +1403,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Sugaree",
@@ -1445,7 +1445,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -1485,7 +1485,7 @@
                     "venue": "Raceway Park",
                     "city": "Englishtown",
                     "state_abbrev": "NJ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1525,7 +1525,7 @@
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -1569,7 +1569,7 @@
                     "venue": "Paramount Northwest Theater",
                     "city": "Seattle",
                     "state_abbrev": "WA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half-Step Uptown Toodeloo",
                         "Mama Tried",
@@ -1609,7 +1609,7 @@
                     "venue": "Paramount Theater",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1653,7 +1653,7 @@
                     "venue": "Paramount Theater",
                     "city": "Portland",
                     "state_abbrev": "OR",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Casey Jones",
                         "Jack Straw",
@@ -1691,7 +1691,7 @@
                     "venue": "Activity Center. Arizona State U",
                     "city": "Tempe",
                     "state_abbrev": "AZ",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land*",
                         "Tennessee Jed*",
@@ -1731,7 +1731,7 @@
                     "venue": "University of New Mexico",
                     "city": "Albuquerque",
                     "state_abbrev": "NM",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -1771,7 +1771,7 @@
                     "venue": "McNichols Sports Arena",
                     "city": "Denver",
                     "state_abbrev": "CO",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1811,7 +1811,7 @@
                     "venue": "Lloyd Noble Center",
                     "city": "Norman",
                     "state_abbrev": "OK",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Help On The Way &gt; Slipknot! &gt; Franklin's Tower",
                         "Jack Straw",
@@ -1847,7 +1847,7 @@
                     "venue": "Manor Downs",
                     "city": "Austin",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -1889,7 +1889,7 @@
                     "venue": "Hofheinz Pavilion",
                     "city": "Houston",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "Mississippi Half Step-> El Paso",
@@ -1931,7 +1931,7 @@
                     "venue": "Moody Coliseum, S.M.U",
                     "city": "Dallas",
                     "state_abbrev": "TX",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "They Love Each Other",
@@ -1967,7 +1967,7 @@
                     "venue": "Assembly Center, Lousiana State U",
                     "city": "Baton Rouge",
                     "state_abbrev": "LA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "Sugaree",
@@ -2007,7 +2007,7 @@
                     "venue": "Soldiers &amp; Sailors Memorial Hall",
                     "city": "Kansas City",
                     "state_abbrev": "KS",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2045,7 +2045,7 @@
                     "venue": "Field House, Northern Illinois U",
                     "city": "De Kalb",
                     "state_abbrev": "IL",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Might As Well",
                         "Jack Straw",
@@ -2087,7 +2087,7 @@
                     "venue": "Assembly Hall, Ind",
                     "city": "Bloomington",
                     "state_abbrev": "IN",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "They Love Each Other",
@@ -2125,7 +2125,7 @@
                     "venue": "Various",
                     "city": "Various",
                     "state_abbrev": "Various",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": "",
                     "set2": "",
                     "set3": "",
@@ -2145,7 +2145,7 @@
                     "venue": "Cobo Arena",
                     "city": "Detroit",
                     "state_abbrev": "MI",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Might As Well",
                         "Jack Straw",
@@ -2187,7 +2187,7 @@
                     "venue": "Field House, Seneca College",
                     "city": "Toronto",
                     "state_abbrev": "ON",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Promised Land",
                         "They Love Each Other",
@@ -2225,7 +2225,7 @@
                     "venue": "Cotterell Gym, Colgate University",
                     "city": "Hamilton",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Brown Eyed Women",
@@ -2263,7 +2263,7 @@
                     "venue": "Community War Memorial Auditorium",
                     "city": "Rochester",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Minglewood Blues",
                         "Mississippi Half Step",
@@ -2301,7 +2301,7 @@
                     "venue": "Broome County Arena",
                     "city": "Binghamton",
                     "state_abbrev": "NY",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Jack Straw",
@@ -2343,7 +2343,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Bertha-> Good Lovin'",
                         "Brown Eyed Women",
@@ -2387,7 +2387,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Jack Straw",
                         "They Love Each Other",
@@ -2427,7 +2427,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "Mississippi Half Step",
                         "Me & My Uncle",
@@ -2469,7 +2469,7 @@
                     "venue": "Winterland Arena",
                     "city": "San Francisco",
                     "state_abbrev": "CA",
-"country_abbrev":"US",
+                    "country_abbrev": "US",
                     "set1": [
                         "The Music Never Stopped",
                         "Tennessee Jed",
