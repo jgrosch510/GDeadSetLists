@@ -1,0 +1,35 @@
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Ante Up - Built to Last interview, Various, Various
+Venue: Cal Expo, Sacramento, CA
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Club Front - Grateful Dead Studio, San Rafael, CA
+Venue: Crisler Arena, Ann Arbor, MI
+Venue: Deer Creek Music Center, Noblesville, IN
+Venue: Freedom Hall, Louisville, KY
+Venue: Frost Amphitheatre, Palo Alto, CA
+Venue: Giants Stadium, East Rutherford, NJ
+Venue: Great Western Forum, Inglewood, CA
+Venue: Great Western LA Forum, Inglewood, CA
+Venue: Greensboro Coliseum, Greensboro, NC
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Henry J Kaiser Convention Center, Oakland, CA
+Venue: Irvine Meadows, Irvine, CA
+Venue: John F. Kennedy Stadium, Philadelphia, PA
+Venue: Meadowlands Arena, East Rutherford, NJ
+Venue: Metropolitan Sports Center, Minneapolis, MN
+Venue: Miami Arena, Miami, FL
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Oakland-Alameda County Stadium, Oakland, CA
+Venue: Oakland Coliseum-AIDS Benefit, Oakland, CA
+Venue: Rich Stadium, Orchard Park, NY
+Venue: Riverfront Arena, Cincinnati, OH
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Rosemont Horizon, Rosemont, IL
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Shoreline Amph, Mountain View, CA
+Venue: Sullivan Stadium, Foxboro, MA
+Venue: The Greek Theatre - University of California, Berkeley, CA
+Venue: The Mecca, Milwaukee, WI
+Venue: The Omni, Atlanta, GA
+Venue: The Spectrum, Philadelphia, PA

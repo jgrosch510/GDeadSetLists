@@ -1,0 +1,26 @@
+Venue: Buckeye Lake Music Center, Hebron, OH
+Venue: Cal Expo, Sacramento, CA
+Venue: Capital Centre, Landover, MD
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: Club Front, San Rafael, CA
+Venue: Club Front Studio, San Rafael, CA
+Venue: Compton Terrace Amphitheatre, Tempe, AZ
+Venue: Copps Coliseum, Hamilton, ON
+Venue: Deer Creek Music Center, Noblesville, IN
+Venue: Giants Stadium, East Rutherford, NJ
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Knickerbocker Arena, Albany, NY
+Venue: McNichols Sports Arena, Denver, CO
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Richfield Coliseum, Richfield, OH
+Venue: Rich Stadium, Orchard Park, NY
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Sam Boyd Silver Bowl, Las Vegas, NV
+Venue: Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Soldier Field, Chicago, IL
+Venue: Star Lake Amphitheatre, Burgettstown, PA
+Venue: The Omni, Atlanta, GA
+Venue: The Palace, Auburn Hills, MI
+Venue: The Spectrum, Philadelphia, PA

@@ -1,0 +1,49 @@
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Baltimore Civic Center, Baltimore, MD
+Venue: Bob Marley Performing Arts Center, Montego Bay, Jamaica
+Venue: Boston Garden, Boston, MA
+Venue: Cameron Indoor Stadium, Duke U, Durham, NC
+Venue: Capital Centre, Landover, MD
+Venue: Carrier Dome, Syracuse U, Syracuse, NY
+Venue: Club Front, San Rafael, CA
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Compton Terrace Amphitheatre, Tempe, AZ
+Venue: Cumberland County Civic Center, Portland, ME
+Venue: Frost Amphitheatre, Palo Alto, CA
+Venue: Glen Helen Regional Park, Devore, CA
+Venue: Glens Falls Civic Center, Glens Falls, NY
+Venue: Golden Hall, Community Concourse, San Diego, CA
+Venue: Greek Theatre - Peeks at the Greeks '82, Berkeley, CA
+Venue: Greek Theatre, Univ. of California, Berkeley, CA
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Kiel Auditorium, St. Louis, MO
+Venue: Lakeland Civic Center, Lakeland, FL
+Venue: Madison Square Garden, New York, NY
+Venue: Manor Downs, Austin, TX
+Venue: Mickey's ranch studio, Novato, CA
+Venue: Moscone Convention Center, San Francisco, CA
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: NBC Studios, New York, NY
+Venue: Oakland Auditorium Arena, Oakland, CA
+Venue: Onongada County War Memorial, Syracuse, NY
+Venue: Oregon Country Fair, Veneta, OR
+Venue: Pauley Pavilion, UCLA, Los Angeles, CA
+Venue: Providence Civic Center, Providence, RI
+Venue: Recreation Hall, UC Davis, Davis, CA
+Venue: Red Rocks Ampitheatre, Morrison, CO
+Venue: Reno Centennial Coliseum, Reno, NV
+Venue: Saenger Performing Arts Center, New Orleans, LA
+Venue: Santa Fe Downs, Santa Fe, NM
+Venue: Seattle Center Coliseum, Seattle, WA
+Venue: Starlight Theater, Kansas City, MO
+Venue: St. Paul Civic Center, St. Paul, MN
+Venue: The Scope, Norfolk, VA
+Venue: The Spectrum, Philadelphia, PA
+Venue: University of Iowa, Iowa City, IA
+Venue: University of Virginia, Charlottesville, VA
+Venue: Ventura County Fairgrounds, Ventura, CA
+Venue: Veterans' Memorial Coliseum, New Haven, CT
+Venue: Warfield Theater, San Francisco, CA
+Venue: West Palm Beach Auditorium, West Palm Beach, FL
+Venue: Zoo Amphitheater, Oklahoma City, OK

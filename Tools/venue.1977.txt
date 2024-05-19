@@ -1,0 +1,43 @@
+Venue: Activity Center. Arizona State U, Tempe, AZ
+Venue: Assembly Center, Lousiana State U, Baton Rouge, LA
+Venue: Assembly Hall, Ind, Bloomington, IN
+Venue: Auditorium Theatre, Chicago, IL
+Venue: Baltimore Civic Center, Baltimore, MD
+Venue: Barton Hall, Ithaca, NY
+Venue: Boston Garden, Boston, MA
+Venue: Broome County Arena, Binghamton, NY
+Venue: Buffalo Memorial Auditorium, Buffalo, NY
+Venue: Capitol Theater, Passaic, NJ
+Venue: Cobo Arena, Detroit, MI
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Cotterell Gym, Colgate University, Hamilton, NY
+Venue: Field House, Northern Illinois U, De Kalb, IL
+Venue: Field House, Seneca College, Toronto, ON
+Venue: Fox Theater, Atlanta, GA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Hofheinz Pavilion, Houston, TX
+Venue: Lakeland Civic Center, Lakeland, FL
+Venue: Lloyd Noble Center, Norman, OK
+Venue: Manor Downs, Austin, TX
+Venue: McNichols Sports Arena, Denver, CO
+Venue: Memorial Coliseum, U of Alabama, Tuscaloosa, AL
+Venue: Moody Coliseum, S.M.U, Dallas, TX
+Venue: Paramount Northwest Theater, Seattle, WA
+Venue: Paramount Theater, Portland, OR
+Venue: Raceway Park, Englishtown, NJ
+Venue: Robertson Gym, UC Santa Barbara, Goleta, CA
+Venue: Soldiers &amp; Sailors Memorial Hall, Kansas City, KS
+Venue: Sound City, Van Nuys, CA
+Venue: Springfield Civic Center, Springfield, MA
+Venue: St. Paul Civic Center, St. Paul, MN
+Venue: Swing Auditorium, San Bernardino, CA
+Venue: The Arena, St. Louis, MO
+Venue: The Forum, Inglewood, CA
+Venue: The Mosque, Richmond, VA
+Venue: The Palladium, New York, NY
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Sportatorium, Pembroke Pines, FL
+Venue: University of New Mexico, Albuquerque, NM
+Venue: Various, Various, Various
+Venue: Veterans' Memorial Coliseum, New Haven, CT
+Venue: Winterland Arena, San Francisco, CA

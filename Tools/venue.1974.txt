@@ -1,0 +1,37 @@
+Venue: Adams Field House, U of Montana, Missoula, MT
+Venue: Alexandra Palace (Dick's Picks 7), London, England
+Venue: Alexandra Palace, London, England
+Venue: Bootleg "Unsurpassed Vol. 8", San Francisco, CA
+Venue: Boston Garden, Boston, MA
+Venue: Campus Stadium, UC Santa Barbara, Goleta, CA
+Venue: Capital Centre, Landover, MD
+Venue: China-Rider Compilation, Various, Various
+Venue: Civic Center, Roanoke, VA
+Venue: Cow Palace, Daly City, CA
+Venue: Des Moines State Fair Grandstand, Des Moines, IA
+Venue: Dillon Stadium, Hartford, CT
+Venue: Edmundson Pavilion, U of Washington, Seattle, WA
+Venue: Freedom Hall, Louisville, KY
+Venue: Hollywood Bowl, Los Angeles, CA
+Venue: International Amphitheater, Chicago, IL
+Venue: Jai-Alai Fronton, Miami, FL
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Olympia Halle, Munich, Germany
+Venue: Palais Des Sports, Paris, France
+Venue: Parc des Expositions, Dijon, France
+Venue: Philadelphia Civic Arena, Philadelphia, PA
+Venue: P.N.E. Coliseum, Vancouver, BC
+Venue: Portland Memorial Coliseum, Portland, OR
+Venue: Providence Civic Center, Providence, RI
+Venue: Roosevelt Stadium, Jersey City, NJ
+Venue: Selland Arena, Fresno, CA
+Venue: Springfield Civic Center, Springfield, MA
+Venue: Studio (Mars Hotel Outtakes), Unknown, CA
+Venue: Studio, Unknown, Unknown
+Venue: The Omni, Atlanta, GA
+Venue: University of Nevada, Reno, NV
+Venue: Unknown, Unknown, Unknown
+Venue: Wally Heiders Studio (Mars Hotel outtakes), San Francisco, CA
+Venue: Winterland Arena, San Francisco, CA
+Venue: Winterland Arena, San Franciso, CA
+Venue: Winterland Arena- soundcheck, San Francisco, CA

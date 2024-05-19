@@ -1,0 +1,39 @@
+Venue: 1984 Studio Material, San Rafael?, CA
+Venue: Aladdin Theater, Las Vegas, NV
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Arista Studio, San Rafael, CA
+Venue: Augusta Civic Center, Augusta, ME
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Blossom Music Center, Cuyahoga Falls, OH
+Venue: Cal Expo, Sacramento, CA
+Venue: Carrier Dome, Syracuse U, Syracuse, NY
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: City Island, Harrisburg, PA
+Venue: Club Front, San Rafael, CA
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Five Seasons Center, Cedar Rapids, IA
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Indianapolis Sports and Music Center, Indianapolis, IN
+Venue: Irvine Meadows, Irvine, CA
+Venue: Kingswood Music Theater, Maple, ON
+Venue: Marin County Veterans Auditorium, San Rafael, CA
+Venue: Meadowlands Arena, East Rutherford, NJ
+Venue: Merriweather Post Pavilion, Columbia, MD
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Niagara Falls Convention Center, Niagara Falls, NY
+Venue: Philadelphia Civic Center, Philadelphia, PA
+Venue: Pine Knob Music Theater, Clarkston, MI
+Venue: Providence Civic Center, Providence, RI
+Venue: Red Rocks Ampitheatre, Morrison, CO
+Venue: Richmond Coliseum, Richmond, VA
+Venue: San Francisco Civic Auditorium, San Francisco, CA
+Venue: Saratoga Performing Arts Center, Saratoga Springs, NY
+Venue: Silva Hall, Hult Center, Eugene, OR
+Venue: Starlight Theater, Kansas City, MO
+Venue: Studio, Studio, Ca
+Venue: Studio, Studio, CA
+Venue: The Centrum, Worcester, MA
+Venue: Ventura County Fairgrounds, Ventura, CA
+Venue: Veterans' Memorial Coliseum, New Haven, CT

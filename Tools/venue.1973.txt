@@ -1,0 +1,55 @@
+Venue: Assembly Hall, University Of Illinois, Champaign, IL
+Venue: Baltimore Civic Center, Baltimore, MD
+Venue: Boston Garden, Boston, MA
+Venue: Buffalo Memorial Auditorium, Buffalo, NY
+Venue: Cameron Indoor Stadium, Duke U, Durham, NC
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: Cincinnati Gardens, Cincinnati, OH
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Community War Memorial Auditorium, Buffalo, NY
+Venue: County Coliseum, El Paso, TX
+Venue: Curtis Hixon Convention Hall, Tampa, FL
+Venue: Dane County Coliseum, Madison, WI
+Venue: Denver Coliseum, Denver, CO
+Venue: Feyline Field, Tempe, AZ
+Venue: Grand Prix Racecourse, Watkins Glen, NY
+Venue: Indianapolis State Fair Coliseum, Indianapolis, IN
+Venue: International Amphitheatre, Chicago, IL
+Venue: Iowa State Fairgrounds, Des Moines, IA
+Venue: Kezar Stadium, San Francisco, CA
+Venue: Kiel Auditorium, St. Louis, MO
+Venue: McGaw Memorial Hall, Northwestern U., Evanston, IL
+Venue: Metropolitan Sports Center, Bloomington, MN
+Venue: Music Hall, Boston, MA
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY
+Venue: Oklahoma City Fairgrounds Arena, Oklahoma City, OK
+Venue: Omaha Civic Auditorium, Omaha, NE
+Venue: Onondaga County War Memorial, Syracuse, NY
+Venue: Palace of Fine Arts, San Francisco, CA
+Venue: Pauley Pavilion, UCLA, Los Angeles, CA
+Venue: Pershing Municipal Auditorium, Lincoln, NE
+Venue: P.N.E. Coliseum, Vancouver, BC
+Venue: Portland Memorial Coliseum, Portland, OR
+Venue: Providence Civic Center, Providence, RI
+Venue: Public Hall, Cleveland, OH
+Venue: Record Plant, Sausalito, CA
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Rochester Community War Memorial, Rochester, NY
+Venue: Roosevelt Stadium, Jersey City, NJ
+Venue: Roscoe Maples Pavilion, Stanford, Palo Alto, CA
+Venue: Salt Palace, Salt Lake City, UT
+Venue: San Diego Sports Arena, San Diego, CA
+Venue: Seattle Center Arena, Seattle, WA
+Venue: Springfield Civic Center, Springfield, MA
+Venue: Stadium, U.C Santa Barbara, Santa Barbara, CA
+Venue: St. Paul Auditorium, St. Paul, MN
+Venue: Studio Rehearsals, Various, CA
+Venue: The Omni, Atlanta, GA
+Venue: The Spectrum, Philadelphia, PA
+Venue: UI Field House, University Of Iowa, Iowa City, IA
+Venue: Universal Amphitheatre, Universal City, CA
+Venue: Unsurpassed Masters Vol. 7, Compilation, Compilation
+Venue: Utica Memorial Auditorium, Utica, NY
+Venue: William and Mary College Hall, Williamsburg, VA
+Venue: Winterland Arena, San Francisco, CA

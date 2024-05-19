@@ -1,0 +1,44 @@
+Venue: 20th Anniversary Press Conference, Berkeley, CA
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Blossom Music Center, Cuyahoga Falls, OH
+Venue: Boreal Ridge Ski Resort, Donner's Summit, CA
+Venue: Carolina Coliseum, U of South Carolina, Columbia, SC
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Cumberland County Civic Center, Portland, ME
+Venue: Dead Play the Beatles, Various, Various
+Venue: Devore Field, Southwestern U, Chula Vista, CA
+Venue: Fox Theater, Atlanta, GA
+Venue: Frost Amphitheatre, Palo Alto, CA
+Venue: Greek Theater, U. of California, Berkeley, CA
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Henry J. Kaiser Convention Center, Oakland, CA
+Venue: Hershey Park Stadium, Hershey, PA
+Venue: Irvine Meadows, Irvine, CA
+Venue: Long Beach Arena, Long Beach, CA
+Venue: Manor Downs, Austin, TX
+Venue: Marin Veterans Memorial Auditorium, San Rafael, CA
+Venue: Meadowlands Arena, East Rutherford, NJ
+Venue: Merriweather Post Pavilion, Columbia, MD
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Providence Civic Center, Providence, RI
+Venue: Red Rocks Amphitheatre, Morrison, CO
+Venue: Red Rocks Ampitheatre, Morrison, CO
+Venue: Richmond Coliseum, Richmond, VA
+Venue: River Bend Music Center, Cincinnati, OH
+Venue: Saratoga Performing Arts Center, Saratoga Springs, NY
+Venue: Southern Star Amphitheater, Houston, TX
+Venue: Springfield Civic Center, Springfield, MA
+Venue: Starlight Theater, Kansas City, MO
+Venue: Sun Dome, Tampa, FL
+Venue: The Centrum, Worcester, MA
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Sportatorium, Pembroke Pines, FL
+Venue: Unknown, Unknown, CA
+Venue: Various Television Appearances, Various, Various
+Venue: Ventura County Fairgrounds, Ventura, CA
+Venue: Zoo Amphitheater, Oklahoma City, OK

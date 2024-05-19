@@ -1,0 +1,69 @@
+Venue: 710 Ashbury St., San Francisco, CA
+Venue: American Hollywood Studios, Los Angeles, CA
+Venue: American Legion Hall, South Shore, Lake Tahoe, CA
+Venue: American Studios, North Hollywood, CA
+Venue: Aoxomoxoa Outtakes, American Studios, Hollywood, CA
+Venue: Avalon Ballroom, San Francisco, CA
+Venue: Awalt High School, Mountain View, CA
+Venue: Banana Grove Ambassador Hotel, Los Angeles, CA
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Bootleg CD, Various, Various
+Venue: Cafe au Go-Go, New York, NY
+Venue: Central Park, New York, NY
+Venue: Chelsea Hotel Roof, New York, NY
+Venue: City Park, Denver, CO
+Venue: Continental Ballroom, Santa Clara, CA
+Venue: Dance Hall, Rio Nido, CA
+Venue: Eagle's Auditorium, Seattle, WA
+Venue: Earl Warren Showgrounds, Santa Barbara, CA
+Venue: El Camino Park, Palo Alto, CA
+Venue: Expo 67, Montreal, QC
+Venue: Family Dog, Denver, CO
+Venue: Fillmore Auditorium, San Francisco, CA
+Venue: Freeborn Hall, U. of California., Davis, CA
+Venue: Fugazi Hall, San Francisco, CA
+Venue: Golden Gardens Beach, Seattle, WA
+Venue: Grande Ballroom, Detroit, MI
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Gym, S.U.N.Y., Stony Brook, NY
+Venue: Hollywood Bowl, Hollywood, CA
+Venue: Kaleidoscope, Hollywood, CA
+Venue: King's Beach Bowl, Lake Tahoe, CA
+Venue: KMPX Radio Show, San Francisco, CA
+Venue: KPIX-TV Studios, San Francisco, CA
+Venue: Lindley Meadows, Golden Gate Pk., San Francisco, CA
+Venue: Live at the Matrix, San Francisco, CA
+Venue: Longshoreman's Hall, San Francisco, CA
+Venue: Marigold Ballroom, Fresno, CA
+Venue: Masonic Temple, Portland, OR
+Venue: Monterey County Fairgrounds, Monterey, CA
+Venue: Mosaic, VCD, Various
+Venue: Napa County Fairgrounds, Vallejo, CA
+Venue: Oakland Auditorium Arena, Oakland, CA
+Venue: O'Keefe Center, Toronto, ON
+Venue: Palm Gardens, New York, NY
+Venue: Panhandle, Golden Gate Park, San Francisco, CA
+Venue: Place Ville Marie, Montreal, QC
+Venue: P.N.E. Agradome, Vancouver, BC
+Venue: Polo Field, Golden Gate Park, San Francisco, CA
+Venue: Psychedelic Supermarket, Boston, MA
+Venue: R.C.A. Studio A, Los Angeles, CA
+Venue: Shrine Auditorium- but not this date, Los Angeles, CA
+Venue: Shrine Auditorium, Los Angeles, CA
+Venue: Speedway Meadows G. Gate Park, San Francisco, CA
+Venue: Stockton Ballroom, Stockton, CA
+Venue: Straight Theater, San Francisco, CA
+Venue: Studio, San Francisco, CA
+Venue: Studio Sessions for Anthem of the Sun, Unknown, CA
+Venue: The Cheetah, New York, NY
+Venue: The Cheetah, Santa Monica, CA
+Venue: The Rock Garden, San Francisco, CA
+Venue: Tompkins Square Park, New York, NY
+Venue: Unknown Location, San Francisco, CA
+Venue: unknown, unknown, unknown
+Venue: Unknown, Unknown, Unknown
+Venue: Village Theater, New York, NY
+Venue: Volunteer Park, Seattle, WA
+Venue: West Park, Ann Arbor, MI
+Venue: Whiskey-A-Go-Go, San Francisco, CA
+Venue: Winterland Arena, San Francisco, CA

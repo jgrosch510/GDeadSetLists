@@ -1,0 +1,62 @@
+Venue: Albuquerque Civic Auditorium, Albuquerque, NM
+Venue: Allegheny College, Meadville, PA
+Venue: Allen Theatre, Cleveland, OH
+Venue: Atlanta Municipal Auditorium, Atlanta, GA
+Venue: Auditorium Theatre, Chicago, IL
+Venue: Austin Municipal Auditorium, Austin, TX
+Venue: Bangor Municipal Auditorium, Bangor, ME
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Camp Randall Field House, University of Wisconsin, Madison, WI
+Venue: Camp Randall Field House, U of Wisconsin, Madison, WI
+Venue: Capitol Theater, Port Chester, NY
+Venue: Capitol Theatre, Port Chester, NY
+Venue: Catholic Youth Center, Scranton, PA
+Venue: Chateau D'Herouville, Herouville, France
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Cow Palace, Daly City, CA
+Venue: Davis Gymnasium, Lewisburg, PA
+Venue: Dillon Gym, Princeton University, Princeton, NJ
+Venue: East Hall, Franklin & Marshall College, Lancaster, PA
+Venue: Eastown Theater, Detroit, MI
+Venue: Exposition Center, Milwaukee, WI
+Venue: Felt Forum, Madison Square Garden, New York, NY
+Venue: Fillmore East, New York, NY
+Venue: Fillmore West, San Francisco, CA
+Venue: Fox Theatre, St. Louis, MO
+Venue: Freeborn Hall, University of California, Davis, CA
+Venue: Gaelic Park, Bronx, NY
+Venue: Golden Hall Community Concourse, San Diego, CA
+Venue: Harding Theater, San Francisco, CA
+Venue: Hill Auditorium, Ann Arbor, MI
+Venue: Hollywood Palladium, Hollywood, CA
+Venue: Jenison Field House, Mi. State U., Lansing, MI
+Venue: Keith rehearsals, Santa Venetia, CA
+Venue: Lane Community College, Eugene, OR
+Venue: Lusk Field House, S.U.C.N.Y, Cortland, NY
+Venue: Manhattan Center, New York, NY
+Venue: Masons Children Bootleg, Unknown, Unknown
+Venue: Mickey's Barn, Novato, CA
+Venue: Music Hall, Boston, MA
+Venue: Northrop Auditorium, U. of Minn., Minneapolis, MN
+Venue: Ohio Theatre, Columbus, OH
+Venue: Onondaga County War Memorial, Syracuse, NY
+Venue: Pauley Pavilion, UCLA, Los Angeles, CA
+Venue: Pointless 1971 Compilation, Compilation, Compilation
+Venue: Rhode Island Auditorium, Providence, RI
+Venue: San Antonio Civic Auditorium, San Antonio, TX
+Venue: Seattle Center Arena, Seattle, WA
+Venue: Studio Rehearsals with Keith Godchaux, Santa Venetia, CA
+Venue: Studio, Santa Venetia, CA
+Venue: Taft Auditorium, Cincinnati, OH
+Venue: Terminal Island Correctional Fac., San Pedro, CA
+Venue: Texas Christian University, Fort Worth, TX
+Venue: The Palestra, U. of Rochester, Rochester, NY
+Venue: The Syndrome, Chicago, IL
+Venue: U. Centre Ballroom, N. Il. U., De Kalb, IL
+Venue: University of Iowa, Iowa City, IA
+Venue: Unknown, Unknown, Unknown
+Venue: Unsurpassed Vol. 4, Various, Various
+Venue: Unsurpassed Volume 5, Santa Venetia, CA
+Venue: Wallace Wade Stadium, Duke University, Durham, NC
+Venue: Winterland Arena, San Francisco, CA
+Venue: Yale Bowl, Yale University, New Haven, CT

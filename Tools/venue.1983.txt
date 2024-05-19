@@ -1,0 +1,47 @@
+Venue: Aladdin Theater, Las Vegas, NV
+Venue: Alfond Arena, U of Maine, Orono, ME
+Venue: Boise State University Pavillion, Boise, ID
+Venue: Broome County Arena, Binghamton, NY
+Venue: Carrier Dome, Syracuse U, Syracuse, NY
+Venue: City Island, Harrisburg, PA
+Venue: Civic Auditorium, San Francisco, CA
+Venue: Club Front - Rehearsals, San Rafael, CA
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Compton Terrace Amphitheatre, Tempe, AZ
+Venue: Cumberland County Civic Center, Portland, ME
+Venue: Dan Akroyd's Bar, New York, NY
+Venue: Dane County Coliseum, Madison, WI
+Venue: Frost Amphitheatre, Palo Alto, CA
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Greensboro Coliseum, Greensboro, NC
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Irvine Meadows, Irvine, CA
+Venue: Madison Square Garden, New York, NY
+Venue: Manor Downs, Austin, TX
+Venue: Marin County Veterans Auditorium, San Rafael, CA
+Venue: Meadowlands Arena, East Rutherford, NJ
+Venue: Merriweather Post Pavilion, Columbia, MD
+Venue: Nevada County Fairgrounds, Grass Valley, CA
+Venue: Olympic Center, Lake Placid, NY
+Venue: Park West Ski Resort, Park City, UT
+Venue: Patrick Gymnasium, U of Vermont, Burlington, VT
+Venue: Poplar Creek Music Theatre, Hoffman Estates, IL
+Venue: Portland Memorial Coliseum, Portland, OR
+Venue: Providence Civic Center, Providence, RI
+Venue: Red Rocks Amphitheatre, Morrison, CO
+Venue: Richmond Coliseum, Richmond, VA
+Venue: San Francisco Civic Auditorium, San Francisco, CA
+Venue: Santa Cruz County Fairgrounds, Watsonville, CA
+Venue: Santa Fe Downs, Santa Fe, NM
+Venue: Saratoga Performing Arts Center, Saratoga Springs, NY
+Venue: Seattle Center Coliseum, Seattle, WA
+Venue: Silva Hall, Hult Center, Eugene, OR
+Venue: Stone House Studio, Novato, CA
+Venue: St. Paul Civic Center, St. Paul, MN
+Venue: The Centrum, Worcester, MA
+Venue: The Spectrum, Philadelphia, PA
+Venue: Ventura County Fairgrounds, Ventura, CA
+Venue: Veterans' Memorial Coliseum, New Haven, CT
+Venue: Warfield Theater, San Francisco, CA
+Venue: West Virginia University Coliseum, Morgantown, WV

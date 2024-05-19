@@ -1,0 +1,28 @@
+Venue: Boston Garden, Boston, MA
+Venue: Buckeye Lake Music Center, Hebron, OH
+Venue: Cal Expo, Sacramento, CA
+Venue: Capital Centre, Landover, MD
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: Compilation, Compilation, Compilation
+Venue: Deer Creek Music Center, Noblesville, IN
+Venue: Giants Stadium, East Rutherford, NJ
+Venue: Greensboro Coliseum, Greensboro, NC
+Venue: Knickerbocker Arena, Albany, NY
+Venue: Los Angeles Coliseum, Los Angeles, CA
+Venue: Madison Square Garden, New York, NY
+Venue: Mile High Stadium, Denver, CO
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Orlando Arena, Orlando, FL
+Venue: Pine Knob Music Theater, Clarkston, MI
+Venue: Polo Field, Golden Gate Park, San Francisco, CA
+Venue: Richfield Coliseum, Richfield, OH
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Sam Boyd Silver Bowl, Las Vegas, NV
+Venue: Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV
+Venue: Sandstone Ampitheatre, Bonner Springs, KS
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Soldier Field, Chicago, IL
+Venue: The Omni, Atlanta, GA
+Venue: Unknown, Unknown, Unknown

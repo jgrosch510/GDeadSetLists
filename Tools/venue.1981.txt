@@ -1,0 +1,63 @@
+Venue: Aladdin Theater, Las Vegas, NV
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Assembly Hall, Champaign, IL
+Venue: Athletic Center - Rutgers University, Piscataway, NJ
+Venue: Barton Hall, Cornell U, Ithaca, NY
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Boston Garden, Boston, MA
+Venue: Capital Centre, Landover, MD
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Cleveland Music Hall, Cleveland, OH
+Venue: Club Melk Weg, Amsterdam, Netherlands
+Venue: Cole Field House - University of Maryland, College Park, MD
+Venue: Community War Memorial Auditorium, Buffalo, NY
+Venue: Compton Terrace Amphitheatre, Tempe, AZ
+Venue: Dane County Coliseum, Madison, WI
+Venue: Des Moines Civic Center, Des Moines, IA
+Venue: Events Center, U of Colorado, Boulder, CO
+Venue: Fiesta Hall, San Mateo County Fairgrounds, San Mateo, CA
+Venue: Forum Theater, Copenhagen, Denmark
+Venue: Glens Falls Civic Center, Glens Falls, NY
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Greensboro Coliseum, Greensboro, NC
+Venue: Grugahalle, Essen, Germany
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Hara Arena, Dayton, OH
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Kansas City Municipal Auditorium Arena, Kansas City, MO
+Venue: Kiel Auditorium, St. Louis, MO
+Venue: Long Beach Arena, Long Beach, CA
+Venue: Madison Square Garden, New York, NY
+Venue: Manor Downs, Austin, TX
+Venue: Market Square Arena, Indianapolis, IN
+Venue: McArthur Court, U of Oregon, Eugene, OR
+Venue: McNichols Sports Arena, Denver, CO
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY
+Venue: NBC Studios, New York, NY
+Venue: Oakland Auditorium Arena, Oakland, CA
+Venue: Olympia Halle, Munich, Germany
+Venue: Onondaga County War Memorial, Syracuse, NY
+Venue: Playhouse Theater, Edinburgh, Scotland
+Venue: Portland Memorial Coliseum, Portland, OR
+Venue: Providence Civic Center, Providence, RI
+Venue: Rainbow Theater, London, England
+Venue: Rainbow Theatre, London, England
+Venue: Rosemont Horizon, Rosemont, IL
+Venue: Salt Palace, Salt Lake City, UT
+Venue: Seattle Center Coliseum, Seattle, WA
+Venue: Sports Palace, Barcelona, Spain
+Venue: Stabler Arena, Lehigh U, Bethlehem, PA
+Venue: Stadthalle, Bremen, Germany
+Venue: Stanley Theater, Pittsburgh, PA
+Venue: St. Paul Civic Center, St. Paul, MN
+Venue: The Hippodrome, Paris, France
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Summit, Houston, TX
+Venue: Unknown, Various, CA
+Venue: Uptown Theater, Chicago, IL
+Venue: Utica Memorial Auditorium, Utica, NY
+Venue: Veterans' Memorial Coliseum, New Haven, CT
+Venue: Walter Koebel Halle, Russelsheim, Germany
+Venue: Warfield Theater, San Francisco, CA
+Venue: Zoo Amphitheater, Oklahoma City, OK

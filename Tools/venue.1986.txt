@@ -1,0 +1,19 @@
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Cal Expo Amphitheatre, Sacramento, CA
+Venue: Cal Expo, Sacramento, CA
+Venue: Cumberland County Civic Center, Portland, ME
+Venue: Frost Amphitheatre, Palo Alto, CA
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Henry J. Kaiser Convention Center, Oakland, CA
+Venue: Hubert H. Humphrey Metrodome, Minneapolis, MN
+Venue: Irvine Meadows, Irvine, CA
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Providence Civic Center, Providence, RI
+Venue: Rich Stadium, Buffalo, NY
+Venue: River Bend Music Center, Cincinnati, OH
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Rubber Bowl, University of Akron, Akron, OH
+Venue: The Spectrum, Philadelphia, PA

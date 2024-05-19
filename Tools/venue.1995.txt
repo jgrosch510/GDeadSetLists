@@ -1,0 +1,26 @@
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: Deer Creek Music Center, Noblesville, IN
+Venue: Delta Center, Salt Lake City, UT
+Venue: Franklin County Airport, Highgate, VT
+Venue: Franklyn County Airport, Highgate, VT
+Venue: Giants Stadium, East Rutherford, NJ
+Venue: Jefferson Civic Center Coliseum, Birmingham, AL
+Venue: Knickerbocker Arena, Albany, NY
+Venue: Memorial Stadium, Seattle, WA
+Venue: News Footage, Various, Various
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Portland Meadows, Portland, OR
+Venue: Pyramid Arena, Memphis, TN
+Venue: Riverport Amphitheatre, Maryland Heights, MO
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Soldier Field, Chicago, IL
+Venue: Studio - Earthquake Country sessions, Unknown, CA
+Venue: Studio, Unknown, Unknown
+Venue: Tampa Stadium, Tampa, FL
+Venue: The Omni, Atlanta, GA
+Venue: The Palace, Auburn Hills, MI
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Spectrum (soundcheck), Philadelphia, PA
+Venue: Three Rivers Stadium, Pittsburgh, PA

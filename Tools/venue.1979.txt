@@ -1,0 +1,49 @@
+Venue: Allan Kirby Field House, Lafayette College, Easton, PA
+Venue: Alumni Stadium, University of Massachusetts, Amherst, MA
+Venue: Augusta Civic Center, Augusta, ME
+Venue: Baltimore Civic Center, Baltimore, MD
+Venue: Billerica Forum, Billerica, MA
+Venue: Broome County Arena, Binghamton, NY
+Venue: Cape Cod Coliseum, South Yarmouth, MA
+Venue: Capital Centre, Landover, MD
+Venue: Charlotte Coliseum, Charlotte, NC
+Venue: Cleveland Public Hall, Cleveland, OH
+Venue: Community War Memorial Auditorium, Buffalo, NY
+Venue: Crisler Arena, Ann Arbor, MI
+Venue: Cumberland County Civic Center, Portland, ME
+Venue: Dane County Coliseum, Madison, WI
+Venue: Glens Falls Civic Center, Glens Falls, NY
+Venue: Golden Hall, Community Concourse, San Diego, CA
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Holleder Memorial Stadium, Rochester, NY
+Venue: Indiana Convention Center, Indianapolis, IN
+Venue: Kiel Auditorium, St. Louis, MO
+Venue: Madison Square Garden, New York, NY
+Venue: Market Square Arena, Indianapolis, IN
+Venue: Masonic Temple, Detroit, MI
+Venue: McNichols Sports Arena, Denver, CO
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Oakland Auditorium Arena, Oakland, CA
+Venue: Pauley Pavilion, UCLA, Los Angeles, CA
+Venue: Portland International Speedway, Portland, OR
+Venue: Providence Civic Center, Providence, RI
+Venue: Rec Hall, Penn State U, State College, PA
+Venue: Red Rocks Ampitheatre, Morrison, CO
+Venue: Sacramento Memorial Auditorium, Sacramento, CA
+Venue: Seattle Center Coliseum, Seattle, WA
+Venue: Shea's Buffalo Theater, Buffalo, NY
+Venue: SIU Arena, U of Southern Illinois, Carbondale, IL
+Venue: Soldiers' and Sailors' Memorial Hall, Kansas City, KS
+Venue: Spartan Stadium, San Jose State U, San Jose, CA
+Venue: Springfield Civic Center, Springfield, MA
+Venue: Stanley Theater, Pittsburgh, PA
+Venue: studio (Go To Heaven Outtakes), San Rafael?, CA
+Venue: Studio Rehersal, Club Front, San Rafael, CA
+Venue: The Spectrum, Philadelphia, PA
+Venue: Tulsa Fairgrounds Pavilion, Tulsa, OK
+Venue: Uptown Theater, Chicago, IL
+Venue: Utica Memorial Coliseum, Utica, NY
+Venue: Various, Various, Various
+Venue: Veterans' Memorial Coliseum, New Haven, CT

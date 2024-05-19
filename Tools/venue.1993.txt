@@ -1,0 +1,31 @@
+Venue: Autzen Stadium, University of Oregon, Eugene, OR
+Venue: Boston Garden, Boston, MA
+Venue: Buckeye Lake Music Center, Hebron, OH
+Venue: Cal Expo, Sacramento, CA
+Venue: Candlestick Park, San Francisco, CA
+Venue: Capital Centre, Landover, MD
+Venue: Club Front, San Rafael, CA
+Venue: Club Front Studio, Palo Alto, CA
+Venue: Dean Smith Center, Chapel Hill, NC
+Venue: Deer Creek Music Center, Noblesville, IN
+Venue: Freedom Hall, Louisville, KY
+Venue: Giants Stadium, East Rutherford, NJ
+Venue: Knickerbocker Arena, Albany, NY
+Venue: Madison Square Garden, New York, NY
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Oakland Coliseum Arena, Oakland, CA
+Venue: Richfield Coliseum, Richfield, OH
+Venue: Rich Stadium, Orchard Park, NY
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Rosemont Horizon, Rosemont, IL
+Venue: Sam Boyd Silver Bowl, U.N.L.V., Las Vegas, NV
+Venue: San Diego Sports Arena, San Diego, CA
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Soldier Field, Chicago, IL
+Venue: Sports Arena, Los Angeles, CA
+Venue: Studio - So Many Roads Outtakes, San Francisco, CA
+Venue: The Omni, Atlanta, GA
+Venue: The Palace, Auburn Hills, MI
+Venue: The Spectrum, Philadelphia, PA
+Venue: VH1 Truckin' With The Dead, Various, Various

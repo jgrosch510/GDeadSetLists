@@ -1,0 +1,36 @@
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Autzen Stadium, U. of Oregon, Eugene, OR
+Venue: Bayfront Center Arena, St. Petersburg, FL
+Venue: Bayfront Center, St. Petersburg, FL
+Venue: Buckeye Lake Music Center, Hebron, OH
+Venue: Capital Centre, Landover, MD
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Civic Auditorium, San Francisco, CA
+Venue: Frost Amphitheatre, Palo Alto, CA
+Venue: Greek Theatre, U. Of California, Berkeley, CA
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Henry J. Kaiser Convention Center, Oakland, CA
+Venue: Irvine Meadows, Irvine, CA
+Venue: Joe Louis Arena, Detroit, MI
+Venue: Keifer Lakefront Arena, New Orleans, LA
+Venue: Laguna Seca Recreation Area, Monterey, CA
+Venue: Long Beach Arena, Long Beach, CA
+Venue: Madison Square Garden, New York, NY
+Venue: Meadowlands Arena, East Rutherford, NJ
+Venue: Metropolitan Sports Center, Bloomington, MN
+Venue: Miami Arena, Miami, FL
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Oxford Plains Speedway, Oxford, ME
+Venue: Reunion Arena, Dallas, TX
+Venue: Rosemont Horizon, Rosemont, IL
+Venue: Saratoga Performing Arts Center, Saratoga Springs, NY
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Silver Stadium, Rochester, NY
+Venue: Tacoma Dome, Tacoma, WA
+Venue: The Centrum, Worcester, MA
+Venue: The Inn by the Sea Tape, Unknown, Unknown
+Venue: The Omni, Atlanta, GA
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Summit, Houston, TX
+Venue: Unknown Studio (possibly Club Front), Unknown, Unknown

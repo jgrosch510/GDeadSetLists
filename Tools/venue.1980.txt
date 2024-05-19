@@ -1,0 +1,55 @@
+Venue: Alligator Alley Gymnasium, U of Florida, Gainesville, FL
+Venue: Alpine Valley Music Theatre, East Troy, WI
+Venue: Baltimore Civic Center, Baltimore, MD
+Venue: Barton Hall, Ithaca, NY
+Venue: Boston Garden, Boston, MA
+Venue: Boutwell Auditorium, Birmingham, AL
+Venue: Capital Centre, Landover, MD
+Venue: Capitol Theater, Passaic, NJ
+Venue: Cleveland Public Hall, Cleveland, OH
+Venue: Club Front, San Rafael, CA
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Compton Terrace Amphitheatre, Tempe, AZ
+Venue: Cumberland County Civic Center, Portland, ME
+Venue: Des Moines Civic Center, Des Moines, IA
+Venue: Folsom Field, U. of Colorado, Boulder, CO
+Venue: Fox Theater, Atlanta, GA
+Venue: Glens Falls Civic Center, Glens Falls, NY
+Venue: Grand Center, Grand Rapids, MI
+Venue: Greensboro Coliseum, Greensboro, NC
+Venue: Hampton Coliseum, Hampton, VA
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Kansas City Municipal Auditorium Arena, Kansas City, MO
+Venue: Lakeland Civic Center, Lakeland, FL
+Venue: Long Beach Arena, Long Beach, CA
+Venue: Metropolitan Sports Center, Bloomington, MN
+Venue: Mill Valley Recreation Center, Mill Valley, CA
+Venue: Milwaukee Auditorium, Milwaukee, WI
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: NBC Studios, New York, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Oakland Auditorium Arena, Oakland, CA
+Venue: Pauley Pavilion, UCLA, Los Angeles, CA
+Venue: Pine Knob Music Theater, Clarkston, MI
+Venue: Portland Memorial Coliseum, Portland, OR
+Venue: Providence Civic Center, Providence, RI
+Venue: Radio City Music Hall, New York, NY
+Venue: Rambler Room-Loyola University, Chicago, IL
+Venue: Rec Hall, Penn State U, State College, PA
+Venue: Saenger Performing Arts Center, New Orleans, LA
+Venue: San Diego Sports Arena, San Diego, CA
+Venue: Seattle Center Arena, Seattle, WA
+Venue: Southern Illinois University, Edwardsville, IL
+Venue: Spokane Coliseum, Spokane, WA
+Venue: Springfield Civic Center, Springfield, MA
+Venue: State Fairgrounds, Lewiston, ME
+Venue: Swing Auditorium, San Bernardino, CA
+Venue: "The Dead Non-Stop", Unknown, Unknown
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Sportatorium, Pembroke Pines, FL
+Venue: Unknown, Unknown, Unknown
+Venue: Uptown Theater, Chicago, IL
+Venue: Various, Various, PA
+Venue: Warfield Theater, San Francisco, CA
+Venue: West High Auditorium, Anchorage, AK
+Venue: WNEW Studios, New York, NY

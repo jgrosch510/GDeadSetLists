@@ -1,0 +1,25 @@
+Venue: Auditorium Theatre, Chicago, IL
+Venue: Beacon Theatre, New York, NY
+Venue: Cameron Indoor Stadium, Duke U, Durham, NC
+Venue: Capital Centre, Landover, MD
+Venue: Capitol Theater, Passaic, NJ
+Venue: Club Le Front, San Rafael, CA
+Venue: Cobo Arena, Detroit, MI
+Venue: Colt Park, Hartford, CT
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Cow Palace, Daly City, CA
+Venue: Le Club Front Studios, San Rafael, Ca
+Venue: Market Square Arena, Indianapolis, IN
+Venue: Mershon Auditorium, OSU, Columbus, OH
+Venue: Music Hall, Boston, MA
+Venue: Oakland-Alameda County Stadium, Oakland, CA
+Venue: Onongada County War Memorial, Syracuse, NY
+Venue: Orpheum Theatre, San Francisco, CA
+Venue: Paramount Theatre, Portland, OR
+Venue: Riverfront Arena, Cincinnati, OH
+Venue: Roosevelt Stadium, Jersey City, NJ
+Venue: Shrine Auditorium, Los Angeles, CA
+Venue: Studio Reheasal, Novato, CA
+Venue: Studio, Unknown, Unknown
+Venue: The Tower Theatre, Upper Darby, PA
+Venue: William and Mary College Hall, Williamsburg, VA

@@ -1,0 +1,56 @@
+Venue: Academy of Music, New York, NY
+Venue: Academy Of Music, New York, NY
+Venue: Alumni Lawn, Vanderbilt University, Nashville, TN
+Venue: American University, Washington, DC
+Venue: Austin Municipal Auditorium, Austin, TX
+Venue: Baltimore Civic Center, Baltimore, MD
+Venue: BBC Interview of Bob Weir, London, England
+Venue: Beat Club, Bremen, Germany
+Venue: Berkeley Community Theater, Berkeley, CA
+Venue: Bickershaw Festival, Wigan, England
+Venue: Century II Convention Hall, Wichita, KS
+Venue: Cincinnati Music Hall, Cincinnati, OH
+Venue: Civic Center Music Hall, Oklahoma City, OK
+Venue: Cleveland Public Hall, Cleveland, OH
+Venue: Compilation- Old World Shuffle, various, Europe
+Venue: Concertgebouw, Amsterdam, Netherlands
+Venue: Dallas Memorial Auditorium, Dallas, TX
+Venue: Dillon Stadium, Hartford, CT
+Venue: Folsom Field, U of Colorado, Boulder, CO
+Venue: Ford Auditorium, Detroit, MI
+Venue: Fox Theatre, St. Louis, MO
+Venue: Hofheinz Pavilion, Houston, TX
+Venue: Hollywood Bowl, Hollywood, CA
+Venue: Hollywood Palladium, Hollywood, CA
+Venue: Jahrhundert Halle, Frankfurt, Germany
+Venue: Kongressaal Deutsches Museum, München, Germany
+Venue: Lille Fairgrounds, Lille, France
+Venue: Long Beach Arena, Long Beach, CA
+Venue: Milwaukee Performing Arts Center, Milwaukee, WI
+Venue: Music Hall, Boston, MA
+Venue: Musikhalle, Hamburg, Germany
+Venue: Newcastle City Hall, Newcastle, England
+Venue: Old Renaissance Faire Grounds, Veneta, OR
+Venue: Olympia Theater, Paris, France
+Venue: Palace Theater, Waterbury, CT
+Venue: Paramount Northwest Theater, Seattle, WA
+Venue: Paramount Theater, Portland, OR
+Venue: Rheinhalle, Düsseldorf, Germany
+Venue: Roosevelt Stadium, Jersey City, NJ
+Venue: Rotterdam Civic Hall, Rotterdam, Netherlands
+Venue: Sacramento Memorial Auditorium, Sacramento, CA
+Venue: San Antonio Civic Auditorium, San Antonio, TX
+Venue: San Jose Civic Auditorium, San Jose, CA
+Venue: Soldiers and Sailors Memorial Hall, Kansas City, KS
+Venue: Soldiers' and Sailors' Memorial Hall, Kansas City, KS
+Venue: Springfield Civic Center, Springfield, MA
+Venue: Stakladen, Aarhus University, Aarhus, Denmark
+Venue: Stanley Theatre, Jersey City, NJ
+Venue: Theatre Hall, Luxembourg, Luxembourg
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Strand Lyceum, London, England
+Venue: Tivoli Concert Hall, Copenhagen, Denmark
+Venue: Tivoli Theater, Copenhagen, Denmark
+Venue: Veterans' Memorial Hall, Columbus, OH
+Venue: Wembley Empire Pool, London, England
+Venue: Winterland Arena, San Francisco, CA

@@ -1,0 +1,84 @@
+Venue: 2400 Fulton Street, San Francisco, Ca
+Venue: Aoxomoxoa Live, Compilation, Various
+Venue: Aoxomoxoa Original Mix, San Mateo, Ca
+Venue: Aoxomoxoa Outtakes, San Mateo, Ca
+Venue: Aqua Theater, Seattle, Wa
+Venue: Aquatheatre, Seattle, Wa
+Venue: Avalon Ballroom, San Francisco, Ca
+Venue: Aztec Bowl, San Diego State U., San Diego, Ca
+Venue: Ballroom, U. Of Co., Boulder, Co
+Venue: Baton Rouge Int. Speedway, Prairieville, La
+Venue: Boston Tea Party, Boston, Ma
+Venue: Cafe Au Go-Go, New York, Ny
+Venue: Cal Expo, Building A, Sacramento, Ca
+Venue: California Hall, San Francisco, Ca
+Venue: Campolindo High School, Moraga, Ca
+Venue: Central Park, New York, Ny
+Venue: Civic Auditorium?, Santa Barbara, Ca
+Venue: Clark University, Worcester, Ma
+Venue: Dream Bowl, Vallejo, Ca
+Venue: Electric Factory, Philadelphia, Pa
+Venue: Electric Theater, Chicago, Il
+Venue: Family Dog At The Great Highway, San Francisco, Ca
+Venue: Fillmore Auditorium, San Francisco, Ca
+Venue: Fillmore East (Early), New York, Ny
+Venue: Fillmore East (Early Show), New York, Ny
+Venue: Fillmore East (Late), New York, Ny
+Venue: Fillmore East (Late Show), New York, Ny
+Venue: Fillmore East, New York, Ny
+Venue: Fillmore West, San Francisco, Ca
+Venue: Fresno Convention Center, Fresno, Ca
+Venue: Guthrie Theatre, Minneapolis, Mn
+Venue: Hall Of Flowers, County Fairgrounds, San Mateo, Ca
+Venue: Hilton Hotel, San Francisco, Ca
+Venue: Home Recordings, San Francisco, Ca
+Venue: Ice Palace, Las Vegas, Nv
+Venue: International Speedway, Hollywood, Fl
+Venue: Kiel Auditorium, St. Louis, Mo
+Venue: Labor Temple, Minneapolis, Mn
+Venue: Lanai Theater, Crockett, Ca
+Venue: Longshoreman's Hall, San Francisco, Ca
+Venue: Max Yasgur's Farm, Bethel, Ny
+Venue: Mcarthur Court, University Of Oregon, Eugene, Or
+Venue: Mcfarlin Auditorium, Southern Methodist Univ., Dallas, Tx
+Venue: Memorial Union Ballroom, Purdue U., Lafayette, In
+Venue: Monterey Performing Arts Center, Monterey, Ca
+Venue: Ny State Pavilion, Flushing Meadows Park, Queens, Ny
+Venue: Pacific High Recording, San Mateo, Ca
+Venue: Pacific Recording Studios, San Mateo, Ca
+Venue: Paradise Valley Resort, Squamish, B.C., Ca
+Venue: Pelletier Farm, St. Helens, Or
+Venue: Peninsula College Monterey, Ca, Monterey, Ca
+Venue: Piedmont Park, Atlanta, Ga
+Venue: Playboy After Dark, Los Angeles, Ca
+Venue: Playboy Club, West Hollywood, Ca
+Venue: Polo Field, Golden Gate Park, San Francisco, Ca
+Venue: Reed's Ranch, Colorado Springs, Co
+Venue: Robertson Gym, U.C.S.B., Santa Barbara, Ca
+Venue: Rock Pile, Toronto, On
+Venue: Rose Palace, Pasadena, Ca
+Venue: San Francisco,Ca, San Francisco, Ca
+Venue: San Jose State University, San Jose, Ca
+Venue: Seminole Indian Village, Hollywood, Fl
+Venue: Sierra College, Rocklin, Ca
+Venue: Soldiers & Sailors Memorial Auditorium, Kansas City, Ks
+Venue: Springer's Inn, Portland, Or
+Venue: Stanley Theater (Early, Late), Pittsburgh, Pa
+Venue: Student Center, Modesto Jr. College, Modesto, Ca
+Venue: Student Union Ballroom, University Of Utah, Salt Lake City, Ut
+Venue: Swing Auditorium, San Bernardino, Ca
+Venue: The Ark, Boston, Ma
+Venue: The Barn, Rio Nido, Ca
+Venue: The Family Dog At The Great Highway (?), San Francisco, Ca
+Venue: The Kinetic Playground, Chicago, Il
+Venue: Thelma Theater, Los Angeles, Ca
+Venue: The Matrix, San Francisco, Ca
+Venue: The Music Box, Omaha, Ne
+Venue: University Auditorium, U. Arizona, Tucson, Az
+Venue: Unknown Location, Merced, Ca
+Venue: Unknown Location, San Jose, Ca
+Venue: Unknown Location, Unknown City, Ca
+Venue: Veterans Auditorium, Santa Rosa, Ca
+Venue: Washington University, St. Louis, Mo
+Venue: Winterland Arena, San Francisco, Ca
+Venue: Winterland, San Francisco, Ca

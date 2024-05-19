@@ -1,0 +1,37 @@
+Venue: Autzen Stadium - University of Oregon, Eugene, OR
+Venue: Autzen Stadium, U. of Oregon, Eugene, OR
+Venue: Best of Brent Spring 1990, Various, Various
+Venue: Cal Expo, Sacramento, CA
+Venue: Cal State Dominguez Hills, Carson, CA
+Venue: Capital Centre, Landover, MD
+Venue: Cardinal Stadium, Louisville, KY
+Venue: Carter-Finley Stadium, Raleigh, NC
+Venue: Compilation, Compilation, various
+Venue: Compton Terrace Amphitheatre, Chandler, AZ
+Venue: Compton Terrace, Chandler, AZ
+Venue: Copps Coliseum, Hamilton, ON
+Venue: Deer Creek Music Center, Noblesville, IN
+Venue: Festhalle, Frankfurt, Germany
+Venue: Foxboro Stadium, Foxboro, MA
+Venue: Front Street, San Francisco, CA
+Venue: Gruga Halle, Essen, Germany
+Venue: Hartford Civic Center, Hartford, CT
+Venue: Ice Stadium, Stockholm, Sweden
+Venue: Internationales Congress Centrum, Berlin, Germany
+Venue: Knickerbocker Arena, Albany, NY
+Venue: Madison Square Garden, New York, NY
+Venue: McNichols Sports Arena, Denver, CO
+Venue: Nassau Coliseum, Uniondale, NY
+Venue: Oakland-Alameda County Coliseum, Oakland, CA
+Venue: Richfield Coliseum, Richfield, OH
+Venue: Rich Stadium, Orchard Park, NY
+Venue: Robert F. Kennedy Stadium, Washington, DC
+Venue: Sandstone Ampitheatre, Bonner Springs, KS
+Venue: Shoreline Amphitheatre, Mountain View, CA
+Venue: Sportsahalle, Hamburg, Germany
+Venue: The Omni, Atlanta, GA
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Zenith, Paris, France
+Venue: Three Rivers Stadium, Pittsburgh, PA
+Venue: Wembley Arena, London, England
+Venue: World Music Theater, Tinley Park, IL

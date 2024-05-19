@@ -1,0 +1,63 @@
+Venue: Arlington Theater, Santa Barbara, CA
+Venue: Arrowhead Stadium, Kansas City, MO
+Venue: Autzen Stadium, U. of Oregon, Eugene, OR
+Venue: Bakersfield Memorial Auditorium, Bakersfield, CA
+Venue: Boutwell Auditorium, Birmingham, AL
+Venue: Cameron Indoor Stadium, Durham, NC
+Venue: Campus Stadium, UC Santa Barbara, Goleta, CA
+Venue: Capital Centre, Landover, MD
+Venue: Capitol Theatre, Passaic, NJ
+Venue: Civic Arena, Pittsburgh, PA
+Venue: Cleveland Music Hall, Cleveland, OH
+Venue: Club Front, San Rafael, CA
+Venue: Coliseum, Virginia Polytechnic U, Blacksburg, VA
+Venue: Community War Memorial Auditorium, Rochester, NY
+Venue: Compilation - 1978 Interviews, Various, Various
+Venue: Curtis Hixon Convention Hall, Tampa, FL
+Venue: Dallas County Convention Center Arena, Dallas, TX
+Venue: Dane County Coliseum, Madison, WI
+Venue: Field House, Rensselaer Polytechnic Institute, Troy, NY
+Venue: Fox Theater, Atlanta, GA
+Venue: Giants Stadium, East Rutherford, NJ
+Venue: Gizah Sound and Light Theater, Cairo, Egypt
+Venue: Giza Sound and Light Theater, Giza, Egypt
+Venue: Golden Hall, Community Concourse, San Diego, CA
+Venue: Horton Field House, Illinois State U., Normal, IL
+Venue: Huntington Civic Center, Huntington, WV
+Venue: Jai-Alai Fronton, Miami, FL
+Venue: McArthur Court, U of Oregon, Eugene, OR
+Venue: Memorial Coliseum, Mississippi State Fairgrounds, Jackson, MS
+Venue: Milwaukee Auditorium, Milwaukee, WI
+Venue: Music Hall, Boston, MA
+Venue: Nashville Municipal Auditorium, Nashville, TN
+Venue: NBC Studios, New York, NY
+Venue: Omaha Civic Auditorium, Omaha, NE
+Venue: Onongada County War Memorial, Syracuse, NY
+Venue: Patrick Gymnasium, U of Vermont, Burlington, VT
+Venue: Pauley Pavilion, UCLA, Los Angeles, CA
+Venue: Providence Civic Center, Providence, RI
+Venue: Rambler Room, Loyola College, Chicago, IL
+Venue: Red Rocks Ampitheatre, Morrison, CO
+Venue: Rupp Arena, Lexington Center, Lexington, KY
+Venue: Sacramento Memorial Auditorium, Sacramento, CA
+Venue: Selland Arena, Fresno, CA
+Venue: Shrine Auditorium, Los Angeles, CA
+Venue: Springfield Civic Center, Springfield, MA
+Venue: Stockton Civic Auditorium, Stockton, CA
+Venue: St. Paul Civic Center, St. Paul, MN
+Venue: Studio (Shakedown Street Rehearsal), Unknown, CA
+Venue: Swing Auditorium, San Bernardino, CA
+Venue: There Were Only Three Shows From, Giza, Egypt
+Venue: The Spectrum, Philadelphia, PA
+Venue: The Sportatorium, Pembroke Pines, FL
+Venue: The Summit, Houston, TX
+Venue: Thompson Arena, Dartmouth College, Hanover, NH
+Venue: Uni Dome, U of Northern Iowa, Cedar Falls, IA
+Venue: Uptown Theater, Chicago, IL
+Venue: Various, Various, Various
+Venue: Veteran's Memorial Coliseum, Jacksonville, FL
+Venue: Veterans' Memorial Coliseum, New Haven, CT
+Venue: Veterans' Memorial Hall, Columbus, OH
+Venue: Veterens' Coliseum, New Haven, CT
+Venue: William and Mary College Hall, Williamsburg, VA
+Venue: Winterland Arena, San Francisco, CA

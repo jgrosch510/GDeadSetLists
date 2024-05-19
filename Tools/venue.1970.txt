@@ -1,0 +1,96 @@
+Venue: 46th Street Rock Palace, Brooklyn, NY
+Venue: Action House, Island Park, NY
+Venue: Alfred College, Alfred, NY
+Venue: Anderson Theater, New York, NY
+Venue: Canadian National Exhibition Hall, Toronto, ON
+Venue: Capitol Theater (Early), Port Chester, NY
+Venue: Capitol Theater (Late), Port Chester, NY
+Venue: Capitol Theater, Port Chester, NY
+Venue: Civic Auditorium, Santa Monica, CA
+Venue: Cleveland Music Hall, Cleveland, OH
+Venue: Club Agora, Columbus, OH
+Venue: Colden Auditorium, Queens College, Queens, NY
+Venue: Diamond Head Crater, Oahu, HI
+Venue: Dupont Gymnasium, MIT, Cambridge, MA
+Venue: Euphoria Ballroom, San Rafael, CA
+Venue: Fairfield University, Fairfield, CT
+Venue: Family Dog at the Great Highway, San Francisco, CA
+Venue: Farrell Hall, Delhi, NY
+Venue: Festival Express Train, Unknown, Canada
+Venue: Field House, U. of Cincinnati, Cincinnati, OH
+Venue: Field House, Wesleyan University, Middletown, CT
+Venue: Fillmore East (early show), New York, NY
+Venue: Fillmore East (Early Show), New York, NY
+Venue: Fillmore East,  Fox Theatre, The Warehouse, various, various
+Venue: Fillmore East (late show), New York, NY
+Venue: Fillmore East  (Late Show), New York, NY
+Venue: Fillmore East (Late Show), New York, NY
+Venue: Fillmore East, New York, NY
+Venue: Fillmore East (show a- Early?), New York, NY
+Venue: Fillmore East (show b- Late?), New York, NY
+Venue: Fillmore West, San Francisco, CA
+Venue: Golden Hall Community Concourse, San Diego, CA
+Venue: Golden Hall, San Diego, CA
+Venue: Gym, SUNY (Early Show), Stony Brook, NY
+Venue: Gym, S.U.N.Y. (early), Stony Brook, NY
+Venue: Gym, SUNY (Late Show), Stony Brook, NY
+Venue: Gym, S.U.N.Y. (late), Stony Brook, NY
+Venue: Harpur College, Binghamton, NY
+Venue: Honolulu Civic Auditorium, Honolulu, HI
+Venue: Irvine Auditorium, Philadelphia, PA
+Venue: Kiel Opera House, St. Louis, MO
+Venue: Kleinhans Music Hall, Buffalo, NY
+Venue: KQED Studios, San Francisco, CA
+Venue: Kresge Plaza, M.I.T., Cambridge, MA
+Venue: Legion Stadium, El Monte, CA
+Venue: Mammoth Gardens, Denver, CO
+Venue: Marion Shea Aud., Paterson State Col., Wayne, NJ
+Venue: McDonough Arena, Georgetown U., Washington, DC
+Venue: McMahon Stadium, Calgary, AB
+Venue: Meramec Community College, Kirkwood, MO
+Venue: Middlesex County Community College, Edison, NJ
+Venue: Newcastle-Under-Lyme, Newcastle, England
+Venue: Oregon State University, Corvallis, OR
+Venue: Pacific High Recording, San Francisco, CA
+Venue: Pacific High Recording Studio, San Francisco, CA
+Venue: Panther Hall, Fort Worth, TX
+Venue: Pasadena Civic Auditorium, Pasadena, CA
+Venue: Pauley Ballroom, U. of California, Berkeley, CA
+Venue: Pepperland, San Rafael, CA
+Venue: Pirates World, Dania, FL
+Venue: Radio, Unknown, Unknown
+Venue: Red Vest, Oahu, HI
+Venue: Sacramento Memorial Auditorium, Sacramento, CA
+Venue: Sam Houston Coliseum, Houston, TX
+Venue: San Antonio Civic Center Arena, San Antonio, TX
+Venue: Santa Rosa Fairgrounds, Santa Rosa, CA
+Venue: Sargent Gym, Boston University, Boston, MA
+Venue: Southern Illinois University, Edwardsville, IL
+Venue: Sports Arena, Atlanta, GA
+Venue: Springer's Inn, Portland, OR
+Venue: Springer's Inn Portland, Portland, OR
+Venue: Star Theatre, Phoenix, AZ
+Venue: Studio sessions for Workingman's Dead, Unknown, CA
+Venue: Studio- Workingman's Dead Outtakes, Unknown, CA
+Venue: Temple University, Philadelphia, PA
+Venue: Terrace Ballroom, Salt Lake City, UT
+Venue: The Auditorium, Austin, TX
+Venue: The Club, Los Angeles, CA
+Venue: The Fabulous Fox Theatre, St. Louis, MO
+Venue: The Matrix, San Francisco, CA
+Venue: The Palestra, U. of Rochester, Rochester, NY
+Venue: The Syndrome, Chicago, IL
+Venue: The Warehouse, New Orleans, LA
+Venue: Trans Continental Pop Festival?, Various, Various
+Venue: Tyrone Guthrie Theatre, Minneapolis, MN
+Venue: Ungano's Night Club, New York, NY
+Venue: University of Rochester, Rochester, NY
+Venue: unknown, Minneapolis, MN
+Venue: Washington University, St. Louis, MO
+Venue: WBCN-FM Studios, Boston, MA
+Venue: Winnipeg Fairgrounds, Winnipeg, MB
+Venue: Winterland Arena (aftershow), San Francisco, CA
+Venue: Winterland Arena, San Francisco, CA
+Venue: Winterland, San Francisco, CA
+Venue: Worcester Polytechnic Institute, Worcester, MA
+Venue: York Farm, Poynette, WI
