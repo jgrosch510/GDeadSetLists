@@ -82,3 +82,7 @@
 --==> json formating
   cat <filename>.json | python -m json.tool > AAAA
   mv AAAA <filename>.json
+
+--==> Remove non-ascii charaters
+  cat <filename>  | iconv -f utf-8 -t ascii//translit > AAAA
+  mv AAAA <filename>
