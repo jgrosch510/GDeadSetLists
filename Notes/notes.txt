@@ -86,3 +86,21 @@
 --==> Remove non-ascii charaters
   cat <filename>  | iconv -f utf-8 -t ascii//translit > AAAA
   mv AAAA <filename>
+
+--==> python get julian day number
+https://blog.finxter.com/5-best-ways-to-convert-python-datetime-to-julian-day/
+
+from datetime import datetime
+
+def to_julian_day(date):
+    a = (14 - date.month) // 12
+    y = date.year + 4800 - a
+    m = date.month + 12 * a - 3
+    return (
+        date.day + ((153 * m + 2) // 5) + 365 * y + y // 4 
+        - y // 100 + y // 400 - 32045
+    )
+
+date = datetime(2023, 3, 23)
+julian_day = to_julian_day(date)
+print("Julian Day:", julian_day)
