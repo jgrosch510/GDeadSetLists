@@ -5,13 +5,13 @@ import json
 
 def main():
     baseDir  = '/usr3/home/jgrosch/Git/GDeadSetLists/Data/Study'
-    fileName = '1974.json'
+    fileName = '1969.json'
     inFile = f"{baseDir}/{fileName}"
 
     with open(inFile, 'r') as fh:
-        Lines = fh.read()
+        xLines = fh.read()
 
-    SL = json.loads(Lines)
+    SL = json.loads(xLines)
     Shows = SL['db_rest']['fetchArtistYear']['shows']
 
     for key in Shows:
@@ -46,11 +46,11 @@ def main():
             i = 0
 
         if set2Len > 0 and isinstance(set2, str):
-            set1 = splitLine(set1)
+            set2 = splitLine(set2)
             i = 0
 
         if set3Len > 0 and isinstance(set3, str):
-            set1 = splitLine(set1)
+            set3 = splitLine(set3)
             i = 0
         
         j = 0
@@ -77,12 +77,12 @@ def splitLine(setStr):
                 for bit in Bits:
                     bit = bit.strip()
                     bit = f"{bit} ->"
-                    j = 0
+                    BP = 0
             else:
-                i = 0
+                BP = 0
         else:
             # \n found
-            j = 0
+            BP = 0
             for bit in Bits:
                 tmpBit = bit.strip()
                 if '>' in tmpBit:
@@ -101,14 +101,42 @@ def splitLine(setStr):
                             bits2 = f"{bits2} ->"
                             outArray.append(bits2)
                         index = index + 1
-                        j = 0
-                    i = 0
+                        BP = 0
+                    BP = 0
                 else:
+                    tmpBit = tmpBit.strip()
                     outArray.append(tmpBit)
-                    j = 0
-            i = 0
-    i = 0
+                    BP = 0
+                # End of if/else
+            BP = 0
+            # End of for loop
+    else:
+        BP = 0
+        for count, value in enumerate(Bits):
+            value = value.strip()
+
+            if len(value) == 0:
+                del Bits[count]
+                continue
+
+            if '->' in value:
+                BP = 0
+                Bits2 = value.split('->')
+
+            if '>' in value:
+                BP = 0
+                Bits2 = value.split('>')
+                
+            Bits[count] = value
             
+        outArray = Bits
+        BP = 0
+    BP = 0
+
+    for count, value in enumerate(outArray):
+        if len(value) == 0:
+            del outArray[count]
+        
     return outArray
     # End of splitLine
     
