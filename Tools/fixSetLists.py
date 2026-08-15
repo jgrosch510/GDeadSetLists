@@ -2,12 +2,25 @@
 
 import os, sys
 import json
+import argparse
 
 def main():
-    baseDir  = '/usr3/home/jgrosch/Git/GDeadSetLists/Data/Work'
-    fileName = '1969.json'
-    inFile = f"{baseDir}/{fileName}"
+    baseDir  = '/usr3/home/jgrosch/Git/GDeadSetLists/Data'
 
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument("--year", help="Name of the state to parse",
+                        required=True)
+
+    #parser.add_argument('--debug', help='Turn on debug code',
+    #                    action='store_true')
+
+    args = parser.parse_args()
+
+    fileName = f"{args.year}.json"
+    inFile   = f"{baseDir}/Work/{fileName}"
+    outFile  = f"{baseDir}/Scratch/{fileName}.TEST.json"
+    
     with open(inFile, 'r') as fh:
         xLines = fh.read()
 
@@ -60,10 +73,11 @@ def main():
         
     i = 0
     outStr = json.dumps(Shows, indent=4)
-    outFile = '/usr/tmp/AABB1969.json'
     with open(outFile, 'w') as FH:
         FH.write(outStr)
-        
+
+    print(f"Wrote file: {outFile}")
+    
     sys.exit(0)
     # End of main
 
