@@ -4,7 +4,7 @@ import os, sys
 import json
 
 def main():
-    baseDir  = '/usr3/home/jgrosch/Git/GDeadSetLists/Data/Study'
+    baseDir  = '/usr3/home/jgrosch/Git/GDeadSetLists/Data/Work'
     fileName = '1969.json'
     inFile = f"{baseDir}/{fileName}"
 
@@ -43,20 +43,27 @@ def main():
 
         if set1Len > 0 and isinstance(set1, str):
             set1 = splitLine(set1)
+            show['set1'] = set1
             i = 0
 
         if set2Len > 0 and isinstance(set2, str):
             set2 = splitLine(set2)
+            show['set2'] = set2
             i = 0
 
         if set3Len > 0 and isinstance(set3, str):
             set3 = splitLine(set3)
+            show['set3'] = set3
             i = 0
         
         j = 0
         
     i = 0
-
+    outStr = json.dumps(Shows, indent=4)
+    outFile = '/usr/tmp/AABB1969.json'
+    with open(outFile, 'w') as FH:
+        FH.write(outStr)
+        
     sys.exit(0)
     # End of main
 
@@ -66,6 +73,17 @@ def splitLine(setStr):
     tmpStr = setStr.strip()
     tmpStr = tmpStr.replace('\r\n', '\n')
     tmpStr = tmpStr.replace('&gt;', '>')
+
+    if '=>' in tmpStr:
+        tmpStr = tmpStr.replace('=>', '->')
+        
+    commaCount  = tmpStr.count(',')
+    arrow0Count = tmpStr.count('>')
+    arrow1Count = tmpStr.count('->')
+    if arrow0Count > 0 and arrow1Count == 0:
+        tmpStr = tmpStr.replace('>', ' ->, ')
+    elif arrow1Count > 0 or arrow0Count > 0:
+        tmpStr = tmpStr.replace('->', ' ->, ')
     
     Bits = tmpStr.split(',')
     if len(Bits) == 1:
@@ -118,15 +136,7 @@ def splitLine(setStr):
             if len(value) == 0:
                 del Bits[count]
                 continue
-
-            if '->' in value:
-                BP = 0
-                Bits2 = value.split('->')
-
-            if '>' in value:
-                BP = 0
-                Bits2 = value.split('>')
-                
+            value = ' '.join(value.split())
             Bits[count] = value
             
         outArray = Bits
