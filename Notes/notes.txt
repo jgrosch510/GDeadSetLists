@@ -104,3 +104,8 @@ def to_julian_day(date):
 date = datetime(2023, 3, 23)
 julian_day = to_julian_day(date)
 print("Julian Day:", julian_day)
+
+--==> Sources
+  * https://bt.etree.org/
+  * https://www.gratefulsets.net/
+  * http://deadlists.com/
