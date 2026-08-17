@@ -757,7 +757,12 @@
             "Scarlet Begonias ->",
             "Fire On The Mountain ->",
             "Estimated Prophet ->",
-            "Eyes Of The World> Good Times*> Drumz> Morning Dew> Throwing Stones> Not Fade Away Encore Baby Blue"
+            "Eyes Of The World ->",
+            "Good Times* ->",
+            "Drums ->",
+            "Morning Dew ->",
+            "Throwing Stones ->",
+            "Not Fade Away Encore Baby Blue"
         ],
         "set3": "",
         "comment": "*Good Times without Bobby, Jerry, and Phil",
@@ -780,8 +785,15 @@
         "state": "RI",
         "set1": [
             "Alabama Getaway ->",
-            "Promised Land Dire Wolf Minglewood Blues Row Jimmy Me & My Uncle ->",
-            "Big River Althea My Brother Esau Big Railroad Blues ->",
+            "Promised Land",
+            "Dire Wolf",
+            "Minglewood Blues",
+            "Row Jimmy",
+            "Me & My Uncle ->",
+            "Big River",
+            "Althea",
+            "My Brother Esau",
+            "Big Railroad Blues ->",
             "The Music Never Stopped"
         ],
         "set2": [
@@ -793,7 +805,8 @@
             "The Wheel ->",
             "Wharf Rat ->",
             "Around & Around ->",
-            "Johnny B. Goode Encore: Touch Of Grey"
+            "Johnny B. Goode",
+            "E: Touch Of Grey"
         ],
         "set3": "",
         "comment": "",
@@ -1782,8 +1795,14 @@
         "city": "Berkeley",
         "state": "CA",
         "set1": [
-            "Jack Straw West L.A. Fadeaway Little Red Rooster* Tennessee Jed Beat It On Down The Line ->",
-            "Big Railroad Blues Looks Like Rain Don't Ease Me In"
+          "Jack Straw",
+          "West L.A. Fadeaway",
+          "Little Red Rooster*",
+          "Tennessee Jed",
+          "Beat It On Down The Line ->",
+          "Big Railroad Blues",
+          "Looks Like Rain",
+          "Don't Ease Me In"
         ],
         "set2": [
             "Help On The Way ->",
@@ -2785,8 +2804,11 @@
             "Turn On Your Love Light"
         ],
         "set3": [
-            "Gimme Some Lovin' Uncle John's Band Around & Around It's All Over Now",
-            "Baby Blue"
+          "Gimme Some Lovin'",
+          "Uncle John's Band",
+          "Around & Around",
+          "It's All Over Now",
+          "Baby Blue"
         ],
         "comment": "Opening Acts - The Bobs, Dirty Dozen Brass Band\n\nJerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
         "lastupdate": "2014-10-19 20:42:20",

@@ -794,7 +794,8 @@
             "Sugar Magnolia",
             "Not Fade Away ->",
             "Goin' Down The Road Feelin' Bad ->",
-            "Not Fade Away E: One More Saturday Night"
+            "Not Fade Away",
+            "E: One More Saturday Night"
         ],
         "set3": "",
         "comment": "",
@@ -1256,7 +1257,8 @@
             "Sugar Magnolia",
             "Not Fade Away ->",
             "Goin' Down The Road Feelin' Bad ->",
-            "Not Fade Away E: One More Saturday Night"
+            "Not Fade Away",
+            "E: One More Saturday Night"
         ],
         "set3": "",
         "comment": "",
@@ -2536,7 +2538,8 @@
             "Other One 2nd Verse ->",
             "Stella Blue%",
             "Sugar Magnolia",
-            "Casey Jones E: One More Saturday Night",
+            "Casey Jones",
+            "E: One More Saturday Night",
             "Johnny B Goode"
         ],
         "set3": "",
@@ -2690,7 +2693,8 @@
             "Drums ->",
             "China Cat Sunflower ->",
             "I Know You Rider",
-            "Sugar Magnolia E: One More Saturday Night"
+            "Sugar Magnolia",
+            "E: One More Saturday Night"
         ],
         "set3": "",
         "comment": "* - First Time Played",
@@ -3062,15 +3066,32 @@
         "city": "St. Louis",
         "state": "MO",
         "set1": [
-            "Bertha Me and My Uncle Don't Ease Me In Mexicali Blues Brown Eyed Women Beat It On Down the Line Bird Song Big River Loser Jack Straw Big Railroad Blues El Paso China Cat Sunflower ->",
-            "I Know You Rider"
+          "Bertha",
+          "Me and My Uncle",
+          "Don't Ease Me In",
+          "Mexicali Blues",
+          "Brown Eyed Women",
+          "Beat It On Down the Line",
+          "Bird Song",
+          "Big River",
+          "Loser",
+          "Jack Straw",
+          "Big Railroad Blues",
+          "El Paso",
+          "China Cat Sunflower ->",
+          "I Know You Rider"
         ],
         "set2": [
             "Playin' In the Band ->",
             "Drums ->",
             "Dark Star ->",
             "Morning Dew ->",
-            "Playin' In the Band Deal Promised Land Brokedown Palace One More Saturday Night Casey Jones"
+            "Playin' In the Band",
+            "Deal",
+            "Promised Land",
+            "Brokedown Palace",
+            "One More Saturday Night",
+            "Casey Jones"
         ],
         "set3": "",
         "comment": "",
@@ -3242,7 +3263,7 @@
         "city": "Milwaukee",
         "state": "WI",
         "set1": [
-            "[setlist according to Deadbase:] Promised Land",
+            "Promised Land",
             "Ramble On Rose",
             "El Paso",
             "Deal",
@@ -3253,20 +3274,19 @@
             "E: Johnny B. Goode"
         ],
         "set2": [
-            "[set 2 according to deadlists.com",
-            "with set 1 reportedly unknown:] Truckin' ->",
-            "The Other One ->",
-            "Drums ->",
-            "The Other One ->",
-            "Philo Stomp ->",
-            "Space ->",
-            "He's Gone ->",
-            "The Other One",
-            "Casey Jones",
-            "Johnny B. Goode"
+          "Truckin' ->",
+          "The Other One ->",
+          "Drums ->",
+          "The Other One ->",
+          "Philo Stomp ->",
+          "Space ->",
+          "He's Gone ->",
+          "The Other One",
+          "Casey Jones",
+          "Johnny B. Goode"
         ],
         "set3": "",
-        "comment": "there is obviously some discrepancy here.",
+        "comment": "[setlist according to Deadbase:]\n[set 2 according to deadlists.com with set 1 reportedly unknown:]\n there is obviously some discrepancy here.",
         "lastupdate": "2001-10-25 00:00:00",
         "showyear": "1972",
         "showsuserid": "hamilton",
@@ -3620,13 +3640,35 @@
         "city": "Oklahoma City",
         "state": "OK",
         "set1": [
-            "Bertha Beat It On Down The Line Bird Song Jack Straw Candyman Big River Sugaree El Paso Box Of Rain Deal Cumberland Blues Around And Around China Cat Sunflower ->",
-            "I Know You Rider"
+          "Bertha",
+          "Beat It On Down The Line",
+          "Bird Song",
+          "Jack Straw",
+          "Candyman",
+          "Big River",
+          "Sugaree",
+          "El Paso",
+          "Box Of Rain",
+          "Deal",
+          "Cumberland Blues",
+          "Around And Around",
+          "China Cat Sunflower ->",
+          "I Know You Rider"
         ],
         "set2": [
-            "Promised Land Ramble On Rose Mexicali Blues Brokedown Palace Playing In The Band Big Railroad Blues Me And Bobby McGee Wharf Rat Sugar Magnolia Not Fade Away ->",
-            "Goin' Down The Road Feeling Bad ->",
-            "Not Fade Away Encore: Johnny B. Goode"
+          "Promised Land",
+          "Ramble On Rose",
+          "Mexicali Blues",
+          "Brokedown Palace",
+          "Playing In The Band",
+          "Big Railroad Blues",
+          "Me And Bobby McGee",
+          "Wharf Rat",
+          "Sugar Magnolia",
+          "Not Fade Away ->",
+          "Goin' Down The Road Feeling Bad ->",
+          "Not Fade Away",
+          "Encore: Johnny B. Goode"
         ],
         "set3": "",
         "comment": "",
@@ -3697,12 +3739,33 @@
         "city": "Houston",
         "state": "TX",
         "set1": [
-            "The Promised Land Sugaree Mexicali Blues Loser Black Throated Wind Tennessee Jed El Paso Big Railroad Blues Box Of Rain China Cat Sunflower ->",
-            "I Know You Rider Beat It On Down The Line Brown Eyed Women Around And Around Casey Jones"
+          "The Promised Land",
+          "Sugaree",
+          "Mexicali Blues",
+          "Loser",
+          "Black Throated Wind",
+          "Tennessee Jed",
+          "El Paso",
+          "Big Railroad Blues",
+          "Box Of Rain",
+          "China Cat Sunflower ->",
+          "I Know You Rider",
+          "Beat It On Down The Line",
+          "Brown Eyed Women",
+          "Around And Around",
+          "Casey Jones"
         ],
         "set2": [
             "Bertha ->",
-            "Greatest Story Ever Told He's Gone Jack Straw Deal Playing In The Band Mississippi Half-step Uptown Toodeloo Sugar Magnolia One More Saturday Night Encore: Uncle John's Band"
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "Jack Straw",
+            "Deal",
+            "Playing In The Band",
+            "Mississippi Half-step Uptown Toodeloo",
+            "Sugar Magnolia",
+            "One More Saturday Night",
+            "E: Uncle John's Band"
         ],
         "set3": "",
         "comment": "",

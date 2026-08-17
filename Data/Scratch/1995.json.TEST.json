@@ -14,7 +14,7 @@
             "Alabama Getaway*",
             "Me & My Uncle** ->",
             "Big River**",
-            "Don't Ease Me In (40 mins)"
+            "Don't Ease Me In"
         ],
         "set2": [
             "China Cat Sunflower ->",
@@ -28,7 +28,7 @@
             "I Need A Miracle ->",
             "Attics Of My Life ->",
             "Johnny B. Goode",
-            "E: It's All Over Now Baby Blue (114 mins)"
+            "E: It's All Over Now Baby Blue"
         ],
         "set3": "",
         "comment": "* First Alabama since 6/18/89** Weir on acoustic, Soundcheck included Alabama Getaway, Attics, Schoolgirl, and It's a Man's World",
@@ -57,7 +57,7 @@
             "Ramble On Rose",
             "El Paso**",
             "Lazy River Road*",
-            "Cassidy (57 mins)"
+            "Cassidy"
         ],
         "set2": [
             "Box Of Rain",
@@ -70,7 +70,7 @@
             "Stella Blue ->",
             "Throwing Stones ->",
             "Not Fade Away",
-            "E: Rain (97 mins)"
+            "E: Rain"
         ],
         "set3": "",
         "comment": "* Weir on acoustic, ** Weir on \"dobro like\" instrument.",
@@ -99,7 +99,7 @@
             "Broken Arrow",
             "Black Throated Wind*",
             "So Many Roads",
-            "The Music Never Stopped (58 mins)"
+            "The Music Never Stopped"
         ],
         "set2": [
             "Foolish Heart",
@@ -111,7 +111,7 @@
             "Space ->",
             "Visions Of Johanna ->",
             "Sugar Magnolia",
-            "E: Liberty (85 mins)"
+            "E: Liberty"
         ],
         "set3": "",
         "comment": "* Weir on acoustic, First Salt Lake City. First Want To Make Love To You since 10/8/84, First Visions 4/22/86. Salt Lake City from Weir's solo album Heaven Help the Fool",
@@ -214,8 +214,13 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "Let The Good Times Roll West L.A. Fadeaway Queen Jane Approximately Lazy River Road* Mama Tried** ->",
-            "Mexicali Blues** Don't Ease Me In**"
+          "Let The Good Times Roll",
+          "West L.A. Fadeaway",
+          "Queen Jane Approximately",
+          "Lazy River Road*",
+          "Mama Tried** ->",
+          "Mexicali Blues**",
+          "Don't Ease Me In**"
         ],
         "set2": [
             "Drums ->",
@@ -227,7 +232,8 @@
             "Space+ ->",
             "I Need A Miracle ->",
             "The Days Between+ ->",
-            "Not Fade Away+ Encore: Box Of Rain"
+            "Not Fade Away+",
+            "E: Box Of Rain"
         ],
         "set3": [],
         "comment": "",
@@ -255,7 +261,7 @@
             "Queen Jane Approximately",
             "Lazy River Road",
             "Eternity*",
-            "Loose Lucy (55 mins)"
+            "Loose Lucy"
         ],
         "set2": [
             "China Cat Sunflower ->",
@@ -269,7 +275,7 @@
             "All Along The Watchtower ->",
             "Standing On the Moon ->",
             "Sugar Magnolia",
-            "E: Lucy In The Sky With Diamonds (85 mins)"
+            "E: Lucy In The Sky With Diamonds"
         ],
         "set3": "",
         "comment": "* Weir on acoustic; Several takes of Unbroken Chain were done for soundcheck/rehearsal.",
@@ -403,7 +409,7 @@
             "Lazy River Road",
             "When I Paint My Masterpiece",
             "Tennessee Jed",
-            "The Music Never Stopped (55 mins)"
+            "The Music Never Stopped"
         ],
         "set2": [
             "Victim Or The Crime ->",
@@ -415,7 +421,7 @@
             "I Want To Tell You ->",
             "Attics Of My Life ->",
             "Turn On Your Love Light",
-            "E: The Mighty Quinn (93 mins)"
+            "E: The Mighty Quinn"
         ],
         "set3": "",
         "comment": "",
@@ -485,7 +491,7 @@
             "If The Shoe Fits",
             "Black Throated Wind*",
             "Bird Song",
-            "Promised Land (65 Mins.)"
+            "Promised Land"
         ],
         "set2": [
             "Here Comes Sunshine",
@@ -497,7 +503,7 @@
             "The Last Time ->",
             "Black Peter ->",
             "Around & Around",
-            "E: Liberty (88 Mins.)"
+            "E: Liberty"
         ],
         "set3": "",
         "comment": "* Weir on acoustic",
@@ -955,8 +961,7 @@
             "Wang Dang Doodle",
             "Althea",
             "Queen Jane Approximately",
-            "Deal",
-            "(50 Mins.)"
+            "Deal"
         ],
         "set2": [
             "Here Comes Sunshine",
@@ -968,7 +973,6 @@
             "Easy Answers ->",
             "Standing On the Moon ->",
             "Around & Around",
-            "(85 Mins.)",
             "E: Lucy In The Sky With Diamonds"
         ],
         "set3": "",
@@ -1098,7 +1102,7 @@
             "Peggy-O",
             "El Paso",
             "Tennessee Jed",
-            "Cassidy (58 Mins.)"
+            "Cassidy"
         ],
         "set2": [
             "Foolish Heart",
@@ -1109,7 +1113,7 @@
             "Space ->",
             "The Wheel",
             "Throwing Stones ->",
-            "Not Fade Away (88 Min.)",
+            "Not Fade Away",
             "E: The Mighty Quinn"
         ],
         "set3": "",
@@ -1149,7 +1153,8 @@
             "Space ->",
             "Easy Answers",
             "Stella Blue ->",
-            "Good Lovin' E: Liberty"
+            "Good Lovin'",
+            "E: Liberty"
         ],
         "set3": "",
         "comment": "* - Bob Weir On Acoustic Guitar",
@@ -1177,7 +1182,7 @@
             "Row Jimmy",
             "When I Paint My Masterpiece",
             "Brown Eyed Women",
-            "Let It Grow (61 mins.)"
+            "Let It Grow"
         ],
         "set2": [
             "Samson & Delilah",
@@ -1188,7 +1193,7 @@
             "Space ->",
             "All Along The Watchtower ->",
             "Black Peter ->",
-            "Around & Around (84 mins.)",
+            "Around & Around",
             "E: Box Of Rain"
         ],
         "set3": "",
@@ -1345,7 +1350,7 @@
             "Mama Tried* ->",
             "Mexicali Blues*",
             "Lazy River Road",
-            "Cassidy (62 mins.)"
+            "Cassidy"
         ],
         "set2": [
             "Here Comes Sunshine",
@@ -1357,7 +1362,7 @@
             "I Need A Miracle ->",
             "The Days Between ->",
             "Not Fade Away",
-            "E: Brokedown Palace (91 mins.)"
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "* Weir on acoustic",
@@ -1990,7 +1995,7 @@
             "E: Black Muddy River",
             "Box Of Rain"
         ],
-        "comment": "* Weir on acoustic",
+        "comment": "* Weir on acoustic, End of the road",
         "lastupdate": "1996-01-07 00:00:00",
         "showyear": "1995",
         "showsuserid": "hamilton",

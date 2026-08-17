@@ -131,18 +131,27 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "Hey Pocky Way; Desolation Row; Tennessee Jed; Little Red Rooster; Cumberland Blues; It's All Over Now; Box Of Rain ->",
-            "Don't Ease Me In"
+          "Hey Pocky Way",
+          "Desolation Row",
+          "Tennessee Jed",
+          "Little Red Rooster",
+          "Cumberland Blues",
+          "It's All Over Now",
+          "Box Of Rain ->",
+          "Don't Ease Me In"
         ],
         "set2": [
             "Bertha ->",
             "Man Smart",
-            "Woman Smarter; Ship of Fools; Estimated Prophet ->",
+            "Woman Smarter",
+            "Ship of Fools",
+            "Estimated Prophet ->",
             "Drums ->",
             "Space ->",
             "Truckin' ->",
             "Black Peter ->",
-            "Sugar Magnolia; E: Brokedown Palace"
+            "Sugar Magnolia",
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "'We want Phil' before Box; Dragon dance during Drums",
@@ -165,7 +174,8 @@
         "state": "CA",
         "set1": [
             "Good Morning Little School Girl ->",
-            "Turn on Your Lovelight Long Tall Sally"
+            "Turn on Your Lovelight",
+            "Long Tall Sally"
         ],
         "set2": "",
         "set3": "",
@@ -1256,8 +1266,17 @@
         "city": "Unknown",
         "state": "Unknown",
         "set1": [
-            "Instrumental Victim Or The Crime Blow Away Believe It Or Not Gentlemen",
-            "Start Your Engines Built To Last I Will Take You Home Victim or The Crime Instrumental 2 Instrumental 3"
+          "Instrumental",
+          "Victim Or The Crime",
+          "Blow Away",
+          "Believe It Or Not",
+          "Gentlemen",
+          "Start Your Engines",
+          "Built To Last",
+          "I Will Take You Home",
+          "Victim or The Crime",
+          "Instrumental 2",
+          "Instrumental 3"
         ],
         "set2": "",
         "set3": "",
@@ -1595,7 +1614,8 @@
             "Goin' Down The Road Feelin' Bad ->",
             "I Need A Miracle ->",
             "Stella Blue ->",
-            "Not Fade Away - E: Knockin' On Heaven's Door"
+            "Not Fade Away",
+            "E: Knockin' On Heaven's Door"
         ],
         "set3": "",
         "comment": "",
@@ -1639,7 +1659,8 @@
             "The Other One ->",
             "Wharf Rat ->",
             "Throwing Stones ->",
-            "Turn On Your Love Light - E: Brokedown Palace"
+            "Turn On Your Love Light",
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "only Green Onions",
@@ -1681,7 +1702,8 @@
             "Gimmie Some Lovin ->",
             "All Along The Watchtower ->",
             "Morning Dew ->",
-            "Sugar Magnolia - E: Mighty The Mighty Quinn"
+            "Sugar Magnolia",
+            "E: Mighty The Mighty Quinn"
         ],
         "set3": "",
         "comment": "",
@@ -1722,7 +1744,8 @@
             "Goin' Down The Road Feelin' Bad ->",
             "I Need A Miracle ->",
             "Mr. Dear Mr. Fantasy ->",
-            "Hey Jude - E: Not Fade Away"
+            "Hey Jude",
+            "E: Not Fade Away"
         ],
         "set3": "",
         "comment": "",

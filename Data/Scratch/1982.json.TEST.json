@@ -648,7 +648,8 @@
             "Drums ->",
             "The Other One ->",
             "Stella Blue ->",
-            "Sugar Magnolia E: (I Can't Get No) Satisfaction"
+            "Sugar Magnolia",
+            "E: (I Can't Get No) Satisfaction"
         ],
         "set3": "",
         "comment": "",
@@ -802,7 +803,8 @@
             "Not Fade Away ->",
             "Wharf Rat ->",
             "Around & Around ->",
-            "One More Saturday Night E: It's All Over Now Baby Blue"
+            "One More Saturday Night",
+            "E: It's All Over Now Baby Blue"
         ],
         "set3": "",
         "comment": "*Without Jerry",
@@ -1144,7 +1146,8 @@
             "Drums ->",
             "Not Fade Away ->",
             "Wharf Rat ->",
-            "Sugar Magnolia E: (I Can't Get No) Satisfaction ->",
+            "Sugar Magnolia",
+            "E: (I Can't Get No) Satisfaction ->",
             "Brokedown Palace"
         ],
         "set3": "",
@@ -2458,18 +2461,23 @@
         "city": "Montego Bay",
         "state": "Jamaica",
         "set1": [
-            "Sugaree New Minglewood Blues Loser Man Smart (Woman Smarter) Althea ->",
-            "Let It Grow"
+          "Sugaree",
+          "New Minglewood Blues",
+          "Loser",
+          "Man Smart (Woman Smarter)",
+          "Althea ->",
+          "Let It Grow"
         ],
         "set2": [
-            "Samson And Delilah Scarlet Begonias ->",
-            "Fire On The Mountain ->",
-            "Drums ->",
-            "Space ->",
-            "Throwing Stones ->",
-            "Not Fade Away ->",
-            "Black Peter ->",
-            "Sugar Magnolia"
+          "Samson And Delilah",
+          "Scarlet Begonias ->",
+          "Fire On The Mountain ->",
+          "Drums ->",
+          "Space ->",
+          "Throwing Stones ->",
+          "Not Fade Away ->",
+          "Black Peter ->",
+          "Sugar Magnolia"
         ],
         "set3": "",
         "comment": "Jamaica World Music Festival",
@@ -2710,13 +2718,27 @@
         "city": "Berkeley",
         "state": "CA",
         "set1": [
-            "Jack Straw(5/22) Sugaree(5/22) Lazy Lightening ->",
-            "Supplication(5/22) Bird Song(5/21) Let It Grow(5/23) China Cat Sunflower(5/22) I Know You Rider(5/22) Lost Sailor(5/22) Saint of Circumstance(5/22) Spanish Jam(4/17)"
+          "Jack Straw(5/22)",
+          "Sugaree(5/22)",
+          "Lazy Lightening ->",
+          "Supplication(5/22)",
+          "Bird Song(5/21)",
+          "Let It Grow(5/23)",
+          "China Cat Sunflower(5/22)",
+          "I Know You Rider(5/22)",
+          "Lost Sailor(5/22)",
+          "Saint of Circumstance(5/22)",
+          "Spanish Jam(4/17)"
         ],
         "set2": [
-            "Scarlet Begonias(5/23) Fire On The Mountain(5/23) Playing In The Band(5/21) Uncle John's Band(5/21) It's All Over Now",
-            "Baby Blue(4/17) China Cat Sunflower ->",
-            "I Know You Rider(8/28)"
+          "Scarlet Begonias(5/23)",
+          "Fire On The Mountain(5/23)",
+          "Playing In The Band(5/21)",
+          "Uncle John's Band(5/21)",
+          "It's All Over Now",
+          "Baby Blue(4/17)",
+          "China Cat Sunflower ->",
+          "I Know You Rider(8/28)"
         ],
         "set3": "",
         "comment": "Peeks at the Greeks '82 - Greek '82 Highlights.",

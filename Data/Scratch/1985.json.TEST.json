@@ -601,16 +601,17 @@
             "Don't Ease Me In"
         ],
         "set2": [
-            "Iko Iko Samson And Delilah He's Gone ->",
-            "I Need A Miracle ->",
-            "China Doll ->",
-            "Jam ->",
-            "Drums ->",
-            "Space ->",
-            "The Wheel ->",
-            "Playing In The Band (Reprise) ->",
-            "Playing In The Band ->",
-            "Day Tripper Encore: U.S. Blues"
+          "Iko Iko Samson And Delilah",
+          "He's Gone ->",
+          "I Need A Miracle ->",
+          "China Doll ->",
+          "Jam ->",
+          "Drums ->",
+          "Space ->",
+          "The Wheel ->",
+          "Playing In The Band (Reprise) ->",
+          "Playing In The Band ->",
+          "Day Tripper Encore: U.S. Blues"
         ],
         "set3": "",
         "comment": "The only inverted Playing in the Band.\n\nJerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
@@ -809,7 +810,8 @@
         ],
         "set2": [
             "Shakedown Street ->",
-            "Samson And Delilah; She Belongs To Me ->",
+            "Samson And Delilah",
+            "She Belongs To Me ->",
             "Man Smart (Woman Smarter) ->",
             "Drums ->",
             "Space ->",
@@ -817,7 +819,8 @@
             "Truckin' ->",
             "Smokestack Lightnin' ->",
             "Morning Dew ->",
-            "Sugar Magnolia Encore: Keep Your Day Job"
+            "Sugar Magnolia",
+            "E: Keep Your Day Job"
         ],
         "set3": "",
         "comment": "Jerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
@@ -863,8 +866,7 @@
             "Stella Blue",
             "Around & Around",
             "Turn On Your Love Light",
-            "Encore:",
-            "Brokedown Palace"
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "Jerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
@@ -970,11 +972,21 @@
         "city": "San Rafael",
         "state": "CA",
         "set1": [
-            "Tons of Steel - false start Tons of Steel Cassidy Comes a Time Mississippi Half Step - false start Mississippi Half Step Jack Straw ->",
-            "Brown Eyed Women Not Fade Away Green Onions Uncle John's Band - false start Uncle John's Band ->",
-            "Playin' in the Band ->",
-            "Uncle John's Band Reprise Drums ->",
-            "Beam & Percussion"
+          "Tons of Steel - false start",
+          "Tons of Steel",
+          "Cassidy",
+          "Comes a Time",
+          "Mississippi Half Step - false start",
+          "Mississippi Half Step Jack Straw ->",
+          "Brown Eyed Women",
+          "Not Fade Away",
+          "Green Onions",
+          "Uncle John's Band - false start",
+          "Uncle John's Band ->",
+          "Playin' in the Band ->",
+          "Uncle John's Band Reprise",
+          "Drums ->",
+          "Beam & Percussion"
         ],
         "set2": "",
         "set3": "",
@@ -1188,7 +1200,8 @@
             "Goin' Down the Road Feelin' Bad ->",
             "I Need a Miracle ->",
             "Wharf Rat ->",
-            "Turn on Your Lovelight; Encore: Brokedown Palace"
+            "Turn on Your Lovelight",
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "",
@@ -1404,7 +1417,7 @@
             "Spoonful ->",
             "Black Peter ->",
             "Turn On Your Love Light",
-            "E:Johnny B. Goode ->",
+            "E: Johnny B. Goode ->",
             "E: It's All Over Now Baby Blue"
         ],
         "set3": "",
@@ -1529,7 +1542,7 @@
             "Dear Mr. Fantasy ->",
             "Goin' Down The Road Feelin' Bad ->",
             "Good Lovin'",
-            "E:Satisfaction ->",
+            "E: Satisfaction ->",
             "E: It's All Over Now Baby Blue"
         ],
         "set3": "",
@@ -1570,7 +1583,7 @@
             "Wharf Rat ->",
             "Throwing Stones ->",
             "Turn On Your Love Light",
-            "E:Revolution ->",
+            "E: Revolution ->",
             "E: Brokedown Palace"
         ],
         "set3": "",
@@ -2861,7 +2874,8 @@
             "Wharf Rat ->",
             "Playin' In The Band ->",
             "Gimme Some Lovin' ->",
-            "Midnight Hour E: Walkin' The Dog"
+            "Midnight Hour",
+            "E: Walkin' The Dog"
         ],
         "set3": "",
         "comment": "",
@@ -2987,8 +3001,7 @@
             "Throwing Stones *",
             "Not Fade Away *",
             "Turn On Your Love Light *",
-            "Encore:",
-            "Brokedown Palace"
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "Opening Acts - Neville Brothers, Babatunde Olatunji\n\nJerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums\nBabatunde Olatunji - Percussion *",

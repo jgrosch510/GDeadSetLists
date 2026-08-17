@@ -344,7 +344,8 @@
             "Franklin's Tower ->",
             "Around & Around ->",
             "GDTRFB ->",
-            "Not Fade Away E: One More Saturday Night"
+            "Not Fade Away",
+            "E: One More Saturday Night"
         ],
         "set3": "",
         "comment": "",
@@ -813,7 +814,8 @@
             "Saint Stephen ->",
             "Not Fade Away ->",
             "Saint Stephen ->",
-            "Morning Dew E: One More Saturday Night"
+            "Morning Dew",
+            "E: One More Saturday Night"
         ],
         "set3": "",
         "comment": "Cornell University",
@@ -879,15 +881,30 @@
         "city": "St. Paul",
         "state": "MN",
         "set1": [
-            "Promised Land They Love Each Other Big River Loser Looks Like Rain Ramble On Rose Jack Straw Peggy-O El Paso Deal Lazy Lightning ->",
-            "Supplication Sugaree"
+          "Promised Land",
+          "They Love Each Other",
+          "Big River",
+          "Loser Looks Like Rain",
+          "Ramble On Rose",
+          "Jack Straw",
+          "Peggy-O",
+          "El Paso",
+          "Deal",
+          "Lazy Lightning ->",
+          "Supplication",
+          "Sugaree"
         ],
         "set2": [
-            "Samson & Delilah Brown-Eyed Women Estimated Prophet Scarlet Begonias ->",
-            "Fire On The Mountain ->",
-            "Good Lovin' Uncle John's Band ->",
-            "Wharf Rat ->",
-            "Around & Around Encore: Brokedown Palace"
+          "Samson & Delilah",
+          "Brown-Eyed Women",
+          "Estimated Prophet",
+          "Scarlet Begonias ->",
+          "Fire On The Mountain ->",
+          "Good Lovin'",
+          "Uncle John's Band ->",
+          "Wharf Rat ->",
+          "Around & Around",
+          "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "",
@@ -1018,7 +1035,8 @@
             "Saint Stephen ->",
             "Iko Iko ->",
             "Not Fade Away ->",
-            "Sugar Magnolia E: Uncle John's Band"
+            "Sugar Magnolia",
+            "E: Uncle John's Band"
         ],
         "set3": "",
         "comment": "",
@@ -1468,7 +1486,8 @@
             "Terrapin Station ->",
             "Morning Dew ->",
             "Around & Around",
-            "E: Uncle John's Band E:U.S.Blues*"
+            "E: Uncle John's Band",
+            "U.S.Blues*"
         ],
         "set3": "",
         "comment": "*Second Encore",
@@ -1560,7 +1579,7 @@
             "Terrapin Station ->",
             "Sugar Magnolia",
             "E: U.S. Blues",
-            "E: One More Saturday Night*"
+            "One More Saturday Night*"
         ],
         "set3": "",
         "comment": "*Second Encore",

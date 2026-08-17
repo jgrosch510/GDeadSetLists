@@ -18,7 +18,8 @@
             "Drums ->",
             "Not Fade Away* ->",
             "Sugar Magnolia*",
-            "E: U.S. Blues** Finale: Bridging the Gap***"
+            "E: U.S. Blues**",
+            "Finale: Bridging the Gap***"
         ],
         "set2": "",
         "set3": "",
@@ -757,7 +758,8 @@
             "Uncle John's Band ->",
             "Drums ->",
             "Not Fade Away ->",
-            "Goin' Down The Road Feelin' Bad> Good Lovin'",
+            "Goin' Down The Road Feelin' Bad ->",
+            "Good Lovin'",
             "E: Alabama Getaway"
         ],
         "set3": "",
@@ -963,7 +965,8 @@
             "Uncle John's Band",
             "Stranger",
             "Althea",
-            "All New Minglewood Blues E:Brokedown Palace"
+            "All New Minglewood Blues",
+            "E: Brokedown Palace"
         ],
         "set2": "",
         "set3": "",
@@ -1239,7 +1242,8 @@
             "Drums ->",
             "The Other One ->",
             "Wharf Rat ->",
-            "Sugar Magnolia E: Alabama Getaway"
+            "Sugar Magnolia",
+            "E: Alabama Getaway"
         ],
         "set3": "",
         "comment": "",
@@ -1373,7 +1377,8 @@
             "NFA ->",
             "Black Peter ->",
             "Around & Around ->",
-            "JB Goode E: Don't Ease"
+            "JB Goode",
+            "E: Don't Ease"
         ],
         "set3": "",
         "comment": "",
@@ -3487,7 +3492,8 @@
             "Drums* ->",
             "The Other One* ->",
             "Wharf Rat ->",
-            "Good Lovin' E: Johnny B. Goode"
+            "Good Lovin'",
+            "E: Johnny B. Goode"
         ],
         "comment": "Set 1 Acoustic\n\n* - w/ Billy Cobham",
         "lastupdate": "2012-08-07 12:09:42",
@@ -3796,7 +3802,8 @@
             "The Wheel ->",
             "China Doll ->",
             "Around & Around ->",
-            "Johnny B. Goode Encore: Uncle John's Band"
+            "Johnny B. Goode",
+            "E: Uncle John's Band"
         ],
         "set3": "",
         "comment": "",
@@ -3818,8 +3825,15 @@
         "city": "Mill Valley",
         "state": "CA",
         "set1": [
-            "Dire Wolf On The Road Again I've Been All Around This World Monkey And The Engineer Jack A Roe Cassidy Bird Song Oh Babe",
-            "It Ain't No Lie Ripple"
+          "Dire Wolf",
+          "On The Road Again",
+          "I've Been All Around This World",
+          "Monkey And The Engineer",
+          "Jack A Roe",
+          "Cassidy",
+          "Bird Song Oh Babe",
+          "It Ain't No Lie",
+          "Ripple"
         ],
         "set2": "",
         "set3": "",

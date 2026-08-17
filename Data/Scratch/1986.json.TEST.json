@@ -467,7 +467,7 @@
             "Truckin' ->",
             "Wharf Rat ->",
             "Sugar Magnolia",
-            "E: Day Job"
+            "E: Keep Your Day Job"
         ],
         "set3": "",
         "comment": "Only time \"Revolutionary Hamstrung Blues\" was ever performed.",
@@ -1021,8 +1021,10 @@
             "Mississippi Half Step ->",
             "Little Red Rooster",
             "Candyman",
-            "Me & My Uncle> Mexicali",
-            "China Cat Sunflower> I Know You Rider"
+            "Me & My Uncle ->",
+            "Mexicali",
+            "China Cat Sunflower ->",
+            "I Know You Rider"
         ],
         "set2": [
             "Gimme Some Lovin' ->",
@@ -1485,7 +1487,8 @@
             "Drums* ->",
             "Gimme Some Lovin' ->",
             "Goin' Down The Road Feelin' Bad ->",
-            "Turn On Your Love Light Encore: U.S. Blues"
+            "Turn On Your Love Light",
+            "E: U.S. Blues"
         ],
         "set3": "",
         "comment": "*Broadcast on TV for Farm Aid. Dylan, Petty & Heartbreakers Opened.",
@@ -1519,7 +1522,14 @@
         "set2": [
             "Saint Of Circumstance ->",
             "Iko Iko",
-            "Looks Like Rain> He's Gone> Drums> Space> Stella Blue> Throwing Stones> Not Fade Away; E: Brokedown Palace"
+            "Looks Like Rain ->",
+            "He's Gone ->",
+            "Drums ->",
+            "Space ->",
+            "Stella Blue ->",
+            "Throwing Stones ->",
+            "Not Fade Away",
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "Dylan, Petty & Heartbreakers Opened.",
@@ -1840,13 +1850,19 @@
         "state": "CA",
         "set1": [
             "Jack Straw ->",
-            "Sugaree Me & My Uncle ->",
-            "Mexicali Blues Candyman Desolation Row U.S. Blues"
+            "Sugaree",
+            "Me & My Uncle ->",
+            "Mexicali Blues",
+            "Candyman",
+            "Desolation Row",
+            "U.S. Blues"
         ],
         "set2": [
             "Touch Of Gray ->",
-            "Let It Grow Black Muddy River ->",
-            "Samson & Delilah Terrapin Station ->",
+            "Let It Grow",
+            "Black Muddy River ->",
+            "Samson & Delilah",
+            "Terrapin Station ->",
             "Drums ->",
             "Wharf Rat ->",
             "Goin' Down The Road Feelin' Bad ->",
@@ -1854,7 +1870,9 @@
         ],
         "set3": [
             "Gimme Some Lovin' ->",
-            "When Push Comes To Shove Box Of Rain In The Midnight Hour ->",
+            "When Push Comes To Shove",
+            "Box Of Rain",
+            "In The Midnight Hour ->",
             "Brokedown Palace"
         ],
         "comment": "FM Broadcast on KFOG\n\nDavid Crosby then The Neville Brothers opened",

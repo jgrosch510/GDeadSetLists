@@ -48,16 +48,23 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "Shakedown Street The Same Thing Althea Mama Tried ->",
-            "Maggie's Farm Loose Lucy The Music Never Stopped"
+          "Shakedown Street",
+          "The Same Thing",
+          "Althea",
+          "Mama Tried ->",
+          "Maggie's Farm",
+          "Loose Lucy",
+          "The Music Never Stopped"
         ],
         "set2": [
             "China Cat Sunflower ->",
-            "I Know You Rider Way To Go Home Corrina ->",
+            "I Know You Rider",
+            "Way To Go Home",
+            "Corrina ->",
             "Playing In The Band Reprise ->",
             "Uncle John's Band ->",
             "Drums ->",
-            "// Space ->",
+            "Space ->",
             "All Along The Watchtower ->",
             "Wharf Rat ->",
             "Around And Around"
@@ -248,8 +255,13 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "Cold Rain & Snow Wang Dang Doodle Loser Stuck Inside Of Mobile",
-            "With The Memphis Blues Again Broken Arrow Way To Go Home Johnny B. Goode"
+          "Cold Rain & Snow",
+          "Wang Dang Doodle",
+          "Loser",
+          "Stuck Inside Of Mobile With The Memphis Blues Again",
+          "Broken Arrow",
+          "Way To Go Home",
+          "Johnny B. Goode"
         ],
         "set2": [],
         "set3": "",
@@ -693,8 +705,13 @@
         "city": "Chapel Hill",
         "state": "NC",
         "set1": [
-            "Jack Straw Stagger Lee Wang Dang Doodle It Must Have Been The Roses Stuck Inside Of Mobile",
-            "With The Memphis Blues Again Tennessee Jed Let It Grow"
+          "Jack Straw",
+          "Stagger Lee",
+          "Wang Dang Doodle",
+          "It Must Have Been The Roses",
+          "Stuck Inside Of Mobile With The Memphis Blues Again",
+          "Tennessee Jed",
+          "Let It Grow"
         ],
         "set2": [],
         "set3": "",
@@ -2006,12 +2023,16 @@
         "set2": [],
         "set3": [
             "China Cat Sunflower ->",
-            "I Know You Rider Saint Of Circumstance Uncle John's Band Corina ->",
+            "I Know You Rider",
+            "Saint Of Circumstance",
+            "Uncle John's Band",
+            "Corina ->",
             "Drums ->",
             "Space ->",
             "I Need A Miracle ->",
             "Wharf Rat ->",
-            "Sugar Magnolia Encore: The Weight"
+            "Sugar Magnolia",
+            "E: The Weight"
         ],
         "comment": "",
         "lastupdate": "2008-04-09 06:52:40",
@@ -2091,7 +2112,8 @@
             "Space ->",
             "Jam ->",
             "The Last Time* ->",
-            "Standing On the Moon E: One More Saturday Night",
+            "Standing On the Moon",
+            "E: One More Saturday Night",
             "E: I Fought The Law"
         ],
         "set3": "",
@@ -2918,7 +2940,8 @@
             "Drums ->",
             "Attics ->",
             "Throwing Stones ->",
-            "Good Lovin E: US Blues"
+            "Good Lovin'",
+            "E: US Blues"
         ],
         "set3": "",
         "comment": "",
@@ -3259,7 +3282,8 @@
             "Space ->",
             "The Last Time ->",
             "Attics Of My Life ->",
-            "Good Lovin'; Encore: I Fought The Law"
+            "Good Lovin'",
+            "E: I Fought The Law"
         ],
         "set3": "",
         "comment": "",
@@ -3368,10 +3392,19 @@
         "city": "San Francisco",
         "state": "CA",
         "set1": [
-            "Doin' That Rag Candyman KC Moan Feel Like a Stranger Till the Morning Comes Cold Rain & Snow China Cat Sunflower I Know You Rider Drums ->",
-            "Good Lovin' ->",
-            "Drums ->",
-            "Good Lovin' Sugar Magnolia"
+          "Doin' That Rag",
+          "Candyman",
+          "KC Moan",
+          "Feel Like a Stranger",
+          "Till the Morning Comes",
+          "Cold Rain & Snow",
+          "China Cat Sunflower ->",
+          "I Know You Rider",
+          "Drums ->",
+          "Good Lovin' ->",
+          "Drums ->",
+          "Good Lovin'",
+          "Sugar Magnolia"
         ],
         "set2": [],
         "set3": "",

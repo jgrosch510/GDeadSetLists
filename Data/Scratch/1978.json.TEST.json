@@ -927,7 +927,8 @@
             "Drums ->",
             "Truckin' ->",
             "Wharf Rat ->",
-            "Around & Around E: U.S. Blues"
+            "Around & Around",
+            "E: U.S. Blues"
         ],
         "set3": "",
         "comment": "Duke University",
@@ -1509,7 +1510,8 @@
             "Drums ->",
             "Not Fade Away ->",
             "Stella Blue ->",
-            "Around & Around; E: Werewolves of London",
+            "Around & Around",
+            "E: Werewolves of London",
             "Johnny B. Goode"
         ],
         "set3": "",
@@ -1718,7 +1720,7 @@
             "Goin' Down The Road Feelin' Bad ->",
             "Around & Around",
             "E:U.S. Blues ->",
-            "E: Sugar Magnolia"
+            "Sugar Magnolia"
         ],
         "set3": "",
         "comment": "Other artist(s): Elvin Bishop & Warren Zevon",
@@ -2414,7 +2416,8 @@
             "Drums ->",
             "Space ->",
             "If I Had The World To Give ->",
-            "Around & Around E: U.S. Blues"
+            "Around & Around",
+            "E: U.S. Blues"
         ],
         "set3": "",
         "comment": "",
@@ -2452,7 +2455,12 @@
             "From The Heart Of Me",
             "Ship of Fools",
             "Samson & Delilah",
-            "Terrapin Station > Playing In The Band > Drums* > Space* > Wharf Rat > Truckin'",
+            "Terrapin Station ->",
+            "Playing In The Band ->",
+            "Drums* ->",
+            "Space* ->",
+            "Wharf Rat ->",
+            "Truckin'",
             "E: I Need A Miracle"
         ],
         "set3": "",
@@ -2494,7 +2502,9 @@
             "Space ->",
             "Not Fade Away ->",
             "Black Peter ->",
-            "Around & Around E1: Johnny B. Goode E2: Shakedown Street"
+            "Around & Around",
+            "E1: Johnny B. Goode",
+            "E2: Shakedown Street"
         ],
         "set3": "",
         "comment": "",

@@ -309,9 +309,15 @@
         "state": "MD",
         "set1": [
             "Alabama Getaway ->",
-            "Greatest Story Ever Told Dire Wolf Me & My Uncle ->",
-            "Big River Candyman ->",
-            "CC Rider Jack A Roe Passenger Bird Song ->",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "Me & My Uncle ->",
+            "Big River",
+            "Candyman ->",
+            "CC Rider",
+            "Jack A Roe",
+            "Passenger",
+            "Bird Song ->",
             "Looks Like Rain ->",
             "Deal"
         ],
@@ -323,7 +329,8 @@
             "Truckin' ->",
             "Black Peter ->",
             "Around & Around ->",
-            "Johnny B. Goode --encore-- One More Saturday Night"
+            "Johnny B. Goode",
+            "R: One More Saturday Night"
         ],
         "set3": "",
         "comment": "",
@@ -391,10 +398,14 @@
             "Mississippi Half Step ->",
             "Franklin's Tower ->",
             "Me & My Uncle",
-            "Roses> Little Red Rooster",
+            "Roses ->",
+            "Little Red Rooster",
             "Don't Ease Me In",
-            "Lazy Lightning> Supplication",
-            "Brown Eyed Women> Looks Like Rain> Deal"
+            "Lazy Lightning ->",
+            "Supplication",
+            "Brown Eyed Women ->",
+            "Looks Like Rain ->",
+            "Deal"
         ],
         "set2": [
             "Scarlet Begonias ->",
@@ -647,9 +658,16 @@
         "city": "London",
         "state": "England",
         "set1": [
-            "Jack Straw They Love Each Other Cassidy It Must Have Been The Roses ->",
-            "El Paso Ramble On Rose New Minglewood Blues Sugaree Lazy Lightning ->",
-            "Supplication"
+          "Jack Straw",
+          "They Love Each Other",
+          "Cassidy",
+          "It Must Have Been The Roses ->",
+          "El Paso",
+          "Ramble On Rose",
+          "New Minglewood Blues",
+          "Sugaree",
+          "Lazy Lightning ->",
+          "Supplication"
         ],
         "set2": [
             "Bird Song",
@@ -750,7 +768,8 @@
             "Not Fade Away* ->",
             "Wharf Rat* ->",
             "Around & Around* ->",
-            "Good Lovin'* E: One More Saturday Night*"
+            "Good Lovin'*",
+            "E: One More Saturday Night*"
         ],
         "set3": "",
         "comment": "The Who Opened\n\n* - w/ Pete Townshend\n# - w/ The Flying Karamozov Brothers",
@@ -1039,7 +1058,7 @@
             "Lost Sailor ->",
             "Saint Of Circumstance",
             "He's Gone* ->",
-            "Caution (Do Not Stop on Tracks) Jam ->",
+            "Caution (Do Not Stop on Tracks) ->",
             "Spanish Jam ->",
             "Drums ->",
             "The Other One ->",
@@ -1319,7 +1338,11 @@
             "Minglewood Blues",
             "Dire Wolf ->",
             "Cassidy Candyman ->",
-            "Little Red Rooster Jack A Roe El Paso Ramble On Rose Looks Like Rain ->",
+            "Little Red Rooster",
+            "Jack A Roe",
+            "El Paso",
+            "Ramble On Rose",
+            "Looks Like Rain ->",
             "Don't Ease Me In"
         ],
         "set2": [
@@ -1330,7 +1353,8 @@
             "Drums ->",
             "Not Fade Away ->",
             "Black Peter ->",
-            "Sugar Magnolia --encore-- U.S. Blues"
+            "Sugar Magnolia",
+            "E: U.S. Blues"
         ],
         "set3": "",
         "comment": "",
@@ -2491,7 +2515,8 @@
             "Space ->",
             "Wharf Rat ->",
             "I Need a Miracle ->",
-            "Good Lovin' ENCORE: It's All Over Now",
+            "Good Lovin'",
+            "E: It's All Over Now",
             "Baby Blue"
         ],
         "set3": "",

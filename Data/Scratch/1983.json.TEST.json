@@ -77,7 +77,7 @@
         "venue": "Stone House Studio",
         "city": "Novato",
         "state": "CA",
-        "set1": [],
+        "set1": "",
         "set2": "",
         "set3": "",
         "comment": "",
@@ -446,8 +446,10 @@
             "My Brother Esau",
             "Candyman",
             "Minglewood Blues",
-            "Brown Eyed Women> Looks Like Rain",
-            "China Cat Sunflower> I Know You Rider"
+            "Brown Eyed Women ->",
+            "Looks Like Rain",
+            "China Cat Sunflower ->",
+            "I Know You Rider"
         ],
         "set2": [
             "Help On The Way ->",

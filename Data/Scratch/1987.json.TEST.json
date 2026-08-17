@@ -52,13 +52,20 @@
         "city": "San Francisco",
         "state": "CA",
         "set1": [
-            "Finiculi Finicula Hell In A Bucket ->",
-            "Sugaree El Paso Loser Little Red Rooster Brown Eyed Women Cassidy ->",
-            "Don't Ease Me In"
+          "Finiculi Finicula",
+          "Hell In A Bucket ->",
+          "Sugaree",
+          "El Paso",
+          "Loser Little Red Rooster",
+          "Brown Eyed Women",
+          "Cassidy ->",
+          "Don't Ease Me In"
         ],
         "set2": [
             "Scarlet Begonias ->",
-            "Fire On The Mountain Looks Like Rain Terrapin Station ->",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Terrapin Station ->",
             "Drums ->",
             "I Need A Miracle ->",
             "Stella Blue ->",
@@ -1422,7 +1429,7 @@
         "set1": [
             "don't keep me waiting to long ->",
             "stealin ->",
-            "Iwant you ->",
+            "I want you ->",
             "Oh Boy ->",
             "Tangled up in Blue ->",
             "SimpleTwist ->",
@@ -1431,7 +1438,7 @@
             "Pledging my Time ->",
             "Sexior ->",
             "Wicked Messenger ->",
-            "Watchin the river flow _______"
+            "Watchin the river flow"
         ],
         "set2": "",
         "set3": "",
@@ -2837,8 +2844,15 @@
         "city": "Angels Camp",
         "state": "CA",
         "set1": [
-            "Box Of Rain Jack Straw West L.A. Fadeaway Me & My Uncle ->",
-            "Mexicali Blues High Time Walkin' Blues Iko Iko* All Along The Watchtower*"
+          "Box Of Rain",
+          "Jack Straw",
+          "West L.A. Fadeaway",
+          "Me & My Uncle ->",
+          "Mexicali Blues",
+          "High Time",
+          "Walkin' Blues",
+          "Iko Iko*",
+          "All Along The Watchtower*"
         ],
         "set2": [
             "Scarlet Begonias ->",
@@ -2849,7 +2863,8 @@
             "I Need A Miracle ->",
             "Dear Mr. Fantasy ->",
             "Playing In The Band ->",
-            "Morning Dew <i>Encore:</i> Not Fade Away ->",
+            "Morning Dew",
+            "E: Not Fade Away ->",
             "Brokedown Palace"
         ],
         "set3": "",
@@ -3281,7 +3296,8 @@
             "Morning Dew ->",
             "Good Lovin' ->",
             "La Bamba ->",
-            "Good Lovin' E: Knockin' On Heaven's Door"
+            "Good Lovin'",
+            "E: Knockin' On Heaven's Door"
         ],
         "set3": "",
         "comment": "At the start of the show, as a goof on their Letterman appearance, Bobby urged the crowd to \"levitate Garcia.\"",

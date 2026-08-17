@@ -238,7 +238,9 @@
             "Drums# ->",
             "The Other One ->",
             "Stella Blue ->",
-            "Foolish Heart E1: Not Fade Away E2: Knockin' On Heaven's Door"
+            "Foolish Heart",
+            "E: Not Fade Away",
+            "E: Knockin' On Heaven's Door"
         ],
         "set3": "",
         "comment": "* - w/ Spencer Davis On Guitar & Vocals\n# - w/ Kodo's Yoshikazu Fujimoto \n\nBob Dylan On Guitar & Vocals For Set 2 Except For Drums And The Encores",
@@ -404,7 +406,8 @@
             "I Will Take You Home ->",
             "All Along The Watchtower ->",
             "Morning Dew ->",
-            "Good Lovin' E: Brokedown Palace"
+            "Good Lovin'",
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "",
@@ -1229,7 +1232,7 @@
             "The Other One",
             "Wharf Rat",
             "Turn On Your Love Light",
-            "Encore: Brokedown Palace"
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "In Concert Against Aids benefit.",
@@ -1293,7 +1296,7 @@
             "I Need A Miracle ->",
             "Stella Blue ->",
             "Around & Around ->",
-            "Good Lovin\\'",
+            "Good Lovin'",
             "E: U.S. Blues"
         ],
         "set3": "",
@@ -1329,7 +1332,15 @@
             "China Cat Sunflower ->",
             "I Know You Rider",
             "Playin' In The Band ->",
-            "Crazy Fingers> Playin in the Band'> Drums> Space> I Will Take You Home> Watchtower> Black Peter> Throwing Stones> Not Fade Away",
+            "Crazy Fingers ->",
+            "Playin in the Band' ->",
+            "Drums ->",
+            "Space ->",
+            "I Will Take You Home ->",
+            "Watchtower ->",
+            "Black Peter ->",
+            "Throwing Stones ->",
+            "Not Fade Away",
             "E: Knockin' on Heaven's Door"
         ],
         "set3": "",
@@ -1503,7 +1514,8 @@
             "Space ->",
             "The Other One ->",
             "Wharf Rat ->",
-            "Turn On Your Lovelight E: Knockin' On Heaven's Door"
+            "Turn On Your Lovelight",
+            "E: Knockin' On Heaven's Door"
         ],
         "set3": "",
         "comment": "",
@@ -1585,7 +1597,8 @@
             "Iko Iko* ->",
             "Watchtower* ->",
             "Morning Dew* ->",
-            "Sugar Magnolia* E:Heaven's Door*"
+            "Sugar Magnolia*",
+            "E:Heaven's Door*"
         ],
         "set3": "",
         "comment": "* w/ guitarist, drummer & keyboard player from Neville Bros.",
@@ -1712,7 +1725,8 @@
             "China Doll ->",
             "All Along The Watchtower ->",
             "Stella Blue ->",
-            "Sugar Magnolia E: Brokedown Palace"
+            "Sugar Magnolia",
+            "E: Brokedown Palace"
         ],
         "set3": "",
         "comment": "",

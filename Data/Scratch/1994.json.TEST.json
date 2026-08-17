@@ -8,10 +8,13 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "It's A Man's World (take 1) It's A Man's World (take 2) It's A Man's World (take 3) Bob! Bob!...Bob Do It ->",
-            "Jerry slipknotian noodles Slipknot ->",
-            "Franklin's Tower messing around ->",
-            "Blues jam(schoolgirl?)"
+          "It's A Man's World (take 1)",
+          "It's A Man's World (take 2)",
+          "It's A Man's World (take 3)",
+          "Bob! Bob!...Bob Do It ->",
+          "Jerry slipknotian noodles Slipknot ->",
+          "Franklin's Tower messing around ->",
+          "Blues jam(schoolgirl?)"
         ],
         "set2": "",
         "set3": "",
@@ -34,8 +37,13 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "Soundcheck: Lucy In The Sky With Diamonds Like a Rolling Stone Phil",
-            "Bob & Vince Jam Lazy River Road Liberty Rain"
+          "Soundcheck:",
+          "Lucy In The Sky With Diamonds",
+          "Like a Rolling Stone",
+          "Phil, Bob & Vince Jam",
+          "Lazy River Road",
+          "Liberty",
+          "Rain"
         ],
         "set2": [
             "Jack Straw",
@@ -81,8 +89,12 @@
         "city": "Oakland",
         "state": "CA",
         "set1": [
-            "Lucy In The Sky With Diamonds Like a Rolling Stone Phil",
-            "Bob & Vince Jam Lazy River Road Liberty Rain"
+          "Lucy In The Sky With Diamonds",
+          "Like a Rolling Stone",
+          "Phil, Bob & Vince Jam",
+          "Lazy River Road",
+          "Liberty",
+          "Rain"
         ],
         "set2": "",
         "set3": "",
@@ -1498,7 +1510,12 @@
             "Women Are Smarter",
             "Ship of Fools",
             "Samba In The Rain",
-            "Playing In The Band > Drums > Space > The Last Time > Attics Of My Life > Sugar Magnolia"
+            "Playing In The Band ->",
+            "Drums ->",
+            "Space ->",
+            "The Last Time ->",
+            "Attics Of My Life ->",
+            "Sugar Magnolia"
         ],
         "set3": "",
         "comment": "No encore last show with no encore 5/3/86 * First time played",
@@ -2268,7 +2285,8 @@
             "Soundcheck: It Takes A Lot To Laugh It Takes A Train To Cry",
             "I Want To Tell You",
             "Childhood's End",
-            "Attics Of My Life Set 1: Cold Rain And Snow",
+            "Attics Of My Life",
+            "Set 1: Cold Rain And Snow",
             "Wang Dang Doodle",
             "Lazy River Road",
             "Black Throated Wind*",
@@ -2505,7 +2523,8 @@
             "Let It Grow"
         ],
         "set2": [
-            "Playin' In The Band- > Eyes Of The World ->",
+          "Playin' In The Band ->",
+          "Eyes Of The World ->",
             "Estimated Prophet ->",
             "He's Gone ->",
             "Drums ->",
@@ -2557,7 +2576,8 @@
             "Space ->",
             "The Last Time ->",
             "Stella Blue ->",
-            "One More Saturday Night E: Liberty"
+            "One More Saturday Night",
+            "E: Liberty"
         ],
         "set3": "",
         "comment": "* Weir on acoustic guitar",
@@ -3400,7 +3420,7 @@
             "All Along The Watchtower ->",
             "The Days Between ->",
             "Sugar Magnolia",
-            " E: Liberty"
+            "E: Liberty"
         ],
         "set3": "",
         "comment": "",
